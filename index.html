@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chat Visualizer</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <h1>Junior High Game Chat Visualizer</h1>
+      <p>Upload a JSON export to explore player conversations and group lifecycle events.</p>
+
+      <label class="upload" for="fileInput">Choose JSON file</label>
+      <input id="fileInput" type="file" accept="application/json,.json" />
+
+      <p id="status" class="status"></p>
+      <section id="summary" class="summary"></section>
+      <section id="events" class="events"></section>
+      <section id="conversations" class="conversations"></section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

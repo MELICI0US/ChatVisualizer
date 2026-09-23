@@ -1,0 +1,102 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f7fb;
+  color: #1f2937;
+}
+
+.container {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+h1 {
+  margin: 0 0 8px;
+}
+
+.upload {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 8px 12px;
+  border: 1px solid #2563eb;
+  border-radius: 6px;
+  color: #2563eb;
+  cursor: pointer;
+}
+
+#fileInput {
+  display: none;
+}
+
+.status {
+  margin-top: 12px;
+}
+
+.summary,
+.events,
+.conversations {
+  margin-top: 18px;
+}
+
+.event-list,
+.chat-list,
+.message-list {
+  margin: 8px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.event-list li,
+.chat-card {
+  background: #fff;
+  border: 1px solid #dbe3f2;
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 10px;
+}
+
+.chat-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.badge {
+  background: #e7efff;
+  color: #1d4ed8;
+  border-radius: 999px;
+  padding: 3px 8px;
+  font-size: 12px;
+}
+
+.message-item {
+  border-top: 1px solid #edf2ff;
+  padding: 8px 0;
+}
+
+.message-item:first-child {
+  border-top: 0;
+}
+
+.message-item.create-event {
+  background: #ecfdf5;
+}
+
+.message-item.retire-event {
+  background: #fff7ed;
+}
+
+.message-header {
+  font-size: 13px;
+  color: #4b5563;
+}
+
+.message-text {
+  margin-top: 4px;
+}
