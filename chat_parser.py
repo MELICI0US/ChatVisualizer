@@ -1,0 +1,128 @@
+from __future__ import annotations
+
+import json
+import re
+from dataclasses import dataclass
+from datetime import datetime
+from pathlib import Path
+from typing import Optional
+from urllib.parse import unquote
+
+ROUND_PATTERN = re.compile(r"\bround\s+(\d+)\b", re.IGNORECASE)
+
+
+@dataclass
+class Message:
+    body: str
+    sender: Optional[str]
+    runtime_type: str
+    time: datetime
+    round_number: Optional[int] = None
+
+
+@dataclass
+class Conversation:
+    conversation_id: str
+    name: str
+    participants: list[str]
+    messages: list[Message]
+    created_at: Optional[datetime]
+    last_active_at: Optional[datetime]
+    created_round: Optional[int]
+    last_active_round: Optional[int]
+
+
+def _parse_time(value: Optional[str]) -> Optional[datetime]:
+    if not value:
+        return None
+    return datetime.fromisoformat(value.replace("Z", "+00:00"))
+
+
+def _extract_round(body: str) -> Optional[int]:
+    match = ROUND_PATTERN.search(body or "")
+    if not match:
+        return None
+    return int(match.group(1))
+
+
+def _latest_round_at(time: Optional[datetime], timeline: list[tuple[datetime, int]]) -> Optional[int]:
+    if time is None:
+        return None
+
+    latest = None
+    for event_time, round_number in timeline:
+        if event_time <= time:
+            latest = round_number
+        else:
+            break
+    return latest
+
+
+def _first_available(record: dict, keys: list[str], default=None):
+    for key in keys:
+        if key in record and record[key] is not None:
+            return record[key]
+    return default
+
+
+def load_conversations(json_path: str | Path) -> list[Conversation]:
+    with open(json_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    raw_conversations = data.get("conversations") or data.get("chatGroups") or {}
+    conversations: list[Conversation] = []
+
+    for conversation_id, raw_conversation in raw_conversations.items():
+        raw_messages = _first_available(raw_conversation, ["messages", "chatMessages"], {}) or {}
+        messages: list[Message] = []
+        for raw_message in raw_messages.values():
+            message_time = _parse_time(_first_available(raw_message, ["time", "timestamp", "createdAt"]))
+            if message_time is None:
+                continue
+
+            messages.append(
+                Message(
+                    body=str(_first_available(raw_message, ["body", "text", "message"], "")),
+                    sender=_first_available(raw_message, ["from", "sender", "author"]),
+                    runtime_type=str(_first_available(raw_message, ["runtimeType", "type"], "identified")),
+                    time=message_time,
+                )
+            )
+
+        messages.sort(key=lambda item: item.time)
+        participants = [unquote(str(player)) for player in _first_available(raw_conversation, ["participants", "members"], [])]
+        name = str(_first_available(raw_conversation, ["name", "title"], conversation_id))
+
+        conversations.append(
+            Conversation(
+                conversation_id=conversation_id,
+                name=name,
+                participants=participants,
+                messages=messages,
+                created_at=messages[0].time if messages else None,
+                last_active_at=messages[-1].time if messages else None,
+                created_round=None,
+                last_active_round=None,
+            )
+        )
+
+    round_timeline: list[tuple[datetime, int]] = []
+    for conversation in conversations:
+        for message in conversation.messages:
+            if message.runtime_type == "gameNotification":
+                round_number = _extract_round(message.body)
+                if round_number is not None:
+                    round_timeline.append((message.time, round_number))
+
+    round_timeline.sort(key=lambda item: item[0])
+
+    for conversation in conversations:
+        for message in conversation.messages:
+            message.round_number = _latest_round_at(message.time, round_timeline)
+        if conversation.created_at:
+            conversation.created_round = _latest_round_at(conversation.created_at, round_timeline)
+        if conversation.last_active_at:
+            conversation.last_active_round = _latest_round_at(conversation.last_active_at, round_timeline)
+
+    conversations.sort(key=lambda item: (item.created_at or datetime.min.replace(tzinfo=None), item.name.lower()))
+    return conversations
