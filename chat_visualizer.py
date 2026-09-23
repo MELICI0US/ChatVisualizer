@@ -31,16 +31,18 @@ class ChatVisualizerApp(tk.Tk):
 
         self.conversation_table = ttk.Treeview(
             left_panel,
-            columns=("name", "participants", "created_round", "last_round"),
+            columns=("name", "participants", "message_count", "created_round", "last_round"),
             show="headings",
             selectmode="browse",
         )
         self.conversation_table.heading("name", text="Conversation")
         self.conversation_table.heading("participants", text="Participants")
+        self.conversation_table.heading("message_count", text="Player Messages")
         self.conversation_table.heading("created_round", text="Created In Round")
         self.conversation_table.heading("last_round", text="Last Used In Round")
         self.conversation_table.column("name", width=220)
         self.conversation_table.column("participants", width=260)
+        self.conversation_table.column("message_count", width=110, anchor=tk.CENTER)
         self.conversation_table.column("created_round", width=120, anchor=tk.CENTER)
         self.conversation_table.column("last_round", width=120, anchor=tk.CENTER)
         self.conversation_table.bind("<<TreeviewSelect>>", self._render_conversation)
@@ -72,13 +74,14 @@ class ChatVisualizerApp(tk.Tk):
         self.conversation_table.delete(*self.conversation_table.get_children())
         for conversation in self.conversations:
             participants = ", ".join(conversation.participants) if conversation.participants else "(not provided)"
+            message_count = conversation.player_message_count
             created_round = conversation.created_round if conversation.created_round is not None else "-"
             last_round = conversation.last_active_round if conversation.last_active_round is not None else "-"
             self.conversation_table.insert(
                 "",
                 tk.END,
                 iid=conversation.conversation_id,
-                values=(conversation.name, participants, created_round, last_round),
+                values=(conversation.name, participants, message_count, created_round, last_round),
             )
 
         self.status.configure(text=f"Loaded {len(self.conversations)} conversations from {file_name}")
