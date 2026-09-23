@@ -1,0 +1,3000 @@
+{
+  "conversations": {
+    "-P24A5iGO7uwl5yR-aWT": {
+      "conversationId": "-P24A5iGO7uwl5yR-aWT",
+      "messages": {
+        "-P24A81Zp9j5PaCVXthN": {
+          "body": "Let's go crazy",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:13:47.303275Z"
+        },
+        "-P24A9osrXxthuCSGNrz": {
+          "body": "yooo im down",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:13:54.619195Z"
+        },
+        "-P24ACk_EuNiBSHAQHnt": {
+          "body": "ooh",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:06.631499Z"
+        },
+        "-P24AD20tsqLBpcgug77": {
+          "body": "let's do it",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:07.811509Z"
+        },
+        "-P24AEAQb7DV2dviTgWT": {
+          "body": "4 each?",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:12.446112Z"
+        },
+        "-P24AEAQb7DV2dviTgWU": {
+          "body": "we send it",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:12.446191Z"
+        },
+        "-P24AFKWvZXadmhDrz9X": {
+          "body": "yeah im down for that",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:17.187460Z"
+        },
+        "-P24ANpZGVSaEbcSeb9d": {
+          "body": "ill send 5 cause I love cheese",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:52.007436Z"
+        },
+        "-P24AaiE4UkqMAeG68QH": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:15:48.882007Z"
+        },
+        "-P24AhlEjbRVW430_ZSM": {
+          "body": "Yeah let's send 5 around",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:16:17.745874Z"
+        },
+        "-P24Anwc6pfv-PrRhBu-": {
+          "body": "im so sorry guys i'm gonna have to back out for now",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:16:43.050870Z"
+        },
+        "-P24ApTZRROuhg483DyF": {
+          "body": "my other group is being kinda demanding",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:16:49.318582Z"
+        },
+        "-P24AtEQB_D5bL4Ka0HI": {
+          "body": "Uh okay, why not make a big group?",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:17:04.734356Z"
+        },
+        "-P24Au-fr5GzSQ38p7aQ": {
+          "body": "i'd love to keep amicable relations tho and ill definitely warn yall if they planning any tomfoolery",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:17:07.885568Z"
+        },
+        "-P24AyHzhDphPudXvhAU": {
+          "body": "ill ask them",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:17:25.442238Z"
+        },
+        "-P24BARxNqkhJTRkYVUK": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:18:19.327573Z"
+        },
+        "-P24Be8FrCD0M4xN5Qa2": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:20:25.043242Z"
+        },
+        "-P24CBoaiVTq6sQJz0Xe": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:22:47.081159Z"
+        },
+        "-P24Cke0XuHD6cbCoabT": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:25:13.860224Z"
+        },
+        "-P24DEHF3rBDxwT8xaeV": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:27:19.315099Z"
+        },
+        "-P24Do1UGfDYCzOdQwL3": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:29:49.857681Z"
+        },
+        "-P24EMCEwtYIiEOsRmlR": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:32:13.906419Z"
+        },
+        "-P24EqayH8qxTViqBSbo": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:34:22.529439Z"
+        },
+        "-P24FQMK2fTl04vazxeF": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:36:53.079650Z"
+        },
+        "-P24Fm17UAiqh_Jhv56P": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:38:25.930888Z"
+        },
+        "-P24G1WM-Y2loAYtL_yt": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:33.465928Z"
+        },
+        "-P24G7YL_TUSFp0opvTM": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:58.169237Z"
+        },
+        "-P24GhIwAtgRJqIIaPKX": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:42:28.735472Z"
+        }
+      },
+      "name": "favorite cheeses",
+      "participants": [
+        "Swiss",
+        "Cottage%20Cheese",
+        "Roquefort"
+      ]
+    },
+    "-P24A5x3rvCIqqtcYrvE": {
+      "conversationId": "-P24A5x3rvCIqqtcYrvE",
+      "messages": {
+        "-P24A7xU8hawoQ4zZXdg": {
+          "body": "Are we best cheese?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:13:46.977573Z"
+        },
+        "-P24AAZOdfWulYk6zcRC": {
+          "body": "i think so myself",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:13:57.660195Z"
+        },
+        "-P24AFg2qhq7NpX517Fb": {
+          "body": "Mozz?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:18.630251Z"
+        },
+        "-P24AHhedES9XXGVNhzs": {
+          "body": "I think I'd have to agree",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:26.925360Z"
+        },
+        "-P24AJlERr7gXFogecZc": {
+          "body": "Ok word word",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:35.346153Z"
+        },
+        "-P24AJwzodvWuQzXaO_K": {
+          "body": "ive got some other friends but ill send you each 3?",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:36.097975Z"
+        },
+        "-P24ALOkYTL4ib8uzmhN": {
+          "body": "wow",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:42.035113Z"
+        },
+        "-P24ANRtWlhCvIasRnmy": {
+          "body": "already betraying the cheeses?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:50.428330Z"
+        },
+        "-P24AO7I0ctybn6uz1ew": {
+          "body": "noooo",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:53.205852Z"
+        },
+        "-P24AO_XGf4c0U7Wt5fL": {
+          "body": "we're the best ones",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:55.076824Z"
+        },
+        "-P24AQ19B8kQP6z-CrU9": {
+          "body": "then why not 7 each?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:15:01.004857Z"
+        },
+        "-P24ASgwZJtN5GLvfAch": {
+          "body": "cause other people asked me to do 4 for 4 already",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:15:11.935017Z"
+        },
+        "-P24ATz61DZ9CQmidaZQ": {
+          "body": "Asi I'll give you more",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:15:17.194051Z"
+        },
+        "-P24AWommRVnZ_ACldVS": {
+          "body": "i'll do 3,11?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:15:28.820479Z"
+        },
+        "-P24AYPjWwy6JKYFnNfc": {
+          "body": "Then next round 7 for 7 each?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:15:35.346386Z"
+        },
+        "-P24AaiK0hgBBRz4zq-E": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:15:48.888032Z"
+        },
+        "-P24AaoeccqNhuNNtPFU": {
+          "body": "I'll also to 3 and 11",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:15:49.293346Z"
+        },
+        "-P24AcelKvVHvXnGTq5c": {
+          "body": "7 for 7?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:15:56.851822Z"
+        },
+        "-P24Ai8Xt9IwehrH0509": {
+          "body": "yeah im down we're the three highest right now",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:16:19.300731Z"
+        },
+        "-P24AidVBCC0yZX3lnIc": {
+          "body": "7 for 7",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:16:21.347113Z"
+        },
+        "-P24Ajduj8l9J2MDOaDG": {
+          "body": "Perfect",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:16:25.468958Z"
+        },
+        "-P24Aom2D6TIpbBzj-rG": {
+          "body": "We will dominate the world of cheese like the french",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:16:46.469634Z"
+        },
+        "-P24AqWAq5A-4hjlGhbA": {
+          "body": "or the people in wisconsin idrk",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:16:53.581497Z"
+        },
+        "-P24B2H2W7tbjmy_QxjN": {
+          "body": "have you guys tried poutine",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:17:45.861523Z"
+        },
+        "-P24B4VOw-mbKyJ8wgp8": {
+          "body": "never heard of it tbh",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:17:54.971909Z"
+        },
+        "-P24B5doHkI9KfCoZzVz": {
+          "body": "its so good",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:17:59.670952Z"
+        },
+        "-P24B60W-VKHn1TTb2_W": {
+          "body": "Yeah",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:18:01.188334Z"
+        },
+        "-P24B6R7L1O_mnzHy3c8": {
+          "body": "is it russian?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:18:02.891128Z"
+        },
+        "-P24B9Idx3alEppefDl7": {
+          "body": "but it was in scotland so it kinda sucked",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:18:14.635802Z"
+        },
+        "-P24B9sqhqZu-68NIW4i": {
+          "body": "i don't actually know tbh but they have it in canada a lot",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:18:17.017221Z"
+        },
+        "-P24B9yuTP1fIA_UkNvc": {
+          "body": "get it? cause putin...",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:18:17.405093Z"
+        },
+        "-P24BAS2zhvkQNqLO997": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:18:19.334096Z"
+        },
+        "-P24BG0Qkv_lRlsbEVmn": {
+          "body": "lol",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:18:42.142224Z"
+        },
+        "-P24BHjPYyDAp702iTF9": {
+          "body": "Ok, talk me out of it, but we could wage war now and win",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:18:49.181238Z"
+        },
+        "-P24BLJe0AG0NZTa5oYC": {
+          "body": "We're not strong enough yet",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:03.852594Z"
+        },
+        "-P24BMTKfuhFs3V6IyNU": {
+          "body": "hmmm yeah?? i just get a little scared of doing that tho",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:08.568239Z"
+        },
+        "-P24BMjMCaTOLgcsZnDK": {
+          "body": "You don't think?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:09.658327Z"
+        },
+        "-P24BPr2ksGXTBo4Evcy": {
+          "body": "Ok, we could try in a round or two",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:22.438081Z"
+        },
+        "-P24BRBLeo9Z0LSX-7gp": {
+          "body": "I think we could get strong enough",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:27.896654Z"
+        },
+        "-P24BRRev3qbacUSRCGe": {
+          "body": "technically its 3 vs 4 so we might want to pull in one more to do it",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:28.941293Z"
+        },
+        "-P24BX60SqkJH_D2ljMA": {
+          "body": "Caprino doesn't have friends",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:52.132256Z"
+        },
+        "-P24BXe_kyxoXVIAdMf0": {
+          "body": "There's 4 others, but they're not really a group",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:54.408136Z"
+        },
+        "-P24BYjffS--_Zgh5Mdd": {
+          "body": "Yeah",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:58.830195Z"
+        },
+        "-P24B_zCciDx1mE7AHlW": {
+          "body": "it looks like cottage and roque",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:20:08.015661Z"
+        },
+        "-P24Bc-8sGP2uldNtrF_": {
+          "body": "ricotta and caprino might form a group",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:20:16.267939Z"
+        },
+        "-P24BdIDTT-ESRTYmm0V": {
+          "body": "we could start giving a couple to caprino just to keep him in our good graces",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:20:21.584933Z"
+        },
+        "-P24Be8M5aeQ0U5Q815T": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:20:25.049561Z"
+        },
+        "-P24Bi-WtxsMP5DwIXP8": {
+          "body": "Caprino is giving to me, I think he is vulnerable",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:20:40.868318Z"
+        },
+        "-P24BllqsoY87DAWB5S_": {
+          "body": "maybe we do 6 6 2? 2 to caprino? and then start to talk to him?",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:20:56.312826Z"
+        },
+        "-P24BncUAXfJzTDz4eAt": {
+          "body": "He is talking to me",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:21:03.905924Z"
+        },
+        "-P24BoSlkH6FWoV0_uau": {
+          "body": "I think he's forming a group with the other tho",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:21:07.315861Z"
+        },
+        "-P24BqmK8Dn0skPAGRR8": {
+          "body": "I think we should shoot now tbh",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:21:16.823830Z"
+        },
+        "-P24BquB1gKXk6GLs1h5": {
+          "body": "if we can snag him now tho that might be ideal",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:21:17.326894Z"
+        },
+        "-P24Bs9HAsrdiXguOABD": {
+          "body": "Kill cottage",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:21:22.453135Z"
+        },
+        "-P24BthRgNwvtYnB-7yJ": {
+          "body": "I could convince caprino to do it too",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:21:28.798547Z"
+        },
+        "-P24BwKn0wfA2Z-uA__8": {
+          "body": "Thoughts?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:21:39.573976Z"
+        },
+        "-P24C1l5oG71UCc1X9Fn": {
+          "body": "You gotta convince him first",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:05.897034Z"
+        },
+        "-P24C2ZKr7cnqIYJcsx1": {
+          "body": "maybe next round??? idk still a little concerned",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:09.175742Z"
+        },
+        "-P24C2agLbDm4OeEzGG_": {
+          "body": "ok",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:09.326580Z"
+        },
+        "-P24C2pscbANdpCF-ebs": {
+          "body": "yeah",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:10.299455Z"
+        },
+        "-P24C5T1cMEslm8QKqUw": {
+          "body": "662 and get caprino?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:21.060629Z"
+        },
+        "-P24C5ygKF_ovI-mQG3x": {
+          "body": "ya know what would be really funny is if you convince caprino to attack",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:23.150925Z"
+        },
+        "-P24C6uHWy5EWrgR3Woj": {
+          "body": "and then we don't ",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:26.964598Z"
+        },
+        "-P24C7q5rOGEoUf-kFo2": {
+          "body": "and then they all fight each other",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:30.793419Z"
+        },
+        "-P24CB8KYDRtHkX_wVs3": {
+          "body": "77",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:44.312417Z"
+        },
+        "-P24CBog591XRaOreI90": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:22:47.086942Z"
+        },
+        "-P24CH8WA83zUz4jPal9": {
+          "body": "Ok, we should take out cottage before their groups get bigger",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:23:08.900029Z"
+        },
+        "-P24CHnJCU_ETI6Sgll9": {
+          "body": "they are growing",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:23:11.575312Z"
+        },
+        "-P24CJON3Bi86XpnScxT": {
+          "body": "Swiss are you saying you want to fight us?",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:23:18.106669Z"
+        },
+        "-P24CM8KKx-tjp7IXcVD": {
+          "body": "no no not at all",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:23:29.367981Z"
+        },
+        "-P24CO6I89sIOmin8i0p": {
+          "body": "im saying if we get the other 4 to infight between them",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:23:37.429648Z"
+        },
+        "-P24CR1Mm1pey8QomX6Y": {
+          "body": "It looks like they are forming a group",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:23:49.401756Z"
+        },
+        "-P24CS8k4oYIeG_LjLsE": {
+          "body": "we should act now",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:23:53.971453Z"
+        },
+        "-P24CT232ZoZRu0vr7t2": {
+          "body": "yeahhhh its a little concerning tbr",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:23:57.639375Z"
+        },
+        "-P24CWBQNYVrh2zPz6pB": {
+          "body": "what do you think mozz",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:10.526420Z"
+        },
+        "-P24CZemVVcnzXgwzShj": {
+          "body": "Okay",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:24.757094Z"
+        },
+        "-P24C_-xQZYSgV8zPYsI": {
+          "body": "Caprino could be convinced he says",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:26.175841Z"
+        },
+        "-P24Ca9VzBhXjDb79kQr": {
+          "body": "Whats the plan",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:30.882628Z"
+        },
+        "-P24Cc3hnUpUcZQ2oUQq": {
+          "body": "Ricotta or cottage?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:38.703976Z"
+        },
+        "-P24CczD_feliIgoTtRf": {
+          "body": "-14 on cottage?",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:42.449184Z"
+        },
+        "-P24Cfq5a-GQYSuUsCoe": {
+          "body": "Careful not to let him know who needs protection",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:54.152906Z"
+        },
+        "-P24ChtiRfTKeulmYfUL": {
+          "body": "wait let's just do 7 7 ",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:02.576728Z"
+        },
+        "-P24CiFBssEXpo1ggr0X": {
+          "body": "for this round",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:04.014818Z"
+        },
+        "-P24CifN_EpvazCycBT3": {
+          "body": "next roun d",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:05.755361Z"
+        },
+        "-P24Cj85S1HzZiJPoCTO": {
+          "body": "77",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:07.656997Z"
+        },
+        "-P24CjEQTDdIGwPVul7a": {
+          "body": "77",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:08.062412Z"
+        },
+        "-P24Cke6wxHZ9OCakff_": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:25:13.866192Z"
+        },
+        "-P24Cmsynj0kM9vhWRGs": {
+          "body": "ok now we 100% strike cottage",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:23.008464Z"
+        },
+        "-P24Co8w4OZz54Je40Ax": {
+          "body": "Yes",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:28.190651Z"
+        },
+        "-P24CoMooyExmkYgcIOD": {
+          "body": "wait",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:29.079045Z"
+        },
+        "-P24CpMrvS8TJMMv-1ab": {
+          "body": "but look cottage is keeping a lot",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:33.177871Z"
+        },
+        "-P24CqZhqNLRXu2t5umI": {
+          "body": "in the influences graph",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:38.096145Z"
+        },
+        "-P24CsghGDDFYEwgffNs": {
+          "body": "Lets strike ricotta then",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:46.800356Z"
+        },
+        "-P24CuQRFGzEw4AB0QAV": {
+          "body": "Cottage is prepping for an attack",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:53.887207Z"
+        },
+        "-P24CvWGfcBR3WJEdetE": {
+          "body": "yeah i say ricotta",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:58.355684Z"
+        },
+        "-P24CvaM9YaOMBxzOZ33": {
+          "body": "I think caprino is telling cottage",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:58.682199Z"
+        },
+        "-P24CxE5b6Hq2s4kpgX2": {
+          "body": "lets get rid of the lackeys",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:05.384487Z"
+        },
+        "-P24CxUAVFfqhfwf-VDx": {
+          "body": "ok then we strike ricotta",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:06.414231Z"
+        },
+        "-P24Cy3yj3r0qdnfH6g8": {
+          "body": "-14",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:08.833181Z"
+        },
+        "-P24CyTVXpv5uVxhao-d": {
+          "body": "let's do ricotta",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:10.467423Z"
+        },
+        "-P24D-6Va3MeaZnXFPVg": {
+          "body": "let's do this",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:17.187121Z"
+        },
+        "-P24D-VRtDqAiXs6qBwt": {
+          "body": "I'm locked in",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:18.783279Z"
+        },
+        "-P24D0Yy-i-K8J-2Ah_O": {
+          "body": "same",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:23.104962Z"
+        },
+        "-P24D4CXEt4klFdskiqM": {
+          "body": "yeah cottage definitely kept a ton last round, i think caprino tattled",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:38.053446Z"
+        },
+        "-P24D6HnpcEG2uPRBR22": {
+          "body": "Yeah caprino is not safe",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:46.582097Z"
+        },
+        "-P24D6RvklREpvzMdCQO": {
+          "body": "Woulda been funny if we hit caprino",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:47.230003Z"
+        },
+        "-P24D7c8vhY9--LPlD3n": {
+          "body": "you should tell caprino that we're gonna attack cottage",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:52.043997Z"
+        },
+        "-P24DDM_e8IoXJ2v5CTU": {
+          "body": "I told him in 2 rounds",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:15.560181Z"
+        },
+        "-P24DEHNkwzX6-PHrGTo": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:27:19.322492Z"
+        },
+        "-P24DF5f66S1YNJKiS88": {
+          "body": "He wants up front payment",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:22.670352Z"
+        },
+        "-P24DJ5BDZHGCXHpDS5K": {
+          "body": "kill caprino",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:39.022831Z"
+        },
+        "-P24DJJxKfGYc_11dMPe": {
+          "body": "Lets kill caprino now",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:39.967564Z"
+        },
+        "-P24DK8wtNOId0vDxZom": {
+          "body": "ok",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:43.358861Z"
+        },
+        "-P24DNo5Z5lAT5-SrK_X": {
+          "body": "cottage be sneakin around and it ain't working out of rhim",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:58.344514Z"
+        },
+        "-P24DO57mJ5IXBhw0Dn7": {
+          "body": "but do like -10, cuz we overshot ricotta",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:59.498537Z"
+        },
+        "-P24DPoESWCYXGb54jD-": {
+          "body": "-10 keep 4?",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:06.546407Z"
+        },
+        "-P24DRKwbhOGHySXHeba": {
+          "body": "yeah keep 4",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:12.798757Z"
+        },
+        "-P24DSDY5pxqONpa_QVV": {
+          "body": "ok",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:16.421807Z"
+        },
+        "-P24DVUSb_V_YU8xPZJi": {
+          "body": "Locked in -10,4",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:29.792327Z"
+        },
+        "-P24DczY0DuRF0PcCsTb": {
+          "body": "Caprino is so wary",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:29:04.613634Z"
+        },
+        "-P24DeS2Ygx7VAnjP2fs": {
+          "body": "kinda double agent though",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:29:10.597593Z"
+        },
+        "-P24DeyLDQudCONFoVBp": {
+          "body": "lol you're killing it asiago",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:29:12.729204Z"
+        },
+        "-P24DgD0wegxInGU4YTh": {
+          "body": "yeah XD",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:29:17.828200Z"
+        },
+        "-P24DiVgSNgnBnyM4nC7": {
+          "body": "i feel a little remorse but not a ton",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:29:27.215418Z"
+        },
+        "-P24Do1_8GrO1j9mOJhN": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:29:49.864360Z"
+        },
+        "-P24DqcfIyGGzlSOwEs2": {
+          "body": "perf",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:00.493516Z"
+        },
+        "-P24Dt3B0amZruw3_jbX": {
+          "body": "Cottage went after mozz",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:10.447168Z"
+        },
+        "-P24Dt8xzYQxtwkzGj_P": {
+          "body": "Let's hit cottage before he get's too strong",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:10.816457Z"
+        },
+        "-P24DucZKjIBDZk2sRE4": {
+          "body": "Yeah",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:16.870986Z"
+        },
+        "-P24DvMJpSTtDt0D_2sl": {
+          "body": "-14 x3",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:19.862961Z"
+        },
+        "-P24DxVSitxgvB7LwaDP": {
+          "body": "Yeah",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:28.639583Z"
+        },
+        "-P24DyGT2bEJbko7Oz4v": {
+          "body": "sounds good",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:31.777103Z"
+        },
+        "-P24DyakYJwoHe9IDcUo": {
+          "body": "It won't kill him, but it will seriously hurt",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:33.138626Z"
+        },
+        "-P24E-NZGp4Y0W7EUZLI": {
+          "body": "He will also be keeping",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:40.422870Z"
+        },
+        "-P24E0Yull9Irb0qWrHI": {
+          "body": "yeah he'll definitely be keeping but it'll probably be fine",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:45.245360Z"
+        },
+        "-P24E1RyfvU-1nICwa6d": {
+          "body": "Yeah",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:48.897150Z"
+        },
+        "-P24E6IEQp9F11qsJWdg": {
+          "body": "if we have 2x equal value it should overwhelm it a little, then 1x smaller value won't hurt as much",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:31:08.754245Z"
+        },
+        "-P24E6aWAR5ikTER61sK": {
+          "body": "If we all do it it'll overcome the keeping",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:31:09.987492Z"
+        },
+        "-P24E7tjYXoliaqIA_Qu": {
+          "body": "yeah",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:31:15.314144Z"
+        },
+        "-P24E8bH-Ba52GnbPHKR": {
+          "body": "-14",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:31:18.228602Z"
+        },
+        "-P24EMCLsScncZPt4kpY": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:32:13.912564Z"
+        },
+        "-P24ETf1Hr2aue1IFmK7": {
+          "body": "i'm shooting -7 to roque and -7 to cottage",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:32:44.484576Z"
+        },
+        "-P24EUsVPcQd3xzvhnnu": {
+          "body": "alright i got -14 to roquefort",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:32:49.443010Z"
+        },
+        "-P24EW0l9kzoEDQeBwF1": {
+          "body": "ok",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:32:54.132436Z"
+        },
+        "-P24EXEkLJygBNh131P5": {
+          "body": "or roquefort attacked me with --14",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:32:59.122654Z"
+        },
+        "-P24EYg8Huol4_UwuaDk": {
+          "body": "i think thats probably a good plan",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:33:05.036190Z"
+        },
+        "-P24EZTudMarsVYN5JHf": {
+          "body": "-7 on both of them",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:33:08.284653Z"
+        },
+        "-P24EaFOHZS0rgWhIqCN": {
+          "body": "mozz, how you feeling?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:33:15.548025Z"
+        },
+        "-P24Ebge30qyiGZPxFBg": {
+          "body": "I'll do -14 on roque",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:33:21.453281Z"
+        },
+        "-P24Eet_8nc585SV_xqX": {
+          "body": ":thumbs up or something, we don't support emojis:",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:33:34.567741Z"
+        },
+        "-P24Eh_8tuCfxAoWIkoS": {
+          "body": "asiago you still doing -7 on both?",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:33:45.547709Z"
+        },
+        "-P24EiK2RQJHxY3pWb9w": {
+          "body": "Yeah",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:33:48.613871Z"
+        },
+        "-P24EjT7AUBOXvzjhZE-": {
+          "body": "perf",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:33:53.290729Z"
+        },
+        "-P24Ejc6seHdA37xSir6": {
+          "body": "I want to shoot cottage a little more",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:33:53.930313Z"
+        },
+        "-P24EoK-FGdAssHs4vUO": {
+          "body": "yeah, we probably don't need too much power on cottage",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:34:13.186999Z"
+        },
+        "-P24Eqb4TPNrLLFDWSKr": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:34:22.535634Z"
+        },
+        "-P24Eqd4rz70mVmbJy3c": {
+          "body": "but a little is good",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:34:22.663802Z"
+        },
+        "-P24EvTUuQmB39G16ItG": {
+          "body": "ok yeah we chillin now let's just grow",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:34:42.465746Z"
+        },
+        "-P24EydvUZ2Cg9UnFx3d": {
+          "body": "Ok, -7 to roque, 2 to swiss, the rest to mozz",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:34:55.485764Z"
+        },
+        "-P24EyuCEvRX6ZaKD1La": {
+          "body": "let's do like -5 on roque",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:34:56.528160Z"
+        },
+        "-P24F0hAor8Z77JJ5nxD": {
+          "body": "or that",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:35:07.981682Z"
+        },
+        "-P24F1VFYztLMMPHq-hb": {
+          "body": "ok, i'll do -5 instead and redistribute",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:35:11.250601Z"
+        },
+        "-P24F1ZlLvhVKeVf76dY": {
+          "body": "wait i feel like roquefort will just die now because no one can trade with him",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:35:11.539831Z"
+        },
+        "-P24F38DDZXkXMXUwAFf": {
+          "body": "i feel like we just trade with each other",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:35:17.969168Z"
+        },
+        "-P24F47mb7bu0oqnvcgI": {
+          "body": "he could attack us a little",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:35:22.037383Z"
+        },
+        "-P24F5TXsx325v5HnPQt": {
+          "body": "He can raise the others still",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:35:27.524910Z"
+        },
+        "-P24F6wEYFbNJ1ko1mkJ": {
+          "body": "i'll do -4 on him, 5 5 for you two",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:35:33.521541Z"
+        },
+        "-P24F82IV10HOAn_U3gc": {
+          "body": "ok i like that",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:35:38.069718Z"
+        },
+        "-P24FAYHpxu_xmNwE7Cu": {
+          "body": "that should kill him",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:35:48.309118Z"
+        },
+        "-P24FBGwR4s95MjRTbmO": {
+          "body": "I'll do the same",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:35:51.295403Z"
+        },
+        "-P24FQMPPvXpNQgF-AYx": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:36:53.085360Z"
+        },
+        "-P24FSr2xoshzKzFL_zU": {
+          "body": "77",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:37:03.302439Z"
+        },
+        "-P24FT3SnFV_WhQJCGr3": {
+          "body": "ok NOW we can just grow",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:37:04.159834Z"
+        },
+        "-P24FTHKfPzk5XgZegIW": {
+          "body": "77",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:37:05.047481Z"
+        },
+        "-P24FW55HudCFxY5ChOm": {
+          "body": "77",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:37:16.552555Z"
+        },
+        "-P24FYxZmFcQxB7CVUTL": {
+          "body": "Yeah, if they bounce back too much, a -1 here or there won't really affect us",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:37:28.295171Z"
+        },
+        "-P24FZd6Q4MQ0BjAhKMb": {
+          "body": "asiago that was a crazy statement LOL",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:37:31.082449Z"
+        },
+        "-P24F_vEUZCwvTjsX78f": {
+          "body": "XD",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:37:36.338149Z"
+        },
+        "-P24FkApnS8lD2v1vgrQ": {
+          "body": "we've got basically two games now, one with the other 4 and one with us",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:38:18.359767Z"
+        },
+        "-P24Fm1GjHAuBExXTYJu": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:38:25.939618Z"
+        },
+        "-P24FqryJE2WrDnh5bRL": {
+          "body": "Yeah lol",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:38:45.760663Z"
+        },
+        "-P24FtPpaUaigqjh1UQk": {
+          "body": "77",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:38:56.183715Z"
+        },
+        "-P24FuCYA_KaA1F2txVV": {
+          "body": "77",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:38:59.429459Z"
+        },
+        "-P24Fw4jziG5P6-5sLpe": {
+          "body": "It's a conversation game now",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:39:07.122035Z"
+        },
+        "-P24FwoomkqHdvtEjdu6": {
+          "body": "77",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:39:10.134766Z"
+        },
+        "-P24FzN7-JR1mcXQV3-0": {
+          "body": "No fr",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:39:20.586742Z"
+        },
+        "-P24G1WS3HJjD6Mxw7K7": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:33.472157Z"
+        },
+        "-P24G7YTgY_OdJlwNbs5": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:58.176760Z"
+        },
+        "-P24GhJ2aHGoObhoNYW3": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:42:28.741560Z"
+        }
+      },
+      "name": "Best cheese",
+      "participants": [
+        "Asiago",
+        "Mozzarella",
+        "Swiss"
+      ]
+    },
+    "-P24A6Fv4QCUvucQDTe8": {
+      "conversationId": "-P24A6Fv4QCUvucQDTe8",
+      "messages": {
+        "-P24A7i9caEffVY2aEgh": {
+          "body": "team?",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:13:45.996921Z"
+        },
+        "-P24AaiQhx7S_atzFTVA": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:15:48.894436Z"
+        },
+        "-P24BAS9INehIqnTPafq": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:18:19.341243Z"
+        },
+        "-P24Be8S2tZLxVVhwWgI": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:20:25.055973Z"
+        },
+        "-P24CBomD3m9m6JtMAvI": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:22:47.092682Z"
+        },
+        "-P24CkeD-pp1cM_vdX_8": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:25:13.872543Z"
+        },
+        "-P24DEHSP7nHN557pQlx": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:27:19.328199Z"
+        },
+        "-P24Do1fmtf_NZmnz9Cq": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:29:49.870331Z"
+        },
+        "-P24EMCQetIDz8z8xjjC": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:32:13.918354Z"
+        },
+        "-P24EqbAMzRzxLDEkJFf": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:34:22.541488Z"
+        },
+        "-P24FQMVfNcOu0gFpxWo": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:36:53.090788Z"
+        },
+        "-P24Fm1Xhb3sWgwevVq8": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:38:25.957381Z"
+        },
+        "-P24G1W_zde1m7mX3CgD": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:33.479618Z"
+        },
+        "-P24G7Y_fhE9L5uSZFzt": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:58.183510Z"
+        },
+        "-P24GhJ8LEO-GsUHskEX": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:42:28.747677Z"
+        }
+      },
+      "name": "sup",
+      "participants": [
+        "Cottage%20Cheese",
+        "Swiss"
+      ]
+    },
+    "-P24AjjJ8kl9q8ukwtwS": {
+      "conversationId": "-P24AjjJ8kl9q8ukwtwS",
+      "messages": {
+        "-P24Are6k-YAdjID8R0v": {
+          "body": "For when swiss inevitably betrays us",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:16:58.249971Z"
+        },
+        "-P24AwSk5HyRM1VPh2Qo": {
+          "body": "I'm glad we thought the same thing",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:17:17.938466Z"
+        },
+        "-P24BASHjkyweizw0u79": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:18:19.348919Z"
+        },
+        "-P24Be8XQq64ar1G4Dpc": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:20:25.061409Z"
+        },
+        "-P24CBosKq2PuPj2tNNt": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:22:47.098559Z"
+        },
+        "-P24CkeJrBgXLo0_VO4B": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:25:13.878922Z"
+        },
+        "-P24DEHY_t878t0Rozp_": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:27:19.333509Z"
+        },
+        "-P24Do1mvza9824YqXHz": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:29:49.876677Z"
+        },
+        "-P24EMCXLQZiTiA8n-5Z": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:32:13.924675Z"
+        },
+        "-P24EqbFukP5nBAm_nTW": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:34:22.547261Z"
+        },
+        "-P24FQM_e6EcadvlW81P": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:36:53.096027Z"
+        },
+        "-P24Fm1gWBxMXl06h2xb": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:38:25.966949Z"
+        },
+        "-P24G1Wf1Hx8O3wdu3v8": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:33.486421Z"
+        },
+        "-P24G7YgzqyEZ8hvB8MO": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:58.191325Z"
+        },
+        "-P24GhJDZeS8fC87e-F-": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:42:28.753243Z"
+        }
+      },
+      "name": "We don't need swiss",
+      "participants": [
+        "Mozzarella",
+        "Asiago"
+      ]
+    },
+    "-P24AsTOupYYIGk5Syx9": {
+      "conversationId": "-P24AsTOupYYIGk5Syx9",
+      "messages": {
+        "-P24AvaicdfDUK5oueXc": {
+          "body": "wanting to start some trades?",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:17:14.416937Z"
+        },
+        "-P24BASNcFCJanxZeioB": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:18:19.355414Z"
+        },
+        "-P24BH8PcKuP6IUT8sP6": {
+          "body": "Im in!",
+          "from": "Ricotta",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:18:46.748856Z"
+        },
+        "-P24BJS7TNscMBGkJL0l": {
+          "body": "I'll give you five",
+          "from": "Ricotta",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:18:56.203184Z"
+        },
+        "-P24Be8cP6fvOyKaZNTs": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:20:25.066808Z"
+        },
+        "-P24CBozdB_kUDQpZDrD": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:22:47.105659Z"
+        },
+        "-P24CkePmfiNuQqVH6m3": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:25:13.885306Z"
+        },
+        "-P24DEHc4_5tK9KsNGlo": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:27:19.339167Z"
+        },
+        "-P24Do1sKZlhNZmAJMHY": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:29:49.882656Z"
+        },
+        "-P24EMCbRT-k6dxMshXQ": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:32:13.930335Z"
+        },
+        "-P24EqbLTAPuBB9tedcK": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:34:22.552499Z"
+        },
+        "-P24FQMgIW8FwUHyZUbi": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:36:53.102546Z"
+        },
+        "-P24Fm1zOt8yFI_B5d8J": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:38:25.986301Z"
+        },
+        "-P24G1Wp3GiyprTfir9A": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:33.495819Z"
+        },
+        "-P24G7Yok9MXq3CSR72Y": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:58.198675Z"
+        },
+        "-P24GhJJH0xlSoD77Att": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:42:28.759371Z"
+        }
+      },
+      "name": "cheesy",
+      "participants": [
+        "Cottage%20Cheese",
+        "Ricotta"
+      ]
+    },
+    "-P24AtO7jFi3D5aKBwi4": {
+      "conversationId": "-P24AtO7jFi3D5aKBwi4",
+      "messages": {
+        "-P24Auq6VeSBt-c5Bg7N": {
+          "body": "Friends? ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:17:11.306091Z"
+        },
+        "-P24AwF5XSlrLH2sxqLB": {
+          "body": "Compatriots? ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:17:17.064582Z"
+        },
+        "-P24Axjn1lUvgOA3VvKD": {
+          "body": "Allies?",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:17:23.190431Z"
+        },
+        "-P24BASUI9GscU1GTGdy": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:18:19.361767Z"
+        },
+        "-P24BVA5aScjMsPGjEBg": {
+          "body": "We could do something, maybe next round",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:44.201075Z"
+        },
+        "-P24Be8jT2BsLjlmc6KU": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:20:25.073522Z"
+        },
+        "-P24CAQRoKKn-IkhWxXB": {
+          "body": "we're thinking of attacking cottag",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:41.375193Z"
+        },
+        "-P24CBp3MZ2Wg-m9hIAS": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:22:47.111289Z"
+        },
+        "-P24CJ8PtCR7N5iZvtSB": {
+          "body": "Thoughts?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:23:17.085342Z"
+        },
+        "-P24CQDLBnKOBpBySLxj": {
+          "body": "I could be persuaded. Why him?",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:23:46.072826Z"
+        },
+        "-P24CVklkvth9yLXvF1_": {
+          "body": "Cause he's 4th and not in our group",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:08.756147Z"
+        },
+        "-P24CWaQeqf8FjjPugcv": {
+          "body": "we could adopt you",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:12.190038Z"
+        },
+        "-P24CasHomu1JFpRFo5x": {
+          "body": "How will I know htat you're sincere?",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:33.813298Z"
+        },
+        "-P24CfQmWKglvw1oRtD3": {
+          "body": "We will attack with you then give you 2 each",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:52.468615Z"
+        },
+        "-P24ChsQDRGCfHRXEN7G": {
+          "body": "Give me 2 each first, then I'll join the attack. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:02.493696Z"
+        },
+        "-P24CkeWhZpEfVVS4LzF": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:25:13.891533Z"
+        },
+        "-P24D9bziQLE9R4Zbnww": {
+          "body": "lets say in two rounds",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:00.226004Z"
+        },
+        "-P24DAuAO0-yTemPzu2F": {
+          "body": "cottage is keeping a lot",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:05.486341Z"
+        },
+        "-P24DDLLXAAsUsmY27Qe": {
+          "body": "In two rounds we attack?",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:15.481387Z"
+        },
+        "-P24DEHjQKsaHhG4fSM_": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:27:19.346135Z"
+        },
+        "-P24DMFei3GoTdQVuOm5": {
+          "body": "yes",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:51.980712Z"
+        },
+        "-P24DOo6nk_WenO1n_LX": {
+          "body": "unless you want to attack this round?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:02.441708Z"
+        },
+        "-P24DQjX1JBNsUWUBCaw": {
+          "body": "But i think cottage will continue keeping",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:10.341207Z"
+        },
+        "-P24DVhmwJUUTzs3IAfy": {
+          "body": "I think he'll be keeping after this round. Espeically after ricotta got devestated.",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:30.709240Z"
+        },
+        "-P24DY_Tv8Tf2M_eTAFi": {
+          "body": "True",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:42.465408Z"
+        },
+        "-P24DZ6Gvz9y_VKzW1QG": {
+          "body": "hmm",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:44.627624Z"
+        },
+        "-P24DZxy1KcM8UgkGshu": {
+          "body": "I might keep this round",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:48.128629Z"
+        },
+        "-P24Da51PARjfLlmJ2k-": {
+          "body": "might catch a stray",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:52.741222Z"
+        },
+        "-P24DnyJDYo6FUYp2o23": {
+          "body": "That's fair. Retatliation is likely, espeically with you in #1",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:29:49.591110Z"
+        },
+        "-P24Do1xk5iYXHOzevua": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:29:49.888399Z"
+        },
+        "-P24EJq4VmPkSGLBRvv8": {
+          "body": "I guess that means the offers off the table, huh?",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:32:04.232164Z"
+        },
+        "-P24EMCha_Qm1qJY6kgV": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:32:13.936347Z"
+        },
+        "-P24EO9YRM3QJYwXyPT0": {
+          "body": "perchance",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:32:21.926070Z"
+        },
+        "-P24EUth9rSltFgmE7KT": {
+          "body": "Yes or no? Don't string me along. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:32:49.519743Z"
+        },
+        "-P24EqbdYjnsHAXgAUvn": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:34:22.571683Z"
+        },
+        "-P24FQMlGR1jXZSWqyhK": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:36:53.107724Z"
+        },
+        "-P24Fm2E7b9f2tVpmCA7": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:38:26.002456Z"
+        },
+        "-P24G1X-qdx9FLdMl6BJ": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:33.507358Z"
+        },
+        "-P24G7YwiQhAsOy66S1f": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:58.206527Z"
+        },
+        "-P24GhJPKslOSj2mRXyI": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:42:28.765Z"
+        }
+      },
+      "name": "Caprino - Asiago",
+      "participants": [
+        "Caprino",
+        "Asiago"
+      ]
+    },
+    "-P24B4UW-jHzBGHx3g8l": {
+      "conversationId": "-P24B4UW-jHzBGHx3g8l",
+      "messages": {
+        "-P24B5gErqpqOqeTqiqZ": {
+          "body": "Yo",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:17:59.826340Z"
+        },
+        "-P24B9BmTns2k2ploV9o": {
+          "body": "We getting outed from the big group, let's grab Ricotta",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:18:14.196526Z"
+        },
+        "-P24BAS_ElPlOP1bOJWM": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:18:19.367999Z"
+        },
+        "-P24BFrKA51UdeRVAXoy": {
+          "body": "hmmm",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:18:41.495702Z"
+        },
+        "-P24Be8o09s-CcsS0VHq": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:20:25.078850Z"
+        },
+        "-P24C7jOgiTuX1ptUXxq": {
+          "body": "I give you more bro, let's do this",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:30.363460Z"
+        },
+        "-P24CBp9I5awuDnWdzuj": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:22:47.116615Z"
+        },
+        "-P24Ckeb2KVpU6w-G2sX": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:25:13.897636Z"
+        },
+        "-P24DEHpxXRjUfSCEyvs": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:27:19.351485Z"
+        },
+        "-P24Do22ryQCzWtTFRN8": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:29:49.894063Z"
+        },
+        "-P24EMCoKs9YalC9zpTS": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:32:13.943057Z"
+        },
+        "-P24Eqbkyrc_YezyYa3j": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:34:22.579242Z"
+        },
+        "-P24FQMqeKYD19sLzTr4": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:36:53.112934Z"
+        },
+        "-P24Fm2VWZeL3Uo3LumV": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:38:26.019406Z"
+        },
+        "-P24G1XBxbMj8WpKLUxv": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:33.518518Z"
+        },
+        "-P24G7Z5-d3W5wR7ylC5": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:58.217294Z"
+        },
+        "-P24GhJWF4Hf_MSc8Umj": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:42:28.771840Z"
+        }
+      },
+      "name": "Cottage",
+      "participants": [
+        "Roquefort",
+        "Cottage%20Cheese"
+      ]
+    },
+    "-P24BIcEP-yjlaBh9v5c": {
+      "conversationId": "-P24BIcEP-yjlaBh9v5c",
+      "messages": {
+        "-P24BN8-hDXUrcCOHe2E": {
+          "body": "The big cheeses are grouping up, let's rise up to be strong",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:11.298921Z"
+        },
+        "-P24BNczJ58VtUl_EVpn": {
+          "body": "Whats up!",
+          "from": "Ricotta",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:13.346059Z"
+        },
+        "-P24BO8HAyeoR9WlFj6p": {
+          "body": "I'm all in. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:15.412554Z"
+        },
+        "-P24BOtV79pHuMCV-Kdd": {
+          "body": "I agree, I'll donate",
+          "from": "Ricotta",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:18.499328Z"
+        },
+        "-P24BSBbFv0KLZCR08GU": {
+          "body": "giving 5 or 4 to each",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:32.009785Z"
+        },
+        "-P24BSswUsqA2P8wGBFK": {
+          "body": "we are the majority",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:34.846896Z"
+        },
+        "-P24BTHxF9R9kiYZhdK1": {
+          "body": "4 each",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:36.511588Z"
+        },
+        "-P24BUqAg_BOR8UmD3IE": {
+          "body": "aight",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:42.861844Z"
+        },
+        "-P24BVwrrStuXXRMw02g": {
+          "body": "4 each, and keep 2 four ourselves?",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:47.385484Z"
+        },
+        "-P24BXJNyEqhZSuN-4XQ": {
+          "body": "ye",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:52.987034Z"
+        },
+        "-P24BXizxsFMuKd3efrO": {
+          "body": "yessir",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:19:54.689853Z"
+        },
+        "-P24BZ5jtE5R4s77VrGf": {
+          "body": "Cool",
+          "from": "Ricotta",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:20:00.305606Z"
+        },
+        "-P24Bd6Op_p8CSY_Llbi": {
+          "body": "big cheese is bad",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:20:20.828320Z"
+        },
+        "-P24Be8uSYs3oOSGvaLA": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:20:25.084760Z"
+        },
+        "-P24BgSxejbm_L2G31uM": {
+          "body": "more like big stinky",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:20:34.560127Z"
+        },
+        "-P24Bo_QmnurhPUBlU56": {
+          "body": "hold up, would it be in our advantage to give all of our tokens to one guy who gives us theirs? we could create a super token machine",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:21:07.806006Z"
+        },
+        "-P24Bu52brMoOmSIgsTD": {
+          "body": "I think that's true, and we can alternate?",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:21:30.373845Z"
+        },
+        "-P24Buc0zURoao65t0p2": {
+          "body": "or does that make everyone else lose",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:21:32.547632Z"
+        },
+        "-P24BvyCJjiyr30iTXM8": {
+          "body": "But then if that one guy gets targetted, then we'd all be down. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:21:38.063863Z"
+        },
+        "-P24Bx9PTHVKg9LDn0p3": {
+          "body": "also true",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:21:42.940523Z"
+        },
+        "-P24BzoitdPw8Ix-vKJA": {
+          "body": "I don't think they'll attack until they get to over 160",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:21:53.841120Z"
+        },
+        "-P24BzpDyt0iMgnxxA5s": {
+          "body": "I'm fine with whatever we choose to do. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:21:53.872745Z"
+        },
+        "-P24C1SRD8SQlCQoTNIH": {
+          "body": "Ricotta? Any comments?",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:04.638648Z"
+        },
+        "-P24C4bU8sB6gtLDrpFB": {
+          "body": "Let's try giving all to eachother if Ricotta is down",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:17.570361Z"
+        },
+        "-P24C69dCub9paRAQVYn": {
+          "body": "I think we all give to each other",
+          "from": "Ricotta",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:23.915524Z"
+        },
+        "-P24C729Cu6TQMmvKIYY": {
+          "body": "aight",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:27.532593Z"
+        },
+        "-P24C8G1r6y0sIyDQUWr": {
+          "body": "we stay equals",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:32.516532Z"
+        },
+        "-P24CBpELLQ9iSj3xyyZ": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:22:47.121990Z"
+        },
+        "-P24CDZsSb8yYtcH9CCn": {
+          "body": "We can reevaluate after a few rounds, and if it doesn't work, then we'll try an alternate strategy. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:22:54.267334Z"
+        },
+        "-P24CFfqr_ioYsPxIdgS": {
+          "body": "maybe the strat is to target down a big guy",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:23:02.905354Z"
+        },
+        "-P24CMQal_Xu3u7TJCm-": {
+          "body": "That would open us to retaliation. Are we in a winning position>",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:23:30.536760Z"
+        },
+        "-P24CN59J9kSLfV87Ohq": {
+          "body": "Our popularity can't really take them down yet",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:23:33.260960Z"
+        },
+        "-P24CR-OFqpqJ9aB6zOm": {
+          "body": "But they will go for Caprino eventually",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:23:49.275835Z"
+        },
+        "-P24CSx2FvcAxB3Ljjh7": {
+          "body": "for sure",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:23:57.254050Z"
+        },
+        "-P24CUx6lUyi2P7GsEmS": {
+          "body": "They're plotting on going to attack Cottage Cheese. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:05.450333Z"
+        },
+        "-P24CWrmSFg2ZvJHd7eh": {
+          "body": "Oh shoot",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:13.300905Z"
+        },
+        "-P24CXX7BJdV0PrjDjmx": {
+          "body": "should i save?",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:16.011291Z"
+        },
+        "-P24CXrejE54BnBQY5aP": {
+          "body": "Asiago invited me to join the attack. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:17.388879Z"
+        },
+        "-P24CZCdk5PEEF7w0bAT": {
+          "body": "So donate to cottage cheese, and have him save?",
+          "from": "Ricotta",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:22.892321Z"
+        },
+        "-P24CZS3OVdaGHo1fefI": {
+          "body": "ima save then",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:23.878843Z"
+        },
+        "-P24C_JcNx_JO4V5NlNy": {
+          "body": "okay",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:27.434761Z"
+        },
+        "-P24CcGgydQ_NDckyIqt": {
+          "body": "goat caprino",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:39.534811Z"
+        },
+        "-P24CgTaipC2zwYcOW7V": {
+          "body": "I'll give 6 to you caprino to catch up",
+          "from": "Ricotta",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:24:56.745316Z"
+        },
+        "-P24Ckeh8d3Xx0-Jy1Ke": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:25:13.903656Z"
+        },
+        "-P24CnHSJYC1sxjZymhu": {
+          "body": "yo no attack",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:24.640338Z"
+        },
+        "-P24Cp_7wErNu9oQ13OI": {
+          "body": "But now they are scared",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:34.026837Z"
+        },
+        "-P24CvAhwJetczgGWTRF": {
+          "body": "It sounded like they wanted to get another player to attack. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:25:56.976434Z"
+        },
+        "-P24Cw6DSwTbIfCg3959": {
+          "body": "hmmm",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:00.784751Z"
+        },
+        "-P24CzTo1zHdhWTgqsmv": {
+          "body": "maybe we make me super, and i can give back to you guys too?",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:14.582677Z"
+        },
+        "-P24D-XzFybsQwgmFhwq": {
+          "body": "They want want to down CC because he's high up there, but not one of them.",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:18.946433Z"
+        },
+        "-P24D3cpR4OhFE4RrQj0": {
+          "body": "I'm fine with that. We give each other four, but CC 6? Is that correct? ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:35.703688Z"
+        },
+        "-P24D4EoIuU_FIaqY7N-": {
+          "body": "i think ill give 3 to each and save 5",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:38.199234Z"
+        },
+        "-P24D5sABw6lfAM2WVDT": {
+          "body": "should we take down swiss?",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:44.877718Z"
+        },
+        "-P24D8t4sNuCvoLWhZmt": {
+          "body": "Let's do it next round. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:57.224154Z"
+        },
+        "-P24D93gnLv67siStuF1": {
+          "body": "i think we need one or two more rounds to build up",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:26:57.967050Z"
+        },
+        "-P24DCrrCuNi1b0Ze-VN": {
+          "body": "Okay, 6 to CC and 4 to C and Ricotta",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:13.530092Z"
+        },
+        "-P24DEHuPMNW2tkLSpe4": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:27:19.356924Z"
+        },
+        "-P24DIce0IYhInniJ8F2": {
+          "body": "oh man",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:37.132484Z"
+        },
+        "-P24DJCbfFxCOQo6VWKP": {
+          "body": "Ouch",
+          "from": "Ricotta",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:39.497557Z"
+        },
+        "-P24DJShf178Hrc05RmY": {
+          "body": "its begun",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:40.527530Z"
+        },
+        "-P24DJYfO0Z8eaeLexot": {
+          "body": "Dang, they targetted ricotta. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:40.910276Z"
+        },
+        "-P24DKI8Ma9f3bZGQoLk": {
+          "body": "caprino did you know",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:43.948075Z"
+        },
+        "-P24DMSQ9G0TsAwM70DF": {
+          "body": "I did not. Just hte attack on CC.",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:52.798050Z"
+        },
+        "-P24DMsFhbi8gMCN-UbW": {
+          "body": "I've never seen the obliteration so bad",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:54.515226Z"
+        },
+        "-P24DQLZaisqvNf-wj_f": {
+          "body": "Should we retaliate againt which one?",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:08.743455Z"
+        },
+        "-P24DUIErTLTjdO5XTNH": {
+          "body": "im taking all from mozzarella",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:24.913558Z"
+        },
+        "-P24DUaKpRN-HIyC9ZMg": {
+          "body": "now we are 3v3",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:26.136083Z"
+        },
+        "-P24DY_uQi8MAF6TcmVz": {
+          "body": "okay, they might expect a counter, maybe swiss",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:42.493139Z"
+        },
+        "-P24D_q6A-9P3IcOzt0N": {
+          "body": "he's the most medium expected target",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:51.721496Z"
+        },
+        "-P24DbJ1vAzwO6WEhFkl": {
+          "body": "I won't have my insider information after I attack. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:28:57.732461Z"
+        },
+        "-P24DeHU69h6z2H8-iB5": {
+          "body": "true, but i think hitting harder is more important atm",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:29:09.921622Z"
+        },
+        "-P24Dec0gVMTcfGAj9V3": {
+          "body": "Assiago is keeping this round. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:29:11.300197Z"
+        },
+        "-P24DgjVrXY9HEnPlgb_": {
+          "body": "asiago.",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:29:19.971098Z"
+        },
+        "-P24DkggYe_HX5s5vYeG": {
+          "body": "When are we attacking?",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:29:36.175239Z"
+        },
+        "-P24Do280IRKMKIRQdV_": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:29:49.900160Z"
+        },
+        "-P24DtO5U5n9tjWsb0XF": {
+          "body": "Well I guess I'm out of the game. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:11.784970Z"
+        },
+        "-P24DuIEuGXkY5DHVwnO": {
+          "body": "dang",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:15.505474Z"
+        },
+        "-P24E33_ukjIabjdegE8": {
+          "body": "Rough, the keep attacking. I'll giv esome to you caprino",
+          "from": "Ricotta",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:55.527546Z"
+        },
+        "-P24EMCwUyfewsQgT0RO": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:32:13.950654Z"
+        },
+        "-P24EZgHplRX9xSdTbOv": {
+          "body": "CC can you give to me to block the attack while I get Mozz?",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:33:09.140807Z"
+        },
+        "-P24Easd0YNGoBv1oQNU": {
+          "body": "yes",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:33:18.124220Z"
+        },
+        "-P24Ed1WGLVYyR6glTQs": {
+          "body": "I hope this works",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:33:26.947390Z"
+        },
+        "-P24Eez1NCR4N3fWtBMp": {
+          "body": "We'll see. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:33:34.916587Z"
+        },
+        "-P24Efa2yUw5SzHyZxtn": {
+          "body": "thanks",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:33:37.414351Z"
+        },
+        "-P24EixeahsuR7jH4zNi": {
+          "body": "i doubt it, they'll target all 14 just like they did to me",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:33:51.212480Z"
+        },
+        "-P24EqbqAOGw70wbe024": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:34:22.584873Z"
+        },
+        "-P24F38DDZXkXMXUwAFe": {
+          "body": "So is there a strategy / hope besides quitting the game? ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:35:17.969107Z"
+        },
+        "-P24F7LiVlVvu1uhcLYR": {
+          "body": "nah we done",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:35:35.216686Z"
+        },
+        "-P24F87onq75ggEQQEWc": {
+          "body": "Just start sharing tokens, but they can keep us down pretty much",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:35:38.422599Z"
+        },
+        "-P24FBnziAPFfD6KnwQc": {
+          "body": "how do they have so much when we have 4?",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:35:53.474292Z"
+        },
+        "-P24FDTNONTFtS1xT_lF": {
+          "body": "We could just not submit to drag the game on for long, but that's poor sportsmanship.",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:36:00.282906Z"
+        },
+        "-P24FEKM-5XPSb9ibkaS": {
+          "body": "They had the high ground",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:36:03.801462Z"
+        },
+        "-P24FGJ_6NsXQu3HNCvf": {
+          "body": "does game mechanics favor smaller groups?",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:36:11.944110Z"
+        },
+        "-P24FGZQesJzAKJcG5Qo": {
+          "body": "The wealth gap makes them much stronger than us. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:36:12.958306Z"
+        },
+        "-P24FJohw-R05D_mdyhk": {
+          "body": "They started earlier, so they got wealthier. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:36:26.287937Z"
+        },
+        "-P24FJsuq5SZRvPrze9t": {
+          "body": "but how was there such a big gap to begin with?",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:36:26.556997Z"
+        },
+        "-P24FOllq49tCr9pmmOy": {
+          "body": "idk, i was increasing by like 4 per round, they were increasing like 12",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:36:46.580381Z"
+        },
+        "-P24FQMvwJyDpsY5JMzS": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:36:53.118115Z"
+        },
+        "-P24FRbt2j3ha3Mx95FJ": {
+          "body": "population scales the effect",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:36:58.235764Z"
+        },
+        "-P24FUKq2hni1_syjD1X": {
+          "body": "like more population the better/",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:37:09.368550Z"
+        },
+        "-P24FUhTL1z0EiaFMA73": {
+          "body": "It was enough to keep them ahead. Then they attacked which gave them a big boost. The first to strike has a big advantage.",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:37:10.881102Z"
+        },
+        "-P24FUoTV74lMRmzBgGm": {
+          "body": "?",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:37:11.329281Z"
+        },
+        "-P24Fa4hRDfp4T9LePpw": {
+          "body": "Well, happy being poor all together lol",
+          "from": "Ricotta",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:37:37.008062Z"
+        },
+        "-P24FbbNg-Gbh00ZX3OC": {
+          "body": "4 each! haha",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:37:43.258881Z"
+        },
+        "-P24FdjCEk952hJ2bXj9": {
+          "body": "I'll admit it was fun to have a common enemy.",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:37:51.951932Z"
+        },
+        "-P24FlROE4zdssSeYlZE": {
+          "body": "4 each again. Let's try to make them nervous agian, even if it won't happen.",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:38:23.515470Z"
+        },
+        "-P24Fm2pcagmGBHExJAB": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:38:26.040351Z"
+        },
+        "-P24G1XIB7OGje3ix6hK": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:33.526471Z"
+        },
+        "-P24G5kl-BJiML_S7OFT": {
+          "body": "lol",
+          "from": "Ricotta",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:39:50.835765Z"
+        },
+        "-P24G7ZDeyi8dhuUnUIC": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:58.225128Z"
+        },
+        "-P24GhJbJSjz24bmrP80": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:42:28.778410Z"
+        }
+      },
+      "name": "Small Fries",
+      "participants": [
+        "Roquefort",
+        "Ricotta",
+        "Caprino",
+        "Cottage%20Cheese"
+      ]
+    },
+    "-P24DDGpXd5KUq9WEfOB": {
+      "conversationId": "-P24DDGpXd5KUq9WEfOB",
+      "messages": {
+        "-P24DEI0LTsug6luOoex": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:27:19.363495Z"
+        },
+        "-P24DFkw6oIOSktMz8kg": {
+          "body": "yo caprino may or may not be preying on us",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:27:25.374843Z"
+        },
+        "-P24DgPYT-0raTh_7Cqa": {
+          "body": "yeah...",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:29:18.629510Z"
+        },
+        "-P24DkxunkfLolp5d6w1": {
+          "body": "go for swiss!",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:29:37.277104Z"
+        },
+        "-P24DllbLvZj-IPIDbeh": {
+          "body": "all in",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:29:40.586100Z"
+        },
+        "-P24Do2FKDwzOE0Phbfu": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:29:49.906663Z"
+        },
+        "-P24EMD1lVuAWWBXAeSZ": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:32:13.956647Z"
+        },
+        "-P24Eqbv0eYTSoWsaVEU": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:34:22.590427Z"
+        },
+        "-P24FQN0EKVeC82W4fUG": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:36:53.123524Z"
+        },
+        "-P24Fm38yw-wTjsM7HHA": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:38:26.059598Z"
+        },
+        "-P24G1XOHXJHvouIipGK": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:33.532214Z"
+        },
+        "-P24G7ZL53SV8_XunU6m": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:58.232780Z"
+        },
+        "-P24GhJh-5C4PC9PSMp4": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:42:28.784460Z"
+        }
+      },
+      "name": "danger caprino",
+      "participants": [
+        "Cottage%20Cheese",
+        "Roquefort",
+        "Ricotta"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-P24AAqllrjdale-0L-Q": {
+          "body": "Full disclosure, I didn't realize that Asiago was a cheese. I thought it was just a type of bagel. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:13:58.835976Z"
+        },
+        "-P24ACf_5ssSX_QdHJtQ": {
+          "body": "-_-",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:06.312334Z"
+        },
+        "-P24ADco1lbyTjcaoGMp": {
+          "body": "i'm so hurt",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:10.230960Z"
+        },
+        "-P24AGx6S8mtt3owkIS4": {
+          "body": "Sorry! in my defense, I didn't know that Caprino was a cheese either.",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:23.818016Z"
+        },
+        "-P24AH6i7dxab92ddGvt": {
+          "body": "Yeah, don't gibe to Asiago... not a real cheese",
+          "from": "Ricotta",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:14:24.496449Z"
+        },
+        "-P24Aai6haJv61_3cxGQ": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:15:48.873794Z"
+        },
+        "-P24Ai_OPz3EEWv0HMdF": {
+          "body": "Are there any secret cominbations that I may join / be a part of? ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:16:21.084343Z"
+        },
+        "-P24BARrA5hHc4JG2oo4": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:18:19.322052Z"
+        },
+        "-P24Be8AZm1lhK3mEcw0": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:20:25.037743Z"
+        },
+        "-P24CBoV3ZiWo1qojlyo": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:22:47.075040Z"
+        },
+        "-P24Ckdvo1EgeEshKRkm": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:25:13.853977Z"
+        },
+        "-P24DEH8fcfp8tZ1ZcuM": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:27:19.308137Z"
+        },
+        "-P24Do1OBmv3SvhyhK8Z": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:29:49.851622Z"
+        },
+        "-P24Dz1T0_yJv3YtMDLk": {
+          "body": "buddies",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:34.912856Z"
+        },
+        "-P24DzwsguMHLqv0jETU": {
+          "body": "we can call a truce",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:38.651378Z"
+        },
+        "-P24E1vGWYoDAyNAEmWv": {
+          "body": "Why would they agree? They have the winning hand. ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:30:50.836238Z"
+        },
+        "-P24E5PqE86-JimP1hoF": {
+          "body": "because mutually assured pain isn't pleasant",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:31:05.145091Z"
+        },
+        "-P24E6q5J1oR92qQ4Qh4": {
+          "body": "interesting cottage right after you took from our friend",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:31:10.985270Z"
+        },
+        "-P24EAGxQQmfIDUz5lcl": {
+          "body": "oh please look at the two players with 0 and 7",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:31:25.055771Z"
+        },
+        "-P24EFY-KzicJroFyW-S": {
+          "body": "-_-",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:31:46.627064Z"
+        },
+        "-P24EIay9dxvg3iNLY4i": {
+          "body": "If we call truce",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:31:59.169318Z"
+        },
+        "-P24EIfFJNoME9aMLogr": {
+          "body": "I'm personally offended by you cottage",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:31:59.442535Z"
+        },
+        "-P24ELBFQIEJAEXwUnFv": {
+          "body": "how do we know that you'll keep it?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:32:09.746475Z"
+        },
+        "-P24EMC8iNzCWci1lXp2": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:32:13.900050Z"
+        },
+        "-P24En1Ee9F3exhBFdOj": {
+          "body": "Peace is an option guys",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:34:07.889836Z"
+        },
+        "-P24Eq2gW8lYwZJZMqEt": {
+          "body": "yall keep saying that right after you take from us...",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:34:20.271270Z"
+        },
+        "-P24Eqatli8J2-ZbI22V": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:34:22.523935Z"
+        },
+        "-P24EujDo0n7-Zihr9yU": {
+          "body": "Because we haven't come to  truce.",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:34:39.440933Z"
+        },
+        "-P24EvyM71lpLbE8bh9C": {
+          "body": "hmmmm interesting ",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:34:44.505567Z"
+        },
+        "-P24EwQbUm_Q88FYyZAN": {
+          "body": "You literally started this Swiss",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:34:46.378130Z"
+        },
+        "-P24F0j1fjsatU8rMUX2": {
+          "body": "so these guys start war, then try to take moral high-ground when we simply try self defence?",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:35:08.101255Z"
+        },
+        "-P24FAv-XsdT89psVGF_": {
+          "body": "Its wild right?",
+          "from": "Roquefort",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:35:49.827347Z"
+        },
+        "-P24FDxzA5YMmWA8r2KE": {
+          "body": "Insane",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:36:02.306120Z"
+        },
+        "-P24FErbQYSb282Uzj_8": {
+          "body": "I agree :)",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:36:05.994194Z"
+        },
+        "-P24FKkVG_oAR-UlT7-H": {
+          "body": "It's just like politics ",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:36:30.115432Z"
+        },
+        "-P24FOjc1i3LwtbXuqou": {
+          "body": "We are so innocent and pure",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:36:46.442587Z"
+        },
+        "-P24FQAe0i-cnxD96RqA": {
+          "body": "virtue is flowing from our hearts",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:36:52.332653Z"
+        },
+        "-P24FQMELy7TAZ-SZC5t": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:36:53.074029Z"
+        },
+        "-P24FiftzyHEj_R2HbvA": {
+          "body": "what i find odd is we had 4 people but your group somehow got points way faster?",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:38:12.219603Z"
+        },
+        "-P24Fm0zjawSqm_doXSU": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:38:25.921751Z"
+        },
+        "-P24FsxpwlLnwOrl3jMJ": {
+          "body": "I think because they gave each other more tokens, so they had more exchagne maybe? ",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:38:54.327589Z"
+        },
+        "-P24FxrEize7W5mJKh_2": {
+          "body": "I think its because we taste a little better...",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:39:14.386099Z"
+        },
+        "-P24G1WFHXvqhC4gV4WW": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:33.459344Z"
+        },
+        "-P24G2DV6maRt0_lf8dh": {
+          "body": "Everyone with a functional tongue knows that's not true.",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:39:36.354831Z"
+        },
+        "-P24G3wSim6uzZ6Xrjla": {
+          "body": "I just need to understand the game mechanics better lol",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:39:43.392117Z"
+        },
+        "-P24G7YEmODMhM2EY0m1": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:39:58.161819Z"
+        },
+        "-P24G8czIjC76SwPM1OA": {
+          "body": "PLEASE EAT 14 GALLONS OF COTTAGE CHEESE",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:40:02.625534Z"
+        },
+        "-P24GB6e54BmEbJYcVNJ": {
+          "body": "protein gains",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:40:12.781030Z"
+        },
+        "-P24GE2nb9abtcGvlBTC": {
+          "body": "You sound like Amber",
+          "from": "Mozzarella",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:40:24.821999Z"
+        },
+        "-P24GEaE_Vr2KfKZ2e-M": {
+          "body": "bro you gonna have problems no matter the kind of cheese if you eat 14 gallons",
+          "from": "Cottage%20Cheese",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:40:27.026439Z"
+        },
+        "-P24GG9KKcr-B25PK1bS": {
+          "body": "I'd rather eat 15 gallons of cc than lick an asiago!",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:40:33.432087Z"
+        },
+        "-P24GLFLrB1w6TTUWDDM": {
+          "body": "Also cheese is solid, so why are we measurign it in gallons?",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:40:54.297443Z"
+        },
+        "-P24GLpsJc5c-mjXWQOS": {
+          "body": "What even is a caprino?",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:40:56.699085Z"
+        },
+        "-P24GOI0_QZoUH7qPtAQ": {
+          "body": "Cottage cheese is not solid",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:41:06.755825Z"
+        },
+        "-P24GPnAJXAD9ZMEvr27": {
+          "body": "its like an in between",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:41:12.909957Z"
+        },
+        "-P24GQStbfeb4DXMfLG8": {
+          "body": "The guy who made the sun centeric solar system. So they named a cheese after him.",
+          "from": "Caprino",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:41:15.643589Z"
+        },
+        "-P24GRye8YZnFqsy2KPV": {
+          "body": "thats why cottage couldn't be trusted",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:41:21.836823Z"
+        },
+        "-P24GSe4b7PpiDPvRzi5": {
+          "body": "he wasn't solid",
+          "from": "Swiss",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:41:24.615664Z"
+        },
+        "-P24GUDrL5IyjNpvEqb_": {
+          "body": "Such a liquid fellow",
+          "from": "Asiago",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:41:31.065743Z"
+        },
+        "-P24GhIqOnX40qm2NbGm": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:42:28.728706Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

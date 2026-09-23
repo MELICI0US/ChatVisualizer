@@ -72,8 +72,8 @@ class ChatVisualizerApp(tk.Tk):
         self.conversation_table.delete(*self.conversation_table.get_children())
         for conversation in self.conversations:
             participants = ", ".join(conversation.participants) if conversation.participants else "(not provided)"
-            created_round = conversation.created_round if conversation.created_round is not None else "-"
-            last_round = conversation.last_active_round if conversation.last_active_round is not None else "-"
+            created_round = conversation.created_round if conversation.created_round is not None else "1"
+            last_round = conversation.last_active_round if conversation.last_active_round is not None else "1"
             self.conversation_table.insert(
                 "",
                 tk.END,
@@ -108,7 +108,7 @@ class ChatVisualizerApp(tk.Tk):
         last_used = conversation.last_active_at.isoformat() if conversation.last_active_at else "n/a"
         self.message_view.insert(
             tk.END,
-            f"Created: {created} (Round {conversation.created_round if conversation.created_round is not None else '?'})\n",
+            f"Created: {created} (Round {conversation.created_round if conversation.created_round is not None else '1'})\n",
             "metadata",
         )
         self.message_view.insert(
@@ -119,17 +119,17 @@ class ChatVisualizerApp(tk.Tk):
 
         current_round = object()
         for message in conversation.messages:
-            marker = message.round_number if message.round_number is not None else "?"
+            marker = message.round_number if message.round_number is not None else "1"
             if marker != current_round:
                 self.message_view.insert(tk.END, f"=== Round {marker} ===\n", "round")
                 current_round = marker
 
             timestamp = message.time.isoformat()
             if message.runtime_type == "gameNotification":
-                self.message_view.insert(tk.END, f"[{timestamp}] [GAME] {message.body}\n", "notification")
+                self.message_view.insert(tk.END, f"[GAME] {message.body}\n", "notification")
             else:
                 sender = unquote(message.sender or "Unknown")
-                self.message_view.insert(tk.END, f"[{timestamp}] {sender}: {message.body}\n")
+                self.message_view.insert(tk.END, f"{sender}: {message.body}\n")
 
         self.message_view.config(state=tk.DISABLED)
 
