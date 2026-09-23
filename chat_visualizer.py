@@ -48,7 +48,12 @@ class ChatVisualizerApp(tk.Tk):
         self.conversation_table.bind("<<TreeviewSelect>>", self._render_conversation)
         self.conversation_table.pack(fill=tk.BOTH, expand=True)
 
-        self.message_view = tk.Text(right_panel, wrap=tk.WORD, state=tk.DISABLED)
+        self.message_view = tk.Text(
+            right_panel,
+            wrap=tk.WORD,
+            state=tk.DISABLED,
+            spacing3=2,
+        )
         self.message_view.pack(fill=tk.BOTH, expand=True)
         self.message_view.tag_configure("round", foreground="#7f1d1d", font=("TkDefaultFont", 10, "bold"))
         self.message_view.tag_configure("notification", foreground="#1d4ed8")
