@@ -32,6 +32,11 @@ class LoadConversationsTests(unittest.TestCase):
                             "runtimeType": "identified",
                             "time": "2026-09-21T18:16:17.745874Z",
                         },
+                        "m4": {
+                            "body": "Round 3",
+                            "runtimeType": "gameNotification",
+                            "time": "2026-09-21T18:17:00.000000Z",
+                        },
                     },
                 }
             }
@@ -47,9 +52,11 @@ class LoadConversationsTests(unittest.TestCase):
         self.assertEqual(conversation.participants[1], "Cottage Cheese")
         self.assertIsNone(conversation.created_round)
         self.assertEqual(conversation.last_active_round, 2)
+        self.assertEqual(conversation.last_active_at.isoformat(), "2026-09-21T18:16:17.745874+00:00")
         self.assertEqual(conversation.messages[0].round_number, None)
         self.assertEqual(conversation.messages[1].round_number, 2)
         self.assertEqual(conversation.messages[2].round_number, 2)
+        self.assertEqual(conversation.messages[3].round_number, 3)
 
 
 if __name__ == "__main__":

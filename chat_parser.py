@@ -92,6 +92,7 @@ def load_conversations(json_path: str | Path) -> list[Conversation]:
         messages.sort(key=lambda item: item.time)
         participants = [unquote(str(player)) for player in _first_available(raw_conversation, ["participants", "members"], [])]
         name = str(_first_available(raw_conversation, ["name", "title"], conversation_id))
+        player_messages = [message for message in messages if message.runtime_type != "gameNotification"]
 
         conversations.append(
             Conversation(
@@ -100,7 +101,7 @@ def load_conversations(json_path: str | Path) -> list[Conversation]:
                 participants=participants,
                 messages=messages,
                 created_at=messages[0].time if messages else None,
-                last_active_at=messages[-1].time if messages else None,
+                last_active_at=player_messages[-1].time if player_messages else None,
                 created_round=None,
                 last_active_round=None,
             )
