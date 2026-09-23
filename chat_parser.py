@@ -28,6 +28,7 @@ class Conversation:
     messages: list[Message]
     created_at: Optional[datetime]
     last_active_at: Optional[datetime]
+    player_message_count: int
     created_round: Optional[int]
     last_active_round: Optional[int]
 
@@ -102,6 +103,7 @@ def load_conversations(json_path: str | Path) -> list[Conversation]:
                 messages=messages,
                 created_at=messages[0].time if messages else None,
                 last_active_at=player_messages[-1].time if player_messages else None,
+                player_message_count=len(player_messages),
                 created_round=None,
                 last_active_round=None,
             )
