@@ -53,6 +53,7 @@ class LoadConversationsTests(unittest.TestCase):
         self.assertIsNone(conversation.created_round)
         self.assertEqual(conversation.last_active_round, 2)
         self.assertEqual(conversation.last_active_at.isoformat(), "2026-09-21T18:16:17.745874+00:00")
+        self.assertEqual(conversation.player_message_count, 2)
         self.assertEqual(conversation.messages[0].round_number, None)
         self.assertEqual(conversation.messages[1].round_number, 2)
         self.assertEqual(conversation.messages[2].round_number, 2)
