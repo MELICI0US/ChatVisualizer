@@ -11,10 +11,11 @@ class ChatVisualizerApp(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("Chat Visualizer")
-        self.geometry("1200x720")
+        self.geometry("1800x900")
 
         self.conversations: list[Conversation] = []
         self.player_colors: dict[str, str] = {}
+        self.selected_conversation_id: str | None = None
 
         controls = ttk.Frame(self)
         controls.pack(fill=tk.X, padx=8, pady=8)
@@ -28,29 +29,31 @@ class ChatVisualizerApp(tk.Tk):
 
         left_panel = ttk.Frame(content)
         right_panel = ttk.Frame(content)
-        content.add(left_panel, weight=1)
-        content.add(right_panel, weight=2)
+        content.add(left_panel, weight=2)
+        content.add(right_panel, weight=1)
 
-        self.conversation_table = ttk.Treeview(
-            left_panel,
-            columns=("name", "creator", "participants", "message_count", "created_round", "last_round"),
-            show="headings",
-            selectmode="browse",
+        columns = (
+            ("name", "Conversation", 220),
+            ("creator", "Created By", 140),
+            ("participants", "Participants", 260),
+            ("message_count", "Player Messages", 110),
+            ("created_round", "Created In Round", 120),
+            ("last_round", "Last Used In Round", 120),
         )
-        self.conversation_table.heading("name", text="Conversation")
-        self.conversation_table.heading("creator", text="Created By")
-        self.conversation_table.heading("participants", text="Participants")
-        self.conversation_table.heading("message_count", text="Player Messages")
-        self.conversation_table.heading("created_round", text="Created In Round")
-        self.conversation_table.heading("last_round", text="Last Used In Round")
-        self.conversation_table.column("name", width=220)
-        self.conversation_table.column("creator", width=140)
-        self.conversation_table.column("participants", width=260)
-        self.conversation_table.column("message_count", width=110, anchor=tk.CENTER)
-        self.conversation_table.column("created_round", width=120, anchor=tk.CENTER)
-        self.conversation_table.column("last_round", width=120, anchor=tk.CENTER)
-        self.conversation_table.bind("<<TreeviewSelect>>", self._render_conversation)
-        self.conversation_table.pack(fill=tk.BOTH, expand=True)
+        self.table_column_widths = [width for _key, _heading, width in columns]
+        table = ttk.Frame(left_panel)
+        table.pack(fill=tk.BOTH, expand=True)
+        for column_index, (_key, heading, width) in enumerate(columns):
+            ttk.Label(table, text=heading, anchor=tk.W, padding=(4, 2)).grid(
+                row=0, column=column_index, sticky="nsew"
+            )
+            table.grid_columnconfigure(column_index, minsize=width, weight=1)
+        self.conversation_table = table
+        self.table_body = ttk.Frame(table)
+        self.table_body.grid(row=1, column=0, columnspan=len(columns), sticky="nsew")
+        for column_index, width in enumerate(self.table_column_widths):
+            self.table_body.grid_columnconfigure(column_index, minsize=width, weight=1)
+        table.grid_rowconfigure(1, weight=1)
 
         self.message_view = tk.Text(right_panel, wrap=tk.WORD, state=tk.DISABLED)
         self.message_view.pack(fill=tk.BOTH, expand=True)
@@ -75,33 +78,50 @@ class ChatVisualizerApp(tk.Tk):
         self._populate_conversations(Path(file_path).name)
 
     def _populate_conversations(self, file_name: str):
-        self.conversation_table.delete(*self.conversation_table.get_children())
-        for conversation in self.conversations:
-            participants = ", ".join(conversation.participants) if conversation.participants else "(not provided)"
-            creator = conversation.creator or "(not provided)"
-            message_count = conversation.player_message_count
-            created_round = conversation.created_round if conversation.created_round is not None else "1"
-            last_round = conversation.last_active_round if conversation.last_active_round is not None else "1"
-            self.conversation_table.insert(
-                "",
-                tk.END,
-                iid=conversation.conversation_id,
-                values=(conversation.name, creator, participants, message_count, created_round, last_round),
+        for child in self.table_body.winfo_children():
+            child.destroy()
+        for row_index, conversation in enumerate(self.conversations):
+            row = tk.Frame(self.table_body, borderwidth=0)
+            row.grid(row=row_index, column=0, sticky="ew")
+            for column_index, width in enumerate(self.table_column_widths):
+                row.grid_columnconfigure(column_index, minsize=width, weight=1)
+            values = (
+                conversation.name,
+                conversation.creator or "(not provided)",
+                conversation.participants,
+                conversation.player_message_count,
+                conversation.created_round if conversation.created_round is not None else "1",
+                conversation.last_active_round if conversation.last_active_round is not None else "1",
             )
+            for column_index, value in enumerate(values):
+                cell = tk.Frame(row, borderwidth=0, padx=4, pady=3)
+                cell.grid(row=0, column=column_index, sticky="nsew")
+                if column_index == 2 and isinstance(value, list):
+                    if value:
+                        for index, participant in enumerate(value):
+                            if index:
+                                tk.Label(cell, text=", ", fg="#374151").pack(side=tk.LEFT)
+                            self._colored_label(cell, participant).pack(side=tk.LEFT)
+                    else:
+                        tk.Label(cell, text="(not provided)", fg="#374151").pack(anchor=tk.W)
+                else:
+                    player = value if column_index == 1 and value != "(not provided)" else None
+                    label = self._colored_label(cell, player) if player else tk.Label(cell, text=str(value), fg="#374151")
+                    label.pack(anchor=tk.W)
+                self._bind_table_widget(cell, conversation.conversation_id)
+            self._bind_table_widget(row, conversation.conversation_id)
 
         self.status.configure(text=f"Loaded {len(self.conversations)} conversations from {file_name}")
-        first = self.conversation_table.get_children()
-        if first:
-            self.conversation_table.selection_set(first[0])
-            self._render_conversation(None)
+        if self.conversations:
+            self._select_conversation(self.conversations[0].conversation_id)
 
     def _render_conversation(self, _event):
-        selected = self.conversation_table.selection()
-        if not selected:
+        if self.selected_conversation_id is None:
             return
 
-        conversation_id = selected[0]
-        conversation = next((item for item in self.conversations if item.conversation_id == conversation_id), None)
+        conversation = next(
+            (item for item in self.conversations if item.conversation_id == self.selected_conversation_id), None
+        )
         if conversation is None:
             return
 
@@ -155,15 +175,34 @@ class ChatVisualizerApp(tk.Tk):
 
         self.message_view.config(state=tk.DISABLED)
 
-    def _player_tag(self, player: str) -> str:
-        tag = f"player-{player}"
+    def _select_conversation(self, conversation_id: str):
+        self.selected_conversation_id = conversation_id
+        self._render_conversation(None)
+
+    def _bind_table_widget(self, widget: tk.Widget, conversation_id: str):
+        widget.bind("<Button-1>", lambda _event: self._select_conversation(conversation_id))
+        for child in widget.winfo_children():
+            self._bind_table_widget(child, conversation_id)
+
+    def _colored_label(self, parent: tk.Widget, player: str) -> tk.Label:
+        color = self._player_color(player)
+        return tk.Label(parent, text=player, fg=color, font=("TkDefaultFont", 9, "bold"))
+
+    def _player_color(self, player: str) -> str:
         if player not in self.player_colors:
             color_index = len(self.player_colors)
             hue = (color_index * 0.618033988749895) % 1
             red, green, blue = colorsys.hsv_to_rgb(hue, 0.72, 0.72)
-            color = f"#{round(red * 255):02x}{round(green * 255):02x}{round(blue * 255):02x}"
-            self.player_colors[player] = color
-            self.message_view.tag_configure(tag, foreground=color, font=("TkDefaultFont", 10, "bold"))
+            self.player_colors[player] = f"#{round(red * 255):02x}{round(green * 255):02x}{round(blue * 255):02x}"
+        return self.player_colors[player]
+
+    def _player_tag(self, player: str) -> str:
+        tag = f"player-{player}"
+        if player not in self.player_colors:
+            self._player_color(player)
+        self.message_view.tag_configure(
+            tag, foreground=self.player_colors[player], font=("TkDefaultFont", 10, "bold")
+        )
         return tag
 
 
