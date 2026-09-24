@@ -3,7 +3,14 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from chat_parser import load_conversations
+from chat_parser import (
+    load_common_reasons,
+    load_conversations,
+    load_reasons,
+    reasons_path_for,
+    save_common_reasons,
+    save_reasons,
+)
 
 
 class LoadConversationsTests(unittest.TestCase):
@@ -59,6 +66,30 @@ class LoadConversationsTests(unittest.TestCase):
         self.assertEqual(conversation.messages[1].round_number, 2)
         self.assertEqual(conversation.messages[2].round_number, 2)
         self.assertEqual(conversation.messages[3].round_number, 3)
+
+    def test_loads_reasons_from_separate_file(self):
+        payload = {"conversations": {"group-a": {"name": "group", "participants": []}}}
+
+        with tempfile.TemporaryDirectory() as tmp:
+            export_path = Path(tmp) / "sample.json"
+            export_path.write_text(json.dumps(payload), encoding="utf-8")
+            reason_path = reasons_path_for(export_path)
+            save_reasons(reason_path, {"group-a": "random initial group"})
+
+            conversations = load_conversations(export_path)
+            saved_reasons = load_reasons(reason_path)
+
+        self.assertEqual(conversations[0].reason, "random initial group")
+        self.assertEqual(saved_reasons, {"group-a": "random initial group"})
+
+    def test_loads_and_saves_common_reasons(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "common_reasons.json"
+            save_common_reasons(path, ["random initial group", "combining groups"])
+
+            reasons = load_common_reasons(path)
+
+        self.assertEqual(reasons, ["random initial group", "combining groups"])
 
 
 if __name__ == "__main__":
