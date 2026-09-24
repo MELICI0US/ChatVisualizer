@@ -31,6 +31,7 @@ class Conversation:
     player_message_count: int
     created_round: Optional[int]
     last_active_round: Optional[int]
+    creator: Optional[str] = None
 
 
 def _parse_time(value: Optional[str]) -> Optional[datetime]:
@@ -100,6 +101,7 @@ def load_conversations(json_path: str | Path) -> list[Conversation]:
                 conversation_id=conversation_id,
                 name=name,
                 participants=participants,
+                creator=participants[0] if participants else None,
                 messages=messages,
                 created_at=messages[0].time if messages else None,
                 last_active_at=player_messages[-1].time if player_messages else None,

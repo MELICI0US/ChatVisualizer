@@ -12,7 +12,8 @@ Then click **Open JSON** and pick a chat export file.
 
 ## What it shows
 
-- All conversations and participants
+- All conversations, creators, and participants
+- Color-coded player names in the conversation details
 - Number of messages sent by players in each conversation
 - When each conversation was first created and when a player last sent a message
 - Round markers inferred from `gameNotification` messages (for example, "Round 2")

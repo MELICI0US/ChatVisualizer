@@ -50,6 +50,7 @@ class LoadConversationsTests(unittest.TestCase):
         self.assertEqual(len(conversations), 1)
         conversation = conversations[0]
         self.assertEqual(conversation.participants[1], "Cottage Cheese")
+        self.assertEqual(conversation.creator, "Swiss")
         self.assertIsNone(conversation.created_round)
         self.assertEqual(conversation.last_active_round, 2)
         self.assertEqual(conversation.last_active_at.isoformat(), "2026-09-21T18:16:17.745874+00:00")
