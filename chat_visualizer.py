@@ -29,8 +29,8 @@ class ChatVisualizerApp(tk.Tk):
 
         left_panel = ttk.Frame(content)
         right_panel = ttk.Frame(content)
-        content.add(left_panel, weight=2)
-        content.add(right_panel, weight=1)
+        content.add(left_panel, weight=2, minsize=1000)
+        content.add(right_panel, weight=1, minsize=500)
 
         columns = (
             ("name", "Conversation", 220),
@@ -98,10 +98,8 @@ class ChatVisualizerApp(tk.Tk):
                 cell.grid(row=0, column=column_index, sticky="nsew")
                 if column_index == 2 and isinstance(value, list):
                     if value:
-                        for index, participant in enumerate(value):
-                            if index:
-                                tk.Label(cell, text=", ", fg="#374151").pack(side=tk.LEFT)
-                            self._colored_label(cell, participant).pack(side=tk.LEFT)
+                        for participant in value:
+                            self._colored_label(cell, participant).pack(anchor=tk.W)
                     else:
                         tk.Label(cell, text="(not provided)", fg="#374151").pack(anchor=tk.W)
                 else:
