@@ -55,7 +55,7 @@ class ChatVisualizerApp(tk.Tk):
         self.message_view = tk.Text(right_panel, wrap=tk.WORD, state=tk.DISABLED)
         self.message_view.pack(fill=tk.BOTH, expand=True)
         self.message_view.tag_configure("round", foreground="#7f1d1d", font=("TkDefaultFont", 10, "bold"))
-        self.message_view.tag_configure("notification", foreground="#374151")
+        self.message_view.tag_configure("notification", foreground="#000000")
         self.message_view.tag_configure("metadata", foreground="#374151")
 
     def _open_json(self):
