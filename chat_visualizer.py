@@ -11,10 +11,13 @@ class ChatVisualizerApp(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("Chat Visualizer")
-        self.geometry("1200x720")
+        self.geometry("1600x720")
 
         self.conversations: list[Conversation] = []
         self.player_colors: dict[str, str] = {}
+        self.player_tags: dict[str, str] = {}
+        self.table_player_tags: dict[str, str] = {}
+        self._next_color_index = 0
 
         controls = ttk.Frame(self)
         controls.pack(fill=tk.X, padx=8, pady=8)
@@ -40,22 +43,23 @@ class ChatVisualizerApp(tk.Tk):
         self.conversation_table.heading("name", text="Conversation")
         self.conversation_table.heading("creator", text="Created By")
         self.conversation_table.heading("participants", text="Participants")
-        self.conversation_table.heading("message_count", text="Player Messages")
-        self.conversation_table.heading("created_round", text="Created In Round")
-        self.conversation_table.heading("last_round", text="Last Used In Round")
+        self.conversation_table.heading("message_count", text="# Messages")
+        self.conversation_table.heading("created_round", text="Created Round")
+        self.conversation_table.heading("last_round", text="Last Used Round")
         self.conversation_table.column("name", width=220)
         self.conversation_table.column("creator", width=140)
-        self.conversation_table.column("participants", width=260)
+        self.conversation_table.column("participants", width=140)
         self.conversation_table.column("message_count", width=110, anchor=tk.CENTER)
         self.conversation_table.column("created_round", width=120, anchor=tk.CENTER)
         self.conversation_table.column("last_round", width=120, anchor=tk.CENTER)
+        self.conversation_table.tag_configure("conversation-separator", foreground="#9ca3af")
         self.conversation_table.bind("<<TreeviewSelect>>", self._render_conversation)
         self.conversation_table.pack(fill=tk.BOTH, expand=True)
 
         self.message_view = tk.Text(right_panel, wrap=tk.WORD, state=tk.DISABLED)
         self.message_view.pack(fill=tk.BOTH, expand=True)
         self.message_view.tag_configure("round", foreground="#7f1d1d", font=("TkDefaultFont", 10, "bold"))
-        self.message_view.tag_configure("notification", foreground="#374151")
+        self.message_view.tag_configure("notification", foreground="#000000")
         self.message_view.tag_configure("metadata", foreground="#374151")
 
     def _open_json(self):
@@ -76,18 +80,36 @@ class ChatVisualizerApp(tk.Tk):
 
     def _populate_conversations(self, file_name: str):
         self.conversation_table.delete(*self.conversation_table.get_children())
-        for conversation in self.conversations:
-            participants = ", ".join(conversation.participants) if conversation.participants else "(not provided)"
+        for conversation_index, conversation in enumerate(self.conversations):
             creator = conversation.creator or "(not provided)"
             message_count = conversation.player_message_count
             created_round = conversation.created_round if conversation.created_round is not None else "1"
             last_round = conversation.last_active_round if conversation.last_active_round is not None else "1"
-            self.conversation_table.insert(
-                "",
-                tk.END,
-                iid=conversation.conversation_id,
-                values=(conversation.name, creator, participants, message_count, created_round, last_round),
-            )
+            participants = conversation.participants or ["(not provided)"]
+            for index, participant in enumerate(participants):
+                player_tag = self._table_player_tag(participant) if participant != "(not provided)" else ()
+                self.conversation_table.insert(
+                    "",
+                    tk.END,
+                    iid=f"{conversation.conversation_id}:{index}",
+                    values=(
+                        conversation.name if index == 0 else "",
+                        creator if index == 0 else "",
+                        participant,
+                        message_count if index == 0 else "",
+                        created_round if index == 0 else "",
+                        last_round if index == 0 else "",
+                    ),
+                    tags=(player_tag,) if player_tag else (),
+                )
+            if conversation_index < len(self.conversations) - 1:
+                self.conversation_table.insert(
+                    "",
+                    tk.END,
+                    iid=f"__separator__{conversation_index}",
+                    values=("-" * 18, "-" * 12, "-" * 20, "-" * 8, "-" * 10, "-" * 10),
+                    tags=("conversation-separator",),
+                )
 
         self.status.configure(text=f"Loaded {len(self.conversations)} conversations from {file_name}")
         first = self.conversation_table.get_children()
@@ -100,7 +122,11 @@ class ChatVisualizerApp(tk.Tk):
         if not selected:
             return
 
-        conversation_id = selected[0]
+        if "conversation-separator" in self.conversation_table.item(selected[0], "tags"):
+            self.conversation_table.selection_remove(selected[0])
+            return
+
+        conversation_id = selected[0].rsplit(":", 1)[0]
         conversation = next((item for item in self.conversations if item.conversation_id == conversation_id), None)
         if conversation is None:
             return
@@ -146,9 +172,7 @@ class ChatVisualizerApp(tk.Tk):
                 current_round = marker
 
             timestamp = message.time.isoformat()
-            if message.runtime_type == "gameNotification":
-                self.message_view.insert(tk.END, f"[GAME] {message.body}\n", "notification")
-            else:
+            if message.runtime_type != "gameNotification":
                 sender = unquote(message.sender or "Unknown")
                 self.message_view.insert(tk.END, f"{sender}: ", self._player_tag(sender))
                 self.message_view.insert(tk.END, f"{message.body}\n")
@@ -156,14 +180,36 @@ class ChatVisualizerApp(tk.Tk):
         self.message_view.config(state=tk.DISABLED)
 
     def _player_tag(self, player: str) -> str:
-        tag = f"player-{player}"
-        if player not in self.player_colors:
-            color_index = len(self.player_colors)
-            hue = (color_index * 0.618033988749895) % 1
+        tag = self.player_tags.get(player)
+        if tag is None:
+            tag = f"player-{len(self.player_tags)}"
+            self.player_tags[player] = tag
+        color = self._ensure_player_color(player)
+        self.message_view.tag_configure(tag, foreground=color, font=("TkDefaultFont", 10, "bold"))
+        return tag
+
+    def _ensure_player_color(self, player: str) -> str:
+        color = self.player_colors.get(player)
+        if color is not None:
+            return color
+
+        while True:
+            hue = (self._next_color_index * 0.618033988749895) % 1
+            self._next_color_index += 1
             red, green, blue = colorsys.hsv_to_rgb(hue, 0.72, 0.72)
             color = f"#{round(red * 255):02x}{round(green * 255):02x}{round(blue * 255):02x}"
-            self.player_colors[player] = color
-            self.message_view.tag_configure(tag, foreground=color, font=("TkDefaultFont", 10, "bold"))
+            if color != "#000000" and color not in self.player_colors.values():
+                break
+
+        self.player_colors[player] = color
+        return color
+
+    def _table_player_tag(self, player: str) -> str:
+        tag = self.table_player_tags.get(player)
+        if tag is None:
+            tag = f"table-player-{len(self.table_player_tags)}"
+            self.table_player_tags[player] = tag
+        self.conversation_table.tag_configure(tag, foreground=self._ensure_player_color(player))
         return tag
 
 
