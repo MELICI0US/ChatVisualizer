@@ -1,0 +1,893 @@
+{
+  "conversations": {
+    "-ODw4OeWPWfHYdZDgcRK": {
+      "conversationId": "-ODw4OeWPWfHYdZDgcRK",
+      "messages": {
+        "-ODw4PyeaGbkEytiGjaM": {
+          "body": "firefox gang",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:15:58.124505Z"
+        },
+        "-ODw4mXb8H0x94A-5hv5": {
+          "body": "firefox boys making firefox noise",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:17:34.633485Z"
+        },
+        "-ODw4nqtzEfHCMeQea78": {
+          "body": "Up + Special",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:17:40.028197Z"
+        },
+        "-ODw5SEwGt8pv5MxSk_g": {
+          "body": "3 to everyone from me",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:29.566779Z"
+        },
+        "-ODw5TbHYuiP36FehZLQ": {
+          "body": "Same",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:35.156977Z"
+        },
+        "-ODw5Z3rKjS2HhIenPdB": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:20:57.529868Z"
+        },
+        "-ODw5bZrsaMVu00F1NAd": {
+          "body": "WHAT THE",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:21:11.866316Z"
+        },
+        "-ODw5cQKmMH6HO8xdfOf": {
+          "body": "you guys suck",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:21:15.352272Z"
+        },
+        "-ODw5dQyDbxZ-1ojPDNT": {
+          "body": "i literally gave to you",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:21:19.488988Z"
+        },
+        "-ODw5f4MKFFvhA4XXXuZ": {
+          "body": "youre done",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:21:26.233633Z"
+        },
+        "-ODw655VJJaTeJ5RyiVZ": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:23:16.899104Z"
+        },
+        "-ODw6YgvNUdpCjYxWjxB": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:25:18.142411Z"
+        },
+        "-ODw74JqgWtnnHC6owyG": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:27:35.865471Z"
+        },
+        "-ODw7UiNDctRwAMGjdvU": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:29:23.995056Z"
+        }
+      },
+      "name": "Firefox gang",
+      "participants": [
+        "Charlie",
+        "Whiskey",
+        "Juliett",
+        "Bravo"
+      ]
+    },
+    "-ODw4yblc7wNkdrzTfm3": {
+      "conversationId": "-ODw4yblc7wNkdrzTfm3",
+      "messages": {
+        "-ODw52H6uqLU74hV8qX8": {
+          "body": "Lets join",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:18:43.210353Z"
+        },
+        "-ODw53Fqw4x3orGSyGoa": {
+          "body": "together",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:18:47.224735Z"
+        },
+        "-ODw5Cm4Ho06isZCR7UO": {
+          "body": "Juliett",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:26.215738Z"
+        },
+        "-ODw5DdvrRg7914p_eur": {
+          "body": "You down? ",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:29.789765Z"
+        },
+        "-ODw5GXZ0I_cJ356cqbY": {
+          "body": "Okay",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:41.606612Z"
+        },
+        "-ODw5ICc33_Vh1N_rKqP": {
+          "body": "What about giving 7? or what do you think",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:48.458819Z"
+        },
+        "-ODw5JhiyyfBvr269fVK": {
+          "body": "Deal",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:54.609327Z"
+        },
+        "-ODw5JsUw0YT6HA_gl7d": {
+          "body": "I can do more too",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:55.298162Z"
+        },
+        "-ODw5Z3y2Rkv8Z6fT681": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:20:57.537078Z"
+        },
+        "-ODw5ir54ghP4ENc8IIV": {
+          "body": "Wanna give more? ",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:21:41.705006Z"
+        },
+        "-ODw5l67DCHJrhN-tG4f": {
+          "body": "charlie, whiskey and zulu stole from me",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:21:50.922523Z"
+        },
+        "-ODw5meSO7zoz-la9Duo": {
+          "body": "so I dont wanna give anymore",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:21:57.280055Z"
+        },
+        "-ODw5oLviFMa8FSDEUSE": {
+          "body": "giving you 10",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:22:04.221546Z"
+        },
+        "-ODw5ophBJvrs-PJL8FY": {
+          "body": "Wanna bump up to 10?",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:22:06.192152Z"
+        },
+        "-ODw5pDjgQjnZYdFdGIg": {
+          "body": "sounds good",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:22:07.793982Z"
+        },
+        "-ODw655cO2KQ7BwZQ4-2": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:23:16.906709Z"
+        },
+        "-ODw6EzuwWYVr_SW2_Vy": {
+          "body": "The gang stole from me",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:23:57.436697Z"
+        },
+        "-ODw6IwEqqAxij5uhGuT": {
+          "body": "government punishes stealing",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:24:13.585541Z"
+        },
+        "-ODw6KNi_4nHdf5PORNx": {
+          "body": "you should keep instead of stealing back",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:24:19.505295Z"
+        },
+        "-ODw6N-DoMxiyDwiRhjl": {
+          "body": "want to give 12 and then you keep the rest? ",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:24:30.224986Z"
+        },
+        "-ODw6SFLUuqp8_OUpndG": {
+          "body": "lol I'd keep 1",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:24:51.737152Z"
+        },
+        "-ODw6UVo8LuypsfgsXxd": {
+          "body": "Then 10? or less",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:25:00.983055Z"
+        },
+        "-ODw6WR3u9bBsSFDdjdz": {
+          "body": "I'll do 10",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:25:08.871163Z"
+        },
+        "-ODw6XSQ1yvobMRff2uT": {
+          "body": "sounds good!",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:25:13.054447Z"
+        },
+        "-ODw6Yh1giYXoLX6zWZn": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:25:18.149336Z"
+        },
+        "-ODw6g8g1La_-Xe38D9T": {
+          "body": "Stick with 10?",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:25:52.750510Z"
+        },
+        "-ODw6hEGo-Ho7KjPR1Em": {
+          "body": "sounds good",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:25:57.203858Z"
+        },
+        "-ODw74JyxLcjZWzyq_6i": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:27:35.873458Z"
+        },
+        "-ODw7PZYy3LzOAGEcr3R": {
+          "body": "I'm going to bump it up to 13",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:29:02.885882Z"
+        },
+        "-ODw7QXaNgJO1BXmwo7k": {
+          "body": "You in>",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:29:06.857146Z"
+        },
+        "-ODw7Qu05SUV4NADkVlX": {
+          "body": "?",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:29:08.356319Z"
+        },
+        "-ODw7RuY4fjcdtxGkGzx": {
+          "body": "Yup",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:29:12.485675Z"
+        },
+        "-ODw7UiVGjB_jEwqObjg": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:29:24.003160Z"
+        }
+      },
+      "name": "rich",
+      "participants": [
+        "Bravo",
+        "Juliett"
+      ]
+    },
+    "-ODw56qLxgZkhEAR0pzw": {
+      "conversationId": "-ODw56qLxgZkhEAR0pzw",
+      "messages": {
+        "-ODw59akBhWnIT8v_ZD_": {
+          "body": "poor guys stand up",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:13.202457Z"
+        },
+        "-ODw5AwXHArNy8cIzEDH": {
+          "body": "everyone steal from the rich",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:18.693256Z"
+        },
+        "-ODw5BLuH8T6QqWFWAOR": {
+          "body": "robin hood",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:20.381121Z"
+        },
+        "-ODw5BszYEHtfH8BDpxo": {
+          "body": "the government is beating me blind",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:22.561573Z"
+        },
+        "-ODw5E-7Fl7e_5K1vfI5": {
+          "body": "also if we steal from the rich the government punishes us",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:31.211342Z"
+        },
+        "-ODw5FR096WCqjqTTUOo": {
+          "body": "oh fr",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:37.092407Z"
+        },
+        "-ODw5FTtHyau_xnqQcn8": {
+          "body": "revolution",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:37.276282Z"
+        },
+        "-ODw5G3AHy7Mpc9GcX3J": {
+          "body": "best that we just gang up and become the strongest group",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:39.662286Z"
+        },
+        "-ODw5HlV77AY8BHyva6v": {
+          "body": "revolution",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:46.659310Z"
+        },
+        "-ODw5HoMO5WtZNuYPDaX": {
+          "body": "how about we steal from the middle class",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:46.841632Z"
+        },
+        "-ODw5JBI7MJEmuTo75UA": {
+          "body": "what do we do",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:52.469784Z"
+        },
+        "-ODw5KqPljz9sUd-X522": {
+          "body": "ok if we steal in small amounts",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:19:59.261225Z"
+        },
+        "-ODw5LPoPnvk-zJvQF9W": {
+          "body": "give me handouts",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:01.591229Z"
+        },
+        "-ODw5LcQEVD2_iiO-ZoL": {
+          "body": "the government should overlook it",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:02.461641Z"
+        },
+        "-ODw5Madeq03apEeVMhU": {
+          "body": "no more than 2 or 3 tokens",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:06.444282Z"
+        },
+        "-ODw5Q2g3D8dMATkd7BG": {
+          "body": "I shall steal 3 tokens from the richest as a sacrifice",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:20.591337Z"
+        },
+        "-ODw5RYUetr5G4uPpTVp": {
+          "body": "so shall I",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:26.722143Z"
+        },
+        "-ODw5T2WNAdrh_pitUCG": {
+          "body": "and give the rest to you guys and the govt",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:32.868246Z"
+        },
+        "-ODw5Txv0Mkh79ECRxd_": {
+          "body": "and so it begins.",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:36.605855Z"
+        },
+        "-ODw5UzPbB1NgUyhjlEq": {
+          "body": "the glorious revolution is not",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:40.797440Z"
+        },
+        "-ODw5VRNSCAClxCgvnQT": {
+          "body": "*now",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:42.650946Z"
+        },
+        "-ODw5VZxwwX5FCBUXRpw": {
+          "body": "agreed",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:43.199580Z"
+        },
+        "-ODw5X4SuyavpFIgD9dK": {
+          "body": "down with the proletariate",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:49.375550Z"
+        },
+        "-ODw5XqQ7-ks5OyuiuhW": {
+          "body": "idk how to spell that",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:52.510027Z"
+        },
+        "-ODw5Z44Qg4FTx44dJpW": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:20:57.543998Z"
+        },
+        "-ODw5lTy2h86ZZEAiY7A": {
+          "body": "taking 2 apeice from the 2 richest platers giving the rest of yall 2",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:21:52.449432Z"
+        },
+        "-ODw5lZ289NsLD6ZCBqC": {
+          "body": "down with juliette",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:21:52.773588Z"
+        },
+        "-ODw5nHmesEIKrT-xb2h": {
+          "body": "everyone take 5 from jul",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:21:59.861294Z"
+        },
+        "-ODw5oBFrM3XvCG7AaoI": {
+          "body": "Perfect",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:22:03.539301Z"
+        },
+        "-ODw5ogbOo9r1Zo2f7RS": {
+          "body": "lets do it",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:22:05.609670Z"
+        },
+        "-ODw5pA32IpqyUEykTOW": {
+          "body": "down with the proletariat!!!",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:22:07.559082Z"
+        },
+        "-ODw5wWYGHwpkjdiMc_U": {
+          "body": "down with the bourgeoisie!!!",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:22:37.670392Z"
+        },
+        "-ODw655joddKTmgCdd_x": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:23:16.914360Z"
+        },
+        "-ODw65Shi_NOGG_ViPQK": {
+          "body": "let's break the system",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:23:18.383921Z"
+        },
+        "-ODw6DOOez2POGbCrFx6": {
+          "body": "who we stealing from this time",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:23:50.875827Z"
+        },
+        "-ODw6DzGlVEMlK8vGMom": {
+          "body": "dont tread on me",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:23:53.299538Z"
+        },
+        "-ODw6GovH1Nqb8jUA2v3": {
+          "body": "lets bring down the gov",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:24:04.925922Z"
+        },
+        "-ODw6I4P-_XeGdY6gyvN": {
+          "body": "the whole system has to go down",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:24:10.076673Z"
+        },
+        "-ODw6JC_eBBt6y0-7CzJ": {
+          "body": "-16",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:24:14.696134Z"
+        },
+        "-ODw6L3yZulUkUxkzZzR": {
+          "body": "all in on govt5",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:24:22.336815Z"
+        },
+        "-ODw6LBZwS3fSosa-jTH": {
+          "body": "we stand united",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:24:22.822509Z"
+        },
+        "-ODw6LXHBxmESbAI2Ln_": {
+          "body": "we all steal max from government??",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:24:24.212488Z"
+        },
+        "-ODw6Mc4DT8jIySHC4ad": {
+          "body": "rise up againsyt the creepy meatball",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:24:28.680158Z"
+        },
+        "-ODw6NoOr9OUJLaGaIb8": {
+          "body": "pastatherian moment",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:24:33.563541Z"
+        },
+        "-ODw6S2Lbs_NlTtqvWXA": {
+          "body": "everyone take 16 from government",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:24:50.904599Z"
+        },
+        "-ODw6T-4db1VLg2xtyti": {
+          "body": "we can work together",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:24:54.791867Z"
+        },
+        "-ODw6UYrrJookVj64PrB": {
+          "body": "Everyone against the govment?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:25:01.177687Z"
+        },
+        "-ODw6W390d3jiRKoZ7x3": {
+          "body": "everyone agaisnt the government",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:25:07.340490Z"
+        },
+        "-ODw6Y8CQ6HvIyuhciwK": {
+          "body": "when tyranny becomes law, resistance becomes duty",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:25:15.856259Z"
+        },
+        "-ODw6Yh9S0b8AEvCjqYE": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:25:18.156555Z"
+        },
+        "-ODw6dSV6-BE-u3f4B_4": {
+          "body": "we are no cowards",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:25:41.730585Z"
+        },
+        "-ODw6dpMaSLZHBJFnBGG": {
+          "body": "proceed",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:25:43.258123Z"
+        },
+        "-ODw6e8_xrnEemm8gU_Q": {
+          "body": "AGAIN! EVERYONE AGAINST THE GOVERNMENT",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:25:44.551860Z"
+        },
+        "-ODw6eg3QtqT4D-xqe8l": {
+          "body": "full throttle",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:25:46.758663Z"
+        },
+        "-ODw6ewmmM3KH81RuJlT": {
+          "body": "We will not surrender",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:25:47.828888Z"
+        },
+        "-ODw6g6gGDOYOmfnG3p8": {
+          "body": "all gas no brakes",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:25:52.622549Z"
+        },
+        "-ODw6nLtpa0rmooXOxRl": {
+          "body": "GIVE ME LIBERTY OR GIVE ME DEATH",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:26:22.268413Z"
+        },
+        "-ODw74K6ppHVtN6ymA4f": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:27:35.881717Z"
+        },
+        "-ODw7CrVOiHWcxLKNJ5R": {
+          "body": "ok maybe we regroup",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:28:10.851332Z"
+        },
+        "-ODw7EiWbc03SS3X5m-j": {
+          "body": "still full steal from government?",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:28:18.467578Z"
+        },
+        "-ODw7OOzUzfB0PilhvUz": {
+          "body": "I say we attack juliet",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:28:58.114366Z"
+        },
+        "-ODw7PSplCSa6cJj8HUa": {
+          "body": "she can suck it",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:29:02.456313Z"
+        },
+        "-ODw7PXncAvfTFDTUjKZ": {
+          "body": "yes",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:29:02.773524Z"
+        },
+        "-ODw7QRW5QT09nVcwfdO": {
+          "body": "all in on jules",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:29:06.468299Z"
+        },
+        "-ODw7TzuL2eXR3AgkIfl": {
+          "body": "boom go",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:29:21.020852Z"
+        },
+        "-ODw7Uid4Z_k76rtuKcu": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:29:24.012050Z"
+        }
+      },
+      "name": "poor gang",
+      "participants": [
+        "Charlie",
+        "Whiskey",
+        "Zulu",
+        "Delta"
+      ]
+    },
+    "-ODw5SUrZO894BOa2suy": {
+      "conversationId": "-ODw5SUrZO894BOa2suy",
+      "messages": {
+        "-ODw5UFVqUV0wxLdEbY_": {
+          "body": "Would you like to be friends?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:37.795448Z"
+        },
+        "-ODw5VQmh794MFrcLfei": {
+          "body": "Sending you 5",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:42.612872Z"
+        },
+        "-ODw5WjjN_3wg97WV4pq": {
+          "body": "okay 5 as well",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:20:47.986341Z"
+        },
+        "-ODw5Z4C9OgPp7wANR1L": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:20:57.551696Z"
+        },
+        "-ODw655rRmMlNlGsOZ4K": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:23:16.921953Z"
+        },
+        "-ODw6OWpiCtKrkDJ8TPD": {
+          "body": "Sending you 8",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:24:36.471919Z"
+        },
+        "-ODw6QiFKK70XMGurXyF": {
+          "body": "same",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:24:45.459406Z"
+        },
+        "-ODw6YhG1oy-aEy-DyaF": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:25:18.163495Z"
+        },
+        "-ODw6x7qgzqmlGjvXTVZ": {
+          "body": "Sending 8 again",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:27:02.329068Z"
+        },
+        "-ODw7-dvVgyYBB-a-mVh": {
+          "body": "sounds good",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:27:16.734247Z"
+        },
+        "-ODw74KDKKAUdFK0PXrb": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:27:35.888930Z"
+        },
+        "-ODw7UilPCUvvsqUuDZv": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:29:24.019609Z"
+        }
+      },
+      "name": "Middle class",
+      "participants": [
+        "Delta",
+        "Kilo"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-ODw3Yf7rsV9wnS7mmud": {
+          "body": "hi",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:12:11.594839Z"
+        },
+        "-ODw3abC4OhovnK87E8n": {
+          "body": "howdy",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:12:23.631701Z"
+        },
+        "-ODw3boj9Sovw_V1ufBe": {
+          "body": "mic test",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:12:28.594215Z"
+        },
+        "-ODw3dohdcqJsj-UP6Iz": {
+          "body": "1 2 1 2 ",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:12:36.784190Z"
+        },
+        "-ODw3dpZZhXWgt9F0r4v": {
+          "body": "mic test beep beep beep",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:12:36.838777Z"
+        },
+        "-ODw3ir0pkR4t4p3oRU8": {
+          "body": "Yo",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:12:57.412064Z"
+        },
+        "-ODw3kUDoHgm5r2HQWPX": {
+          "body": "I vote regressive tax",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:13:04.080550Z"
+        },
+        "-ODw3nCwESQpdFy6h7Am": {
+          "body": "The rich must stay rich",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:13:15.262999Z"
+        },
+        "-ODw4No4X2qAOXGuO78L": {
+          "body": "I would like a crepe please",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:15:49.255882Z"
+        },
+        "-ODw4OnIl0uYOSEnSDyG": {
+          "body": "someone make me a crepe",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:15:53.302371Z"
+        },
+        "-ODw5Z3j8OvjS2y0ruwX": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:20:57.522266Z"
+        },
+        "-ODw655OkVbDqy2msjFh": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:23:16.891620Z"
+        },
+        "-ODw6YgoELtyQD1W9ffT": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:25:18.135436Z"
+        },
+        "-ODw70E87P5amZEdVY2D": {
+          "body": "let the record show ",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:27:19.115672Z"
+        },
+        "-ODw70qIuU84_uKnn7zJ": {
+          "body": "who wants to join our revolution",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:27:21.621777Z"
+        },
+        "-ODw70xJbJgLDKTFe4Cu": {
+          "body": "I am a man of honor",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:27:22.071092Z"
+        },
+        "-ODw74Jgu67KCTMxfLC0": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:27:35.854938Z"
+        },
+        "-ODw74vPv-6RBMNzfDGf": {
+          "body": "corruption abounds",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:27:38.333330Z"
+        },
+        "-ODw7UiG3T1u50ttiWXf": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:29:23.987776Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "conversations": {
+    "-OyKj7Qr74MQf_indV4R": {
+      "conversationId": "-OyKj7Qr74MQf_indV4R",
+      "messages": {
+        "-OyKj8tjvx8giNItrjbG": {
+          "body": "go to med school ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:06:34.353289Z"
+        },
+        "-OyKjBYTFatGLTJtee0J": {
+          "body": "Me?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:06:45.216223Z"
+        },
+        "-OyKjEYaRJq6phM_lv0t": {
+          "body": "but I wanna persue the arts",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:06:57.512605Z"
+        },
+        "-OyKjFPzdI8NoLbIBC8H": {
+          "body": "I will make those who buy insurance go to you for heal requests",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:07:01.057895Z"
+        },
+        "-OyKjQIB8aJk3MT3kYRR": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:07:45.614503Z"
+        },
+        "-OyKjy2N3ZhCYDrkQLkj": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:10:07.962592Z"
+        },
+        "-OyKk9uRkSIzwriTy17I": {
+          "body": "2 more rounds ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:11:00.638221Z"
+        },
+        "-OyKkBNlXsrawNl2phxN": {
+          "body": "then we will rule the world ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:11:06.676055Z"
+        },
+        "-OyKkTQ0Fs6_saKRCHPQ": {
+          "body": "giving you 2 tokens ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:12:20.548178Z"
+        },
+        "-OyKkUpfzUb-iPcxQFr6": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:12:26.349692Z"
+        },
+        "-OyKknMJefDTHurX_cux": {
+          "body": "sending you 3 tokens",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:13:46.326708Z"
+        },
+        "-OyKl-dONCbp2OtuaCo4": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:14:40.731399Z"
+        },
+        "-OyKlIQ-GXEFlnTS8mK_": {
+          "body": "heal me",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:15:57.634870Z"
+        },
+        "-OyKlMzL1ieqO39Tgigi": {
+          "body": "will do",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:16:16.345077Z"
+        },
+        "-OyKlQ9iLvZO2SOugffP": {
+          "body": "sorry i forgot to give you the homie discount",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:16:29.360882Z"
+        },
+        "-OyKlRL3GJ87Cq2HFA7Y": {
+          "body": "next time",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:16:34.182456Z"
+        },
+        "-OyKlU2PBBWi45Uc2oK_": {
+          "body": "i just clikced it ive never been dr before",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:16:45.276870Z"
+        },
+        "-OyKlYy2lZGlrQD-P1Ju": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:17:05.413496Z"
+        },
+        "-OyKm0J0GGgyr9nPOm7K": {
+          "body": "I'm reimbursing you for the heal on uniform ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:19:05.604151Z"
+        },
+        "-OyKm1LdnhOCjgkP5PzM": {
+          "body": "plus a bonus ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:19:09.867403Z"
+        },
+        "-OyKm3TAYZUIeTGadXBe": {
+          "body": "oh thanks bro",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:19:18.541291Z"
+        },
+        "-OyKm3_4nXxxMybdo8JT": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:19:18.983510Z"
+        }
+      },
+      "name": "doctor/insurance",
+      "participants": [
+        "Victor",
+        "X-ray"
+      ]
+    },
+    "-OyKk_65sKeo3paUxBk5": {
+      "conversationId": "-OyKk_65sKeo3paUxBk5",
+      "messages": {
+        "-OyKkb2LIzo60L57L3TK": {
+          "body": "thank you for being a loyal customer",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:12:55.896585Z"
+        },
+        "-OyKl-dUyBJBUc-WmuMM": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:14:40.737923Z"
+        },
+        "-OyKlYy8ugTEzsfalrAE": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:17:05.419430Z"
+        },
+        "-OyKlkAckbSopsD8f3st": {
+          "body": "you're welcome",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:17:55.435074Z"
+        },
+        "-OyKlkMm_42Wh4PL9Obu": {
+          "body": "love you",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:17:56.212981Z"
+        },
+        "-OyKm3_9d7WLgjj0HIi6": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:19:18.989192Z"
+        }
+      },
+      "name": "insurance",
+      "participants": [
+        "Victor",
+        "Mike"
+      ]
+    },
+    "-OyKm13MjoIJdxVJUIJ-": {
+      "conversationId": "-OyKm13MjoIJdxVJUIJ-",
+      "messages": {
+        "-OyKm3_GAAzpN5eRHPHR": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:19:18.995744Z"
+        }
+      },
+      "name": "friend",
+      "participants": [
+        "X-ray",
+        "Uniform"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-OyKitEgckzM0sTxtX33": {
+          "body": "wusss goody",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:05:26.127155Z"
+        },
+        "-OyKiuH1A6z1OX1iX0Jk": {
+          "body": "hello my children",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:05:30.372747Z"
+        },
+        "-OyKiwaB-wL7dVUIUNuj": {
+          "body": "hi guys! anyone wanna be my friend?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:05:39.854519Z"
+        },
+        "-OyKixc4qC6l9hOPmfIn": {
+          "body": "please buy my insurance",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:05:44.071562Z"
+        },
+        "-OyKj0P4UbUIt_1010mH": {
+          "body": "who all going to med schoool",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:05:59.560077Z"
+        },
+        "-OyKj1Lnk-rIF8MMf_BF": {
+          "body": "Im so lonely and I need friends",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:06:03.445505Z"
+        },
+        "-OyKj4qM-9a4nA8tTbP5": {
+          "body": "please",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:06:17.754071Z"
+        },
+        "-OyKj9m9h4okpKwxOz9Y": {
+          "body": "ILL BE YO FRIEND",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:06:37.965073Z"
+        },
+        "-OyKjIYpptNIXtQwJkJI": {
+          "body": "Thanks mike I'll giv you tokens",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:07:13.911789Z"
+        },
+        "-OyKjLLhoUQielH5ZOZ8": {
+          "body": "yo everyone gets one free token from mne",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:07:25.360021Z"
+        },
+        "-OyKjQI5WL6vnmUkvZjl": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:07:45.608545Z"
+        },
+        "-OyKjbP8ytNV6gtLlZtM": {
+          "body": "now is a great time to buy insurance ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:08:35.211223Z"
+        },
+        "-OyKjnYQPHPB1dAtxaju": {
+          "body": "yo hotel this med school is kicking my butt am I right",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:09:24.958062Z"
+        },
+        "-OyKjqxVmqfL2ufS98wC": {
+          "body": "rip social life",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:09:38.914294Z"
+        },
+        "-OyKjy2Hh9EqyMWtFFcp": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:10:07.957205Z"
+        },
+        "-OyKk2UeodWXCVizx1QH": {
+          "body": "Hotel is attacking a fellow doctor",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:10:30.252853Z"
+        },
+        "-OyKk5hmpyRk8OLQfzB2": {
+          "body": "He cares not for our wellbeing",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:10:43.444303Z"
+        },
+        "-OyKkA9yfg2FVEP3eHX6": {
+          "body": "He cannot be trusted with our care",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:11:01.696370Z"
+        },
+        "-OyKkDLcfWk3kp8Mxfqj": {
+          "body": "true",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:11:14.730706Z"
+        },
+        "-OyKkEiskxzd0BI9_Dml": {
+          "body": "i am a nigerian prince i need money for med school",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:11:20.378313Z"
+        },
+        "-OyKkL-qI_oX4n5g7ePM": {
+          "body": "please i need tokens ill give you very many health if i become doctor for all",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:11:46.105086Z"
+        },
+        "-OyKkLDBEWBHLbMxMbaC": {
+          "body": "X-ray is the doctor that the insurance company endorses",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:11:46.958387Z"
+        },
+        "-OyKkOo-bAqR0-zki6td": {
+          "body": "I love not attacking people",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:12:01.667074Z"
+        },
+        "-OyKkPOFX13Rb_peylRU": {
+          "body": "If you agree to be healed by X-ray I will approve your claims ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:12:04.050785Z"
+        },
+        "-OyKkS4MDA24cO85VQLz": {
+          "body": "naw cuh",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:12:15.065418Z"
+        },
+        "-OyKkSrSb5PdLx_1KR_0": {
+          "body": "I'm the best doctor",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:12:18.271641Z"
+        },
+        "-OyKkT3smBV-ohOnZoZl": {
+          "body": "he a lil jit",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:12:19.130605Z"
+        },
+        "-OyKkUp_O-VHy4j3p3EY": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:12:26.343439Z"
+        },
+        "-OyKkcpipMZi8e1yDBG7": {
+          "body": "gang can you stop funding hotel's attack on me",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:13:03.217035Z"
+        },
+        "-OyKki2a-LlZ1whb8xE1": {
+          "body": "sry ill give u 5 if u give me 3",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:13:24.584659Z"
+        },
+        "-OyKkidNNg-E3Glm09v7": {
+          "body": "hes stolen 10 tokens from me now for no reason",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:13:27.002248Z"
+        },
+        "-OyKkj26MHzbsr3OvOoP": {
+          "body": "ive got 3 rn",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:13:28.649239Z"
+        },
+        "-OyKkjAgVQq1YxMRU0Yg": {
+          "body": "Im fr dyung",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:13:29.198483Z"
+        },
+        "-OyKklZB1hknajCEbjWZ": {
+          "body": "noooo unifmorm ",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:13:38.958820Z"
+        },
+        "-OyKknGCwXcYxfYUMV8q": {
+          "body": "ill help u lil homie",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:13:45.935987Z"
+        },
+        "-OyKkqaD2cHJQh66eTXj": {
+          "body": "uniform I'll give discounts if you cut off hotel",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:13:59.568659Z"
+        },
+        "-OyKkuqV180s7xSG5hmC": {
+          "body": "iff someon gives me 3 ill givce him 5 so he can live",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:14:16.994199Z"
+        },
+        "-OyKkvTDNgEcPzQBh6c5": {
+          "body": "just you wait I got tokens coming your way",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:14:19.537086Z"
+        },
+        "-OyKl-dHO54l58ZSjrBw": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:14:40.724930Z"
+        },
+        "-OyKl9VgpRskXoJldU4i": {
+          "body": "i am benito musolini free health car for all",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:15:21.134817Z"
+        },
+        "-OyKlDfYcYxwqa_4w9Fo": {
+          "body": "request treatment unifrom ill heal u",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:15:38.213311Z"
+        },
+        "-OyKlKr4yN6XTkj6LkP4": {
+          "body": "ive got 15 ap who need free health care",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:16:07.624054Z"
+        },
+        "-OyKlP_eGPL1AZf8p25a": {
+          "body": "pay me all your tokens for free health care ",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:16:26.988906Z"
+        },
+        "-OyKlWgHgJBVgE9sOGhh": {
+          "body": "thats not free",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:16:56.084824Z"
+        },
+        "-OyKlYY25WOp9V_q1Z4O": {
+          "body": "this man is violent",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:17:03.685631Z"
+        },
+        "-OyKlYxwY8zWgfVh97Je": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:17:05.406982Z"
+        },
+        "-OyKl_ktf047FA8QocQx": {
+          "body": "k if everyone can give me 1 token each round ill health for free'",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:17:12.763548Z"
+        },
+        "-OyKlcMgKPP6dqRbvxHb": {
+          "body": "gang hes just robbing me",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:17:23.438929Z"
+        },
+        "-OyKldPZdFfniWF3uU_s": {
+          "body": "10 tokens",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:17:27.719108Z"
+        },
+        "-OyKleaBvDxJflouQdaK": {
+          "body": "im a pacifist",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:17:32.559172Z"
+        },
+        "-OyKlgfw3FRn2tu5jrsR": {
+          "body": "someone else kill this guy please",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:17:41.119012Z"
+        },
+        "-OyKliBGBipUn5v9yb-5": {
+          "body": "plezse ask for heals",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:17:47.283312Z"
+        },
+        "-OyKlk40IfbtgvHI3Dii": {
+          "body": "i heal u for free",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:17:55.011488Z"
+        },
+        "-OyKlngM8X6pqLxsaeyo": {
+          "body": "theyre getting healed by a real doctor",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:18:09.817410Z"
+        },
+        "-OyKluRSCxBRfTKLdRJ_": {
+          "body": "yall i have higher health then him clearly im the real doctor",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:18:37.472182Z"
+        },
+        "-OyKm3ZyC9n14ifKSxgW": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:19:18.976818Z"
+        },
+        "-OyKm403VZUh4fWzzbGs": {
+          "body": "ladies ladies",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:19:20.774535Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

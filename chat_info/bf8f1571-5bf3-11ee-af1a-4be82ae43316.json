@@ -1,0 +1,1790 @@
+{
+  "conversations": {
+    "-NfDULuQiv5u9M5Xzgzk": {
+      "conversationId": "-NfDULuQiv5u9M5Xzgzk",
+      "messages": {
+        "-NfDUODruDH76wnfNoZo": {
+          "body": "You beat me to it",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:37:30.938700Z"
+        },
+        "-NfDUOotIq31ItGecq2S": {
+          "body": "We need to work together.",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:37:33.372493Z"
+        },
+        "-NfDUSYhcLcWEptUcm92": {
+          "body": "5 to you",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:37:48.656401Z"
+        },
+        "-NfDUU6TL0XWigyoU1sl": {
+          "body": "Half to each other? Then feel out the others?",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:37:55.041048Z"
+        },
+        "-NfDUZ3P-s9FYqpT8l26": {
+          "body": "Okay 7",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:38:15.325920Z"
+        },
+        "-NfDUqA2z-XjhVA70gon": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:39:29.478823Z"
+        },
+        "-NfDVP1qQ69YeNAIEHlp": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:41:56.409379Z"
+        },
+        "-NfDVmtIZxBjH-gTLxv0": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:43:38.198395Z"
+        },
+        "-NfDWJCIMsqO3SmHuZnd": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:45:54.646933Z"
+        },
+        "-NfDWqRdItipNM796dsB": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:48:14.892625Z"
+        },
+        "-NfDXOCcd0KsXKM-etVG": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:50:37.291170Z"
+        },
+        "-NfDXxw0TD0-qJmvq5nf": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:53:07.716392Z"
+        },
+        "-NfDYUeCze_GsL6dZ7T6": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:55:25.840062Z"
+        },
+        "-NfDZ12jnWK5A9J8DT4w": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:57:46.738273Z"
+        },
+        "-NfDZKOaTInWZlJr-Zu6": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:59:05.961951Z"
+        }
+      },
+      "name": "Brothers",
+      "participants": [
+        "Laman",
+        "Lemuel"
+      ]
+    },
+    "-NfDUNpSM_agcwIs8fgI": {
+      "conversationId": "-NfDUNpSM_agcwIs8fgI",
+      "messages": {
+        "-NfDUS5YOwpHAnep1gG5": {
+          "body": "Oh yea",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:37:46.790268Z"
+        },
+        "-NfDUSRQ1IczQk26wR7e": {
+          "body": "We need to through down the iniquity",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:37:48.189997Z"
+        },
+        "-NfDUTiigTazd0WyizZd": {
+          "body": "4 each?",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:37:53.457715Z"
+        },
+        "-NfDUXKip8qVISZ3pEm7": {
+          "body": "Say less",
+          "from": "King Benjamin",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:38:08.241959Z"
+        },
+        "-NfDUXhjNgCYNDAQ4mU1": {
+          "body": "Yea",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:38:09.778609Z"
+        },
+        "-NfDUcAI0ilrq-7qesXN": {
+          "body": "I may have angered Gadianton",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:38:32.150695Z"
+        },
+        "-NfDUg26nJG44wZZEiK9": {
+          "body": "Not hard to do",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:38:48.010279Z"
+        },
+        "-NfDUkXgKp0pGD1vwdUB": {
+          "body": "True. Thats just scriptural",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:39:06.415816Z"
+        },
+        "-NfDUqAHMBMBdy4hOuVD": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:39:29.493143Z"
+        },
+        "-NfDUwfAEMmLDOTPSGRp": {
+          "body": "Woah King benjamin, why no tokens?",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:39:56.110871Z"
+        },
+        "-NfDV-OdkBUwm7kmH4P1": {
+          "body": "If we are gonna be good, we gotta be good",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:40:11.372520Z"
+        },
+        "-NfDV29JUFDmMTPoYG7p": {
+          "body": "Why the backstabbing among the righteous?",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:40:22.679360Z"
+        },
+        "-NfDV2gf08zkEbIDUvVm": {
+          "body": "sorry I repenteh",
+          "from": "King Benjamin",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:40:24.878296Z"
+        },
+        "-NfDV4LQ0zQeT9SiC15v": {
+          "body": "repenteth",
+          "from": "King Benjamin",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:40:31.646606Z"
+        },
+        "-NfDVEx69b7Akw12Wz-W": {
+          "body": "Laman and Gadianton gave to me.  I fear their vengence",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:41:15.082576Z"
+        },
+        "-NfDVGmhlb_5ygKlL4uV": {
+          "body": "because I just wanna be with the good guys",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:41:22.608690Z"
+        },
+        "-NfDVP1x0gOULeyJHSTZ": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:41:56.416657Z"
+        },
+        "-NfDVWILUc4VlMyRmZP3": {
+          "body": "Okay we all good now?",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:42:26.137712Z"
+        },
+        "-NfDV_iD2YgJgRFm2BoC": {
+          "body": "Repentance is wonderful",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:42:44.241486Z"
+        },
+        "-NfDVbI79eezQi3zlPka": {
+          "body": "Laman and Gadianton gave two each to me",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:42:50.699383Z"
+        },
+        "-NfDVgKE2SUVHpkvdqej": {
+          "body": "Don't let them sway you. The way of the world is not the way of Christ",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:43:11.314418Z"
+        },
+        "-NfDVgMw5djoXBpttETZ": {
+          "body": "Tryin' to turn ya to the bad side?",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:43:11.487138Z"
+        },
+        "-NfDVhS2MzNdR_st6X3N": {
+          "body": "should we give back?",
+          "from": "King Benjamin",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:43:15.910402Z"
+        },
+        "-NfDVjwAuHAxhiEigrYj": {
+          "body": "Reach out to the lost sheep?",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:43:26.094233Z"
+        },
+        "-NfDVkI7qp-nxpNiX7wF": {
+          "body": "I could give one back to each of them or ignore",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:43:27.563753Z"
+        },
+        "-NfDVmtP5glzYF3c2onX": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:43:38.205740Z"
+        },
+        "-NfDVtxrw5LLc7XxOtFL": {
+          "body": "King Benjamin?  You returning to your evil ways?",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:44:07.162436Z"
+        },
+        "-NfDVvE0lKplzzxTe8hl": {
+          "body": "What's up with only one token Benji??",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:44:12.356698Z"
+        },
+        "-NfDVw-aokg7MJ7VvHSj": {
+          "body": "He does seem to be",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:44:15.529098Z"
+        },
+        "-NfDW0Hq6YAOY1wdveaD": {
+          "body": "Repentance is a process",
+          "from": "King Benjamin",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:44:37.177324Z"
+        },
+        "-NfDW1YBk0dFVfe-GpU3": {
+          "body": "I be better this time",
+          "from": "King Benjamin",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:44:42.319878Z"
+        },
+        "-NfDW6hfGTsaPqtjWHQv": {
+          "body": "Benji, you gotta show your repentance before we can have you among the righteous",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:45:03.470920Z"
+        },
+        "-NfDW9TUhmN1v6lDnfNy": {
+          "body": "I also gave to laman and gadianton",
+          "from": "King Benjamin",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:45:14.786693Z"
+        },
+        "-NfDWJCRcHBuydmve3Zg": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:45:54.655606Z"
+        },
+        "-NfDWqRkssPv4iooCEI5": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:48:14.899557Z"
+        },
+        "-NfDXOCibPrWyC_HNb_A": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:50:37.297881Z"
+        },
+        "-NfDXxw7SOJRCHvmaUdb": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:53:07.723547Z"
+        },
+        "-NfDYUeJ9cG9ZLELkxJE": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:55:25.847371Z"
+        },
+        "-NfDZ12wg9Qb7xhYU7GH": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:57:46.751031Z"
+        },
+        "-NfDZKOi26cG17_JfyMS": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:59:05.970012Z"
+        }
+      },
+      "name": "The good guys",
+      "participants": [
+        "King Lamoni",
+        "Brother of Jared",
+        "King Benjamin",
+        "Jared"
+      ]
+    },
+    "-NfDUO3aqa3ZonjwUeSb": {
+      "conversationId": "-NfDUO3aqa3ZonjwUeSb",
+      "messages": {
+        "-NfDUSirP_8v0aMcWR9G": {
+          "body": "yo",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:37:49.370439Z"
+        },
+        "-NfDUTuaL3_QX0Xt4Ir0": {
+          "body": "??",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:37:54.217958Z"
+        },
+        "-NfDUhhW0BcOYQrjZQ5y": {
+          "body": "Yo yo",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:38:54.820587Z"
+        },
+        "-NfDUkS9mpqa9py9mBzT": {
+          "body": "Hello",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:39:06.061528Z"
+        },
+        "-NfDUqAR-eT3HuM2SbIi": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:39:29.503037Z"
+        },
+        "-NfDVP23_YE9UOh_-X4o": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:41:56.423588Z"
+        },
+        "-NfDVmtYHF1DGJKBpOK5": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:43:38.214755Z"
+        },
+        "-NfDWJCYUXAY9pOLb-_U": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:45:54.662992Z"
+        },
+        "-NfDWqRrXWcZujJeqx2-": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:48:14.906041Z"
+        },
+        "-NfDXOD7-Pt6t2gKd7WA": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:50:37.323928Z"
+        },
+        "-NfDXxwGF8IiQQk1lnI9": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:53:07.732412Z"
+        },
+        "-NfDYUeRibCwGHiSx6J_": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:55:25.855225Z"
+        },
+        "-NfDZ1336czEq6QMWZwM": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:57:46.759951Z"
+        },
+        "-NfDZKOrjjhtgacNypSX": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:59:05.978659Z"
+        }
+      },
+      "name": "pride",
+      "participants": [
+        "Gadianton",
+        "Laman",
+        "Lemuel",
+        "King Lamoni"
+      ]
+    },
+    "-NfDUlEBE8qx2QITaRTQ": {
+      "conversationId": "-NfDUlEBE8qx2QITaRTQ",
+      "messages": {
+        "-NfDUnTFdfhhW_nu96r4": {
+          "body": "Yo laman and lemuel ",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:39:18.419294Z"
+        },
+        "-NfDUqAgsedgRPMrNxkf": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:39:29.519443Z"
+        },
+        "-NfDUy_rv1jfHO4n_YC1": {
+          "body": "King Ben attacked",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:40:03.962710Z"
+        },
+        "-NfDV35UYvpOq20M9CnT": {
+          "body": "Let's kill King Benjamin in a few rounds? Now we should strengthen each other.",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:40:26.530640Z"
+        },
+        "-NfDV4n0eOhV0Zy2GucM": {
+          "body": "Yes",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:40:33.476660Z"
+        },
+        "-NfDV6JCLyQppk1-hFpp": {
+          "body": "7 to each?",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:40:39.695983Z"
+        },
+        "-NfDV85AVTWgNAtu2dyH": {
+          "body": "yuh im down",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:40:46.990152Z"
+        },
+        "-NfDV96Q0nDHMLJnS2CR": {
+          "body": "Brother of jared gave to me too",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:40:51.166754Z"
+        },
+        "-NfDVC6eHTdBP0lwB_Q5": {
+          "body": "same ",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:41:03.469224Z"
+        },
+        "-NfDVFMcgAWsxWHaEWhO": {
+          "body": "Should we adopt him?",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:41:16.779345Z"
+        },
+        "-NfDVFNvS4yVjE2a_6QC": {
+          "body": "maybe keep the friendship with him",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:41:16.862592Z"
+        },
+        "-NfDVFtkvNJV1nAGRngq": {
+          "body": "He gave me 2, but a team of 3 is more stable in a game of this size, I think.",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:41:18.963332Z"
+        },
+        "-NfDVLeBqkfzduwM2Syj": {
+          "body": "6 to each other and 2 to bro of jared?",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:41:42.542022Z"
+        },
+        "-NfDVMpI0S9CHYK9Hb_b": {
+          "body": "yeah im down",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:41:47.350302Z"
+        },
+        "-NfDVP1QhKPwEq9Xm0np": {
+          "body": "yee",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:41:56.382353Z"
+        },
+        "-NfDVP2AJMm2Bz9BCcfa": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:41:56.430712Z"
+        },
+        "-NfDVXpuPz0iBx22FFof": {
+          "body": "He gave nothing this round. I think it best if we focus on us three.",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:42:32.445631Z"
+        },
+        "-NfDVYUe-6bp9sJA1pMy": {
+          "body": "Okay he might be part of the other group now",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:42:35.117084Z"
+        },
+        "-NfDV_0_-eeRadwyEa_D": {
+          "body": "yeah ",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:42:41.384243Z"
+        },
+        "-NfDVavOmhuQZCZRyNi8": {
+          "body": "but do we kill benji now or later",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:42:49.180307Z"
+        },
+        "-NfDVcF5cpDvu_d0LUHx": {
+          "body": "7 to each?",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:42:54.601901Z"
+        },
+        "-NfDVdDCtHvbVmNqWM_c": {
+          "body": "I say we do 7 this round and kill next",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:42:58.576845Z"
+        },
+        "-NfDVetxhIN35NfWZpiK": {
+          "body": "I agree.",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:43:05.472394Z"
+        },
+        "-NfDVf_JaSZZOfKquKwt": {
+          "body": "down",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:43:08.247260Z"
+        },
+        "-NfDVmtepW4fsSJeZxZf": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:43:38.221819Z"
+        },
+        "-NfDVsWSYzI6iN16vbPF": {
+          "body": "Okay, hit Ben with everything?",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:44:01.248511Z"
+        },
+        "-NfDVx4lL9dg7vAMXb_9": {
+          "body": "Or is that too much?",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:44:19.956133Z"
+        },
+        "-NfDW0eh8KTUgc0aN6nK": {
+          "body": "im only worried bc hes already got a thing going with lamoni and the jareds",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:44:38.704330Z"
+        },
+        "-NfDW1l060NCBOmQLk4d": {
+          "body": "but idk",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:44:43.204031Z"
+        },
+        "-NfDW4kZJNBVCdO9YHT7": {
+          "body": "if we dont do it now it'll look sus",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:44:55.463256Z"
+        },
+        "-NfDW5uyRUm1pV4CHLBc": {
+          "body": "Hit king ben with everything",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:45:00.225482Z"
+        },
+        "-NfDW5yuMBCID6sf4GuT": {
+          "body": "We take him now or he'll take us",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:45:00.477936Z"
+        },
+        "-NfDW88Ix9BDWEY79oi2": {
+          "body": "yup",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:45:09.334305Z"
+        },
+        "-NfDWJCf1USYrtigGYI3": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:45:54.670505Z"
+        },
+        "-NfDWMztM8-f78SQCD4Z": {
+          "body": "what do we do now",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:46:10.172264Z"
+        },
+        "-NfDWOjmDSJDAVNkK50r": {
+          "body": "do we kill everyone?",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:46:17.333647Z"
+        },
+        "-NfDWRryWdcyrRBKZCCV": {
+          "body": "we lowkey powerful",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:46:30.145928Z"
+        },
+        "-NfDWVo7GHQ1n_bXajlZ": {
+          "body": "guys",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:46:46.283248Z"
+        },
+        "-NfDWWP8UAesmCYMDXIW": {
+          "body": "what do we do",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:46:48.715998Z"
+        },
+        "-NfDWXUvUWaHFzzoVeMY": {
+          "body": "We need to be careful",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:46:53.182475Z"
+        },
+        "-NfDWYuoXPOZilia2cCn": {
+          "body": "They might keep",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:46:58.999965Z"
+        },
+        "-NfDWYz9tQpSyVRFODmR": {
+          "body": "keep everything?",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:46:59.277569Z"
+        },
+        "-NfDWZAQJ8eTbKEi6zev": {
+          "body": "Now we give to each other but keep some?",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:00.062571Z"
+        },
+        "-NfDW_dr0pqJwrkPAkpp": {
+          "body": "keep half?",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:06.106623Z"
+        },
+        "-NfDWapsLAebXVR5SWIS": {
+          "body": "okay",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:10.971704Z"
+        },
+        "-NfDWcCn0x5qR5oneKCz": {
+          "body": "5 to each other and keep the rest.",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:16.598605Z"
+        },
+        "-NfDWeGYfjYrfMTk7vfR": {
+          "body": "yeah",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:25.030572Z"
+        },
+        "-NfDWgvsCCxOvnrBrpjB": {
+          "body": "We are about the same level as the others",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:35.931222Z"
+        },
+        "-NfDWiRT7yhe0K5y1kK2": {
+          "body": "im scared haha",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:42.113569Z"
+        },
+        "-NfDWjNPZ-0CETdwf3wD": {
+          "body": "0.o",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:45.949148Z"
+        },
+        "-NfDWo1DaEMqaK89MRDc": {
+          "body": "Currently we are tied with their power. ",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:48:05.009617Z"
+        },
+        "-NfDWqRx4DLtXGD7cZYo": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:48:14.912609Z"
+        },
+        "-NfDWsvtLgVLmRbbTiYL": {
+          "body": "everyone took out on me",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:48:25.084136Z"
+        },
+        "-NfDWtrLEM5oV1GSZLpd": {
+          "body": "Alright we attack now",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:48:28.889513Z"
+        },
+        "-NfDWuXPc21ef5ak2SiQ": {
+          "body": "who",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:48:31.645389Z"
+        },
+        "-NfDWux-yqoDmD3U-TIr": {
+          "body": "??",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:48:33.347696Z"
+        },
+        "-NfDWwWicpfh5zLTlwwk": {
+          "body": "Jared",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:48:39.793638Z"
+        },
+        "-NfDWxJI_EG_dDt-KhxY": {
+          "body": "the good thing is Im not completly dead",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:48:43.030807Z"
+        },
+        "-NfDWzBXWZpFC2yEVdoc": {
+          "body": "Take out the top first",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:48:50.725021Z"
+        },
+        "-NfDWzNgtu1XYC9Ga-gE": {
+          "body": "do I give everything or do I keep?",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:48:51.503106Z"
+        },
+        "-NfDX2WorVn665cC9UuR": {
+          "body": "Let's hit Jared. Don't keep. We should have stayed offensive.",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:49:08.471087Z"
+        },
+        "-NfDX3WIjzqBVUg-WxPJ": {
+          "body": "yeah",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:49:12.533997Z"
+        },
+        "-NfDX4g1GT1VYoqLZhi-": {
+          "body": "Steal, they probably won't attack you",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:49:17.317253Z"
+        },
+        "-NfDX4lDMklKi4zRT2uC": {
+          "body": "coulda shoulda woulda",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:49:17.649787Z"
+        },
+        "-NfDX63uM3SOv6PDym5m": {
+          "body": "yeah okay",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:49:23.005679Z"
+        },
+        "-NfDXDc5lwrOjKv7cvtd": {
+          "body": "Wait, hit Lemuel. Less likely to block.",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:49:53.929968Z"
+        },
+        "-NfDXIiQdKRJhPUD7emu": {
+          "body": "Excuse me?",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:50:14.814928Z"
+        },
+        "-NfDXKFDEexitiLv-A7P": {
+          "body": "i dont understand",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:50:21.073533Z"
+        },
+        "-NfDXODIKLfOImlrGiGd": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:50:37.334540Z"
+        },
+        "-NfDXPW0YJrt7Gct2C9d": {
+          "body": "Sorry, King Lamoni... I'm an idiot. Keep it at Jared. I thought they had the top two places.",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:50:42.628230Z"
+        },
+        "-NfDXXk2Wskj4TjdM8YZ": {
+          "body": "lemuel is up nex",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:51:16.358116Z"
+        },
+        "-NfDXY3Sl-7UUjfxr_eA": {
+          "body": "t",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:51:17.664218Z"
+        },
+        "-NfDXd51CL-iU3hY1lNC": {
+          "body": "Yeah. I guess we should just finish off Jared? They will finish the rest of us off.",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:51:42.341757Z"
+        },
+        "-NfDXirHJhiSSGu9BjJR": {
+          "body": "haha okay",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:52:05.973773Z"
+        },
+        "-NfDXnYxtGWnDxNaPtcg": {
+          "body": "Lemuel, you're the only one with skin still in the game, what do you think?",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:52:25.216776Z"
+        },
+        "-NfDXq1sh_rHRrubVR0-": {
+          "body": "we could give everything to you?",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:52:35.387955Z"
+        },
+        "-NfDXrYOdBG6aKhzIlAK": {
+          "body": "I'm going to keep",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:52:41.564623Z"
+        },
+        "-NfDXsSB8ofK8gzs8KpX": {
+          "body": "idk how much it would help",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:52:45.263436Z"
+        },
+        "-NfDXtSy2wFOd6X0FUNF": {
+          "body": "We'll give everything to Lemuel.",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:52:49.409645Z"
+        },
+        "-NfDXu2UWuotUB9VHpoA": {
+          "body": "yeah we'll give",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:52:51.810461Z"
+        },
+        "-NfDXvY3D-iyPEh-z7cn": {
+          "body": "at least i will ",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:52:57.927960Z"
+        },
+        "-NfDXxwNjzHd22YaNhqI": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:53:07.739173Z"
+        },
+        "-NfDY5ca9fdsDfMHxw5a": {
+          "body": "I think we're gonners",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:53:43.337090Z"
+        },
+        "-NfDY8Ln9GYvQ8XP2GU0": {
+          "body": "For sure. ",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:53:54.486959Z"
+        },
+        "-NfDYAKex1lpsff_54fd": {
+          "body": "wickedness never was happiness",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:54:02.605425Z"
+        },
+        "-NfDYC6fAfXEEroeBxVU": {
+          "body": "I can't do anything.",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:54:09.902800Z"
+        },
+        "-NfDYUeY15O87cQF2AQE": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:55:25.862338Z"
+        },
+        "-NfDYb_EKEG3BEnGmtXH": {
+          "body": "Well, I'm dead",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:55:58.290965Z"
+        },
+        "-NfDYjZyAeqFYEyrDOpQ": {
+          "body": "Glad to fight by your side",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:56:31.041061Z"
+        },
+        "-NfDYmnkAXSRO_3xnDtR": {
+          "body": "You brought me back. I'm giving 7 to each. Hopefully they leave us be.",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:56:44.275698Z"
+        },
+        "-NfDYrALDADz4fv0g9XJ": {
+          "body": "same",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:57:02.169236Z"
+        },
+        "-NfDYu3ssCIEljmZVFOS": {
+          "body": "lets see if we can find joy in the humility of poverty",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:57:14.043252Z"
+        },
+        "-NfDZ13KlOSxOuhbuylc": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:57:46.776415Z"
+        },
+        "-NfDZB_4qAy3gPTpN-F9": {
+          "body": "We can try to cause chaos in the other group",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:58:29.832486Z"
+        },
+        "-NfDZD6DfRUopzn7TDzu": {
+          "body": "how",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:58:36.113113Z"
+        },
+        "-NfDZFYtMT8g-RuIJGsN": {
+          "body": "No clue",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:58:46.140882Z"
+        },
+        "-NfDZJFUtraISA37sOox": {
+          "body": "Making King Benjamin feel left out?",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:59:01.282642Z"
+        },
+        "-NfDZKOyCaNzD3GrrKn0": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:59:05.985804Z"
+        }
+      },
+      "name": "secret combinations",
+      "participants": [
+        "Gadianton",
+        "Laman",
+        "Lemuel"
+      ]
+    },
+    "-NfDVBL7LXgTI0UC0EZK": {
+      "conversationId": "-NfDVBL7LXgTI0UC0EZK",
+      "messages": {
+        "-NfDVEF5pNeeE6pLbrsC": {
+          "body": "Do we need to exclude Ben?",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:41:12.201404Z"
+        },
+        "-NfDVJIS_JaKk7OT2d-z": {
+          "body": "He went against the plan...hate to see it",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:41:32.896709Z"
+        },
+        "-NfDVLlCylMMFo6CgJ05": {
+          "body": "I'm slated to give him 2",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:41:42.992361Z"
+        },
+        "-NfDVMmxTm8tsu1HHCa3": {
+          "body": "Maybe, but we need em",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:41:47.200352Z"
+        },
+        "-NfDVP2LmxzODqB1pIzv": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:41:56.441042Z"
+        },
+        "-NfDVRLgK8Fq0BCeQxc6": {
+          "body": "All good now?",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:42:05.870927Z"
+        },
+        "-NfDVSxT-tg5EE4m8b1J": {
+          "body": "True. All is good",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:42:12.449284Z"
+        },
+        "-NfDVmtlagmJUstzbgQR": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:43:38.228851Z"
+        },
+        "-NfDVz0QgbIprxh1WevQ": {
+          "body": "Benji is sketchy",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:44:27.870569Z"
+        },
+        "-NfDVzlCB7h_C3-z0L80": {
+          "body": "Yea",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:44:30.928386Z"
+        },
+        "-NfDW-aiWPi-slgnsPma": {
+          "body": "He's out",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:44:34.353642Z"
+        },
+        "-NfDW3IQ82fePXU8vrtt": {
+          "body": "Not giving to him no more unless he brings forth much fruit meet for repentance",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:44:49.502268Z"
+        },
+        "-NfDW52mPEt_oB0GdvDy": {
+          "body": "Amen.",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:44:56.693967Z"
+        },
+        "-NfDW90ciXqh1FvtbRWL": {
+          "body": "Should we do 5 each to continue growing together?",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:45:12.939341Z"
+        },
+        "-NfDWB7GdxyoaY2Fn-Mv": {
+          "body": "I'm good to give 5",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:45:21.556415Z"
+        },
+        "-NfDWDi8KDR_b2ayv_6j": {
+          "body": "Giving you both 6 -- I'm good with you given me 5",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:45:32.172430Z"
+        },
+        "-NfDWGqJjRjx35_47YSX": {
+          "body": "I'll do 6 as well",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:45:44.983547Z"
+        },
+        "-NfDWI0sceoVJrLIA-od": {
+          "body": "Me too",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:45:49.819222Z"
+        },
+        "-NfDWJCmp-vgp2tqeTQH": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:45:54.677356Z"
+        },
+        "-NfDWS2T0m-PRf7u5WWY": {
+          "body": "I fear an attack from the wicked",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:46:30.881141Z"
+        },
+        "-NfDWXG-JZ0OIg-61rNN": {
+          "body": "Jared, I think they are going to attack you",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:46:52.227264Z"
+        },
+        "-NfDWZKN4YBpSIePsfty": {
+          "body": "Do we defend or attack",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:00.699889Z"
+        },
+        "-NfDWZc0Emnkxm8dtNLG": {
+          "body": "?",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:01.892511Z"
+        },
+        "-NfDWcBRpK_z21UANOVx": {
+          "body": "That seems likely. I will do 5 with you guys and keep to prep",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:16.511548Z"
+        },
+        "-NfDWccdCPYUyQiBEtOY": {
+          "body": "We have to coordinate together",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:18.316556Z"
+        },
+        "-NfDWgXTtrdxiOly-Nae": {
+          "body": "That's not enough",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:34.305915Z"
+        },
+        "-NfDWh8mCsnf81sZYS_j": {
+          "body": "Lamoni should we attack one of them?",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:36.821490Z"
+        },
+        "-NfDWhbpZ_nkPONZy8Ng": {
+          "body": "Or should I keep more. I will do as you comandeth",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:38.744745Z"
+        },
+        "-NfDWhcuUAtJ-hO2jdTg": {
+          "body": "If they attack, you are gone",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:38.813309Z"
+        },
+        "-NfDWk2Zq8INNtZ-nA0U": {
+          "body": "Yes, let's attack Gadianton",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:48.711058Z"
+        },
+        "-NfDWlTHDGtIN8P216Ic": {
+          "body": "All tokens?",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:54.517918Z"
+        },
+        "-NfDWmmkoqfnjeq7Jmu_": {
+          "body": "Yes.  All",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:47:59.923930Z"
+        },
+        "-NfDWnq8VjphJcUSnhaV": {
+          "body": "Beautiful",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:48:04.236194Z"
+        },
+        "-NfDWo7wGFOT80ZOKgLx": {
+          "body": "All",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:48:05.438987Z"
+        },
+        "-NfDWqS31ZktdIa0exV9": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:48:14.919196Z"
+        },
+        "-NfDWshQQd1C0rPbr5qo": {
+          "body": "God smites the wicked",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:48:24.158646Z"
+        },
+        "-NfDWvJNVzpkwjTVGc7c": {
+          "body": "Laman?",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:48:34.843984Z"
+        },
+        "-NfDWwogUQdOd90NBczq": {
+          "body": "Yep",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:48:41.007980Z"
+        },
+        "-NfDWyt8O7HVeZbfsanr": {
+          "body": "Sure. All again?",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:48:49.484818Z"
+        },
+        "-NfDX0rxGhafitdn-eFN": {
+          "body": "Yea",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:49:01.696317Z"
+        },
+        "-NfDX3ufQz6adWKLUnpY": {
+          "body": "Yes, all.  Do we have a truce that we will raise up whoever gets attacked by them.  We can all win together",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:49:14.158346Z"
+        },
+        "-NfDX7-LSLRKvlt0GC24": {
+          "body": "Yea, thats a good idea",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:49:26.809093Z"
+        },
+        "-NfDX8F4EWLw7QCnxcRh": {
+          "body": "If one of us gets attack, we finish off the bad guys then resurrect our dead",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:49:31.912597Z"
+        },
+        "-NfDXAQx-ch_NwKGJbL_": {
+          "body": "Yup. One of us is for sure getting targeted this round",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:49:40.864281Z"
+        },
+        "-NfDXD2xAtFEa6plFuVq": {
+          "body": "Probably me or Lamoni",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:49:51.616586Z"
+        },
+        "-NfDXGWSLjNgTMIHjpC6": {
+          "body": "We take out Laman",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:50:05.792360Z"
+        },
+        "-NfDXIoF-LG6P5oN3OxV": {
+          "body": "We should go for Lemuel soon",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:50:15.187143Z"
+        },
+        "-NfDXMfr_1kRjacyyMld": {
+          "body": "Laman first",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:50:31.034129Z"
+        },
+        "-NfDXMomeoG-o70mJJtf": {
+          "body": "Yup I'm stealing all 14 from Laman this round to confirm",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:50:31.605946Z"
+        },
+        "-NfDXODP3UKz9osWoemy": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:50:37.341120Z"
+        },
+        "-NfDXQXNcq_hq3QRhR-B": {
+          "body": "I got hit",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:50:46.811889Z"
+        },
+        "-NfDXUbK4CzzkzZIkMGq": {
+          "body": "Lets get Lemuel, hes the only threat left",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:51:03.512541Z"
+        },
+        "-NfDXWTE9iSzs0Q5ro-_": {
+          "body": "No worries, Jared.  We got you.  This round we all take out Lemuel.  Next round, we resurrect each other",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:51:11.122064Z"
+        },
+        "-NfDXXrPwIQOhqv4DXSb": {
+          "body": "Sounds good",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:51:16.829116Z"
+        },
+        "-NfDXYFe4TMon0pXDvHZ": {
+          "body": "Sounds good",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:51:18.445486Z"
+        },
+        "-NfDXZ7TkEPQS7t46SDw": {
+          "body": "Jinx",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:51:22.017580Z"
+        },
+        "-NfDXbaWV1akdQu2WLzf": {
+          "body": "We always did have that connection brother",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:51:36.228371Z"
+        },
+        "-NfDXxwUFf8QfhvPQHbT": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:53:07.746117Z"
+        },
+        "-NfDY12ws1ESkdd_FGNO": {
+          "body": "Hit him again or what?",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:53:24.607047Z"
+        },
+        "-NfDY3rdqlYx7vUBCNsG": {
+          "body": "Yes, hit him again",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:53:36.108955Z"
+        },
+        "-NfDY7yZdIXXFljGKowr": {
+          "body": "Great",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:53:52.935843Z"
+        },
+        "-NfDY9OWw3EQOP-DhZ8g": {
+          "body": "If you have any to spare, the closer I am to you the more we can help each other",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:53:58.756429Z"
+        },
+        "-NfDYIbmBil3A2twqpdC": {
+          "body": "I could steal 10 from him and give 4? Or some combo",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:54:36.533536Z"
+        },
+        "-NfDYJwr8akXGfL_aO0_": {
+          "body": "Let's remove Lemuel first. Then we bring you back",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:54:41.978760Z"
+        },
+        "-NfDYRMNiBy_nMXtdwv0": {
+          "body": "All 14 going to lemuel then",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:55:12.347117Z"
+        },
+        "-NfDYR_S_J5EMWK6aUfh": {
+          "body": "Im stealing all in, but he is much lower than you guys. Whatever you think is best",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:55:13.248195Z"
+        },
+        "-NfDYT5uiXKOPQHj-BvK": {
+          "body": "I am but a humble servent",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:55:19.485032Z"
+        },
+        "-NfDYUeepKo4N8lvAq6V": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:55:25.869405Z"
+        },
+        "-NfDYYk3G3QCczeDqEph": {
+          "body": "Now I'm giving you 6 each",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:55:42.599697Z"
+        },
+        "-NfDYaStUdvJgnrt7WYs": {
+          "body": "Nicely done. We may have had some slight overkill",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:55:53.724592Z"
+        },
+        "-NfDYa_NjCTTeZxIJ74i": {
+          "body": "Sounds good to me brethren",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:55:54.203422Z"
+        },
+        "-NfDYdiuIpZgsN5Flv7u": {
+          "body": "Amen and amen",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:56:07.101702Z"
+        },
+        "-NfDYkyopg3EdOYqIJrH": {
+          "body": "There is temptation, even among the rightesou, to be greatest.",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:56:36.791366Z"
+        },
+        "-NfDYo0d7axG7-CCqwNq": {
+          "body": "Truly, we must forgo the temptation",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:56:49.260857Z"
+        },
+        "-NfDYp5DNAwkhKjbVhB6": {
+          "body": "I will hold firm",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:56:53.649644Z"
+        },
+        "-NfDYqjsgjuLItQSQTva": {
+          "body": "Yes. Many are called, but few are chosen",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:57:00.411Z"
+        },
+        "-NfDYsK9orlskbZyog2F": {
+          "body": "We must keep our first estate",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:57:06.893729Z"
+        },
+        "-NfDYvFxomfKx8FGXMHi": {
+          "body": "Lest we be cast into hell",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:57:18.912751Z"
+        },
+        "-NfDYwMnIqrHybVMOP7Y": {
+          "body": "Should I give any to Benjamin?",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:57:23.446743Z"
+        },
+        "-NfDYzAntwWh6WpXewa-": {
+          "body": "No, I don't trust him",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:57:34.966086Z"
+        },
+        "-NfDZ0tVb7WiHjHUiIAq": {
+          "body": "Understood",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:57:46.085208Z"
+        },
+        "-NfDZ13Sxioj_qrKyEzR": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:57:46.784198Z"
+        },
+        "-NfDZ5QKVeI1uIv0NAe9": {
+          "body": "You can if you'd like, but I dont think he would be trustworthy",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:58:04.632933Z"
+        },
+        "-NfDZ5xQ8wKdhu1jPd3G": {
+          "body": "I did give him 1 last round.  Should I not?",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:58:06.814232Z"
+        },
+        "-NfDZAIthU7-LbOoS6Z2": {
+          "body": "It is given to men to choose for themselve",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:58:24.636089Z"
+        },
+        "-NfDZCM9-0S6yUwsct0a": {
+          "body": "Amen",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:58:33.037198Z"
+        },
+        "-NfDZFOq0uRzmMknMDyA": {
+          "body": "Well said, Rabbi",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:58:45.497012Z"
+        },
+        "-NfDZKP5j5SfgCpcBfDc": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:59:05.993055Z"
+        }
+      },
+      "name": "New Brothers",
+      "participants": [
+        "Jared",
+        "Brother of Jared",
+        "King Lamoni"
+      ]
+    },
+    "-NfDXaoHKiY1uK0IF6gx": {
+      "conversationId": "-NfDXaoHKiY1uK0IF6gx",
+      "messages": {
+        "-NfDXepouc3M_HRzeJIS": {
+          "body": "Hear me out guy",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:51:49.495192Z"
+        },
+        "-NfDXh6l2SbjCGszflRs": {
+          "body": "What if we team up?",
+          "from": "Lemuel",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:51:58.835988Z"
+        },
+        "-NfDXjmW7aJVoCCZ0gWI": {
+          "body": "Um ... no",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:52:09.764101Z"
+        },
+        "-NfDXn1JWpghVYMty137": {
+          "body": "Lamoni was so converted he never fell away",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:52:23.063822Z"
+        },
+        "-NfDXxwcsZi4LvRypqcS": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:53:07.755801Z"
+        },
+        "-NfDYUepC6tyDHGsaaoP": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:55:25.880649Z"
+        },
+        "-NfDZ13gfm_kQSeU0Gh8": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:57:46.799988Z"
+        },
+        "-NfDZKPCntLCB15QoYM4": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:59:06.000380Z"
+        }
+      },
+      "name": "The Rich",
+      "participants": [
+        "Lemuel",
+        "King Lamoni",
+        "Brother of Jared"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-NfDUNcLqKF1h7zuEmwn": {
+          "body": "Team up on Gadianton?",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:37:28.473452Z"
+        },
+        "-NfDURObT-bW0zdbqDKM": {
+          "body": "sounds like something gadianton would do",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:37:43.914212Z"
+        },
+        "-NfDUVEIT5sooMxt-c4T": {
+          "body": "Shoot you right",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:37:59.638455Z"
+        },
+        "-NfDUXoV9QCDwBkiABBe": {
+          "body": "Jared I think we need to team up, being relatives and all",
+          "from": "Brother of Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:38:10.211394Z"
+        },
+        "-NfDUgk8RySXKHlhBjxQ": {
+          "body": "True that. Brother",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:38:50.892281Z"
+        },
+        "-NfDUmDIR4B0yGO0bdTL": {
+          "body": "Friendship",
+          "from": "King Benjamin",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:39:13.302284Z"
+        },
+        "-NfDUn7o9K99tNRvSZuc": {
+          "body": "Charity",
+          "from": "King Benjamin",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:39:17.047040Z"
+        },
+        "-NfDUq9uwF6zSrhwTwZK": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:39:29.469130Z"
+        },
+        "-NfDUqAQDInttzQh6G8S": {
+          "body": "Pure Love of CHRIST",
+          "from": "King Benjamin",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:39:29.502293Z"
+        },
+        "-NfDUvi7ByAB9YyQBzGm": {
+          "body": "King benjamin hit me with 4.",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:39:52.203137Z"
+        },
+        "-NfDUzJ99UNE6XO9tV14": {
+          "body": "yo pure love of Christ seeketh not her own",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:40:06.924982Z"
+        },
+        "-NfDV13X4XccyoqjzljX": {
+          "body": "why would you steal from me and say that king benji",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:40:18.213699Z"
+        },
+        "-NfDV1i0qZ-VpVkhntMC": {
+          "body": "??",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:40:20.868099Z"
+        },
+        "-NfDV5Ii2v896Kiwz4qm": {
+          "body": "king benji hit me with a -4 too",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:40:35.569043Z"
+        },
+        "-NfDVP1icrp3WU81bPMw": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:41:56.401537Z"
+        },
+        "-NfDVmtB_25S1VmUYeNp": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:43:38.191216Z"
+        },
+        "-NfDWJCBxgTYAT7XebrL": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:45:54.639839Z"
+        },
+        "-NfDWqRXldsHW0l2F5f7": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:48:14.885597Z"
+        },
+        "-NfDWzpRB0c0M2sfH2HO": {
+          "body": "King benjamin been real quiet in here",
+          "from": "Jared",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:48:53.343489Z"
+        },
+        "-NfDXOCV_MMO7zpUw8Hb": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:50:37.283896Z"
+        },
+        "-NfDXxvpQacUQMEGmHS2": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:53:07.704990Z"
+        },
+        "-NfDY2V89DTKjv3lEBU-": {
+          "body": "Is it too late for repentance?",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:53:30.508123Z"
+        },
+        "-NfDYCnsqpAaJNXZOaTM": {
+          "body": "No, it is never too late. But you may have lost your first estate",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:54:12.731864Z"
+        },
+        "-NfDYHqJY7VsFaNOTbgZ": {
+          "body": "Hmm... Can you check again?",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:54:33.367637Z"
+        },
+        "-NfDYPlcUk23r7muCkv1": {
+          "body": "\"if your sins be as scarlet, they shall be made as white as snow\"",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:55:05.835762Z"
+        },
+        "-NfDYQMmZ-NbgmzWFxKn": {
+          "body": "Checking ... nope. lost",
+          "from": "King Lamoni",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:55:08.277097Z"
+        },
+        "-NfDYSJ-7wXzU6vea4yq": {
+          "body": "Shoot.",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:55:16.227290Z"
+        },
+        "-NfDYUe5C_j9aDDLLgZi": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:55:25.833046Z"
+        },
+        "-NfDYeCCLTbH1W6ZgDId": {
+          "body": "Being resurrected with 1... Yep, this doesn't feel Celestial...",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:56:09.040236Z"
+        },
+        "-NfDZ12ai07io9WIFwiw": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:57:46.729587Z"
+        },
+        "-NfDZ2yVKZb0UXt-bcxo": {
+          "body": "I didn't choose the sinner life. The sinner life chose me.",
+          "from": "Laman",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:57:54.595404Z"
+        },
+        "-NfDZB1bgZZ53LDE2VYC": {
+          "body": "it was always your choice.... 2 nephi 2:27",
+          "from": "Gadianton",
+          "runtimeType": "identified",
+          "time": "2023-09-25T22:58:27.626636Z"
+        },
+        "-NfDZKOSFpdieHZa4SvV": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-09-25T22:59:05.952119Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

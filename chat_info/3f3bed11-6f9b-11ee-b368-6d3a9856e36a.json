@@ -1,0 +1,5607 @@
+{
+  "conversations": {
+    "-NhEHZ1_yUmhnO_k38gb": {
+      "conversationId": "-NhEHZ1_yUmhnO_k38gb",
+      "messages": {
+        "-NhEHbtFJDSZ_t5SAsa4": {
+          "body": "What day is Seth's Wedding?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:52:43.984503Z"
+        },
+        "-NhEHrytZ8XxHyFcqCHj": {
+          "body": "what?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:53:49.882202Z"
+        },
+        "-NhEHsX49n8YZh7x5kCY": {
+          "body": "idk",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:53:52.134505Z"
+        },
+        "-NhEHuL1CP1Y1ZwSH7yp": {
+          "body": "tryna trade some tokens tho?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:53:59.554780Z"
+        },
+        "-NhEI-yX35ZyzFI4Xds-": {
+          "body": "At least 1 haha",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:54:26.723082Z"
+        },
+        "-NhEI3VrLW69Tq-ftN97": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:54:41.208279Z"
+        },
+        "-NhEIdDQgn-gNE5Y2fir": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:57:11.580070Z"
+        },
+        "-NhEJCwbwDdluwCXx-U5": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:59:41.991721Z"
+        },
+        "-NhEJmfStttOell318s3": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:02:12.446515Z"
+        },
+        "-NhEKMO1RGQEjSoNKK-m": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:04:42.819233Z"
+        },
+        "-NhEKw8gcezbgJnaNFpX": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.388969Z"
+        },
+        "-NhELVH1kg0X-ewo7lvr": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.379297Z"
+        },
+        "-NhEM1_1yQNrkyxM5YgH": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.858997Z"
+        },
+        "-NhEMbHHPjDTx6fz5EG6": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.211360Z"
+        },
+        "-NhENB1PrbO8DupdW1wv": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.746970Z"
+        },
+        "-NhENkkyp6cGF0V25qtH": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.183595Z"
+        },
+        "-NhEOKUne2TZBo3pbSMw": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.636362Z"
+        },
+        "-NhEOtJ8GEuHCbAR0gvW": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.346312Z"
+        },
+        "-NhEPOjN1wFYWVNrhn54": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.161145Z"
+        },
+        "-NhEPy334O0qftSb8evJ": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:11.940754Z"
+        },
+        "-NhEQWcS1C5VUi2XP5he": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.629674Z"
+        },
+        "-NhER3yswssPEqj-G6KY": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.425120Z"
+        },
+        "-NhERdiPAtonbe_H3n-1": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:32.923479Z"
+        }
+      },
+      "name": "Just Delta",
+      "participants": [
+        "Golf",
+        "Delta"
+      ]
+    },
+    "-NhEHZIWAD44qQ3wHB5g": {
+      "conversationId": "-NhEHZIWAD44qQ3wHB5g",
+      "messages": {
+        "-NhEHbRkwuPXQeHrFlgd": {
+          "body": "You guys wanna all give tokens?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:52:42.160916Z"
+        },
+        "-NhEHecFzZJnL_PwQXNY": {
+          "body": "Im down",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:52:55.185133Z"
+        },
+        "-NhEHgN7sQ6vSikAlhb6": {
+          "body": "Cool ",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:53:02.345380Z"
+        },
+        "-NhEHi9PrR_tIjjjbfXs": {
+          "body": "I'll give you 3 each",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:53:09.658891Z"
+        },
+        "-NhEHkspidI1tAgpnmNo": {
+          "body": "same",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:53:20.822196Z"
+        },
+        "-NhEI3VxSSFqY2TA43v8": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:54:41.214133Z"
+        },
+        "-NhEILmlCrhSEXeigFZY": {
+          "body": "k what happened",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:55:56.082424Z"
+        },
+        "-NhEINGrPqi9ngQp2i2Y": {
+          "body": "not cool",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:56:02.167842Z"
+        },
+        "-NhEIOTqLhR26Qa5QkH_": {
+          "body": "WHat you mean",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:56:07.095454Z"
+        },
+        "-NhEIdDY9cOkYUVQOuO1": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:57:11.588575Z"
+        },
+        "-NhEInhpDJQnoFfPKpvH": {
+          "body": "Delta you better take that back",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:57:54.549709Z"
+        },
+        "-NhEJCwg8rIuvXz0NtKz": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:59:41.996977Z"
+        },
+        "-NhEJD5YShhvCi8BarNN": {
+          "body": "Wait sorry I apparently just figured out where the messages are haha",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:59:42.628115Z"
+        },
+        "-NhEJKUdd7vi_F-Xr-a_": {
+          "body": "Mike I will still share with you",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:00:12.906186Z"
+        },
+        "-NhEJRpX3oV3LyxpvLlz": {
+          "body": "thanks bestie :)",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:00:42.978891Z"
+        },
+        "-NhEJ_JwFecr3Tk77LzR": {
+          "body": ":)",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:01:17.756759Z"
+        },
+        "-NhEJmfY49SEjT3Y_n0E": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:02:12.451948Z"
+        },
+        "-NhEKF4y1z0Tl7asZWyR": {
+          "body": "foxtrot, everyone is collaborating against you rn because you're keeping it all for yourself. You might want to give some tokens",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:04:12.927329Z"
+        },
+        "-NhEKJvxoN9ojvv30xdc": {
+          "body": "also, mike youre awesome",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:04:32.765834Z"
+        },
+        "-NhEKKoh2BKnBcbEHHgg": {
+          "body": "I give to mike and you this round",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:04:36.397648Z"
+        },
+        "-NhEKMO7v3qjZIWu1zJ2": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:04:42.825172Z"
+        },
+        "-NhEKVNRzrJAYIyLUX-l": {
+          "body": "Thanks delta I think you're great too :)",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:05:19.645236Z"
+        },
+        "-NhEKiVcFt8cu-f6OoZf": {
+          "body": "Delta is everyone still mad",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:06:17.513353Z"
+        },
+        "-NhEKk8JFaYizUZKt-go": {
+          "body": "btw 3 to you and mike as always",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:06:24.212842Z"
+        },
+        "-NhEKl6r3ytQmy2olzuT": {
+          "body": "real ones",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:06:28.215849Z"
+        },
+        "-NhEKv3g0-_23-aQ8kF6": {
+          "body": "yes, but you havent been giving us anything...",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:07:08.973040Z"
+        },
+        "-NhEKw8maBmxiJiXtY6t": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.394860Z"
+        },
+        "-NhELI_fP-iSh11ulL-N": {
+          "body": "I did?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:08:49.387747Z"
+        },
+        "-NhELOfbUGeLYm0_eceE": {
+          "body": "I have gotten nothing from you the whole game",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:09:14.344538Z"
+        },
+        "-NhELQLAx3enBt19ZD5i": {
+          "body": "are you hitting submit?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:09:21.164058Z"
+        },
+        "-NhELTM4mds--sA1vP3B": {
+          "body": "omg",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:09:33.510427Z"
+        },
+        "-NhELVH8JhTPB_V82oWe": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.386322Z"
+        },
+        "-NhELiLJXmJQGWpXrLCp": {
+          "body": "thanks. now I got some",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:38.997335Z"
+        },
+        "-NhELkCcYzCxikTcstA4": {
+          "body": "coming back at you",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:46.632634Z"
+        },
+        "-NhELrqor30rDF04ClNd": {
+          "body": "Im so sorry im kinda dumb",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:11:17.941332Z"
+        },
+        "-NhELtGf9NcCMY3dkkii": {
+          "body": "but im giving you tokens now",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:11:23.755809Z"
+        },
+        "-NhELvZOAvOgwNG2PWT_": {
+          "body": "me too?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:11:33.146315Z"
+        },
+        "-NhELzqF2Ejt-SuZIGQW": {
+          "body": "yes",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:11:50.673340Z"
+        },
+        "-NhEM1B0eL1mTATbxnM8": {
+          "body": "i apologise",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:12:00.257899Z"
+        },
+        "-NhEM1_6d0ai6tN16iuV": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.864258Z"
+        },
+        "-NhEM7jQiamQECpauyeb": {
+          "body": "It's okay we still love you <3",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:12:27.099840Z"
+        },
+        "-NhEMARpvx04WDYBHFHB": {
+          "body": "love you too <3",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:12:38.197965Z"
+        },
+        "-NhEMBYboP07cSXAbfaH": {
+          "body": "3 more your way",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:12:42.727910Z"
+        },
+        "-NhEMbHOcL6f502V5ew0": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.218642Z"
+        },
+        "-NhEMiVOMXYFUBa1OV_b": {
+          "body": "sorry forgot to submit yall",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:01.786418Z"
+        },
+        "-NhEMmI8yc2w7622y4UG": {
+          "body": "I forgive you",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:17.322435Z"
+        },
+        "-NhEMn-K2OtwmN83htiu": {
+          "body": "3 as always",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:20.214247Z"
+        },
+        "-NhEMpiSMnFyoRnXuvR1": {
+          "body": "likewise",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:31.358547Z"
+        },
+        "-NhENB1Up9Fg73F8FHhU": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.751861Z"
+        },
+        "-NhENMoyVQw5txDoDYb3": {
+          "body": "Bruh i did not press sumbit",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:51.038801Z"
+        },
+        "-NhENO82lFhnro07OMTs": {
+          "body": "submit",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:56.419812Z"
+        },
+        "-NhENOuuFvUi2DLQep02": {
+          "body": "4 this time",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:59.610869Z"
+        },
+        "-NhENYlx_NiBUyA7P0Kk": {
+          "body": "same smh",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:18:39.997917Z"
+        },
+        "-NhENkl311jk2H-MOkfi": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.188936Z"
+        },
+        "-NhEO-vQmLiUxWyzw7OM": {
+          "body": "This is very good",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:20:39.388096Z"
+        },
+        "-NhEO0h1UUlpnABkp9I7": {
+          "body": "3 this time",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:20:42.562723Z"
+        },
+        "-NhEO4Bs_hLAHe-XxmtW": {
+          "body": "you got it",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:20:56.888917Z"
+        },
+        "-NhEO6XnV-HFN2tiulbk": {
+          "body": "right on",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:21:06.484231Z"
+        },
+        "-NhEOKUtLJKYdzLioJOL": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.641818Z"
+        },
+        "-NhEOjiHgN8yGtVG22Ee": {
+          "body": "what happened foxtrot?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:51.059394Z"
+        },
+        "-NhEOm36fhsh6iAmRN_x": {
+          "body": "forgot to submit",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:00.647983Z"
+        },
+        "-NhEOmuiGNFxjbdInL3m": {
+          "body": "I am sorry",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:04.143305Z"
+        },
+        "-NhEOnk7MbelxE-AIErc": {
+          "body": "this happens too much",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:07.560996Z"
+        },
+        "-NhEOo-PuzO_lN2V4RtH": {
+          "body": "dang",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:08.602929Z"
+        },
+        "-NhEOofCQfXPpW4y63VP": {
+          "body": "it happens",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:11.341768Z"
+        },
+        "-NhEOpaBKGlMg93WNCPC": {
+          "body": "i will goive you 4 you guys gove me 2",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:15.117386Z"
+        },
+        "-NhEOtJDQ4zOkbM-1ZhA": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.351470Z"
+        },
+        "-NhEP7cmZaHPh4dcjjXz": {
+          "body": "Back to 3",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:33.107402Z"
+        },
+        "-NhEP9IMo9_e6ZWlzja4": {
+          "body": "If you can attack hotel please do",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:39.928192Z"
+        },
+        "-NhEPANyjiK4ASYUikdU": {
+          "body": "got it",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:44.383017Z"
+        },
+        "-NhEPBcn3rGKQnJrURaf": {
+          "body": "they backstabbed me",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:49.492001Z"
+        },
+        "-NhEPBgaBDfF-45Jzfh5": {
+          "body": "yeah hotel got me too",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:49.734667Z"
+        },
+        "-NhEPG-tTGOz6HfcuSRn": {
+          "body": "actually wait until next round",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:26:07.418283Z"
+        },
+        "-NhEPHSMALdDDGpU4Ej5": {
+          "body": "they will probably defend this round",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:26:13.336232Z"
+        },
+        "-NhEPOjSdVebef_1UtxT": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.166525Z"
+        },
+        "-NhEPWjNkR2bCtmnACQ2": {
+          "body": "Ok now full on attack of hotel",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:15.929196Z"
+        },
+        "-NhEPXxANZZBYiLbEXaQ": {
+          "body": "they attacked me with 11",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:20.908416Z"
+        },
+        "-NhEPZauPax7Cwy3vJVu": {
+          "body": "okay its go time!",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:27.675351Z"
+        },
+        "-NhEPbaCSTnLZKdiKchs": {
+          "body": "I will still give you 3 each tho",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:39.918019Z"
+        },
+        "-NhEPhWbzQAvvl0h94Rf": {
+          "body": "dang yeah not cool",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:28:04.199724Z"
+        },
+        "-NhEPkos6WdyMawaGXHR": {
+          "body": "I tried",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:28:17.720725Z"
+        },
+        "-NhEPq8mWiiKykvGpCjE": {
+          "body": "if we all attack they will go down",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:28:39.539159Z"
+        },
+        "-NhEPy38yESiApIfgVKp": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:11.946316Z"
+        },
+        "-NhEQ7f-t4sGrqhNfroL": {
+          "body": "Hotel and romeo are attacking me smh",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:29:55.392734Z"
+        },
+        "-NhEQBMvj5eDYTkMv0EU": {
+          "body": "I will give you guys 2 and safe the rest for defense",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:10.556514Z"
+        },
+        "-NhEQBWbl0HeyUqkOsga": {
+          "body": "okay we'll get them!",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:11.176101Z"
+        },
+        "-NhEQBokc_k11tqP3wbc": {
+          "body": "same",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:12.400832Z"
+        },
+        "-NhEQDfT8HVLW3iiGhaf": {
+          "body": "k",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:19.998687Z"
+        },
+        "-NhEQWcYpyHLsqeXzaP-": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.636427Z"
+        },
+        "-NhEQicTHdZ8o5tGqPoG": {
+          "body": "back to 3 ",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:30.878839Z"
+        },
+        "-NhEQjmBaZdrD0RA4uXx": {
+          "body": "did you guys get attacked?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:35.596813Z"
+        },
+        "-NhEQy5PsMKP6ICPaqmd": {
+          "body": "that time I was clean. hotel is going down",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:33:34.235468Z"
+        },
+        "-NhER2qUD1Rc20C1kPft": {
+          "body": "Lets not attack this round in case they defend",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:33:57.792004Z"
+        },
+        "-NhER3yxUfncT_FbPU09": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.430220Z"
+        },
+        "-NhERaP8uWAFat2CxoYM": {
+          "body": "trading this round",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:36:19.338054Z"
+        },
+        "-NhERdiYXDE72Mj5FKvK": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:32.931756Z"
+        }
+      },
+      "name": "Friends",
+      "participants": [
+        "Foxtrot",
+        "Delta",
+        "Mike"
+      ]
+    },
+    "-NhEHfRJm3mTYTBllbyf": {
+      "conversationId": "-NhEHfRJm3mTYTBllbyf",
+      "messages": {
+        "-NhEHgqHrpT3z6nENDw9": {
+          "body": "Alliance??",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:53:04.274984Z"
+        },
+        "-NhEHq8boAA55hFm879k": {
+          "body": "I think I'm in for this round",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:53:42.376127Z"
+        },
+        "-NhEHveYYJCJLd-Sg1oW": {
+          "body": "Yes",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:54:04.964047Z"
+        },
+        "-NhEI-8rfzmWPfC3Ovwd": {
+          "body": "Bet",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:54:23.351601Z"
+        },
+        "-NhEI1lnuNUHczEYmsn8": {
+          "body": "Ok I'm giving each of you 8",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:54:34.100549Z"
+        },
+        "-NhEI3W7tklAo24HsCDQ": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:54:41.225247Z"
+        },
+        "-NhEIBy_9IG3I0DF29kf": {
+          "body": "Foxtrot?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:55:15.878044Z"
+        },
+        "-NhEIChAtMwmxX9VTMG2": {
+          "body": "Yup",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:55:18.860379Z"
+        },
+        "-NhEIDTCARpxCiLcFuWi": {
+          "body": "Shall we for round 2 as well?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:55:21.998117Z"
+        },
+        "-NhEIDXCBDx4daDE5u0k": {
+          "body": "Same thing?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:55:22.254395Z"
+        },
+        "-NhEIEiYhPWaXBSbnPbd": {
+          "body": "Lets go",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:55:27.140402Z"
+        },
+        "-NhEIEnDyzBpat8LB4ic": {
+          "body": "bien",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:55:27.439085Z"
+        },
+        "-NhEIEz40EfbRLbVsEp6": {
+          "body": "Same thing ya",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:55:28.197978Z"
+        },
+        "-NhEIdDf9eg6mzovJJub": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:57:11.596418Z"
+        },
+        "-NhEIy9IDLLaBi9MaQLO": {
+          "body": "We all doing the same thing?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:58:37.332035Z"
+        },
+        "-NhEJ7_YTQj-Nzg-JhYL": {
+          "body": "I'm diversifing a little, It gave me negative for sharing with you guys but I'm trying it again",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:59:20.036025Z"
+        },
+        "-NhEJCwlbIFxSpAvF4AI": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:59:42.002307Z"
+        },
+        "-NhEJmfdtVmacXZT3awa": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:02:12.458170Z"
+        },
+        "-NhEKMODYoBxJr_qFKjM": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:04:42.831443Z"
+        },
+        "-NhEKw8sOx3oRnz1OdrZ": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.401630Z"
+        },
+        "-NhELVHE3ylHhrm1YdrC": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.391682Z"
+        },
+        "-NhEM1_BK0kA5PunkcJp": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.869491Z"
+        },
+        "-NhEMbHUczqtZVX8o9kj": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.223831Z"
+        },
+        "-NhENB1Z_bH5ZbvXNCZ5": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.757367Z"
+        },
+        "-NhENkl8DdwPs9gttFhJ": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.194150Z"
+        },
+        "-NhEOKUy9w5heHTho7lN": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.647231Z"
+        },
+        "-NhEOtJJi_llvoYCcLMR": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.356679Z"
+        },
+        "-NhEPOjZqANEyM36WKBp": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.173184Z"
+        },
+        "-NhEPy3FuldO-xnpQqmS": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:11.952759Z"
+        },
+        "-NhEQWcd0322S4KNM395": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.642309Z"
+        },
+        "-NhER3z1SUmoXHEPaGo7": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.435314Z"
+        },
+        "-NhERdidIfLiJbRUAe95": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:32.937924Z"
+        }
+      },
+      "name": "Besties",
+      "participants": [
+        "X-ray",
+        "Foxtrot",
+        "Golf"
+      ]
+    },
+    "-NhEHfesYWtpuqcYDtLa": {
+      "conversationId": "-NhEHfesYWtpuqcYDtLa",
+      "messages": {
+        "-NhEHj25x2z3v58lPVs1": {
+          "body": "What Day is Seth's Wedding?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:53:13.286858Z"
+        },
+        "-NhEHqICY6EnRSuLMNW0": {
+          "body": "December something",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:53:42.990347Z"
+        },
+        "-NhEHt20zpXOMyTjGakM": {
+          "body": "You are isaac?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:53:54.241972Z"
+        },
+        "-NhEI3WFec2qqdWOYlMY": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:54:41.233468Z"
+        },
+        "-NhEI5axZk6ITcPutQUx": {
+          "body": "Nope Is this Mary?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:54:49.790088Z"
+        },
+        "-NhEI9KbloGdJKwujLKC": {
+          "body": "Nope is this creed",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:55:05.064166Z"
+        },
+        "-NhEIN0n86anOfWRzX3o": {
+          "body": "Well now I don't trust you because someone else said they were creed",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:56:01.140165Z"
+        },
+        "-NhEIRwvJm62ET5Lej1w": {
+          "body": "Im not creed",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:56:21.307902Z"
+        },
+        "-NhEITQXsuhvF8eb6-gL": {
+          "body": "Im FatApe",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:56:27.362788Z"
+        },
+        "-NhEIV-r2PBPX-8W5sVu": {
+          "body": "HOHO john!",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:56:33.848552Z"
+        },
+        "-NhEIdDmVFWfZUqrOn4Q": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:57:11.603394Z"
+        },
+        "-NhEIkC9brVH6X1XXvP4": {
+          "body": "Who are you",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:57:40.170713Z"
+        },
+        "-NhEIvOqOba1AEqTt-Jl": {
+          "body": "Truest",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:58:26.038671Z"
+        },
+        "-NhEJ0ZYKQqqIbjXSz2F": {
+          "body": "Creed!",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:58:51.300086Z"
+        },
+        "-NhEJ1fgQEDHoFcdgr1f": {
+          "body": "WHat is delta planning",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:58:55.853135Z"
+        },
+        "-NhEJCwqe9JEcoUuut6k": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:59:42.007541Z"
+        },
+        "-NhEJUdEgGTEPL_RJBqH": {
+          "body": "No clue",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:00:54.480195Z"
+        },
+        "-NhEJmfi2qj7R7XNGTUO": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:02:12.463564Z"
+        },
+        "-NhEK-LiHu2JQLBE_1xF": {
+          "body": "Dont attack me again creed",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:03:08.462980Z"
+        },
+        "-NhEK2H5CJdHnR2SoGv4": {
+          "body": "Yo John just give me a few. I'm sending 10 your way",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:03:20.455098Z"
+        },
+        "-NhEK54Vn6MSIB4ClAQw": {
+          "body": "ok",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:03:31.936783Z"
+        },
+        "-NhEK6sp4thAdsK5skOx": {
+          "body": "Fine",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:03:39.317687Z"
+        },
+        "-NhEK7miw4OsLVgp8Z_7": {
+          "body": "I will trust you once",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:03:43.023243Z"
+        },
+        "-NhEKMOJzcj9lWnTdEzf": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:04:42.837408Z"
+        },
+        "-NhEKRIH2nd9KN_XZP4r": {
+          "body": "Bro",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:05:02.930957Z"
+        },
+        "-NhEKTM6VEN4dPcYWk_n": {
+          "body": "Yoo I apoloigise",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:05:11.368268Z"
+        },
+        "-NhEKU7iWM_jc1598t_g": {
+          "body": "you didn't send me any ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:05:14.543464Z"
+        },
+        "-NhEKUjQtTiNI6D2diRp": {
+          "body": "10 tokens to you right now",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:05:17.019718Z"
+        },
+        "-NhEK_2jkeV6uqpaUkHD": {
+          "body": "Alright but I'm just sending you 5 this time ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:05:38.800420Z"
+        },
+        "-NhEKbHzcI5REos98LdD": {
+          "body": "I swear",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:05:47.968078Z"
+        },
+        "-NhEKw8yEzakZbFVLSUk": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.406962Z"
+        },
+        "-NhEL2AbZhWa_bpraJS9": {
+          "body": "Bro, i don't even know you man",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:07:42.184190Z"
+        },
+        "-NhEL7eRcc8gHHzdItcu": {
+          "body": "I have you 10?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:08:04.636681Z"
+        },
+        "-NhELSdUhL8XwWRFGw7A": {
+          "body": "you hurt my heart man",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:09:30.592469Z"
+        },
+        "-NhELVHJt78RhMdkdUwm": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.397041Z"
+        },
+        "-NhELYtwHutnix_AhGPH": {
+          "body": "i forgot to press submit",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:09:56.221614Z"
+        },
+        "-NhELZN6Pa08cG2P4RqO": {
+          "body": "i am sorry",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:09:58.152006Z"
+        },
+        "-NhELaJcAE-LHdn-98t8": {
+          "body": "I gave you 8",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:06.121616Z"
+        },
+        "-NhELb40poPFFmt339G4": {
+          "body": "and 3 more this round",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:09.218307Z"
+        },
+        "-NhELbcSWVAAn6giiB3r": {
+          "body": "i apologise",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:11.486315Z"
+        },
+        "-NhELguhWZ4_38_ebBVD": {
+          "body": "I'm gonna trust you this time, we'll see if you come through",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:33.133810Z"
+        },
+        "-NhELjSiolIhjYjzWHdY": {
+          "body": "I did last time",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:43.567177Z"
+        },
+        "-NhELlZY7AIPZVUwbSg7": {
+          "body": "i swaer I forgot about submitt",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:52.195970Z"
+        },
+        "-NhELzkNrLlrN--n8QZ-": {
+          "body": "Haha how many chats you got going?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:11:50.297267Z"
+        },
+        "-NhEM1_GDkqt0UCrwMiF": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.874424Z"
+        },
+        "-NhEM4HcV0-15W22GdcY": {
+          "body": "too many",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:12:12.969493Z"
+        },
+        "-NhEM5h2DYiIMtoVeo5L": {
+          "body": "3 more this round",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:12:18.755790Z"
+        },
+        "-NhEMBEubzWX1EWxjoQD": {
+          "body": "OKay",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:12:41.467259Z"
+        },
+        "-NhEMbHZkoojBveD_iss": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.228877Z"
+        },
+        "-NhEMqI64UnHSuhUF4aO": {
+          "body": "Again?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:33.703906Z"
+        },
+        "-NhEMsNIXa9zwrBT3BLp": {
+          "body": "Yes of cours",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:42.227709Z"
+        },
+        "-NhEMsryUQVxKvXNGfou": {
+          "body": "Is it benefiting you at all?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:44.255168Z"
+        },
+        "-NhEMuA7I2IPTc4IKfV0": {
+          "body": "Idk",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:49.577106Z"
+        },
+        "-NhEMvR5mmYPMU1kLIqW": {
+          "body": "Im not looking at stats",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:54.759205Z"
+        },
+        "-NhEMxh0dkElkLTXKPNB": {
+          "body": "haha thats awesome",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:04.034284Z"
+        },
+        "-NhENB1e1zle_sodCwBz": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.762655Z"
+        },
+        "-NhENceeV98YkUzW6q4X": {
+          "body": "Romeo wants you to stop beefing",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:19:00.011323Z"
+        },
+        "-NhENdlvUjeN6UZwMVjO": {
+          "body": "idk 3 as always",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:19:04.571677Z"
+        },
+        "-NhENheBWBblC8F9_dNA": {
+          "body": "Haha, he was attacking me all over the start but yeah sure",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:19:20.461281Z"
+        },
+        "-NhENklEJ6whxuT3L-FL": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.200494Z"
+        },
+        "-NhEO-EkSevRROyhJX0X": {
+          "body": "3 as usual?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:20:36.593353Z"
+        },
+        "-NhEO30YJ_2Lob5neaWU": {
+          "body": "Yes",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:20:52.067894Z"
+        },
+        "-NhEOKV2NvSqo9jaVF_c": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.652038Z"
+        },
+        "-NhEO_QaXCw3r96UbMTs": {
+          "body": "im sorry i didnt give to anyone i unsubmited",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:08.902824Z"
+        },
+        "-NhEOnW-j14BWI0aaKot": {
+          "body": "haha shoot",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:06.592830Z"
+        },
+        "-NhEOtJOTRRqOvFXeSWK": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.362209Z"
+        },
+        "-NhEOz7DVH9pn3ilwMNV": {
+          "body": "i will give you 3 again",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:54.159104Z"
+        },
+        "-NhEPFgGn1lG0KaRVzcM": {
+          "body": "bien",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:26:06.098012Z"
+        },
+        "-NhEPOjeOi2V5jcPsPg5": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.178732Z"
+        },
+        "-NhEPiGMBeLOBxbci6Jr": {
+          "body": "3 and attack hotel",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:28:07.255900Z"
+        },
+        "-NhEPj9RFUYa7p5CfcLA": {
+          "body": "they are backstabbers",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:28:10.908650Z"
+        },
+        "-NhEPr5_4-Lbk0YYomoN": {
+          "body": "Sound good for both",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:28:43.430302Z"
+        },
+        "-NhEPtlm9cJlgLAVnIjB": {
+          "body": "I got 7 against them",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:28:54.387072Z"
+        },
+        "-NhEPwgFrlyB7NHozYfi": {
+          "body": "I have 5 and so do others",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:29:06.320987Z"
+        },
+        "-NhEPy3LbzPxCY398dIL": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:11.958753Z"
+        },
+        "-NhEQIPzxAsQO6GLKUxc": {
+          "body": "I am giving you 3",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:39.424422Z"
+        },
+        "-NhEQKknfKY-cE6sONSG": {
+          "body": "romeo and hotel are still the enemy",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:49.011840Z"
+        },
+        "-NhEQO0D1QLqol2TjSiS": {
+          "body": "Good, which should we focus on? or both",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:31:02.351389Z"
+        },
+        "-NhEQT3c8JxXWfcFD9jv": {
+          "body": "Mostly on hotel and some on romeo",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:31:23.049201Z"
+        },
+        "-NhEQWcodz-RE9vvvq9q": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.652685Z"
+        },
+        "-NhEQ_XttC5vV7-FUqxP": {
+          "body": "Again this round?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:31:53.657941Z"
+        },
+        "-NhEQbK_9eqF151z9lPs": {
+          "body": "Same enemies?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:00.998612Z"
+        },
+        "-NhEQcnOMVOyYvvUX7Bh": {
+          "body": "Yes",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:07.001970Z"
+        },
+        "-NhEQdaHI0PZDtPN_oqt": {
+          "body": "did they attack you?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:10.259164Z"
+        },
+        "-NhEQgbGETqkX1CN2wN0": {
+          "body": "Not this round but the last few they have",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:22.610569Z"
+        },
+        "-NhEQqDoojGBJguaSQRQ": {
+          "body": "Lets hold off attacking this round they might defend",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:33:02.005223Z"
+        },
+        "-NhEQwNUdvwMJd8JQFKS": {
+          "body": "Okay",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:33:27.199876Z"
+        },
+        "-NhER3z82qZoCdfWOpIp": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.442104Z"
+        },
+        "-NhERPafhwd8HbyckhFe": {
+          "body": "I am no longer attacking so wanna do more trade?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:35:30.988089Z"
+        },
+        "-NhERQJvflTNXqj-BYzo": {
+          "body": "5?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:35:33.948468Z"
+        },
+        "-NhERVFdpBRQe_6ySOgh": {
+          "body": "Yeha",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:35:54.154233Z"
+        },
+        "-NhERdiiHoaGhod5grZ1": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:32.943342Z"
+        }
+      },
+      "name": "Just Foxtrot",
+      "participants": [
+        "Golf",
+        "Foxtrot"
+      ]
+    },
+    "-NhEHrMIGdyM-JzLjWSa": {
+      "conversationId": "-NhEHrMIGdyM-JzLjWSa",
+      "messages": {
+        "-NhEHteCuTx0J9b0urBD": {
+          "body": "lets be friends",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:53:56.749680Z"
+        },
+        "-NhEHwt1_q9KyKi6ZfbD": {
+          "body": "yall get all my tokens",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:54:09.986656Z"
+        },
+        "-NhEHxyPXQkA-w0fRIZo": {
+          "body": "youre welcome",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:54:14.426853Z"
+        },
+        "-NhEI35WbXVMhWuUo23G": {
+          "body": "I'll give 1/3 my tokens to each of you each round if you do the same",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:54:39.522284Z"
+        },
+        "-NhEI3WLJ8FGmtaYGTmi": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:54:41.239346Z"
+        },
+        "-NhEI9xxFrHJcwIU4qKi": {
+          "body": "deal?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:55:07.645773Z"
+        },
+        "-NhEIdDr7SzfyDNr4WNq": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:57:11.608463Z"
+        },
+        "-NhEJCwwHNB4a6Y_RdZU": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:59:42.012735Z"
+        },
+        "-NhEJmfoQyuO-dUuGnZe": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:02:12.469423Z"
+        },
+        "-NhEKMOP08Pdv8hAzKkV": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:04:42.842944Z"
+        },
+        "-NhEKw92gAitEHO2-Id5": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.412195Z"
+        },
+        "-NhELVHO33eXYl5KM49s": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.402248Z"
+        },
+        "-NhEM1_L_Eq7cnURyLfw": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.879478Z"
+        },
+        "-NhEMbHdD_5u3zP-Qzp8": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.234087Z"
+        },
+        "-NhENB1jzSKnIDUIayw_": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.768108Z"
+        },
+        "-NhENklKnyO0FZhH3FZq": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.206084Z"
+        },
+        "-NhEOKV73lmZ_s6i9MWt": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.657100Z"
+        },
+        "-NhEOtJTGzIpdbVxXWDj": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.367464Z"
+        },
+        "-NhEPOjkozuOcaSMkqfl": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.185148Z"
+        },
+        "-NhEPy3Q0MmodqQQF7u5": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:11.964317Z"
+        },
+        "-NhEQWcuZn0SpkkYWhEJ": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.658717Z"
+        },
+        "-NhER3zFFtdwG3yeOcJ2": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.448757Z"
+        },
+        "-NhERdiogUGS2DltF7l1": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:32.948874Z"
+        }
+      },
+      "name": "k",
+      "participants": [
+        "Hotel",
+        "Romeo",
+        "Mike"
+      ]
+    },
+    "-NhEHx3uaDDwG_D5J_uY": {
+      "conversationId": "-NhEHx3uaDDwG_D5J_uY",
+      "messages": {
+        "-NhEHzRx5pXB32dgBcdb": {
+          "body": "You guys wanna win?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:54:20.478332Z"
+        },
+        "-NhEI3WQACP1d8hdHMjs": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:54:41.244632Z"
+        },
+        "-NhEI3cW2eb345YtOSW7": {
+          "body": "no thanks",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:54:41.698576Z"
+        },
+        "-NhEIdDwuAAaJYfORB4F": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:57:11.613388Z"
+        },
+        "-NhEJCx0yXzr-N6Y-60y": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:59:42.018013Z"
+        },
+        "-NhEJmfuFZw9TL4HTd_i": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:02:12.475032Z"
+        },
+        "-NhEKMOWm94jWtY6yw0K": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:04:42.849702Z"
+        },
+        "-NhEKw982MjeePmgAH4Y": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.417889Z"
+        },
+        "-NhELVHT9DmllhIHTzs2": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.407219Z"
+        },
+        "-NhEM1_RIsmFBPIYcXqu": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.884917Z"
+        },
+        "-NhEMbHiqQHwapz01DnH": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.238986Z"
+        },
+        "-NhENB1ooYNnbEMljFWX": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.773543Z"
+        },
+        "-NhENklPnq1_z7NuF3VK": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.210979Z"
+        },
+        "-NhEOKVC42piTS-uL1qU": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.662093Z"
+        },
+        "-NhEOtJYzzj6mgao6ayk": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.372635Z"
+        },
+        "-NhEPOjrFXU4Gd51WZKB": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.192028Z"
+        },
+        "-NhEPy3VCsUz_Urx3uU0": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:11.969424Z"
+        },
+        "-NhEQWd-8GFayBaRV1fZ": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.665100Z"
+        },
+        "-NhER3zK1-gV8u1M0d8r": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.454041Z"
+        },
+        "-NhERditwcqyGwLiTn6t": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:32.954185Z"
+        }
+      },
+      "name": "Winners",
+      "participants": [
+        "India",
+        "Delta",
+        "Hotel",
+        "Mike",
+        "X-ray"
+      ]
+    },
+    "-NhEI1GFZXMuFkbXyBAU": {
+      "conversationId": "-NhEI1GFZXMuFkbXyBAU",
+      "messages": {
+        "-NhEI3WWzerf7h_j1E2A": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:54:41.249686Z"
+        },
+        "-NhEIdE0Yzt-sQ7J5505": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:57:11.618371Z"
+        },
+        "-NhEJCx6ij9oDnXlkNuz": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:59:42.023674Z"
+        },
+        "-NhEJmg-eZym4pZaThNA": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:02:12.480789Z"
+        },
+        "-NhEKMOazrLGrVKfY-mJ": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:04:42.855556Z"
+        },
+        "-NhEKw9DI9dJtv8urfbe": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.423206Z"
+        },
+        "-NhELVHYyeSxnXW0tu13": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.412330Z"
+        },
+        "-NhEM1_WvGwpeKc_Ccxi": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.890618Z"
+        },
+        "-NhEMbHnMebs4dJXn_TW": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.244377Z"
+        },
+        "-NhENB1uPq6lRzxhz0ZU": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.779455Z"
+        },
+        "-NhENklUiAdP5Pghq3ON": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.216174Z"
+        },
+        "-NhEOKVHkU3GCUcDbVuy": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.667446Z"
+        },
+        "-NhEOtJeFPXv1qgwRnLj": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.379565Z"
+        },
+        "-NhEPOjyqa-zehC2Xm6N": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.199156Z"
+        },
+        "-NhEPy3_6gd_MQ0aJydU": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:11.974495Z"
+        },
+        "-NhEQWd5ZptzPcJz7Bp_": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.671293Z"
+        },
+        "-NhER3zPnvb_rwvTho7M": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.459251Z"
+        },
+        "-NhERdiyEyVOHJo147F-": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:32.959479Z"
+        }
+      },
+      "name": "Romeo Haters",
+      "participants": [
+        "Foxtrot",
+        "Delta",
+        "Golf",
+        "Hotel",
+        "India",
+        "Mike",
+        "X-ray"
+      ]
+    },
+    "-NhEILlXT7P2Or7WJF9W": {
+      "conversationId": "-NhEILlXT7P2Or7WJF9W",
+      "messages": {
+        "-NhEIVtQY05ntX0A0VFT": {
+          "body": "WTF",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:56:37.468490Z"
+        },
+        "-NhEIXf_NjeZUjnjvBLF": {
+          "body": "WHo made this",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:56:44.774251Z"
+        },
+        "-NhEIXvIvwgI0QvBNlkb": {
+          "body": "dont wtf me",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:56:45.779982Z"
+        },
+        "-NhEIdE6HL_oEK8mHPQl": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:57:11.623796Z"
+        },
+        "-NhEJCxBGmR3TKTk8FsJ": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:59:42.029219Z"
+        },
+        "-NhEJmg6y7cEqsoKx6CN": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:02:12.488178Z"
+        },
+        "-NhEKMOgOo8VCGDH1uUD": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:04:42.860656Z"
+        },
+        "-NhEKw9M0hXq7czu9Vzp": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.432448Z"
+        },
+        "-NhELVHdNdf3Yn4iwcah": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.417738Z"
+        },
+        "-NhEM1_b7C6n258z79M5": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.895985Z"
+        },
+        "-NhEMbHueKODkHWJ8NuE": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.251303Z"
+        },
+        "-NhENB20bPTVmiY5vJmi": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.785836Z"
+        },
+        "-NhENklZ2nlO0M4K-Vb7": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.221309Z"
+        },
+        "-NhEOKVNxy90OSS9Ql3g": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.673538Z"
+        },
+        "-NhEOtJkSSPLpoegyrdF": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.385284Z"
+        },
+        "-NhEPOk3S2tqbdk5zPvD": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.204981Z"
+        },
+        "-NhEPy3fsxMGMvPynGax": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:11.980561Z"
+        },
+        "-NhEQWdBOB5PvBZFmsuv": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.677465Z"
+        },
+        "-NhER3zUaiE-B7DFFloE": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.464592Z"
+        },
+        "-NhERdj3idLecsY9TAk1": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:32.964783Z"
+        }
+      },
+      "name": "Screw foxtrot",
+      "participants": [
+        "India",
+        "Delta",
+        "Hotel",
+        "Foxtrot",
+        "Golf",
+        "Mike",
+        "Romeo",
+        "X-ray"
+      ]
+    },
+    "-NhEIWan-TBn1vY7mo5k": {
+      "conversationId": "-NhEIWan-TBn1vY7mo5k",
+      "messages": {
+        "-NhEIdEB4XdnIvIW_FBA": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:57:11.629099Z"
+        },
+        "-NhEIl3KcZ5w3KGr7hHo": {
+          "body": "I think this could be the best of the best ... everyone share 2 tokens?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:57:43.701995Z"
+        },
+        "-NhEIp1mLIJv-A6xbcJ7": {
+          "body": "I'm down",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:57:59.987094Z"
+        },
+        "-NhEIsHC-yYtJrTtNlml": {
+          "body": "Foxtrot isn't playing fair",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:58:13.262269Z"
+        },
+        "-NhEItj7E85UXvnzM1Wz": {
+          "body": "I think that we probably need to target foxtrot. They are too high and they keep all of their tokens",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:58:19.208640Z"
+        },
+        "-NhEIxs-Q6XQuKcj3QDE": {
+          "body": "With all of us we could take them down",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:58:36.160701Z"
+        },
+        "-NhEIyBrwcrCmEydosf-": {
+          "body": "Let's do it",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:58:37.496096Z"
+        },
+        "-NhEJ-1hC6LCQE_NWuxo": {
+          "body": "kk",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:58:45.038521Z"
+        },
+        "-NhEJ1PQF89wlyieWzHX": {
+          "body": "I'm throwing 6 agains foxtrot",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:58:54.748503Z"
+        },
+        "-NhEJCxGcyfJVvyZ-72H": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:59:42.034214Z"
+        },
+        "-NhEJJpSvj0cemtA1_LL": {
+          "body": "Guys we need to target foxtrot",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:00:10.206060Z"
+        },
+        "-NhEJO4-yxZmD-6Rykj3": {
+          "body": "I'm gonna put 12 against them",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:00:27.585521Z"
+        },
+        "-NhEJSKSvrSnXBCHnHHO": {
+          "body": "3 to each other... a few against fox trot ",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:00:45.021836Z"
+        },
+        "-NhEJakjZR3p_GzMNNdl": {
+          "body": "but they are soo high up, I think it would benefit us more if we went all out against them, but I'm good to give 3",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:01:23.632375Z"
+        },
+        "-NhEJelw5LVnRz1bRLNo": {
+          "body": "I agree with India",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:01:40.093198Z"
+        },
+        "-NhEJlRo4bNfQIOpSle6": {
+          "body": "Foxtrot doesn't really have any strong friends, so a coordinated attack would be effective",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:02:07.413323Z"
+        },
+        "-NhEJmgCpAxmK7d1DdQy": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:02:12.494215Z"
+        },
+        "-NhEJsbiQqN_zt0wsqzk": {
+          "body": "okay cordinated attack all out this round?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:02:36.783433Z"
+        },
+        "-NhEJtLFKqJpn3qFTjFE": {
+          "body": "I forgot to hit submit",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:02:39.760716Z"
+        },
+        "-NhEJtSLCFefhhC1Beit": {
+          "body": "or would that wreck us",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:02:40.215110Z"
+        },
+        "-NhEJuvZ3hd6nrjcpTTU": {
+          "body": "Let's do it",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:02:46.245155Z"
+        },
+        "-NhEJxhi2gKMRYk7EEW_": {
+          "body": "im down",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:02:57.647214Z"
+        },
+        "-NhEKMOlAe51YKqN224b": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:04:42.865980Z"
+        },
+        "-NhEKSkqMg5oQyWFTCuy": {
+          "body": "What happened?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:05:08.918767Z"
+        },
+        "-NhEKW-5WB6PN1xZyoyp": {
+          "body": "Bro I don't even know",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:05:22.182913Z"
+        },
+        "-NhEKYBp8pXE3u-Xsxhg": {
+          "body": "We are all going down, but their popularity is so strong",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:05:31.189887Z"
+        },
+        "-NhEKw9SfIoEcJPhhpL1": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.438509Z"
+        },
+        "-NhELVHi2MxOX6szK5k2": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.422830Z"
+        },
+        "-NhEM1_gjn4E-M4U18z9": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.900987Z"
+        },
+        "-NhEMbI00GH3zoaISlW0": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.258290Z"
+        },
+        "-NhENB25SiheoKP_7kJK": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.790981Z"
+        },
+        "-NhENkldUVybe5ZpZxw4": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.226266Z"
+        },
+        "-NhEOKVXO7yfDd5zHxY9": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.682979Z"
+        },
+        "-NhEOtJqK2IhmbbAYRQc": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.390943Z"
+        },
+        "-NhEPOkAS1Z2hbH5Bgmg": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.212395Z"
+        },
+        "-NhEPy3lhyrklyGuvpRe": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:11.986348Z"
+        },
+        "-NhEQWdHeLKsDXXa73Oz": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.682986Z"
+        },
+        "-NhER3z_8bGEad05J0bZ": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.470029Z"
+        },
+        "-NhERdj8CeG5Tnyr0EKK": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:32.970023Z"
+        }
+      },
+      "name": "top tier",
+      "participants": [
+        "Romeo",
+        "India",
+        "X-ray",
+        "Delta",
+        "Golf"
+      ]
+    },
+    "-NhEIdYer9bRZajwLulV": {
+      "conversationId": "-NhEIdYer9bRZajwLulV",
+      "messages": {
+        "-NhEIwic-D1n6yEHzbaw": {
+          "body": "if anyone wants to party, meet up at 35 e 800n at 7pm tonight. finna be lit",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:58:31.465507Z"
+        },
+        "-NhEJCxLQGNP3QQj-g4B": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:59:42.039407Z"
+        },
+        "-NhEJmgLSLz-YG4eXEX8": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:02:12.502707Z"
+        },
+        "-NhEKMOrUEmHt_9C4Lh0": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:04:42.871894Z"
+        },
+        "-NhEKw9YW24fiJPGEFZe": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.444328Z"
+        },
+        "-NhELVHnKZYMU_wgsH9U": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.428409Z"
+        },
+        "-NhEM1_mg1ZokH0FMBUz": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.906889Z"
+        },
+        "-NhEMbI6-5pG01FFEehS": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.264217Z"
+        },
+        "-NhENB2AgxOv1u-SsWl7": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.796596Z"
+        },
+        "-NhENkliihQargY70IQY": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.231300Z"
+        },
+        "-NhEOKVc-V0pzyybUE2H": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.688819Z"
+        },
+        "-NhEOtJwQuo55yQ86T9B": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.397106Z"
+        },
+        "-NhEPOkGvgGa5wfD0Xnt": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.217978Z"
+        },
+        "-NhEPy3rJ5dnGT04_DUP": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:11.993572Z"
+        },
+        "-NhEQWdNSFyOkwYXRdaF": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.688696Z"
+        },
+        "-NhER3zfTz3W6y5-1jxD": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.476303Z"
+        },
+        "-NhERdjDNtfdY_LJRwce": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:32.975456Z"
+        }
+      },
+      "name": "Delta Haters",
+      "participants": [
+        "Foxtrot",
+        "Hotel",
+        "Delta",
+        "Golf",
+        "India",
+        "Romeo",
+        "Mike",
+        "X-ray"
+      ]
+    },
+    "-NhEIqKWcjf78T73I16a": {
+      "conversationId": "-NhEIqKWcjf78T73I16a",
+      "messages": {
+        "-NhEIt0VemjicTu6vI8x": {
+          "body": "we got a pretty strong connection goin here",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:58:16.288690Z"
+        },
+        "-NhEIuz96L9nj9UIgpSm": {
+          "body": "I'll comit 5 per round to you",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:58:24.330717Z"
+        },
+        "-NhEIwW1A5LYzvQUB0CK": {
+          "body": "lets take this bread money",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:58:30.594897Z"
+        },
+        "-NhEJ-HFsC92RQZNo7sc": {
+          "body": "okay prove yourself and i am in",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:58:46.033018Z"
+        },
+        "-NhEJ11XAbfPIVgFHTX7": {
+          "body": "bet",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:58:53.219199Z"
+        },
+        "-NhEJByilQbr42GKaGc_": {
+          "body": "booyah",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:59:38.031219Z"
+        },
+        "-NhEJCxQKqMXHZEJ1nZi": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:59:42.044418Z"
+        },
+        "-NhEJJ31b8THS3V_Bom0": {
+          "body": "okay I forgot to submit",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:00:07.043263Z"
+        },
+        "-NhEJKTR_QEZakTj5amn": {
+          "body": "yeah u did",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:00:12.829100Z"
+        },
+        "-NhEJK_IyJzX4PJWm3rG": {
+          "body": "give me another chance",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:00:13.268193Z"
+        },
+        "-NhEJLWoXdIqQpvCBOnT": {
+          "body": "pay up sir",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:00:17.141416Z"
+        },
+        "-NhEJLy9cjiDQqa5clLo": {
+          "body": "haha",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:00:18.954866Z"
+        },
+        "-NhEJV-gEzC3YVLhkSAg": {
+          "body": "ive given you 4",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:00:55.980893Z"
+        },
+        "-NhEJVq-agN6RiKT0rWn": {
+          "body": "ill give 4 more",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:00:59.392917Z"
+        },
+        "-NhEJfSEz9_QuemezrG1": {
+          "body": "fs fs",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:01:42.864441Z"
+        },
+        "-NhEJgfi2PXjZfl5vLgY": {
+          "body": "5 coming your way",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:01:47.886934Z"
+        },
+        "-NhEJmgRjPLEe40ncFpd": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:02:12.509099Z"
+        },
+        "-NhEJy2x_yLpmrZdDtN_": {
+          "body": "hotel noooo",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:02:59.070252Z"
+        },
+        "-NhEJyTGoZxiKIxe-dMk": {
+          "body": "why",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:03:00.754126Z"
+        },
+        "-NhEKMOyEAocy5AtHh-6": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:04:42.878942Z"
+        },
+        "-NhEKSswxShi7MmhwMDp": {
+          "body": "ill give you 5 this round:)",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:05:09.436970Z"
+        },
+        "-NhEK_mm7KLO2TlK1k9b": {
+          "body": "bless you ",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:05:41.810994Z"
+        },
+        "-NhEKw9cnoA84mXPn6Fs": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.449620Z"
+        },
+        "-NhELVHtS6zSkYiGiip8": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.434134Z"
+        },
+        "-NhELZLgRui8G7Pp8yd9": {
+          "body": "love you homie",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:09:58.061476Z"
+        },
+        "-NhELaaFPGLpdbN8YX5m": {
+          "body": "whatre we doing this rounf",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:07.248745Z"
+        },
+        "-NhELfNTHkTvGIuGjnzZ": {
+          "body": "2 for 2?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:26.846885Z"
+        },
+        "-NhELg9l-sL40_sNAVcv": {
+          "body": "I don't have much",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:30.065737Z"
+        },
+        "-NhEM1_r_j9bUHUY7IyP": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.912636Z"
+        },
+        "-NhEMD3q5dQUQfFzRBDM": {
+          "body": "hi how much this round",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:12:48.950676Z"
+        },
+        "-NhEMEfu96Q_62d4LxbF": {
+          "body": "ill give you 8 if youll give me 8",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:12:55.547418Z"
+        },
+        "-NhEMFiBu5Q_hf-7yFXW": {
+          "body": "for reals",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:12:59.789544Z"
+        },
+        "-NhEMHYuChTjtWDyCRCj": {
+          "body": "for reals?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:13:07.322794Z"
+        },
+        "-NhEMK8G24Bwd8mg2KIo": {
+          "body": "I'm in in you are",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:13:17.906478Z"
+        },
+        "-NhEMTnengG7Lb9V4E-P": {
+          "body": "yes of course!!",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:13:57.482908Z"
+        },
+        "-NhEMUVNhuHU9luBBTx8": {
+          "body": "ive got you",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:14:00.345458Z"
+        },
+        "-NhEMW0CK1KeEQUyRzCP": {
+          "body": "i lost last round. hurts",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:14:06.542448Z"
+        },
+        "-NhEMbIBjAHZS0cBDLK0": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.269172Z"
+        },
+        "-NhENB2GDQmS98Sl7kec": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.801946Z"
+        },
+        "-NhENkloy-i5doESnD1J": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.237103Z"
+        },
+        "-NhEOKVhrchPr8x3ptDX": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.694168Z"
+        },
+        "-NhEOtK0l3WR6psMYDPH": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.402577Z"
+        },
+        "-NhEPOkLnJ6OkOXWeX_3": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.223237Z"
+        },
+        "-NhEPy3zjG_2-TVG-0up": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.000644Z"
+        },
+        "-NhEQWdSPybaunjH-Hq9": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.694029Z"
+        },
+        "-NhER3zlDmWowIJeSxsH": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.482055Z"
+        },
+        "-NhERdjKONS5lDQ1N8b9": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:32.982557Z"
+        }
+      },
+      "name": "friend",
+      "participants": [
+        "Romeo",
+        "Hotel"
+      ]
+    },
+    "-NhEJNro0jsgZJcZnSWI": {
+      "conversationId": "-NhEJNro0jsgZJcZnSWI",
+      "messages": {
+        "-NhEJmgYkXSPfAac42Ik": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:02:12.516068Z"
+        },
+        "-NhEKMP277WAmjWz2l4W": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:04:42.884501Z"
+        },
+        "-NhEKw9iXC_5UGveHVBa": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.454956Z"
+        },
+        "-NhELVI0cDUD0VxzPgir": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.442136Z"
+        },
+        "-NhEM1_yvS6cOC4QJyBS": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.918741Z"
+        },
+        "-NhEMbIGMkpFAE80MCb1": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.274492Z"
+        },
+        "-NhENB2LhpvCFTlVauMr": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.807213Z"
+        },
+        "-NhENklumdO4hb50p_iZ": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.242716Z"
+        },
+        "-NhEOKVmkrU7d6sEh2Z4": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.699383Z"
+        },
+        "-NhEOtK69hijLIEdeAb5": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.408203Z"
+        },
+        "-NhEPOkQKanWr4iYRN-c": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.228581Z"
+        },
+        "-NhEPy45KZTITgru48sY": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.007381Z"
+        },
+        "-NhEQWdYu9lnrHrBR-vy": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.699850Z"
+        },
+        "-NhER3zsj5dmwFHCbuoW": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.488681Z"
+        },
+        "-NhERdjReJmW-W9WAPj5": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:32.988756Z"
+        }
+      },
+      "name": "Truce?",
+      "participants": [
+        "Foxtrot",
+        "Delta"
+      ]
+    },
+    "-NhEJb2r6IAYRPd4zqDJ": {
+      "conversationId": "-NhEJb2r6IAYRPd4zqDJ",
+      "messages": {
+        "-NhEJdEEkq9juKiCwsNR": {
+          "body": "india im here for you homie",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:01:33.776465Z"
+        },
+        "-NhEJeQasP9UW16MMMwC": {
+          "body": "gave you 8 this round",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:01:38.662666Z"
+        },
+        "-NhEJgH8y-4RkBkIi7tw": {
+          "body": "lets be besties and get back on top",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:01:46.249938Z"
+        },
+        "-NhEJjCPEj5yApsP2KSL": {
+          "body": "deal?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:01:58.235282Z"
+        },
+        "-NhEJlUgJeaPAMCYGoGf": {
+          "body": "Lets do it",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:02:07.597287Z"
+        },
+        "-NhEJmgcJTlMwUue61kD": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:02:12.521124Z"
+        },
+        "-NhEJxc81dMLNBjs7qwa": {
+          "body": "how many are you giving me this round",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:02:57.290165Z"
+        },
+        "-NhEJymJi1EcGkEM12vZ": {
+          "body": "ill give you more",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:03:02.037618Z"
+        },
+        "-NhEK0XIqfx4cfUmTYS7": {
+          "body": "Sorry, I forgot to hit submit last round",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:03:13.300359Z"
+        },
+        "-NhEKAbZxz4K2kUKfbx2": {
+          "body": "I can give you 10",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:03:54.597453Z"
+        },
+        "-NhEKFxZP1rKRjQPa9bA": {
+          "body": "k done ill give you 2 and next round ill give you all i have",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:04:16.484983Z"
+        },
+        "-NhEKMP8DbaexMw5XHCa": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:04:42.889932Z"
+        },
+        "-NhEKQ7xyY541foVs8WC": {
+          "body": "Sorry, I accidentally only did 6 i think",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:04:58.173719Z"
+        },
+        "-NhEKZZ_LjHOmRoeLyaA": {
+          "body": "10 coming your way this round",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:05:36.805808Z"
+        },
+        "-NhEKdrx4AWf4wSKDFdm": {
+          "body": "Sweet, I'm worried about whats happening with foxtrot though",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:05:58.525921Z"
+        },
+        "-NhEKjHT_Ayddh1-Ps8O": {
+          "body": "what should we do about him next round",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:06:20.703290Z"
+        },
+        "-NhEKnJOuEN2fPDu50Bc": {
+          "body": "india we on our way back up if we keep this alliance he he he",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:06:37.210593Z"
+        },
+        "-NhEKpwO-Do-lWe3ZII1": {
+          "body": "I'm not sure, but yeah lets keep shooting for it",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:06:47.961919Z"
+        },
+        "-NhEKt-U4hpuXSfJuhYm": {
+          "body": "I'll give 8 this round",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:07:00.512315Z"
+        },
+        "-NhEKw1DKqXHCd7y-3Tm": {
+          "body": "Actually i'll give 14",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:07:12.911263Z"
+        },
+        "-NhEKw9n0oijTEly80VM": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.460563Z"
+        },
+        "-NhEKzJYYRtVWMWhT2oa": {
+          "body": "oh what",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:07:26.371828Z"
+        },
+        "-NhEL03NwBIIIoTf-cJT": {
+          "body": "homie ill give you more my b!",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:07:33.529117Z"
+        },
+        "-NhEL1E_lRujCVh-kfqS": {
+          "body": "how many you want",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:07:38.341737Z"
+        },
+        "-NhEL6tGeCd4UK_cXHft": {
+          "body": "Idk, probably like 8",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:08:01.489748Z"
+        },
+        "-NhEL8xNN7zRGbi7j_lK": {
+          "body": "kk can u give 8 back?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:08:09.944913Z"
+        },
+        "-NhELA-imrfBx-dFWYPE": {
+          "body": "sure",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:08:14.254854Z"
+        },
+        "-NhELVI5jmSm8RWEX1ws": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.447567Z"
+        },
+        "-NhELhtFakPA_V5xAb52": {
+          "body": "k whatre we doing this round?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:37.137116Z"
+        },
+        "-NhELmSeeHZnMRuTFCOL": {
+          "body": "I got wrecked by golf",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:55.851239Z"
+        },
+        "-NhELoNu9OfgfJTRKkbP": {
+          "body": "stupid golf",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:11:03.738982Z"
+        },
+        "-NhELog-_Gw4UuV1ivdM": {
+          "body": "They went 16 against me",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:11:04.961123Z"
+        },
+        "-NhELqecL7NFax4hwBwS": {
+          "body": "i never give them anything anyways",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:11:13.065220Z"
+        },
+        "-NhELvHi1ipQktoR1gpd": {
+          "body": "ill give you 8 if youll give me 8. then ill do 8 against golf",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:11:32.014959Z"
+        },
+        "-NhELxLnIVS_940nhjRB": {
+          "body": "Sure",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:11:40.468362Z"
+        },
+        "-NhEM1a2cXytt83A62uB": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.924488Z"
+        },
+        "-NhEMJXfnPecVuqmg1YI": {
+          "body": "all 16?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:13:15.436458Z"
+        },
+        "-NhEML90nqTZ2A1MiYEq": {
+          "body": "ill give you all i have",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:13:22.050467Z"
+        },
+        "-NhEMMYrzvx8nO4az-TF": {
+          "body": "Let's do it",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:13:27.800093Z"
+        },
+        "-NhEMNWXfiB3HLG9UOUZ": {
+          "body": "you cant go down like this mr india",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:13:31.746841Z"
+        },
+        "-NhEMT62VO2kVQqEa3yX": {
+          "body": "I don't want you going down either",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:13:54.628550Z"
+        },
+        "-NhEMaA-EJ3qGo5H5QWY": {
+          "body": "nah if we give equal then its fine!",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:14:27.649032Z"
+        },
+        "-NhEMbILjC-xNhCPs4Kf": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.279361Z"
+        },
+        "-NhEMfbzFwrJIkH-Kez_": {
+          "body": "Bruh",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:14:49.983691Z"
+        },
+        "-NhEMkBdyA7M5L-xctEB": {
+          "body": "oooooopsssssss",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:08.714455Z"
+        },
+        "-NhENB2TpnjRa8FA0pj1": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.815345Z"
+        },
+        "-NhENklzG0fPF3zI6UEA": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.247980Z"
+        },
+        "-NhEOKVrB-hZNcb43U27": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.704523Z"
+        },
+        "-NhEOtKCvj0RCVyEKc0I": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.413845Z"
+        },
+        "-NhEPOkVwg7CpzOZxo36": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.233508Z"
+        },
+        "-NhEPy4CHDE4bAt_flol": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.014515Z"
+        },
+        "-NhEQWdciY_IKo012kF_": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.705289Z"
+        },
+        "-NhER3zxvPRRzRkyeRHk": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.493956Z"
+        },
+        "-NhERdjW8numOTAxqULX": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:32.994065Z"
+        }
+      },
+      "name": "come back",
+      "participants": [
+        "Hotel",
+        "India"
+      ]
+    },
+    "-NhEJhDFis4uij69iFin": {
+      "conversationId": "-NhEJhDFis4uij69iFin",
+      "messages": {
+        "-NhEJisHkXy_c7OSoFee": {
+          "body": "Stop attacking me",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:01:56.882949Z"
+        },
+        "-NhEJksgCHHZa2gStnV9": {
+          "body": "I will wreck you",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:02:05.100707Z"
+        },
+        "-NhEJmgiy1sPKbz-be5J": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:02:12.527113Z"
+        },
+        "-NhEJt0xPc5U0765-eO0": {
+          "body": "Hotel We have a truce",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:02:38.462576Z"
+        },
+        "-NhEKMPFpwFW1maWWl44": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:04:42.897619Z"
+        },
+        "-NhEKw9teTnt3Prc0qH4": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.466006Z"
+        },
+        "-NhELStmoB9cAjRY78Zx": {
+          "body": "okay truce foxtrot. i wont touch you",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:09:31.634632Z"
+        },
+        "-NhELVIByapA5pGlVFLm": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.452923Z"
+        },
+        "-NhELxw12FMLqxJl_Ytd": {
+          "body": "but you did?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:11:42.850718Z"
+        },
+        "-NhEM1a8LHLCTtpappem": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.929852Z"
+        },
+        "-NhEMbIQgyJy9u9g-mZk": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.284154Z"
+        },
+        "-NhENB2Zxj2puj2WqQyB": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.821023Z"
+        },
+        "-NhENkm3Ux55jXn9OwBY": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.253088Z"
+        },
+        "-NhEOKVxLNPZD2dtktQ7": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.709945Z"
+        },
+        "-NhEOtKJwQLYhXlerhOK": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.421444Z"
+        },
+        "-NhEPOkad_IlMB8PR0jE": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.238849Z"
+        },
+        "-NhEPy4Kg-hKkToMQ-q8": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.022653Z"
+        },
+        "-NhEQWdhcoy0Nojk5usw": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.710512Z"
+        },
+        "-NhER4-1sQda8rTBwhPa": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.499653Z"
+        },
+        "-NhERdjfp6xQB7zq7lb4": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:33.003843Z"
+        }
+      },
+      "name": "Yooo",
+      "participants": [
+        "Foxtrot",
+        "India",
+        "Hotel",
+        "X-ray"
+      ]
+    },
+    "-NhEKrzuzCoFyd_tk8Gt": {
+      "conversationId": "-NhEKrzuzCoFyd_tk8Gt",
+      "messages": {
+        "-NhEKw9zCnd1E7pjA2-C": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.472423Z"
+        },
+        "-NhELNzDrZUkvb7S0nrE": {
+          "body": "Romeo",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:09:11.502656Z"
+        },
+        "-NhELPPm_e3zh8rfci6f": {
+          "body": "Wanna boost each other?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:09:17.362877Z"
+        },
+        "-NhELVIG9S-OzCoDmpOv": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.458251Z"
+        },
+        "-NhELYv9EPOSdDYBFRJ6": {
+          "body": "this round",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:09:56.298639Z"
+        },
+        "-NhELZvzv4yg48VnZ_J_": {
+          "body": "5 for 5?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:00.448277Z"
+        },
+        "-NhEL_xkdEMobozOuPZ0": {
+          "body": "Deal",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:04.657485Z"
+        },
+        "-NhEM1aDCvpNdo4HsOwq": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.935208Z"
+        },
+        "-NhEM9HqfdjnGriQcQrQ": {
+          "body": "Again?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:12:33.462811Z"
+        },
+        "-NhEMCrstKWhhfnq87mF": {
+          "body": "I can do 4",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:12:48.121274Z"
+        },
+        "-NhEMF3Hb6HteTLSSZN4": {
+          "body": "Cool",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:12:57.106902Z"
+        },
+        "-NhEMbIVEtSJcUb-wzvO": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.289578Z"
+        },
+        "-NhENB2d_ukqclugSjot": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.826531Z"
+        },
+        "-NhENWblB5uLjSZO1Ahr": {
+          "body": "3 for 3?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:18:31.153986Z"
+        },
+        "-NhENcNZPLGApusH_-D8": {
+          "body": "Done",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:18:58.853405Z"
+        },
+        "-NhENkm8dgdQa-QJQIRM": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.258169Z"
+        },
+        "-NhENr2t9Twpn3_COP5r": {
+          "body": "shoot sorry I didn't hit sumbit again ",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:19:58.970563Z"
+        },
+        "-NhENwAkf3NPRXi9lwSI": {
+          "body": "All good 3 for 3?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:20:19.952970Z"
+        },
+        "-NhEO8BkXOURksKFUB1T": {
+          "body": "deal",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:21:13.264899Z"
+        },
+        "-NhEOKW2b7hGWYjzO7Ab": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.715859Z"
+        },
+        "-NhEOcJrtRa9NHimOVkP": {
+          "body": "Idk if this is getting any better for us... wanna go all in 16 for 16 and see what happens?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:20.760288Z"
+        },
+        "-NhEOf2pDzbmgt-odhhl": {
+          "body": "Ya I'm down to try it",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:31.957849Z"
+        },
+        "-NhEOfgdlc5WFSbE_d3B": {
+          "body": "Lmk when you submit",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:34.569973Z"
+        },
+        "-NhEOii5UeMJgDBk9F18": {
+          "body": "Just sent mine",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:46.950958Z"
+        },
+        "-NhEOkdJ24ddXM5-sCW8": {
+          "body": "done",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:54.836921Z"
+        },
+        "-NhEOtKPwxgwzntPDRDH": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.427407Z"
+        },
+        "-NhEP46ONy4sV55PBaTM": {
+          "body": "I think that helped!",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:18.682427Z"
+        },
+        "-NhEP5Wb_FIeExnn3HjX": {
+          "body": "try again?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:24.456306Z"
+        },
+        "-NhEP7MPP_D-7SOK79Dx": {
+          "body": "Yes let's try one more round",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:31.995372Z"
+        },
+        "-NhEPAyV6jyYT1d3c9jj": {
+          "body": "bet last one",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:46.784636Z"
+        },
+        "-NhEPOkguvD_MxKfKU1H": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.244697Z"
+        },
+        "-NhEPy4SNV_fsEgEQeKD": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.029753Z"
+        },
+        "-NhEQWdn8TV3vhwpoWVQ": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.715811Z"
+        },
+        "-NhER4-7F9kCc7POKRz7": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.505164Z"
+        },
+        "-NhERcNzX5lhcLdMa8fz": {
+          "body": "2 tokens coming your way!",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:36:27.456042Z"
+        },
+        "-NhERdjkvv4sc_dktdKK": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:33.009181Z"
+        }
+      },
+      "name": "bff",
+      "participants": [
+        "Romeo",
+        "X-ray"
+      ]
+    },
+    "-NhEKtRH7HIALr3_gbyH": {
+      "conversationId": "-NhEKtRH7HIALr3_gbyH",
+      "messages": {
+        "-NhEKwA4xdU6REcsf7Dw": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.478033Z"
+        },
+        "-NhEL10lrbtTTjtAUrD0": {
+          "body": "hey",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:07:37.457716Z"
+        },
+        "-NhEL2o8bC8yRVAvdaXe": {
+          "body": "WHy do you always attack",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:07:44.778268Z"
+        },
+        "-NhEL4JgD6eV6Bno7qd-": {
+          "body": "I want to trade",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:07:50.957288Z"
+        },
+        "-NhEL52GsXP5lveD7xb_": {
+          "body": "2 tokens",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:07:53.937951Z"
+        },
+        "-NhEL8W5e4wyp48VPHQP": {
+          "body": "I got stuck in the wrong friend group",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:08:08.135072Z"
+        },
+        "-NhELBUQPO_-VvnCMNLa": {
+          "body": "can you help me out?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:08:20.316580Z"
+        },
+        "-NhELDsRPSqFbWlInP0N": {
+          "body": "I'll go all in 16 for 16 ",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:08:30.108637Z"
+        },
+        "-NhELGbZCdvLkDITulx9": {
+          "body": "could be fun",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:08:41.317330Z"
+        },
+        "-NhELIy7-JgfeNLoVO9-": {
+          "body": "I'll protect you",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:08:50.953400Z"
+        },
+        "-NhELLOV7RuZ_WM-rCKa": {
+          "body": "I will next round",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:09:00.897001Z"
+        },
+        "-NhELNVs35euhEpKK-XS": {
+          "body": "this round I have to give to my other friends",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:09:09.560721Z"
+        },
+        "-NhELNxCb1ZysGrDvrYa": {
+          "body": "bet bless up ",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:09:11.374469Z"
+        },
+        "-NhELOQwTVFI_fhjlDZa": {
+          "body": "just dont attack",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:09:13.340947Z"
+        },
+        "-NhELQ8tYSNv0Tth5HGz": {
+          "body": "will do",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:09:20.377647Z"
+        },
+        "-NhELVIL1cI69mkXGLAR": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.463257Z"
+        },
+        "-NhELgcLmO1Xg3GbSHVK": {
+          "body": "4 for you this round",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:31.958745Z"
+        },
+        "-NhELjitpLj_TKEx3Kxp": {
+          "body": "I can make 4 work",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:44.666515Z"
+        },
+        "-NhEM1aIQOgsfH6Dli-l": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.940544Z"
+        },
+        "-NhEMNeD9xaW-B7X-AMf": {
+          "body": "I dont have many tokens but Im giving you one to keep our friendship",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:13:32.303457Z"
+        },
+        "-NhEMRyg5kbyPDYWP7OG": {
+          "body": "I appreciate you",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:13:49.997234Z"
+        },
+        "-NhEMThV07ve7GTSA31E": {
+          "body": "I'll give you 3",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:13:57.088925Z"
+        },
+        "-NhEMVeKFMOInayXPbh5": {
+          "body": "Ok I will give you more next round",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:14:05.078037Z"
+        },
+        "-NhEMYM5kMFl0x2uPCaa": {
+          "body": "Do you know if anyone is planning anything?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:14:16.135008Z"
+        },
+        "-NhEMbIaVhSBDiAIYP9E": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.294909Z"
+        },
+        "-NhEMtEUEAXqx4Z2oI2c": {
+          "body": "I'm not really talking with anyone else anymore",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:45.760417Z"
+        },
+        "-NhEMuoqeLyZO1SajAFv": {
+          "body": "5 for 5?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:52.246948Z"
+        },
+        "-NhEMxx78k54HXTFy38P": {
+          "body": "yes",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:05.065309Z"
+        },
+        "-NhENB2jsL8ZCCX0yMUX": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.831913Z"
+        },
+        "-NhENPPQ0x9SR4MQOdfL": {
+          "body": "golf took 10 from me, I see you have a strong connection with him ",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:18:01.628Z"
+        },
+        "-NhENVOygRz5LmzzH1Tc": {
+          "body": "I will ask him to stop",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:18:26.174863Z"
+        },
+        "-NhENkmDBBvOIyGvmY77": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.263062Z"
+        },
+        "-NhEOER21PI8mcEiHIeb": {
+          "body": "3 for 3?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:21:38.820066Z"
+        },
+        "-NhEOKW7Gj-02bugYQWp": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.721179Z"
+        },
+        "-NhEOUpoGCu9Vx440b7D": {
+          "body": "yooo",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:22:46.005361Z"
+        },
+        "-NhEOVhA54EQLyzOhbG4": {
+          "body": "i unsumbited wtf",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:22:49.548560Z"
+        },
+        "-NhEOWXX4ZrGRt308aXS": {
+          "body": "i apologise",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:22:52.963371Z"
+        },
+        "-NhEOf4Hq50LChwwIsvs": {
+          "body": "no worries",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:32.051462Z"
+        },
+        "-NhEOgLvaUv-k6EcIhZQ": {
+          "body": "this round?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:37.275761Z"
+        },
+        "-NhEOiYU1hLgshpzuAGj": {
+          "body": "YOu attacked me",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:46.271941Z"
+        },
+        "-NhEOjm3L3l1saumyDQM": {
+          "body": "I am upset",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:51.300966Z"
+        },
+        "-NhEOpP4ToDffXDqwKo7": {
+          "body": "sorry you weren't answering so I panicked and protected myself",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:14.341759Z"
+        },
+        "-NhEOtHtV1UmrzK6Uv-X": {
+          "body": "we don't have to stay friends I understand",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:30.266614Z"
+        },
+        "-NhEOtKXqi2PBW7Q2KlQ": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.434780Z"
+        },
+        "-NhEPOkli197-nSY5v7U": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.250021Z"
+        },
+        "-NhEPy4YBIGkaWEHv5ex": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.035824Z"
+        },
+        "-NhEQWe0WmOSHMNowFW7": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.729931Z"
+        },
+        "-NhER4-DjjjhzIHOgOZh": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.510964Z"
+        },
+        "-NhERdjqAGqCIaA-Cbre": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:33.015191Z"
+        }
+      },
+      "name": "???",
+      "participants": [
+        "Foxtrot",
+        "Romeo"
+      ]
+    },
+    "-NhELToqAy69CovZq5zg": {
+      "conversationId": "-NhELToqAy69CovZq5zg",
+      "messages": {
+        "-NhELVIQXQPzhy4pfCY_": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.468593Z"
+        },
+        "-NhELhH-LhQDwkj4IAw1": {
+          "body": "I'm gonna help you out",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:34.625249Z"
+        },
+        "-NhEM1aRQicoamGKt_lS": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.948659Z"
+        },
+        "-NhEMbIf9FkwVZcYXzSW": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.300363Z"
+        },
+        "-NhENB2pC9be7N2ZTxVN": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.837680Z"
+        },
+        "-NhENkmI7bY46-GzydXR": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.268385Z"
+        },
+        "-NhEO2nuSrMqkAaSYA_P": {
+          "body": "I'm giving everything to you",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:20:51.194875Z"
+        },
+        "-NhEOEQfye7PYb8atuHi": {
+          "body": "you have nothing lollll",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:21:38.795906Z"
+        },
+        "-NhEOK-_dzW1SDMM_W2Q": {
+          "body": "Yeah, I don't even know how I'm still in, but I don't think i have anything to lose at this point",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:22:01.637972Z"
+        },
+        "-NhEOKWDbZeJTEaugW5a": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.727402Z"
+        },
+        "-NhEOen3rGTxUOnFGeu7": {
+          "body": "okay deal i gotchu",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:30.884884Z"
+        },
+        "-NhEOlG3aD4susiV9Lq4": {
+          "body": "I'm still giving all my points to you, but I don't think they count for anything anymore",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:57.380915Z"
+        },
+        "-NhEOoASDkxpFvXOMu7R": {
+          "body": "rip",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:09.309739Z"
+        },
+        "-NhEOqrUBGgWYcI04XKf": {
+          "body": "thats okay still appreciate you ",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:20.319739Z"
+        },
+        "-NhEOtKbNXyZ4rWaj88g": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.440530Z"
+        },
+        "-NhEOwsoiMxhkrxWaWGx": {
+          "body": "but if you could give me a couple we can see if that brings me up at all, if it didn't do anything then that just means I'm out",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:44.981470Z"
+        },
+        "-NhEPOkrGUMTL-Qjrsa6": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.255794Z"
+        },
+        "-NhEPy4e6ajsWuYqeXLA": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.043263Z"
+        },
+        "-NhEQWe5C30qeQ62yO0u": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.735268Z"
+        },
+        "-NhER4-I_BgD2MS-jO8k": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.515879Z"
+        },
+        "-NhERdjw2Qes-O7IQCHZ": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:33.020794Z"
+        }
+      },
+      "name": "Team?",
+      "participants": [
+        "India",
+        "Mike"
+      ]
+    },
+    "-NhELfYODQs-20easv66": {
+      "conversationId": "-NhELfYODQs-20easv66",
+      "messages": {
+        "-NhELjqjN8A1Oo5nASVg": {
+          "body": "So uh new group chat?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:10:45.168407Z"
+        },
+        "-NhELxvt5ddw2b1iLvCz": {
+          "body": "yeah idt foxtrot knew where the submut button was",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:11:42.841956Z"
+        },
+        "-NhELzfo5AZojarZ5pBf": {
+          "body": "Im giving you 4 this time",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:11:50.005315Z"
+        },
+        "-NhEM1aWKrsQ3D8aaWlr": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.953900Z"
+        },
+        "-NhEMF1cl0ZZXaCuqsrn": {
+          "body": "thanks for 8. I got you with 6 this time!",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:12:57.000950Z"
+        },
+        "-NhEMPkgS4GwA30UfbA5": {
+          "body": "you are wonderful!",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:13:40.909491Z"
+        },
+        "-NhEMTK-E3dBc4_4_H4L": {
+          "body": "I gotchu too",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:13:55.521131Z"
+        },
+        "-NhEMbIkkl6QQJI34jcW": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.305529Z"
+        },
+        "-NhEMfFTnoTmwYquEAb5": {
+          "body": "frick sorry i forgot to submit",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:14:48.478881Z"
+        },
+        "-NhEMxsEavSxAilJhY6B": {
+          "body": "Im submitted now",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:04.751676Z"
+        },
+        "-NhENB2u1EM4FzdpGASQ": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.843649Z"
+        },
+        "-NhENGPBDyeBWCcEUnXO": {
+          "body": "see I still got you",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:24.749599Z"
+        },
+        "-NhENJOdKIx2oMjeh6cf": {
+          "body": "we good still?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:37.001857Z"
+        },
+        "-NhENkmOYb3kZQLmRfuZ": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.274138Z"
+        },
+        "-NhEOKWJe7xuDevv06eW": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.733303Z"
+        },
+        "-NhEOW3oGlJ3TahfNxrP": {
+          "body": "we're great! tokens coming your way :)",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:22:51.061029Z"
+        },
+        "-NhEOa19TUZ9b31hSKwT": {
+          "body": "sounds good",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:11.370889Z"
+        },
+        "-NhEOtKjqzXbVl4XtF2w": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.447903Z"
+        },
+        "-NhEPAhkuLyUvBCUSgtn": {
+          "body": "4 more tokens coming you way",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:45.713620Z"
+        },
+        "-NhEPIfVYfQuziZGRP6w": {
+          "body": "k i gotchu with 4 as well",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:26:18.337250Z"
+        },
+        "-NhEPOkwIre2wHCmlsSz": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.260904Z"
+        },
+        "-NhEPy4lMx9VixmyfmPc": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.050399Z"
+        },
+        "-NhEQWeAU__An6GIrS1r": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.740295Z"
+        },
+        "-NhEQcoMFLQgfS4YC4Yb": {
+          "body": "whoa hey lmk when you're gonna give me 2 hahha",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:07.064084Z"
+        },
+        "-NhEQiQRUZzHOFeyUgRF": {
+          "body": "wait what?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:30.045519Z"
+        },
+        "-NhEQmIpTFC2nTXPHs3N": {
+          "body": "Oh sorry I thought that was what we said in the chat",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:45.942574Z"
+        },
+        "-NhEQoz9PgVwhmM_5kUJ": {
+          "body": "im sorry ill give you extra this time",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:56.907611Z"
+        },
+        "-NhEQrQXJTMV8i9pHvJm": {
+          "body": "lets go 4 as usual",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:33:06.915359Z"
+        },
+        "-NhEQseUTUEbX37NNTYM": {
+          "body": "perf",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:33:11.967904Z"
+        },
+        "-NhER4-NoswKpgPAnfC2": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.521103Z"
+        },
+        "-NhERdk0S2Jmhv1THWhP": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:33.026406Z"
+        }
+      },
+      "name": "Besties <3",
+      "participants": [
+        "Mike",
+        "Delta"
+      ]
+    },
+    "-NhEMXbpPh8zi7fs0a2F": {
+      "conversationId": "-NhEMXbpPh8zi7fs0a2F",
+      "messages": {
+        "-NhEMbIpLn-9tl7pbzCs": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.310542Z"
+        },
+        "-NhEMddzyohaMoCfuxyB": {
+          "body": "Hey When is Seth's Wedding?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:14:41.920127Z"
+        },
+        "-NhENB3-CI9fVof_K_XB": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.849057Z"
+        },
+        "-NhENkmTZQt1CSdHwUJO": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.279209Z"
+        },
+        "-NhEO0Nt-iy5UiQ1KCix": {
+          "body": "its soon isn't it? you know im bad with dates",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:20:41.274619Z"
+        },
+        "-NhEOKWPhAJWOUBkxh5k": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.739081Z"
+        },
+        "-NhEOtKqu3zA0OoG4yQ9": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.455232Z"
+        },
+        "-NhEPOl010k9Oaezi-VV": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.266490Z"
+        },
+        "-NhEPy4r-lK7beIMKyJE": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.056568Z"
+        },
+        "-NhEQWeFCJSyebG6ZSz2": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.745619Z"
+        },
+        "-NhER4-TzrqUzG0aznxs": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.526670Z"
+        },
+        "-NhERdk6aPDdrHUCw_CM": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:33.031982Z"
+        }
+      },
+      "name": "Just Mike",
+      "participants": [
+        "Golf",
+        "Mike"
+      ]
+    },
+    "-NhEMexeqxzBe-ZwkjND": {
+      "conversationId": "-NhEMexeqxzBe-ZwkjND",
+      "messages": {
+        "-NhEMjIbhAtQA6TfyaFg": {
+          "body": "I will give you 5 tokens this round",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:05.064050Z"
+        },
+        "-NhENB34wv0KDSQW-16v": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.854099Z"
+        },
+        "-NhENVeN6VT8FbH6WR87": {
+          "body": "promise?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:18:27.225369Z"
+        },
+        "-NhENW5KV3IAKPOSMsFw": {
+          "body": "hmmm",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:18:29.014001Z"
+        },
+        "-NhENXDZ_YFS2gyHfuHU": {
+          "body": "youre big guy on campus",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:18:33.637320Z"
+        },
+        "-NhENXsSuGOWbOunNXX-": {
+          "body": "scary business",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:18:36.318373Z"
+        },
+        "-NhENgndkAyS5ODYVXkk": {
+          "body": "Terrifying",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:19:16.970378Z"
+        },
+        "-NhENkmZZijgjHH5m-6U": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.284886Z"
+        },
+        "-NhENmxwVunseUdTbrTo": {
+          "body": "k yes",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:19:42.204896Z"
+        },
+        "-NhENoD_3eE4Im9Sa8du": {
+          "body": "ill trade again",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:19:47.366513Z"
+        },
+        "-NhENpvr2u0vJf2fOEqw": {
+          "body": "i can trust you now",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:19:54.359989Z"
+        },
+        "-NhENrU-HlhrPq5CV-bv": {
+          "body": "Lets do 3 this time",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:20:00.705205Z"
+        },
+        "-NhEO46CpmqzVpM64Top": {
+          "body": "kk",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:20:56.526141Z"
+        },
+        "-NhEOB0dhuZg490pHklJ": {
+          "body": "Hey actually lets up those numbers",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:21:24.842163Z"
+        },
+        "-NhEOCS-0yZ2kElX1Yto": {
+          "body": "lets do 6",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:21:30.689228Z"
+        },
+        "-NhEOJeI1AQGYA--FZEF": {
+          "body": "you think??",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:22:00.212044Z"
+        },
+        "-NhEOKWUfaLRBsQivJ6F": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.744381Z"
+        },
+        "-NhEOKhAjGvjIvZsFSLk": {
+          "body": "promise to make it happen",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:22:04.492585Z"
+        },
+        "-NhEOMpEXoIYK6quOJgz": {
+          "body": "hmmmm",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:22:13.199794Z"
+        },
+        "-NhEOO8kYIXH7KwTXTa9": {
+          "body": "didnt pay up",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:22:18.609144Z"
+        },
+        "-NhEOQRZBEdpVrzuzrrn": {
+          "body": "Yo i unsubmited",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:22:28.005523Z"
+        },
+        "-NhEOZ350PlkmzH9Zms3": {
+          "body": "how many this round",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:03.302666Z"
+        },
+        "-NhEO_Ssacrn9gvO0OvT": {
+          "body": "ill do it if i can trust you",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:09.048759Z"
+        },
+        "-NhEOb9kwIoF7q8ZAyIg": {
+          "body": "4",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:16.016671Z"
+        },
+        "-NhEOcWZ7kJ1KkjxpiAr": {
+          "body": "i will submit I swear",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:21.572886Z"
+        },
+        "-NhEOcw9yUId9hU9v6Tj": {
+          "body": "k",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:23.275414Z"
+        },
+        "-NhEOdetS7nE4k7y5C4S": {
+          "body": "done",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:26.265687Z"
+        },
+        "-NhEOtKz-3XRmaQmEo-W": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.463828Z"
+        },
+        "-NhEOyQtcedQcj5D5Gu8": {
+          "body": "you scare me",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:51.322071Z"
+        },
+        "-NhEP0PPO_j1zvAjIlVx": {
+          "body": "wtf dude",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:03.515475Z"
+        },
+        "-NhEP3yuzocUTnfoTLXp": {
+          "body": "this is war?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:18.139541Z"
+        },
+        "-NhEPA0-_xFtqdDHiTxH": {
+          "body": "uh oh",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:42.848930Z"
+        },
+        "-NhEPDoDUG2zCLd_WHOY": {
+          "body": "wa wa wa",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:58.414935Z"
+        },
+        "-NhEPOl6OlyW43pA9Mzr": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.272169Z"
+        },
+        "-NhEPy4xclv80Q4Ry85y": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.061937Z"
+        },
+        "-NhEQWeLnPxIFFyQGfhy": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.751087Z"
+        },
+        "-NhER4-X4f9UqC-LnRTN": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.531389Z"
+        },
+        "-NhERdkCHhfNxsP2Gnb-": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:33.038352Z"
+        }
+      },
+      "name": "You want to trade",
+      "participants": [
+        "Foxtrot",
+        "Hotel"
+      ]
+    },
+    "-NhEMkd-M1TEpk5EhEb1": {
+      "conversationId": "-NhEMkd-M1TEpk5EhEb1",
+      "messages": {
+        "-NhEMwjBDaTdnyvDzEnW": {
+          "body": "Golf, the most reliable way to win the game is to pair up with someone and grow in popularity together. If we both give each other most of our tokens, we should rise to the top together, and then our mutual popularity should make us more popular",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:00.076925Z"
+        },
+        "-NhEN5d_aDiK5NurCt27": {
+          "body": "I think if you over play that it has a bad impact right?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:40.678199Z"
+        },
+        "-NhEN8BRvfybHjnfzvxj": {
+          "body": "No. I've played it that way before",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:51.101227Z"
+        },
+        "-NhENB3A8DjGcaQIU573": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.859881Z"
+        },
+        "-NhENN-QK2tzOOwjTuOJ": {
+          "body": "Oh what? I thought I submitted",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:51.772045Z"
+        },
+        "-NhENSdIEfX0136EgeH9": {
+          "body": ":(",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:18:14.867872Z"
+        },
+        "-NhENV0xYeep9RMGQ9mj": {
+          "body": "I'm giving you 10 this time",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:18:24.638053Z"
+        },
+        "-NhENkmdJPO5mPuI6kMx": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.290487Z"
+        },
+        "-NhEO-kgqhvmrGtZ9yZJ": {
+          "body": "I'm giving you another 10",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:20:38.700661Z"
+        },
+        "-NhEO3AwalFNxybgCfg5": {
+          "body": "Doe sgiving that much help you?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:20:52.733009Z"
+        },
+        "-NhEO5bwGVCc7InBUWD1": {
+          "body": "Only if you give back",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:21:02.716905Z"
+        },
+        "-NhEOC6swdCzZaHoO8r4": {
+          "body": "I see mine are worth 1.6 of yours",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:21:29.337096Z"
+        },
+        "-NhEODHV4ffTFXWB2rpA": {
+          "body": "sounds good though",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:21:34.112640Z"
+        },
+        "-NhEOKW_QZ8eEHVy9MCZ": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.749872Z"
+        },
+        "-NhEOtL4RbN0dF89x4Pb": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.470007Z"
+        },
+        "-NhEPOlCcLC8u_Ob_1tK": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.278619Z"
+        },
+        "-NhEPy51zXpYbmqWpGUC": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.066968Z"
+        },
+        "-NhEQWeQFYmrz653ORyR": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.756475Z"
+        },
+        "-NhER4-ba9-us8FxIzjq": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.536640Z"
+        },
+        "-NhERdkIcs4GCowbugj9": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:33.043815Z"
+        }
+      },
+      "name": "top strategy",
+      "participants": [
+        "X-ray",
+        "Golf"
+      ]
+    },
+    "-NhEMpQZjByLA9AsrhkS": {
+      "conversationId": "-NhEMpQZjByLA9AsrhkS",
+      "messages": {
+        "-NhEMu8X9Dfj80Gzr93i": {
+          "body": "Hey guys, I just got backstabbed by hotel, could I get some help?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:49.474711Z"
+        },
+        "-NhEN-0GZL1kf709w0wf": {
+          "body": "I just don't want to see them win off of me",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:13.522606Z"
+        },
+        "-NhEN69cU0U7nCymkNeM": {
+          "body": "Yes",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:42.793075Z"
+        },
+        "-NhENAPEjbHvqWEaBc_d": {
+          "body": "yes",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:00.176529Z"
+        },
+        "-NhENB3Fq9zlmKfKqzcm": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.865047Z"
+        },
+        "-NhENKnBbktLsj80pn89": {
+          "body": "Thanks, I'm not sure how I'm still alive, but can we all attack hotel?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:42.733013Z"
+        },
+        "-NhENNnUaqFe43mkRWBZ": {
+          "body": "I think this will probably be my last round if I am still at 0",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:55.039750Z"
+        },
+        "-NhENYhKwlTITlV3QqwX": {
+          "body": "I did with 7 and it backfired",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:18:39.702550Z"
+        },
+        "-NhENgLjI29xhriZGD9u": {
+          "body": "I'm going all in, so any attack from you should go through",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:19:15.120602Z"
+        },
+        "-NhENkmjvp7MYGpXqxBp": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.296097Z"
+        },
+        "-NhEOKWeUEsx3V3l6v30": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.755001Z"
+        },
+        "-NhEOtL9JI_htfIeSO-H": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.475544Z"
+        },
+        "-NhEPOlJTS7gy7hW0adX": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.285333Z"
+        },
+        "-NhEPy563oxH_lhW7rBC": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.072130Z"
+        },
+        "-NhEQWeWeJykkuzZ-nBu": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.761700Z"
+        },
+        "-NhER4-hpn2ZsTJnZQg8": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.541916Z"
+        },
+        "-NhERdkNbO9aVgOhXR0i": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:33.048884Z"
+        }
+      },
+      "name": "sad",
+      "participants": [
+        "India",
+        "Delta",
+        "Foxtrot",
+        "Golf",
+        "Mike",
+        "Romeo",
+        "X-ray"
+      ]
+    },
+    "-NhEMsbAtCcMl8uhHUHu": {
+      "conversationId": "-NhEMsbAtCcMl8uhHUHu",
+      "messages": {
+        "-NhEMuL83BqvqYAal45S": {
+          "body": "mike",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:50.282410Z"
+        },
+        "-NhEMuvbCcZxueLdICuD": {
+          "body": "whats uo",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:52.680450Z"
+        },
+        "-NhEMvVCnsSE4zj2PqBb": {
+          "body": "up",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:15:55.021652Z"
+        },
+        "-NhEMxTptDg6DWLyNQQ_": {
+          "body": "hey whats good",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:03.126336Z"
+        },
+        "-NhEMyl__7SOY5cuEU2V": {
+          "body": "who is this",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:08.422059Z"
+        },
+        "-NhEMz-ghvYBUbbSfmx4": {
+          "body": "want some tokens?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:09.388633Z"
+        },
+        "-NhEN-0Hr3_AhRARPeR_": {
+          "body": "yeah",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:13.522685Z"
+        },
+        "-NhEN0wIMAdfcSSetu4f": {
+          "body": "ill give you everything",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:21.396226Z"
+        },
+        "-NhEN1eD3Vl4RxF5MPDP": {
+          "body": "okay i want some too",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:24.335468Z"
+        },
+        "-NhEN2bhbaESNG1qahHo": {
+          "body": "wonderful",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:28.269724Z"
+        },
+        "-NhEN4AfG7xtq7ktCoS2": {
+          "body": "then we can get dinner with that money",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:34.668157Z"
+        },
+        "-NhEN4nfEtyoYWO6_w_x": {
+          "body": "done deak",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:37.228173Z"
+        },
+        "-NhEN5y6Mdi5PGZcuLIL": {
+          "body": "yesssss",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:41.991933Z"
+        },
+        "-NhEN9W0i_EoSaT6mMux": {
+          "body": "yay",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:56.514070Z"
+        },
+        "-NhEN9xy0cHWEkwLsQRT": {
+          "body": "yummy",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:16:58.367208Z"
+        },
+        "-NhENB3LtwXdrprzwQjG": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.870690Z"
+        },
+        "-NhENCyK2UNByVOYvRGi": {
+          "body": "sorry i only did half lol",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:10.678095Z"
+        },
+        "-NhENE0aa-Z14sHOUDH6": {
+          "body": "ran out of time",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:14.983528Z"
+        },
+        "-NhENGhnz53kaDc-ce1b": {
+          "body": "what",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:26.004353Z"
+        },
+        "-NhENHup1vKy4k3cO21-": {
+          "body": "you better help this round",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:30.933686Z"
+        },
+        "-NhENJ1CbO0Rw8LQSeyO": {
+          "body": "lets make it happen",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:35.502329Z"
+        },
+        "-NhENKA4XbKuSeA0Jcfv": {
+          "body": "bro what happend to you :(",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:40.166042Z"
+        },
+        "-NhENMiRra_WwSnj6HYr": {
+          "body": "7 coming this round",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:50.621051Z"
+        },
+        "-NhENP-uLlYS5PDZMz-r": {
+          "body": "i had to test you",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:17:59.995443Z"
+        },
+        "-NhENP_u2rj_q5fbbLeS": {
+          "body": "you passed",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:18:02.363523Z"
+        },
+        "-NhENkmoJXIa3imldbi5": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.301515Z"
+        },
+        "-NhENsIT-_eZ0vSkDy4L": {
+          "body": "india and golf are after you in one of these group chats",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:20:04.063507Z"
+        },
+        "-NhENuMU5fvEPZVKrEOg": {
+          "body": "rats",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:20:12.512528Z"
+        },
+        "-NhENvnrTosuyMU4lcvm": {
+          "body": "mike whatre we gonna do about it",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:20:18.423745Z"
+        },
+        "-NhENxz0vNJRBzocJKpO": {
+          "body": "youve proven your loyalty",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:20:27.329897Z"
+        },
+        "-NhEOKWjYjGf4OA-PioG": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.760357Z"
+        },
+        "-NhEOKiHTnfhGkanfkOT": {
+          "body": "ahhh sorry just saw this haha",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:22:04.563517Z"
+        },
+        "-NhEONAGtdTeWNdxqbcC": {
+          "body": "we'll get them next round",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:22:14.610144Z"
+        },
+        "-NhEORaEroNnEOqgz43E": {
+          "body": "kk how many do you wanna trade",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:22:32.720075Z"
+        },
+        "-NhEOt5fqEHRzjfMT8o9": {
+          "body": "4",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:29.483966Z"
+        },
+        "-NhEOtLFYbA6lyF409Xm": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.481317Z"
+        },
+        "-NhEOzoFREb3FTyolrTu": {
+          "body": "sorry i keep getting distracted i keep giving you 4 every round",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:56.976936Z"
+        },
+        "-NhEP3PH4vRnphQFOtJI": {
+          "body": "kk lets do 4 this round?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:15.795268Z"
+        },
+        "-NhEP3vfaNHmK93mRyD-": {
+          "body": "trade?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:17.931821Z"
+        },
+        "-NhEPOlP56fyvF4W_rhY": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.290933Z"
+        },
+        "-NhEPcpbwvM69cD1eGwv": {
+          "body": "you need to defend yourself this round!!!!",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:44.999778Z"
+        },
+        "-NhEPkf8uX0zMyM-xYNp": {
+          "body": "foxtrot and delta are after you",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:28:17.098550Z"
+        },
+        "-NhEPqsq_6yiZBufHMsy": {
+          "body": "really?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:28:42.551219Z"
+        },
+        "-NhEPrfO2A76pzXexuf9": {
+          "body": "thanks homie",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:28:45.785812Z"
+        },
+        "-NhEPtrdUn4LCC43aS7B": {
+          "body": "i gotchu",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:28:54.762336Z"
+        },
+        "-NhEPxc4z3GzzwXNwOJM": {
+          "body": "mike i like you",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:29:10.150470Z"
+        },
+        "-NhEPy5ExCobiiP6C-Dw": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.080456Z"
+        },
+        "-NhEQ1aNorsMAB0S3Cn6": {
+          "body": "i like you to hotel",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:29:30.521043Z"
+        },
+        "-NhEQ2iDO4h03-JX_xzK": {
+          "body": "too smh",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:29:35.119171Z"
+        },
+        "-NhEQWea6sua8gkbebGc": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.766876Z"
+        },
+        "-NhEQkrbsRP_45Holub3": {
+          "body": "hi mike",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:40.040242Z"
+        },
+        "-NhEQm0ieyjfJW20w7d7": {
+          "body": "how many this round?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:44.783284Z"
+        },
+        "-NhEQn3oSWGZmcrZtxeP": {
+          "body": "ill trade u",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:49.076673Z"
+        },
+        "-NhER4-musM_uw6U_DLI": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.546960Z"
+        },
+        "-NhERdkTNyQIbj9EszVg": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:33.054744Z"
+        }
+      },
+      "name": "lets do this",
+      "participants": [
+        "Mike",
+        "Hotel"
+      ]
+    },
+    "-NhEODJ_LgrABxUB3P7T": {
+      "conversationId": "-NhEODJ_LgrABxUB3P7T",
+      "messages": {
+        "-NhEOFA7iaKC7ZJJoWtd": {
+          "body": "hi guys",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:21:41.832965Z"
+        },
+        "-NhEOG4gxLmyUNZtVz6F": {
+          "body": "i know about your chat",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:21:45.581600Z"
+        },
+        "-NhEOGQaAs_67n3OfyTG": {
+          "body": "heheh",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:21:46.982740Z"
+        },
+        "-NhEOGsiEkGXOPpwnBOq": {
+          "body": "come get me",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:21:48.847592Z"
+        },
+        "-NhEOKWoV4nurZwrvR0L": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.765239Z"
+        },
+        "-NhEOZyRa9QOb_C-ugBL": {
+          "body": "I'm out, none of my points do anything",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:07.036877Z"
+        },
+        "-NhEOcoOY-SkjlDtxi8w": {
+          "body": "And the chat had everyone except you, so I'm not suprised you found out",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:22.777777Z"
+        },
+        "-NhEOtLKJF6iUDu8c4Uv": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.486483Z"
+        },
+        "-NhEPOlU16KubvifziDl": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.296123Z"
+        },
+        "-NhEPy5LCjHjb7-xX9nP": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.087528Z"
+        },
+        "-NhEQWefs7OCTJ7Fw5I4": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.771977Z"
+        },
+        "-NhER4-rMaBv5jrm-qrR": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.551991Z"
+        },
+        "-NhERdkYuBFlE2DqQhU6": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:33.060470Z"
+        }
+      },
+      "name": "haters",
+      "participants": [
+        "Hotel",
+        "Golf",
+        "India"
+      ]
+    },
+    "-NhEOGOGGLz0R03oSXzB": {
+      "conversationId": "-NhEOGOGGLz0R03oSXzB",
+      "messages": {
+        "-NhEOIh5KTSwI9uJjTL2": {
+          "body": "thanks golf",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:21:56.295555Z"
+        },
+        "-NhEOJt90ksYh6jxO7oo": {
+          "body": "i gotchu this round",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:22:01.163020Z"
+        },
+        "-NhEOKWuLGWcPqgexQXj": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.771385Z"
+        },
+        "-NhEOS_N33hCq20mzivO": {
+          "body": "Well that actually put me negative but it's the thought that counts",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:22:36.760986Z"
+        },
+        "-NhEOWfajvu-vczUBSi8": {
+          "body": "dang my b. I gotchu with 3 this time",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:22:53.543608Z"
+        },
+        "-NhEOtLQp46KGjnnIdWI": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.491670Z"
+        },
+        "-NhEPBGCXmxdyMuxCka6": {
+          "body": "Does giving me 3 benefit you at all? ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:47.982508Z"
+        },
+        "-NhEPDopAPuMzrfF-NEV": {
+          "body": "I'm giving 3 back but does that help you?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:25:58.454060Z"
+        },
+        "-NhEPOlZX94NI0WN9Qco": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.301497Z"
+        },
+        "-NhEPWQqgSW30vaGMgld": {
+          "body": "if we help each other out then yes it helps",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:14.679482Z"
+        },
+        "-NhEPatJ-HD71DWJei1c": {
+          "body": "Cool, should we setting on 2 or 3?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:37.045361Z"
+        },
+        "-NhEPcwOONQrEZIQMrBr": {
+          "body": "lets go 3 this round",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:45.434437Z"
+        },
+        "-NhEPfa12r3bRJFHXjmN": {
+          "body": "bien",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:56.291583Z"
+        },
+        "-NhEPy5SdAKGZUD8gOxY": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.094650Z"
+        },
+        "-NhEQWel3Z_0V8maCYRJ": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.777822Z"
+        },
+        "-NhER4-w5ww6wI_ZM4eD": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.557234Z"
+        },
+        "-NhERdkiGGhtMAb6axWs": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:33.071146Z"
+        }
+      },
+      "name": "Appreciation",
+      "participants": [
+        "Delta",
+        "Golf"
+      ]
+    },
+    "-NhEOk4hq47GStqodA8A": {
+      "conversationId": "-NhEOk4hq47GStqodA8A",
+      "messages": {
+        "-NhEOlEyJDMw94xDNGwg": {
+          "body": "i like you",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:23:57.310729Z"
+        },
+        "-NhEOmkqTVGkViHf6S3f": {
+          "body": "thanks for giving me 3",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:03.511233Z"
+        },
+        "-NhEOo0B6U9f-GG83_tn": {
+          "body": "ill give you 6 this round?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:08.653348Z"
+        },
+        "-NhEOp1lC1VsH92ZcFum": {
+          "body": "lets be friends",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:24:12.850034Z"
+        },
+        "-NhEOtLVM8Yvnei8F6eP": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.497192Z"
+        },
+        "-NhEPOle_vxeJ5Z0DyqE": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.306916Z"
+        },
+        "-NhEPUjakq8zF0yPM3zi": {
+          "body": "Hotel I didn't see this!!",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:07.750656Z"
+        },
+        "-NhEPVyogvXk1se9Oqpf": {
+          "body": "Let's be friends :)",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:12.820849Z"
+        },
+        "-NhEPXjUYNDM20-dR1J6": {
+          "body": "ill give you all for all?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:20.032478Z"
+        },
+        "-NhEPZTMfRi0C8okz13z": {
+          "body": "Really?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:27.127808Z"
+        },
+        "-NhEPZXwLiIN-vJZmlfw": {
+          "body": "lets bump up this might be last round",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:27.421086Z"
+        },
+        "-NhEP_fi5VCaONgFkF4-": {
+          "body": "Deal",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:32.079165Z"
+        },
+        "-NhEPcHNxD9oohmpXvcB": {
+          "body": "Just submitted",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:42.745129Z"
+        },
+        "-NhEPeMGoiIbnK8tPxyh": {
+          "body": "me too",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:51.250434Z"
+        },
+        "-NhEPexJrXPzWvZ4dUry": {
+          "body": "love you",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:53.685183Z"
+        },
+        "-NhEPhqSPg5sIcIFk9aw": {
+          "body": "Love you too :)",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:28:05.533685Z"
+        },
+        "-NhEPy5ZmKka55WQbYZ4": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.100739Z"
+        },
+        "-NhEQ1rKBq6s5IV8E8N8": {
+          "body": "Sad",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:29:31.605658Z"
+        },
+        "-NhEQ41rQBThicKnV89y": {
+          "body": "i for reals didnt submit",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:29:40.536495Z"
+        },
+        "-NhEQ6DS2oo99o9lMJiw": {
+          "body": "foxtrot and golf took me down",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:29:49.469725Z"
+        },
+        "-NhEQ9iZeaaDiXDYL1WW": {
+          "body": "I didn't get anything from you...",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:03.813057Z"
+        },
+        "-NhEQDZVNUe5umRNHEUR": {
+          "body": "16 this round",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:19.552644Z"
+        },
+        "-NhEQE5qtOvUYz9Jxc2P": {
+          "body": "from me",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:21.751168Z"
+        },
+        "-NhEQFLO37g5FSyNx4aq": {
+          "body": "you have my promise",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:26.841649Z"
+        },
+        "-NhEQFrp3B-S-cbCmZBY": {
+          "body": "xoxo",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:28.982173Z"
+        },
+        "-NhEQHOwih_PdlkZOuRL": {
+          "body": "Just gave you all of mine",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:35.261103Z"
+        },
+        "-NhEQWeqhLFJhnon5ieW": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.782994Z"
+        },
+        "-NhEQb14SnSqRsMPTboD": {
+          "body": "all mine comin your way again",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:31:59.750523Z"
+        },
+        "-NhEQbmnNG6ajJ5Kk_sK": {
+          "body": "thanks for the loyalty",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:02.868379Z"
+        },
+        "-NhEQdlk_NDVjrpu287S": {
+          "body": "Same!! I got u",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:10.993276Z"
+        },
+        "-NhEQxLJn7gOuP13Y-kc": {
+          "body": "okay wait ive gotta defend myself a little",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:33:31.157379Z"
+        },
+        "-NhEQy7ps2OWVRM-Aa_l": {
+          "body": "im giving you 12",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:33:34.390453Z"
+        },
+        "-NhEQzveJ7Zws18KZHlt": {
+          "body": "That works I'll do the same",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:33:41.739030Z"
+        },
+        "-NhER0rD7uAHlw4ZzZpn": {
+          "body": "k cute",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:33:49.647376Z"
+        },
+        "-NhER1L2dHisyE0zN0O0": {
+          "body": "go team",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:33:51.619950Z"
+        },
+        "-NhER400UiFzHM_Q0lVP": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.562069Z"
+        },
+        "-NhER7W-hQZPjcvvpPIt": {
+          "body": "Did that help?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:34:16.896832Z"
+        },
+        "-NhERM533xdi8SIx5bP1": {
+          "body": "yes thanks!",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:35:16.612740Z"
+        },
+        "-NhERNGf4NxzEmMF9dk4": {
+          "body": "Rad",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:35:21.452272Z"
+        },
+        "-NhERNJoITlV9h6ZZuuX": {
+          "body": " how many this round?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:35:21.652716Z"
+        },
+        "-NhERPWl5WhwixRnqZVx": {
+          "body": "Another 12? Do you still need to defend yourself?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:35:30.673736Z"
+        },
+        "-NhERTJuHg_slsg7I5yG": {
+          "body": "yeah",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:35:46.235555Z"
+        },
+        "-NhERYkp47a4zykBI6fq": {
+          "body": "just gave u 12",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:36:08.502213Z"
+        },
+        "-NhER_VCeK8Re9xbM9KU": {
+          "body": "Same here",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:36:15.629786Z"
+        },
+        "-NhERdkoKVGHwocXNm7d": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:33.076809Z"
+        }
+      },
+      "name": "hiiiiii",
+      "participants": [
+        "Hotel",
+        "X-ray"
+      ]
+    },
+    "-NhEPN665DoYXf6LvfgL": {
+      "conversationId": "-NhEPN665DoYXf6LvfgL",
+      "messages": {
+        "-NhEPOlj-LVIdLR8yI7M": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.312413Z"
+        },
+        "-NhEPYLtEADNinfdp4dj": {
+          "body": "hey delta! we haven't really talked... want to exchange 10 for 10? I don't think there's a lot of movement right now, it could benefit us both! me more than you I know... but still! help a low color out?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:22.553790Z"
+        },
+        "-NhEPy5giX0U_W6Lw2zq": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.108791Z"
+        },
+        "-NhEQ4ocl92Ciyablrtx": {
+          "body": "whoa why'd you attack me like that though",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:29:43.720729Z"
+        },
+        "-NhEQAEeH7g3LBYY8oGf": {
+          "body": "I'm a desperate mess",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:05.930660Z"
+        },
+        "-NhEQBlriOAtwRNlKGxn": {
+          "body": "it's giving toxic ikik",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:12.216082Z"
+        },
+        "-NhEQCa_4cGiyjT1GsK2": {
+          "body": "this round?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:15.590520Z"
+        },
+        "-NhEQKvtQR6_fmDk_QN3": {
+          "body": "i can give you 2",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:49.721876Z"
+        },
+        "-NhEQNTv-8pROUNmZeW2": {
+          "body": "okay I will do the same",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:31:00.156526Z"
+        },
+        "-NhEQQ6TiTmBrYEMirg2": {
+          "body": "sounds good",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:31:10.942695Z"
+        },
+        "-NhEQWewRrpMfCBe3bV1": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.789167Z"
+        },
+        "-NhEQiI9FuIH_3JcHtiz": {
+          "body": "2 was nice. lets go 3",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:29.515395Z"
+        },
+        "-NhEQmImD8X4Z8aUg5EW": {
+          "body": "how bout 5?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:32:45.939535Z"
+        },
+        "-NhEQsJZBWsGztVJOtH5": {
+          "body": "wait, okay 3",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:33:10.565062Z"
+        },
+        "-NhER405DAnOTxrYmjsp": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.567202Z"
+        },
+        "-NhERHBFZfU9fuw4YWRF": {
+          "body": "3 is working good",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:34:56.529235Z"
+        },
+        "-NhERJNZzRsUoYPa4dKx": {
+          "body": "it should bring you up each round",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:35:05.508786Z"
+        },
+        "-NhERKvVPWVBxWrbuun1": {
+          "body": "I have to defend myself too",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:35:11.841361Z"
+        },
+        "-NhERNEYbTbrdnfdle5M": {
+          "body": "I get it! for sure, thank you!",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:35:21.315847Z"
+        },
+        "-NhERdku05xAuMiKEzDG": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:33.082697Z"
+        }
+      },
+      "name": "experiment",
+      "participants": [
+        "Romeo",
+        "Delta"
+      ]
+    },
+    "-NhEPq7dPs5RQUvALhQC": {
+      "conversationId": "-NhEPq7dPs5RQUvALhQC",
+      "messages": {
+        "-NhEPt4QLBd3gCNZK1cc": {
+          "body": "Bro, I'm jsut messin around in the chat",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:28:51.548293Z"
+        },
+        "-NhEPv0b-HSKEP-gM55Y": {
+          "body": "But thanks for the points earlier",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:28:59.495948Z"
+        },
+        "-NhEPy5lQ3IngdrQI8Zl": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:12.114460Z"
+        },
+        "-NhEQ5XmGnQsseTwaPnC": {
+          "body": "Haha all good, I sent another 2 this round",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:29:46.674970Z"
+        },
+        "-NhEQCB-eGQGOe2IQXZ2": {
+          "body": "Thanks man",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:13.888907Z"
+        },
+        "-NhEQJl18SU4IAXMMZ5S": {
+          "body": "I'll give some to you too",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:44.931072Z"
+        },
+        "-NhEQWf03MtPRUmBZ2Yy": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.794398Z"
+        },
+        "-NhER40Ailo2PqZVQUo0": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.572391Z"
+        },
+        "-NhERM9H1lAlvBggG20f": {
+          "body": "Bro, I'm sorry, I literally go negative even when I send you just 1 because of the influence gap",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:35:16.883309Z"
+        },
+        "-NhERQrWENOCqAiGYwiv": {
+          "body": "Yeah, it's all good",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:35:36.162302Z"
+        },
+        "-NhERdkzC9366K0PNJ-D": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:33.088173Z"
+        }
+      },
+      "name": "jokes",
+      "participants": [
+        "India",
+        "Golf"
+      ]
+    },
+    "-NhER-HXv7CW35XavNqw": {
+      "conversationId": "-NhER-HXv7CW35XavNqw",
+      "messages": {
+        "-NhER40GyKCO8YvOm7M7": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.578359Z"
+        },
+        "-NhERA7ngDfhW_FZiiRq": {
+          "body": "hey popular people! I honestly just wanna be like you! I'm committing 3 tokens to each of you for the next 5 rounds(:",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:34:27.636563Z"
+        },
+        "-NhERF58O4Cnk5olV9VN": {
+          "body": "Ok thanks for the support",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:34:47.946225Z"
+        },
+        "-NhERHAKbR_UcuD-JCaf": {
+          "body": "sorry if I stole from you in the past, I was emo lmao",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:34:56.470198Z"
+        },
+        "-NhERIHX_D0xFXarp5lP": {
+          "body": "Romeo romeo very kind",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:35:01.027392Z"
+        },
+        "-NhERKlixzXN_DdV6UHc": {
+          "body": "wont go unnoticed ;)",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:35:11.214872Z"
+        },
+        "-NhERdl5IO3i7lf7MKjk": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:33.095031Z"
+        }
+      },
+      "name": "my idols",
+      "participants": [
+        "Romeo",
+        "Mike",
+        "Delta",
+        "Foxtrot"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-NhEHZK0xOEypO057PnC": {
+          "body": "Howdy yall",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:52:29.377940Z"
+        },
+        "-NhEHdFQ4YawH0wdiASK": {
+          "body": "What's up?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:52:49.564330Z"
+        },
+        "-NhEHdaX3P4aal3ARql2": {
+          "body": "Sup",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:52:50.979249Z"
+        },
+        "-NhEHiNkSgolWAoV2-QM": {
+          "body": "how about we all give to each other every round and all get 12 dollars",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:53:10.577240Z"
+        },
+        "-NhEHnoAvvrMhzJnwGW9": {
+          "body": "Ok",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-10-20T22:53:32.812228Z"
+        },
+        "-NhEI3Vkr-XTNviGa8PE": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:54:41.201100Z"
+        },
+        "-NhEIdDKrpelP0a3AEzp": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:57:11.573851Z"
+        },
+        "-NhEJCwW5Mdxljt1GTlO": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T22:59:41.985945Z"
+        },
+        "-NhEJmfL30nkfE8qijLz": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:02:12.439559Z"
+        },
+        "-NhEKH8izkFXdknsvot8": {
+          "body": "The sad and empty world ......",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:04:21.359157Z"
+        },
+        "-NhEKMNvDFVJ6Bq0QqYI": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:04:42.812576Z"
+        },
+        "-NhEKw8awKDOQ0tv7v86": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:07:13.383562Z"
+        },
+        "-NhELVGxX-vsi6sLq2vY": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:09:41.373949Z"
+        },
+        "-NhEM1ZwSxTPe0usa2fr": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:12:01.853617Z"
+        },
+        "-NhEMbHBJq5M7kLmQR3F": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:14:32.205394Z"
+        },
+        "-NhENB1JQqRm9l7MoAxQ": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:17:02.741401Z"
+        },
+        "-NhENkkt87rYnkGxVBRb": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:19:33.178479Z"
+        },
+        "-NhEOKUh8h32dTPuV-UZ": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:22:03.629680Z"
+        },
+        "-NhEOtJ3EriSTIOHH2Nf": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:24:30.340904Z"
+        },
+        "-NhEPOjISCwS8p1lFU7g": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:26:43.155703Z"
+        },
+        "-NhEPdH0dAdTYAYl784Q": {
+          "body": "So if I lose does that make you all racist?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:27:46.818079Z"
+        },
+        "-NhEPkoH93RGoH5-dGbV": {
+          "body": "Bro you litterally have 3 popularity, that means your alive",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:28:17.682763Z"
+        },
+        "-NhEPy2xo9rkrTDptTh0": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:29:11.934422Z"
+        },
+        "-NhEQF5DTTUAfS4a9MYw": {
+          "body": "Alive, but oppressed",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:25.806956Z"
+        },
+        "-NhEQJVig5nCl70_I323": {
+          "body": "alright people",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:43.887300Z"
+        },
+        "-NhEQKKA1rsRg8-VwD7A": {
+          "body": "chiiiiiillllllll",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:30:47.244200Z"
+        },
+        "-NhEQPyIn1qUEWdRD-SS": {
+          "body": "Hotel is the real hater",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:31:10.355811Z"
+        },
+        "-NhEQREy9DquYiUUBpAZ": {
+          "body": "foxtrot. golf. romeo. not cool",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:31:15.582677Z"
+        },
+        "-NhEQStSMKFfshLkWtId": {
+          "body": "False India",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:31:22.334109Z"
+        },
+        "-NhEQWcKLbGI9n0Tbgjs": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:31:37.622164Z"
+        },
+        "-NhEQX3V2XgZh_ubiHnR": {
+          "body": "sorry folks I was emo but Imma be better",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:31:39.425145Z"
+        },
+        "-NhEQYfeZXl28jOqsPAF": {
+          "body": "I'm in a giving mood again",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-10-20T23:31:46.026717Z"
+        },
+        "-NhER3ymvtp5-e02-wmP": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:34:02.419210Z"
+        },
+        "-NhERdiIiNl8u3pkBYgZ": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-10-20T23:36:32.916479Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

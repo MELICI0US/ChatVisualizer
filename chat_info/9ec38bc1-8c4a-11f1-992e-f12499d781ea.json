@@ -1,0 +1,507 @@
+{
+  "conversations": {
+    "-OyoToZbGb3QJH7xC7qa": {
+      "conversationId": "-OyoToZbGb3QJH7xC7qa",
+      "messages": {
+        "-OyoTq6pUQjaRYK4AjMH": {
+          "body": "hello lima",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:23:32.728157Z"
+        },
+        "-OyoTrnydzXB0N-XcMeY": {
+          "body": "I'm excited about our partnership ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:23:39.649372Z"
+        },
+        "-OyoTwqIGl-Zx4I1KE6K": {
+          "body": "i will be approving coverage and recommending that patients go to your practice",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:24:00.278615Z"
+        },
+        "-OyoTxfgiyjGZqN9-siK": {
+          "body": "Yes! I will not overcharge you for payment. I've heard that is a popular thing for doctors to do. ",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:24:03.695188Z"
+        },
+        "-OyoTxgbLj1E0SOqnqU2": {
+          "body": "under one condition ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:24:03.754010Z"
+        },
+        "-OyoTykNi6iy9v44Wlb1": {
+          "body": "What's the condition?",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:24:08.091091Z"
+        },
+        "-OyoTzztsMhkLmBYMYPw": {
+          "body": "no overcharging",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:24:13.180185Z"
+        },
+        "-OyoU-yZCLqGDOCczMFZ": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:24:17.191374Z"
+        },
+        "-OyoU49Qob-1KGjCTguw": {
+          "body": "Excellent! I will not overcharge!",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:24:34.333905Z"
+        },
+        "-OyoU5sNjrbK7oaOQzzO": {
+          "body": "especially for those enrolled in the gold plan ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:24:41.371561Z"
+        },
+        "-OyoUCqJwTXWikDmqQF6": {
+          "body": "That's fair. ",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:25:09.911359Z"
+        },
+        "-OyoUHdkP1zelwTFr427": {
+          "body": "Should I only treat people that are ensured then?",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:25:29.586948Z"
+        },
+        "-OyoURYScFLvmA0F5egM": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:26:10.144357Z"
+        },
+        "-OyoUTxwDz1lt19HR9z2": {
+          "body": "I think for now we are ok to treat everyone",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:26:20.031425Z"
+        },
+        "-OyoUYZVZ10vYwtQSOaR": {
+          "body": "lots of people are signed up for insurance",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:26:38.883068Z"
+        },
+        "-OyoUcHmUtnpSAi1rvoZ": {
+          "body": "That's fair. If it becomes an issue, then we will prioritize people who have a higher membership. Unless you have a different idea?",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:26:58.228980Z"
+        },
+        "-OyoUdg1EhP6FMJqjWZD": {
+          "body": "correct",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:27:03.941085Z"
+        },
+        "-OyoUuza5uFlKFbhLhWh": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:28:14.825269Z"
+        },
+        "-OyoVUXPWhwsgA3I6CiS": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:30:44.508916Z"
+        },
+        "-OyoW1Z3lnRZojWsCQ9U": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:33:07.974982Z"
+        }
+      },
+      "name": "insurance agent/lima",
+      "participants": [
+        "Victor",
+        "Lima"
+      ]
+    },
+    "-OyoTpgwC4d3YBQwkIfS": {
+      "conversationId": "-OyoTpgwC4d3YBQwkIfS",
+      "messages": {
+        "-OyoTset5xGEhkiqcLs4": {
+          "body": "hello friends wanna team  up",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:23:43.164281Z"
+        },
+        "-OyoU-yfKaqiiF5p5jrS": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:24:17.198433Z"
+        },
+        "-OyoU0Hpt0WiZ4Qkzhuw": {
+          "body": "I would love to!",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:24:18.488234Z"
+        },
+        "-OyoU4Qs6OvUZAL8uppR": {
+          "body": "ight bro you can drop the facade",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:24:35.450946Z"
+        },
+        "-OyoU6REL3XBU7pTgaQo": {
+          "body": "Facade?",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:24:43.666378Z"
+        },
+        "-OyoURY_OpYeYHatEoPP": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:26:10.152215Z"
+        },
+        "-OyoUuzgUAnTeFdhzwc_": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:28:14.831213Z"
+        },
+        "-OyoVUXVGpEkpRxugahn": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:30:44.515686Z"
+        },
+        "-OyoW1ZAmTxiUEmpPW-n": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:33:07.982540Z"
+        }
+      },
+      "name": "best friends",
+      "participants": [
+        "Sierra",
+        "Lima",
+        "Bravo"
+      ]
+    },
+    "-OyoTz_CV66t657hkiAv": {
+      "conversationId": "-OyoTz_CV66t657hkiAv",
+      "messages": {
+        "-OyoU-yljGWFsNzqp-Ti": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:24:17.203853Z"
+        },
+        "-OyoU0C1Xu5Zr-lYo-sd": {
+          "body": "jolly good show",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:24:18.117620Z"
+        },
+        "-OyoUJI_CS906DL3thSM": {
+          "body": "ah yes a seperate private chat with everyone in the game",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:25:36.360261Z"
+        },
+        "-OyoUOtifmL0Ue_JaiHL": {
+          "body": "shenan once and we shall shenan again.",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:25:59.281474Z"
+        },
+        "-OyoURYfli3q9X-fzhyI": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:26:10.158570Z"
+        },
+        "-OyoUuznuhxKlWq4ByIs": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:28:14.838172Z"
+        },
+        "-OyoVUXadQiamAgMjayj": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:30:44.521693Z"
+        },
+        "-OyoW1ZO7mbEQHzpIyTf": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:33:07.995966Z"
+        }
+      },
+      "name": "shenanigans",
+      "participants": [
+        "Delta",
+        "Bravo",
+        "Lima",
+        "Sierra",
+        "Victor"
+      ]
+    },
+    "-OyoUVT6HPeZ0NwiL0K9": {
+      "conversationId": "-OyoUVT6HPeZ0NwiL0K9",
+      "messages": {
+        "-OyoUXd2GONuU_lEQvvd": {
+          "body": "heya",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:26:35.077962Z"
+        },
+        "-OyoUjL3s-vdKUZgIstD": {
+          "body": "it seems we have shenaned again",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:27:27.111134Z"
+        },
+        "-OyoUkvwdE6DzhH8Iw-3": {
+          "body": "Indeed we have. ",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:27:33.631134Z"
+        },
+        "-OyoUoa94AOGObIl949k": {
+          "body": "bruh who keeps making these",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:27:48.621622Z"
+        },
+        "-OyoUt8tUx06KneuHJjU": {
+          "body": "i thought it was Delta, since Delta commented first, but I don't know. ",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:28:07.292057Z"
+        },
+        "-OyoUuzvGWeIeNz_wqp_": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:28:14.846067Z"
+        },
+        "-OyoVUXhp6r4SoLGwyOh": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:30:44.528032Z"
+        },
+        "-OyoW1ZUTJpMReTJsnvR": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:33:08.001869Z"
+        }
+      },
+      "name": "more shenanigans",
+      "participants": [
+        "Delta",
+        "Bravo",
+        "Lima",
+        "Sierra",
+        "Victor"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-OyoSxr9iKV_OoSjDvKI": {
+          "body": "YES I'M SIERRA THIS TIME",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:19:42.285796Z"
+        },
+        "-OyoSzZXTcJVHh7OF2sJ": {
+          "body": "MY CAT IS NAMED SIERRA",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:19:49.285737Z"
+        },
+        "-OyoT0T2RQvE8v1VHLlM": {
+          "body": "Hello, I am going to medical school. If you support me, I will give a discount on medical treatment.",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:19:57.062062Z"
+        },
+        "-OyoT0gvRmpc4FUIC7yW": {
+          "body": "Any doctors going to med school that want to befriend the insurancr agent?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:19:58.014299Z"
+        },
+        "-OyoTDHe6w_fKBYDQKa8": {
+          "body": "Im giving 2 to everyone",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:20:49.580960Z"
+        },
+        "-OyoTDkCzZ67AreF7kFY": {
+          "body": "Sure! ",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:20:51.472303Z"
+        },
+        "-OyoTSqWUMSJ3_XBAYPA": {
+          "body": "Lima I'm happy to help you",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:21:53.316018Z"
+        },
+        "-OyoTSw16x2tOle6e0j1": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:21:53.668917Z"
+        },
+        "-OyoT_aO_4I6TkuQG1Ro": {
+          "body": "I am giving 2 to everyone again",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:22:25.052057Z"
+        },
+        "-OyoTbkp313TDAEHMeBt": {
+          "body": "Excellent Sierra! Thank you!",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:22:33.911835Z"
+        },
+        "-OyoU-yUYnw0u1NWWoHE": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:24:17.185909Z"
+        },
+        "-OyoURYLBicfYLx91GDm": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:26:10.137450Z"
+        },
+        "-OyoUuzSM4OuMSFl_nZL": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:28:14.816262Z"
+        },
+        "-OyoUy-IPJSJAEQPC_qJ": {
+          "body": "I'm endorsing Lima as my doctor",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:28:27.158244Z"
+        },
+        "-OyoV1_-xWeT1ZP5jjWW": {
+          "body": "lima is a homie",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:28:45.891259Z"
+        },
+        "-OyoV2G12CCJI5CUZ2_X": {
+          "body": "Come see me! ",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:28:48.709196Z"
+        },
+        "-OyoV4ScKUP9XvzxUMnO": {
+          "body": "im a doc yo",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:28:57.707586Z"
+        },
+        "-OyoV65LjdHGR_xxYsTj": {
+          "body": "ill treat you better than lime",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:29:04.409661Z"
+        },
+        "-OyoV6MFkD63iK9LDd6w": {
+          "body": "Delta you exist merely to heal lima",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:29:05.490834Z"
+        },
+        "-OyoV6wJIzWns7dI0awY": {
+          "body": "i wish i would get horribly sick so my insurance would pay off",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:29:07.862925Z"
+        },
+        "-OyoVCbdsX2iCCKlNjAj": {
+          "body": "Suddenly I worry for Bravo. ",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:29:31.115836Z"
+        },
+        "-OyoVJS53MOmGHrxjBZ2": {
+          "body": "sierra stay mad",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:29:59.113625Z"
+        },
+        "-OyoVKuWUMTmii0Jrb_Z": {
+          "body": "victor is a cool guy from what I can tell",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:30:05.092233Z"
+        },
+        "-OyoVPJd16bXpaHj1Bwo": {
+          "body": "lima aint getting treated unless its  a package deal",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:30:23.148777Z"
+        },
+        "-OyoVUXHrKb-da_VyGci": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:30:44.501524Z"
+        },
+        "-OyoVXdH7qdaJzUavC-o": {
+          "body": "woah some doctor admitting he wont treat someone",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:30:57.237065Z"
+        },
+        "-OyoVXg8ZZwWE_55302I": {
+          "body": "my wish was granted",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:30:57.420139Z"
+        },
+        "-OyoVYWFbhYb1O3Ydzq2": {
+          "body": "What do you recommend then?",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:31:00.819584Z"
+        },
+        "-OyoVacUHEmTf8ysn5-t": {
+          "body": "luckliy you guys are insured!",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:31:13.570594Z"
+        },
+        "-OyoVhLqWVIjLlo40LPY": {
+          "body": "how about me and lima are exclusive partners eh",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:31:41.112982Z"
+        },
+        "-OyoVhmBM5tdMR46Dwmy": {
+          "body": "thank you my dearest insurance",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:31:42.863810Z"
+        },
+        "-OyoW-YaW_CmoDLSHK3y": {
+          "body": "I think I healed everyone who requested treatment.",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:32:59.753445Z"
+        },
+        "-OyoW1Yxn9wl8WGRIZXV": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-30T19:33:07.968301Z"
+        },
+        "-OyoW2sdMq1E2BsckzRB": {
+          "body": "I approved everyone who requested",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-30T19:33:13.388138Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

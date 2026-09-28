@@ -1,0 +1,1139 @@
+{
+  "conversations": {
+    "-ODw9pJWry0AMU3O0-xT": {
+      "conversationId": "-ODw9pJWry0AMU3O0-xT",
+      "messages": {
+        "-ODw9tvUOGrBUEivykXU": {
+          "body": "what do yall think about karl",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:39:55.618062Z"
+        },
+        "-ODwAFrVhrAKz_x_zI7n": {
+          "body": "Giving you each 3",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:41:29.570857Z"
+        },
+        "-ODwAIteOlCv1ubcY6b8": {
+          "body": "My poor friends",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:41:41.997423Z"
+        },
+        "-ODwALFaAZqH-zJJEQGQ": {
+          "body": "\ud83d\udc4d",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:41:51.656558Z"
+        },
+        "-ODwAMEmSEQlBkzdTp90": {
+          "body": "lets goooo",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:41:55.700913Z"
+        },
+        "-ODwAe5uXy0yJj7twWoq": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:43:12.956819Z"
+        },
+        "-ODwAkvoMGyRpyd0Ey-H": {
+          "body": "yo the gov is collapsing",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:43:40.919053Z"
+        },
+        "-ODwAthdM9EFy_zyTB24": {
+          "body": "They're attacking it",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:44:16.875705Z"
+        },
+        "-ODwAwU1iHJXwWTSpaIG": {
+          "body": "wanna have some fun?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:44:28.228628Z"
+        },
+        "-ODwAwU1iHJXwWTSpaIH": {
+          "body": "wanna have some fun?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:44:28.228669Z"
+        },
+        "-ODwB157U9RjuxGZeEvs": {
+          "body": "lol we can use this to our advantage",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:44:51.211145Z"
+        },
+        "-ODwBArAaXpRJbHzeZOv": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:45:31.213839Z"
+        },
+        "-ODwBXVb3LzC-0c6qe8S": {
+          "body": "I wish you luck my friends!",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:47:03.978312Z"
+        },
+        "-ODwBYJZJDWEh9AeOq15": {
+          "body": "lets help out our ol gov",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:47:07.303371Z"
+        },
+        "-ODwBZTXLZnU56Tt3cSk": {
+          "body": "take out xray",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:47:12.036853Z"
+        },
+        "-ODwBbzuKdwZoJ-uFOs0": {
+          "body": "no don't",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:47:26.461003Z"
+        },
+        "-ODwBda6sUmB8vuqcJWk": {
+          "body": "let me handle them",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:47:33.002450Z"
+        },
+        "-ODwBfKceEqgsU6SAoIm": {
+          "body": "stay in the gov's good graces",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:47:40.138752Z"
+        },
+        "-ODwBg5f8NY2oSJYia71": {
+          "body": "you must win",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:47:43.278188Z"
+        },
+        "-ODwBkZjQD2LApblL7-P": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:48:01.586472Z"
+        },
+        "-ODwBwZUp2lWOU7i3TkV": {
+          "body": "yessir",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:48:50.721989Z"
+        },
+        "-ODwC1F1rXwJFfJGzLGp": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:49:13.988594Z"
+        },
+        "-ODwCP0Y7toAQkIXKLv5": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:50:51.365987Z"
+        },
+        "-ODwCykP0YIqDEcRUJuL": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:53:21.820609Z"
+        },
+        "-ODwDKCIMANg2SHPkwMQ": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:54:53.781510Z"
+        },
+        "-ODwDcsxw5Df7uwD7oE9": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:56:14.399722Z"
+        },
+        "-ODwDzXF6TYjfH0aKUCH": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:57:47.155260Z"
+        }
+      },
+      "name": "Marxist gang",
+      "participants": [
+        "Kilo",
+        "Yankee",
+        "Victor"
+      ]
+    },
+    "-ODw9rgct4IWIwG1FmQs": {
+      "conversationId": "-ODw9rgct4IWIwG1FmQs",
+      "messages": {
+        "-ODw9vM25iUs6S5btPeI": {
+          "body": "Would you like to form an alliance with me",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:40:01.478137Z"
+        },
+        "-ODw9zT2E2zr51OEsoHZ": {
+          "body": "darn",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:40:18.309814Z"
+        },
+        "-ODwA0L5lx6Kquu8xMUT": {
+          "body": "we're gonna be taxed heavily",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:40:25.992962Z"
+        },
+        "-ODwA0xsK81kqL28JFOL": {
+          "body": "i know :(",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:40:28.539210Z"
+        },
+        "-ODwA3vYD2JYlXvkduUx": {
+          "body": "we need to create good friendships",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:40:40.678382Z"
+        },
+        "-ODwA4L8-MhChYyMoohd": {
+          "body": "Should we try to take over the government",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:40:42.380116Z"
+        },
+        "-ODwA6Y0qI6WXOLVeZQ1": {
+          "body": "Attack it with all in round 1?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:40:51.396050Z"
+        },
+        "-ODwA6YcYnLZ7ruQ0uQb": {
+          "body": "IDK",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:40:51.435185Z"
+        },
+        "-ODwA9CUUPSlIATl2eAv": {
+          "body": "you think it'll work?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:41:02.305729Z"
+        },
+        "-ODwAA16ampCqBz6DIpq": {
+          "body": "Lets try",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:41:05.673536Z"
+        },
+        "-ODwAB-vAXIUE6bX_7tE": {
+          "body": "ill do -14 ",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:41:09.694422Z"
+        },
+        "-ODwABs1QT00NRSU6upB": {
+          "body": "you do the same",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:41:13.220780Z"
+        },
+        "-ODwACNKaq5ZLq1UfmQ6": {
+          "body": "Same",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:41:15.288059Z"
+        },
+        "-ODwADeus3fJoChKEdw0": {
+          "body": "should we get someone else in on it?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:41:20.572457Z"
+        },
+        "-ODwALOh2oSYesEdXmyc": {
+          "body": "or just us",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:41:52.239658Z"
+        },
+        "-ODwAMO01-w5HdXmN5fy": {
+          "body": "The rest are too far down.  They probably like the government",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:41:56.291811Z"
+        },
+        "-ODwANgRZya0tfaqMBV-": {
+          "body": "Lets just try us",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:42:01.630619Z"
+        },
+        "-ODwANtDSbNA7gRglprH": {
+          "body": "yeah.... okay",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:42:02.448820Z"
+        },
+        "-ODwAWxeyYPDTGDAFhj7": {
+          "body": "how do i know you're going to do the same?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:42:39.596836Z"
+        },
+        "-ODwAY7oT9leXt3JrP2y": {
+          "body": "We have a chance if the others don't come to the defense of the go",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:42:44.406667Z"
+        },
+        "-ODwAYVJ6Biq7LCFaZFg": {
+          "body": "v",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:42:45.910529Z"
+        },
+        "-ODwA_MDbebfwOjEvfyg": {
+          "body": "okay yeah lets try it",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:42:53.521373Z"
+        },
+        "-ODwA_wGs3i--N7fO1Uu": {
+          "body": "I am",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:42:55.891600Z"
+        },
+        "-ODwAakxgVwvbIb34wGO": {
+          "body": "-14",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:42:59.263697Z"
+        },
+        "-ODwAauqUBovvQdNL6H8": {
+          "body": "im down even if we lose",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:42:59.896652Z"
+        },
+        "-ODwAbsD3cJEs4cl1DAg": {
+          "body": "Same",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:43:03.825438Z"
+        },
+        "-ODwAcZaU86iBQE-Ytd-": {
+          "body": "itll be fun to try",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:43:06.664637Z"
+        },
+        "-ODwAe6388YnVvyHzkGL": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:43:12.966634Z"
+        },
+        "-ODwAhqfCxM1j-n66pTL": {
+          "body": "tax evasion and grand theft",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:43:28.301772Z"
+        },
+        "-ODwAilu6Fxhjewr-f0o": {
+          "body": "okay they went down a lot",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:43:32.092681Z"
+        },
+        "-ODwAj8O0Ak66HQfUIE-": {
+          "body": "HAHHA",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:43:33.596453Z"
+        },
+        "-ODwAlhvz1nwWWbDmVMc": {
+          "body": "-14 again?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:43:44.126314Z"
+        },
+        "-ODwAmiTp3z5qlSmJWxk": {
+          "body": "should we keep any?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:43:48.257312Z"
+        },
+        "-ODwAtAqH6MlQ0sfaC5C": {
+          "body": "I think hes gonna hit me ",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:44:14.712689Z"
+        },
+        "-ODwAtCHE0hl1kbTP5xM": {
+          "body": "Yeah, we can't stop now",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:44:14.805215Z"
+        },
+        "-ODwAu4hPGZRhpEdGBk7": {
+          "body": "We're committed",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:44:18.416037Z"
+        },
+        "-ODwAuqWMXNLy-YUt3Th": {
+          "body": "okay cool, -14 all?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:44:21.540253Z"
+        },
+        "-ODwAwU1iHJXwWTSpaIF": {
+          "body": "Will the gov keep though?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:44:28.228562Z"
+        },
+        "-ODwAxsoEsTLWgN_u8FI": {
+          "body": "IDK",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:44:33.975391Z"
+        },
+        "-ODwAyOQnSexXzSw9n9J": {
+          "body": "Yeah, attack with -14",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:44:36.061620Z"
+        },
+        "-ODwB2tkk-fvhvt7_iuO": {
+          "body": "We can't stop now",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:44:58.610511Z"
+        },
+        "-ODwB4em5DuMRbotX4PS": {
+          "body": "yup",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:45:05.845Z"
+        },
+        "-ODwB58dG9qkpSerNuaN": {
+          "body": "submitted",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:45:07.820077Z"
+        },
+        "-ODwB6Rw9nxEnIcKB4fx": {
+          "body": "Same",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:45:13.150628Z"
+        },
+        "-ODwB7VVFchmbP7jvQWP": {
+          "body": "Juliett wants to be friends",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:45:17.475211Z"
+        },
+        "-ODwB9YUJdozdRohT4B7": {
+          "body": "we should just focus on this for now though right?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:45:25.857773Z"
+        },
+        "-ODwBAS36PBuoRVPvKub": {
+          "body": "Ask if they will join us",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:45:29.543277Z"
+        },
+        "-ODwBArHOlVClZbP3Cme": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:45:31.221216Z"
+        },
+        "-ODwBBbeO0R-EGsPz40G": {
+          "body": "in attacking the gov",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:45:34.316545Z"
+        },
+        "-ODwBCoqXpQrU3bBcjX9": {
+          "body": "Oh darn",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:45:39.256933Z"
+        },
+        "-ODwBEVemTLCpZjKW3e5": {
+          "body": "Victor took all from me",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:45:46.156575Z"
+        },
+        "-ODwBNQIJjX-jp6uIGTw": {
+          "body": "Oh, if they join against us we don't have a chance",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:46:22.677498Z"
+        },
+        "-ODwBOS-R9xUptivLx5u": {
+          "body": "Did the gov attack you?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:46:26.883063Z"
+        },
+        "-ODwBQ9TMMz4DdiS3YY4": {
+          "body": "or just victor?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:46:33.888699Z"
+        },
+        "-ODwBQCG_NCmCKWS88NK": {
+          "body": "yeah -5",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:46:34.067845Z"
+        },
+        "-ODwBRWS0pzBvPYDhOGq": {
+          "body": "and victor -14",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:46:39.456349Z"
+        },
+        "-ODwB_J-xGgBdhEcMl2d": {
+          "body": "Let's keep going after the gov",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:47:15.459389Z"
+        },
+        "-ODwBgnh12WlXXCa9rpd": {
+          "body": "okay... im pretty low, I think itll keep attacking me ",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:47:46.160036Z"
+        },
+        "-ODwBkOJ0XD0Zkqc20ph": {
+          "body": "just keep attacking it while it takes me down",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:48:00.855196Z"
+        },
+        "-ODwBkZrbOlqln95QzJE": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:48:01.594086Z"
+        },
+        "-ODwBl10Md2JMdipzgbt": {
+          "body": "ill keep taking",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:48:03.459832Z"
+        },
+        "-ODwC1F8TU7wlZyGFVEg": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:49:13.996180Z"
+        },
+        "-ODwCB04n2Q8eRsqx1fB": {
+          "body": "golf victor is in the chat",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:49:53.991659Z"
+        },
+        "-ODwCCIrzFpBPYB8PS20": {
+          "body": "you said to take him down",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:49:59.289901Z"
+        },
+        "-ODwCHs4OEum_zjkqzif": {
+          "body": "Yep",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:50:22.087608Z"
+        },
+        "-ODwCP0eDKNYOOLTZp6f": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:50:51.373248Z"
+        },
+        "-ODwCykWoo3gXSEGC0JT": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:53:21.828405Z"
+        },
+        "-ODwDKCPehZLZZWZOzPv": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:54:53.789073Z"
+        },
+        "-ODwDct4CbFVocPCcAM3": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:56:14.407481Z"
+        },
+        "-ODwDzXMzHyTXdpPsSG-": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:57:47.162098Z"
+        }
+      },
+      "name": "Rich",
+      "participants": [
+        "X-ray",
+        "Golf"
+      ]
+    },
+    "-ODwAXIgqZ9Myl7ha7gF": {
+      "conversationId": "-ODwAXIgqZ9Myl7ha7gF",
+      "messages": {
+        "-ODwAZHv2zu--WUtZWp5": {
+          "body": "ayo we can all be freinds right?",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:42:49.149553Z"
+        },
+        "-ODwA_8y6wFAHmVTRy7Y": {
+          "body": "no reason to tear eachother down",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:42:52.673451Z"
+        },
+        "-ODwAe6EjJJuVK6u5x0O": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:43:12.977569Z"
+        },
+        "-ODwBArRYYOZ6jU17RLt": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:45:31.230599Z"
+        },
+        "-ODwBk_0jIgolG-xXSIW": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:48:01.603599Z"
+        },
+        "-ODwBlN83dISG4rbfh6_": {
+          "body": "Do you want to join us Juliett in taking down the gov?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:48:04.875986Z"
+        },
+        "-ODwBqORfquCzGnYMI9D": {
+          "body": "why was I not invited before",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:48:25.438811Z"
+        },
+        "-ODwBv1cW3ZuicJWfvtP": {
+          "body": "yeah lets do it",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:48:44.458544Z"
+        },
+        "-ODwBv_-IZyFQFAiMuX0": {
+          "body": "down with teh government",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:48:46.659297Z"
+        },
+        "-ODwBvnyOOByiLR-48uG": {
+          "body": "We were afraid you wouldnt join",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:48:47.616460Z"
+        },
+        "-ODwBxc081AMl2LiY6Ga": {
+          "body": "-14 on the gov",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:48:55.043631Z"
+        },
+        "-ODwBxfca7s5M4R_dsOL": {
+          "body": "i think itll keep attacking me",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:48:55.274683Z"
+        },
+        "-ODwBxyN8dieSP2YlD5N": {
+          "body": "have no fear",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:48:56.475425Z"
+        },
+        "-ODwByrEX7q4Iks-53SE": {
+          "body": "but we keep taking",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:49:00.113529Z"
+        },
+        "-ODwBzICoT1sJqcw4FAk": {
+          "body": "i will always attack the government",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:49:01.904074Z"
+        },
+        "-ODwC-BKKPB10-NA79Jj": {
+          "body": "victor ur invited too",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:49:05.559585Z"
+        },
+        "-ODwC-hk0xWdLLwh5P6g": {
+          "body": "(for legal reasons that is a joke)",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:49:07.699166Z"
+        },
+        "-ODwC1FSdyE3AA9yX4EO": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:49:14.015711Z"
+        },
+        "-ODwC4DU7YyMzEioocnJ": {
+          "body": "victor! rise! help us!!",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:49:26.178298Z"
+        },
+        "-ODwC4otWFgkDA0BMUBj": {
+          "body": "Let's take down Victor with us",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:49:28.635686Z"
+        },
+        "-ODwCARAi63tOFZUG3nh": {
+          "body": "no reason",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:49:51.629724Z"
+        },
+        "-ODwCBGpxkgQNu7bWbQn": {
+          "body": "governemnt is still bigger thread",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:49:55.063622Z"
+        },
+        "-ODwCBhWZ64kIxF8_nc0": {
+          "body": "*threat",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:49:56.836019Z"
+        },
+        "-ODwCEtH7BBA2JD0j9YS": {
+          "body": "victor join us!!",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:50:09.877146Z"
+        },
+        "-ODwCKOGjmdAD4SZSNE7": {
+          "body": "I think i only have one more round before im 0",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:50:32.404447Z"
+        },
+        "-ODwCLBPKSprTS5yDlhh": {
+          "body": "keep taking!!",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:50:35.677084Z"
+        },
+        "-ODwCM7flXS3HpYBnvol": {
+          "body": "Victor",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:50:39.534277Z"
+        },
+        "-ODwCNo4q82ld3lr9X0m": {
+          "body": "when tryanny becomes law, reistance becomes duty",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:50:46.408324Z"
+        },
+        "-ODwCOM5V540SafbHptN": {
+          "body": "I am chaos kin! Demon of the void! YOU WILL FALL!!! \ud83d\udc08\ud83d\udc08\ud83d\udc08",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:50:48.649265Z"
+        },
+        "-ODwCP0lOjLOUQtVjccT": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:50:51.380367Z"
+        },
+        "-ODwCPvtOCVR8yuRZawV": {
+          "body": "will you be so cowardly as to shirk your duty??",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:50:55.099523Z"
+        },
+        "-ODwCQecPqizuNyUJY6-": {
+          "body": "or will you RISE",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:50:58.091022Z"
+        },
+        "-ODwCS6pWoF9qPhD1Yjy": {
+          "body": "I blocked you Victor",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:51:04.055765Z"
+        },
+        "-ODwCXVvwlojMJtiUQyB": {
+          "body": "the government is attacking me lads",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:51:26.142125Z"
+        },
+        "-ODwCYGNof2hZ3ixqUS4": {
+          "body": "take him out",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:51:29.242682Z"
+        },
+        "-ODwCykd_MUeLgJc-_1H": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:53:21.836039Z"
+        },
+        "-ODwDKCX4w6O5_IXGJWe": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:54:53.796551Z"
+        },
+        "-ODwDctCr3xUHuW4861v": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:56:14.415621Z"
+        },
+        "-ODwDzXTklVhtoTXPiy7": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:57:47.169055Z"
+        }
+      },
+      "name": "The boys",
+      "participants": [
+        "Juliett",
+        "Golf",
+        "X-ray",
+        "Victor"
+      ]
+    },
+    "-ODwAyjZYmpUrj7pNGu_": {
+      "conversationId": "-ODwAyjZYmpUrj7pNGu_",
+      "messages": {
+        "-ODwB0eB51zMxzhCJdwc": {
+          "body": "Friend?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:44:49.423430Z"
+        },
+        "-ODwBA64mCa4ng8NXXf8": {
+          "body": "Freind!",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:45:28.135844Z"
+        },
+        "-ODwBArYI6-KPSgw1AjX": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:45:31.237743Z"
+        },
+        "-ODwBk_7OkwNf4BpkL5U": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:48:01.610756Z"
+        },
+        "-ODwC1FZgf-UCWwRuUNP": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:49:14.023434Z"
+        },
+        "-ODwCP0s-wyGbIBFMevR": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:50:51.387203Z"
+        },
+        "-ODwCykk09t9bmm3aIN4": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:53:21.843426Z"
+        },
+        "-ODwDKCdjjFF9-Zw2Xyn": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:54:53.804481Z"
+        },
+        "-ODwDctMI1iuRaKXvNZp": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:56:14.426163Z"
+        },
+        "-ODwDzX_2uuiCvct1AGO": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:57:47.176038Z"
+        }
+      },
+      "name": "Friend",
+      "participants": [
+        "Yankee",
+        "Juliett"
+      ]
+    },
+    "-ODwBdJUQWk1BeSZx_my": {
+      "conversationId": "-ODwBdJUQWk1BeSZx_my",
+      "messages": {
+        "-ODwBgsVmIDMBzbVgHSZ": {
+          "body": "how would you like to be a part of funding small businesses",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:47:46.467122Z"
+        },
+        "-ODwBk_FCXmlfHdY95Hy": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:48:01.618536Z"
+        },
+        "-ODwC1FgfBjIM1UsGcde": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:49:14.031298Z"
+        },
+        "-ODwCP1-RoZIEW0kO2a3": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:50:51.394522Z"
+        },
+        "-ODwCyktL5KrLRrPMuc5": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:53:21.852255Z"
+        },
+        "-ODwDKClwl-KyXHIX1tB": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:54:53.811919Z"
+        },
+        "-ODwDctX5zgzyITzZmHs": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:56:14.436932Z"
+        },
+        "-ODwDzXkP3yIb16DbX7T": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:57:47.187298Z"
+        }
+      },
+      "name": "yo",
+      "participants": [
+        "Kilo",
+        "Golf"
+      ]
+    },
+    "-ODwCWnQDdxDEfB9I00E": {
+      "conversationId": "-ODwCWnQDdxDEfB9I00E",
+      "messages": {
+        "-ODwCYVxvGnVnNDRKT30": {
+          "body": "Victor is killing us",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:51:30.239605Z"
+        },
+        "-ODwCecP9ebbOt_loIKh": {
+          "body": "Victor has done nothing to me",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:51:59.388793Z"
+        },
+        "-ODwCyl0QP6DuoKiYlSt": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:53:21.860313Z"
+        },
+        "-ODwDKCszMmUZ4OkSVjY": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:54:53.819214Z"
+        },
+        "-ODwDctdjOPIcc1K4Wgc": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:56:14.444182Z"
+        },
+        "-ODwDzXs7BTzZYf7sKVE": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:57:47.195149Z"
+        }
+      },
+      "name": "everyone",
+      "participants": [
+        "X-ray",
+        "Juliett",
+        "Golf",
+        "Yankee",
+        "Kilo",
+        "Charlie"
+      ]
+    },
+    "-ODwD7gu8-ARg1vPuG2K": {
+      "conversationId": "-ODwD7gu8-ARg1vPuG2K",
+      "messages": {
+        "-ODwDBEZ7OyfwIyNPHHY": {
+          "body": "Do you want to give to each other?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:54:17.062482Z"
+        },
+        "-ODwDKD6nWBgua4aNqrd": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:54:53.833837Z"
+        },
+        "-ODwDVm_lL6rl9jgScvr": {
+          "body": "sure thing boss",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:55:41.223967Z"
+        },
+        "-ODwDZ4nogzU7zsEkGLd": {
+          "body": "How much?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:55:54.741688Z"
+        },
+        "-ODwDctk1qt7pmIEuNoc": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:56:14.451224Z"
+        },
+        "-ODwDkyVIEs9U048Xdba": {
+          "body": "do we take from x ray or just give to each oteher",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:56:47.523172Z"
+        },
+        "-ODwDms23ZD8kjovPfmB": {
+          "body": "Don't steal",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:56:55.301728Z"
+        },
+        "-ODwDpNS4JxXb1iGxDsc": {
+          "body": "The gov will kill you",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:57:05.568382Z"
+        },
+        "-ODwDrxtuuHQvkcIpoFq": {
+          "body": "10 for 10?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:57:16.156285Z"
+        },
+        "-ODwDwQojUwl7T_0cWM2": {
+          "body": "how about 5 for 5",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:57:34.455319Z"
+        },
+        "-ODwDyZxjBzK6UFfDqW5": {
+          "body": "Deal",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:57:43.231676Z"
+        },
+        "-ODwDzXzBqvHOckplyT4": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:57:47.202234Z"
+        }
+      },
+      "name": "Good Citizens",
+      "participants": [
+        "Yankee",
+        "Kilo"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-ODwAe5ncQxHnPfUpHI-": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:43:12.949628Z"
+        },
+        "-ODwBAr3WOlsP8r7j6L6": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:45:31.206646Z"
+        },
+        "-ODwBV8p4v-p-aSdm6ep": {
+          "body": "boo rich people",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:46:54.328441Z"
+        },
+        "-ODwBYdf6SfHSSG8dN1G": {
+          "body": "Booooooo",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:47:08.654333Z"
+        },
+        "-ODwBkZcTL_6PXpEiMw7": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:48:01.579433Z"
+        },
+        "-ODwC1EtMiMeTS-pfhlB": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:49:13.979890Z"
+        },
+        "-ODwCP0PfBfpaAqY6WxR": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:50:51.357472Z"
+        },
+        "-ODwCykHuE5-6xfD6pOp": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:53:21.813265Z"
+        },
+        "-ODwDFcgoWdTJI4WRw1f": {
+          "body": "everyone kill golf",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:54:35.055238Z"
+        },
+        "-ODwDGeie6P5PzvPmlpT": {
+          "body": "no one likes golfing anyways",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2024-12-12T18:54:39.281228Z"
+        },
+        "-ODwDKCAC5Dsvlln6KLD": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:54:53.774272Z"
+        },
+        "-ODwDcsnXDul8nWk4gnB": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:56:14.389988Z"
+        },
+        "-ODwDzX8_gyFT2kHFPN-": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2024-12-12T18:57:47.147980Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

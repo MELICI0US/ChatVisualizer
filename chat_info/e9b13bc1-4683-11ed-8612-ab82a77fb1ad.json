@@ -1,0 +1,2682 @@
+{
+  "conversations": {
+    "-NDoHNiIXh9Y2Lml9mk5": {
+      "conversationId": "-NDoHNiIXh9Y2Lml9mk5",
+      "messages": {
+        "-NDoHP9Bi8wz6U6gRn2n": {
+          "body": "Friends?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:11:08.110Z"
+        },
+        "-NDoHPeARLGL07lwiZ8v": {
+          "body": "Sure",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:11:10.113Z"
+        },
+        "-NDoHTzv-whOHbrU0ORZ": {
+          "body": "yeah!",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:11:27.347Z"
+        },
+        "-NDoHY6mXhzaNb8tXOEH": {
+          "body": "Rotate the odd token",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:11:44.764Z"
+        },
+        "-NDoHZzsFuPO6ilVndDm": {
+          "body": "Sounds good.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:11:51.596Z"
+        },
+        "-NDoHnur0cmN6VHlyRyR": {
+          "body": "Round 2",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:12:53.689557Z"
+        },
+        "-NDoHtEovhq_895a9HuT": {
+          "body": "Lima gave none",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:13:14.499Z"
+        },
+        "-NDoHulFUhD9hRsQZWJB": {
+          "body": "Lima gave none to me as well",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:13:21.633Z"
+        },
+        "-NDoHwg7MwItF9TjUzgb": {
+          "body": "I got some from lima",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:13:29.535Z"
+        },
+        "-NDoI3uyIGOVXxMe_XD6": {
+          "body": "Lima? ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:14:02.333Z"
+        },
+        "-NDoIKoEiNqpzT_017ZM": {
+          "body": "Sorry guys, fixing that now",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:10.979Z"
+        },
+        "-NDoILZ874rGEji6qqsj": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:15.594974Z"
+        },
+        "-NDoIjyBhrq-qWlVUEl9": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:59.662516Z"
+        },
+        "-NDoJGLHdYGD1mQkbJEh": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:16.372755Z"
+        },
+        "-NDoJVpgNQnUcgWRs8i8": {
+          "body": "Have you properly repented, Lima?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:20:18.870Z"
+        },
+        "-NDoJYP30WJcxkutwWsf": {
+          "body": "We are willing to take you back lima",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:20:30.222Z"
+        },
+        "-NDoJaSLi5SAcR8EH1jI": {
+          "body": "Just stay as consistent as you currently are.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:20:42.734Z"
+        },
+        "-NDoJf_vf3WKMjOq0ZX_": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:21:03.869606Z"
+        },
+        "-NDoJsGvzDn8TVFDnmLx": {
+          "body": "Lima, no chat makes us feel sketchy about you. Respond.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:21:55.714Z"
+        },
+        "-NDoJv6Ywi7We1TuFZ9l": {
+          "body": "I do believe so, sounds good to me",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:22:06.632Z"
+        },
+        "-NDoJwKEohET9Bcnu6M5": {
+          "body": "Thanks guys",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:22:11.791Z"
+        },
+        "-NDoJz4iVsu-EdRdUWSu": {
+          "body": "I kind of wish we had a typing... thing",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:22:23.642Z"
+        },
+        "-NDoK1lsXeo_odAuzkc5": {
+          "body": "That would be nice",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:22:38.203Z"
+        },
+        "-NDoK680EwpP694wZC8q": {
+          "body": "Quebec gave 1 token to me",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:22:56.591Z"
+        },
+        "-NDoK8p274pUAfr0OOp8": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:07.717024Z"
+        },
+        "-NDoKC9iYnKweIZekrtn": {
+          "body": "Foxtrot, I'll make it up to you",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:20.726Z"
+        },
+        "-NDoKDX5CWnUyxZ5wk4b": {
+          "body": "I've been giving single tokens to delta and uniform on occasion.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:25.988Z"
+        },
+        "-NDoKGdCUywOfoaNYrqV": {
+          "body": "Same here with uniform",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:39.033Z"
+        },
+        "-NDoKLnGM9w0L6TKyIFx": {
+          "body": "Have they been responding equally? If not, don't let them sucker you into leaking tokens into their group",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:24:00.746Z"
+        },
+        "-NDoKPw93h_-_e3ozFfE": {
+          "body": "Yeah, it's been small give and take.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:24:16.863Z"
+        },
+        "-NDoKRa5Q-Wm7BtaODAP": {
+          "body": "On a side note, are we going to attack first?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:24:24.497Z"
+        },
+        "-NDoKS0wqSJMsjiG2nTE": {
+          "body": "Victor, why did you drop",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:24:26.268Z"
+        },
+        "-NDoKWHJzsmlyvi9sPlq": {
+          "body": "Victor's popularity took a slight downturn. What happened?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:24:43.681Z"
+        },
+        "-NDoKb_7-OjNVdkzqz7D": {
+          "body": "Had a round where delta and uniform didn't give any. That's my only guess.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:08.586Z"
+        },
+        "-NDoKegPFneM5ht25gAz": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:22.332402Z"
+        },
+        "-NDoKicoxHphcDRDhSgr": {
+          "body": "I've been nuked",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:38.407Z"
+        },
+        "-NDoKlnms7zlUMj2lmc7": {
+          "body": "Who attacked?",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:50.816Z"
+        },
+        "-NDoKnU8GW3uBYqXwrLB": {
+          "body": "How to respond?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:57.363Z"
+        },
+        "-NDoKoSA7gtaRd5wyGUU": {
+          "body": "Everyone",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:26:02.245Z"
+        },
+        "-NDoKwJGc5-zC88mHm9_": {
+          "body": "Attack Uniform?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:26:34.437Z"
+        },
+        "-NDoL0MFw79kh32-ok0x": {
+          "body": "Everyone keep, our average is higher",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:26:55.078Z"
+        },
+        "-NDoL6drh-hWU8Cz1Gkb": {
+          "body": "I think that will buy us some time to assess the situation",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:20.847Z"
+        },
+        "-NDoL6iOSGcGHClIPZ98": {
+          "body": "I'm below the poverty line so they can't do anything to me",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:21.191Z"
+        },
+        "-NDoL9-_ldSx3vm0a4uu": {
+          "body": "I'll still attack",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:30.527Z"
+        },
+        "-NDoLBl1g4zwNQRBNG03": {
+          "body": "Yeah, X-ray is fine to attack",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:41.784Z"
+        },
+        "-NDoLCm7uUknjQRyzIIU": {
+          "body": "sounds good",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:45.409Z"
+        },
+        "-NDoLEPHDxK7vPxizjCv": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:52.724242Z"
+        },
+        "-NDoLLrYWUVrTlRnYRVj": {
+          "body": "Victor, did you not keep?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:28:23.148Z"
+        },
+        "-NDoLNjTJOgnR0bdTv1K": {
+          "body": "Fox is probably next",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:28:30.860Z"
+        },
+        "-NDoLRdhl34iLvjRiWT4": {
+          "body": "We should retaliate while fox keeps",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:28:46.889Z"
+        },
+        "-NDoLRqnPgW3B_AVgt6q": {
+          "body": "Delta already tried getting me.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:28:47.702Z"
+        },
+        "-NDoLTGh7WFq8D7LrBYP": {
+          "body": "I'll keep",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:28:53.496Z"
+        },
+        "-NDoLYriTAGDL_XYmYOq": {
+          "body": "Anyone close to poverty can attack without fear of retaliation.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:29:16.404Z"
+        },
+        "-NDoLZZCzJGNG7Oog1CS": {
+          "body": "I'm going for their king",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:29:19.313Z"
+        },
+        "-NDoLeiY7LmAmtLsonmK": {
+          "body": "They  all attacked me, but I kept",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:29:42.422Z"
+        },
+        "-NDoLkWQpwSK7TksMxXg": {
+          "body": "They overpowered the keep",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:30:08.262Z"
+        },
+        "-NDoLo6xYYa0PJn8wTkg": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:30:23.103546Z"
+        },
+        "-NDoLtsl7nL4yXKCRjki": {
+          "body": "This ain't good",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:30:46.080Z"
+        },
+        "-NDoLzbKtDS5xcEnPS4b": {
+          "body": "The only thing we can do now is take out their power by sucking from the one that is least likely to keep for protection. Leak from Delta",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:31:10.050Z"
+        },
+        "-NDoM8ucDRWAWoq2Kaa5": {
+          "body": "Aight all in on delta",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:31:52.288Z"
+        },
+        "-NDoMBYhU83nbwPDUyW2": {
+          "body": "Some of us should build each other up, while the others take from their weakest that they will be most willing to drop",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:03.067Z"
+        },
+        "-NDoMDKICF-ITWYba_9U": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:10.453544Z"
+        },
+        "-NDoMLW_RA6fw57NG2Gp": {
+          "body": "Unfortunately the power aspect of the game has brought me very far down.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:43.901Z"
+        },
+        "-NDoMNCodPZYaP4iJtvN": {
+          "body": "All 4 attacked me when I dropped",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:50.774Z"
+        },
+        "-NDoMXMdMQIDQoaSCIjb": {
+          "body": "We need to build each other up enough to be able to have an effect on their most weak player.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:33:32.422Z"
+        },
+        "-NDoMYRwPLSgaptNDws4": {
+          "body": "Are we attacking, or just trying to build up again?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:33:36.881Z"
+        },
+        "-NDoMacDb6Mw94CZlJA7": {
+          "body": "If we don't build each other up, we don't have enough influence to really affect them.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:33:49.869Z"
+        },
+        "-NDoMe-aVS9g3duhaA6c": {
+          "body": "But we also can't let them grow too much.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:03.710Z"
+        },
+        "-NDoMfdQuCwDMoZ-xbjM": {
+          "body": "Should we just build up one at a time or spread it out",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:09.860Z"
+        },
+        "-NDoMm78UXaGGUhxTg65": {
+          "body": "Drop me for now, it'll take a lot to build me up since I went so far negative.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:36.959Z"
+        },
+        "-NDoMmNIWtMo7211z4jp": {
+          "body": "Probably spread it out, but a little more to the lowest?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:38.044Z"
+        },
+        "-NDoMn1Sy1pTs37er9TR": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:40.799793Z"
+        },
+        "-NDoMnsekGZmZsYPnq3i": {
+          "body": "Build up Victor",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:43.944Z"
+        },
+        "-NDoN39gLBj7BZllG0av": {
+          "body": "okau",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:35:50.323Z"
+        },
+        "-NDoN61R6XSg8RIhiM6S": {
+          "body": "okay*",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:36:02.099Z"
+        },
+        "-NDoNGdol3901Vt2DJw4": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:36:46.198033Z"
+        },
+        "-NDoNhj_Tu0CwrJHc7Jg": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:41.255519Z"
+        },
+        "-NDoO-XNByhmZmDQITr8": {
+          "body": "Let's bring back Foxtrot?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:39:57.225Z"
+        },
+        "-NDoO-l7dCi-9aHhWGRx": {
+          "body": "Our pop will grow at the same rate as the other group, can we even get out of this?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:39:59.123Z"
+        },
+        "-NDoO2lKL7GDnzrIYuNL": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:40:11.479742Z"
+        },
+        "-NDoO9rvAo5j0KZKV0li": {
+          "body": "Can we bring Fox back to life? I have given some, but it has no effect.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:40:39.590Z"
+        },
+        "-NDoOBQsEPIcLX1YITyK": {
+          "body": "Same",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:40:46.900Z"
+        },
+        "-NDoOFiM1kI752SOJZC6": {
+          "body": "I think fox just got hit really hard",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:41:04.477Z"
+        },
+        "-NDoOGVmsi07crjntorM": {
+          "body": "what if we just give all",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:41:07.128Z"
+        },
+        "-NDoOIqSNijTm-yLU8Pw": {
+          "body": "Let's give it a go!",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:41:16.378Z"
+        },
+        "-NDoOLPUys9H-q6jSS7H": {
+          "body": "Yes you can bring me back, it would take a little while though, keep building each other up and give just a few tokens to me",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:41:27.747Z"
+        },
+        "-NDoONtjBNvIlEIpcR0E": {
+          "body": "If you give all, you three will drop",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:41:37.932Z"
+        },
+        "-NDoORmgtLqf8vEsonBC": {
+          "body": "Since you won't get anything",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:41:53.872Z"
+        },
+        "-NDoOVL2S4S8mEfIKZ4-": {
+          "body": "Round 16",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:42:08.516974Z"
+        },
+        "-NDoOXYmWSH98cYmHxwS": {
+          "body": "I just don't know how we will take the top people out",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:42:17.488Z"
+        },
+        "-NDoOYU8WbcFqLn_cZ70": {
+          "body": "Game Over",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:42:21.288Z"
+        }
+      },
+      "name": "Friends?",
+      "participants": [
+        "X-ray",
+        "Foxtrot",
+        "Lima",
+        "Victor"
+      ]
+    },
+    "-NDoHYXFpCTJ3nsfWE1X": {
+      "conversationId": "-NDoHYXFpCTJ3nsfWE1X",
+      "messages": {
+        "-NDoH_HeaJnnk4-6dWTg": {
+          "body": "Friends?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:11:52.991Z"
+        },
+        "-NDoH_tODpQhdU1AF24A": {
+          "body": "Sounds great!",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:11:56.073Z"
+        },
+        "-NDoHbRwc0gB0tdXuOYc": {
+          "body": "Sending you 6",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:12:02.467Z"
+        },
+        "-NDoHdbrEhctDnztQPE_": {
+          "body": "Sick",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:12:10.736Z"
+        },
+        "-NDoHeExItcL6irnopNW": {
+          "body": "Me too!",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:12:13.312Z"
+        },
+        "-NDoHnuwgtG2HimViUWJ": {
+          "body": "Round 2",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:12:53.694335Z"
+        },
+        "-NDoILZCJhWGFkFCfpxQ": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:15.599448Z"
+        },
+        "-NDoIjyFE7wTi2nh5hCt": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:59.666287Z"
+        },
+        "-NDoJGLMFRZdznKBC5Oc": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:16.377270Z"
+        },
+        "-NDoJfa-rW_sLA9VN0o_": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:21:03.874152Z"
+        },
+        "-NDoK8p6cfEPeOmfgroR": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:07.721908Z"
+        },
+        "-NDoKegU-WCirBdGfUQR": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:22.337127Z"
+        },
+        "-NDoLEPL92LHKZc_XJ2s": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:52.728679Z"
+        },
+        "-NDoLo71fWKP288bFdTv": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:30:23.108032Z"
+        },
+        "-NDoMDKS7SFuvbJmQFsQ": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:10.463500Z"
+        },
+        "-NDoMn1WLbPBGjz5Z7v4": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:40.803585Z"
+        },
+        "-NDoNGdsKHb2Bkt7OfF5": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:36:46.202494Z"
+        },
+        "-NDoNhjlt4Z-f2gVL1w1": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:41.267311Z"
+        },
+        "-NDoO2lPoCCsgyP-sxJk": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:40:11.484306Z"
+        },
+        "-NDoOVL7clDhpoRoqDRt": {
+          "body": "Round 16",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:42:08.522499Z"
+        }
+      },
+      "name": "Friends?",
+      "participants": [
+        "Uniform",
+        "Quebec"
+      ]
+    },
+    "-NDoHY_9LOb-zmbzhlM_": {
+      "conversationId": "-NDoHY_9LOb-zmbzhlM_",
+      "messages": {
+        "-NDoHaGMBYoVAJ6uZs0r": {
+          "body": "Can I be your friend?",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:11:58.022Z"
+        },
+        "-NDoHeUaXcgcjh3P_YBC": {
+          "body": "Sending you 6",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:12:14.935Z"
+        },
+        "-NDoHhP5QKStGhpjotzM": {
+          "body": "thanks!",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:12:27.222Z"
+        },
+        "-NDoHiW4vy4bdRPzvzBf": {
+          "body": "I will aswell",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:12:31.788Z"
+        },
+        "-NDoHnv1dzHn3TBY5QeL": {
+          "body": "Round 2",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:12:53.700663Z"
+        },
+        "-NDoILZGx7fQPVtfYVY5": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:15.603683Z"
+        },
+        "-NDoIjyJw0U_1p4SE6Dm": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:59.670316Z"
+        },
+        "-NDoJGLRjOM_PL1HowFx": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:16.382088Z"
+        },
+        "-NDoJfa3a1jKfmYn4Pe4": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:21:03.878108Z"
+        },
+        "-NDoK8pBEKbJXaY1LUOY": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:07.726459Z"
+        },
+        "-NDoKegYTCuooUJDNpD-": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:22.341908Z"
+        },
+        "-NDoLEPQLqk9O610L6ix": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:52.733546Z"
+        },
+        "-NDoLo75H2M_khcnl2V0": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:30:23.112704Z"
+        },
+        "-NDoMDKW4exxYtFFaj1s": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:10.467359Z"
+        },
+        "-NDoMn1bGQ18o_b9s7PK": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:40.809583Z"
+        },
+        "-NDoNGdxeOnQSaFubNbr": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:36:46.207558Z"
+        },
+        "-NDoNhjpTa46MrNdOo4h": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:41.271882Z"
+        },
+        "-NDoO2lUFb-Uh6v76cnN": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:40:11.489629Z"
+        },
+        "-NDoOVLDJ7nXAvlXt5Mq": {
+          "body": "Round 16",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:42:08.528365Z"
+        }
+      },
+      "name": "friend?",
+      "participants": [
+        "Zulu",
+        "Quebec"
+      ]
+    },
+    "-NDoHefLBDpedVPFdBzW": {
+      "conversationId": "-NDoHefLBDpedVPFdBzW",
+      "messages": {
+        "-NDoHlUaWIB8FJItP2Ih": {
+          "body": "can I be your friend?",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:12:43.981Z"
+        },
+        "-NDoHnv6X9KmXmrQ2HyK": {
+          "body": "Round 2",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:12:53.706039Z"
+        },
+        "-NDoILZLLbXY30mBYP_h": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:15.608154Z"
+        },
+        "-NDoIjyNK-zUcB1mxLx4": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:59.674097Z"
+        },
+        "-NDoJGLYolO8L_m8zxr3": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:16.389491Z"
+        },
+        "-NDoJfa6J861IN9iCcYA": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:21:03.881915Z"
+        },
+        "-NDoK8pGKCrVbIq-UBwM": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:07.731360Z"
+        },
+        "-NDoKegcdqJtzVG-QuRk": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:22.346299Z"
+        },
+        "-NDoLEPVKdG73P87I_h1": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:52.738123Z"
+        },
+        "-NDoLo7A8I2bZaN1DnM0": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:30:23.117149Z"
+        },
+        "-NDoMDK_fFFoF6TIBtPu": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:10.471152Z"
+        },
+        "-NDoMn1fSuokAmlg1Xeq": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:40.813848Z"
+        },
+        "-NDoNGe1rhYt1Q3-poLF": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:36:46.212615Z"
+        },
+        "-NDoNhjuatsh_KuCruZb": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:41.275996Z"
+        },
+        "-NDoO2lYShJ7uR503I2n": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:40:11.493898Z"
+        },
+        "-NDoOVLHrzb7OtL1KD5f": {
+          "body": "Round 16",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:42:08.532829Z"
+        }
+      },
+      "name": "friend",
+      "participants": [
+        "Zulu",
+        "Foxtrot"
+      ]
+    },
+    "-NDoHmBtzJyOKOblw1oQ": {
+      "conversationId": "-NDoHmBtzJyOKOblw1oQ",
+      "messages": {
+        "-NDoHnvDfN3pWOlhpjJs": {
+          "body": "Round 2",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:12:53.712429Z"
+        },
+        "-NDoIAeQpYybn9RPoyxc": {
+          "body": "Thanks. VICIFORM?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:14:30.004Z"
+        },
+        "-NDoIDmhtIL_vjaRe9TL": {
+          "body": "Uniform + Victor = VICIFORM",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:14:43.080Z"
+        },
+        "-NDoILZPHVGk4fjy9Jol": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:15.612023Z"
+        },
+        "-NDoIjyRaYDmCbBP4wY_": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:59.677984Z"
+        },
+        "-NDoJGLbjFB9CAKYF89S": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:16.393632Z"
+        },
+        "-NDoJfaCKG5T90Rbtn_i": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:21:03.887076Z"
+        },
+        "-NDoK8pLYBThMvyerKEI": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:07.736431Z"
+        },
+        "-NDoKeghAhguMW31Z_pY": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:22.351254Z"
+        },
+        "-NDoLEPZ61nhQgTfX0wW": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:52.742469Z"
+        },
+        "-NDoLo7F__oLtSw2f9mN": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:30:23.122288Z"
+        },
+        "-NDoMDKeFQe-BJtPt37G": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:10.476227Z"
+        },
+        "-NDoMn1kQhXQ7TACZ24C": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:40.818185Z"
+        },
+        "-NDoNGe8_qln_n_UWnyI": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:36:46.219306Z"
+        },
+        "-NDoNhjys-3ezxRC5xwB": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:41.280512Z"
+        },
+        "-NDoO2lbaylmEdteWSIH": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:40:11.497781Z"
+        },
+        "-NDoOVLMl5vcyAGUSsWi": {
+          "body": "Round 16",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:42:08.537506Z"
+        }
+      },
+      "name": "VICIFORM",
+      "participants": [
+        "Uniform",
+        "Victor"
+      ]
+    },
+    "-NDoHn5gvakDm-swi5YG": {
+      "conversationId": "-NDoHn5gvakDm-swi5YG",
+      "messages": {
+        "-NDoHnvJZO2WQN9wDf-F": {
+          "body": "Round 2",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:12:53.718598Z"
+        },
+        "-NDoHr9j_lXN44Bh_DXV": {
+          "body": "I think we should work together",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:13:06.836Z"
+        },
+        "-NDoHsHc4z-hOslyh2In": {
+          "body": "I'm down",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:13:10.861Z"
+        },
+        "-NDoHuUTWHuLRDskdjmT": {
+          "body": "8 each?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:13:20.449Z"
+        },
+        "-NDoHvEuIh_jBKrwlA5m": {
+          "body": "Great!",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:13:23.933Z"
+        },
+        "-NDoHwNdb8Ck9Z38IWFU": {
+          "body": "Yeah im doing it",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:13:27.642Z"
+        },
+        "-NDoHy33_KSe2J1aU3hN": {
+          "body": "Sent",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:13:35.094Z"
+        },
+        "-NDoHzBOZpWYfXnp_itA": {
+          "body": "sent as well",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:13:40.093Z"
+        },
+        "-NDoI3EDzOtdyCDi9QPB": {
+          "body": "Should we pick up delta or stick with us three?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:14:00.375Z"
+        },
+        "-NDoI5oBu31GXEc-Y09j": {
+          "body": "yeah",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:14:11.309Z"
+        },
+        "-NDoI6-tzsDFgchcgkpi": {
+          "body": "!",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:14:12.160Z"
+        },
+        "-NDoI6Y_8OsRJoExwtGV": {
+          "body": "of course",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:14:14.349Z"
+        },
+        "-NDoI6csGiigjTc4LtYR": {
+          "body": "I'm fine with whatever!",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:14:13.727Z"
+        },
+        "-NDoI8YeXXKwPBC1EGxX": {
+          "body": "I asked delta to be friend as well",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:14:22.541Z"
+        },
+        "-NDoILZTZKeWaF84DTCo": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:15.616308Z"
+        },
+        "-NDoIjyV-ZkcT10-Blvq": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:59.682157Z"
+        },
+        "-NDoJGLgUuwl235y5Hn9": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:16.398441Z"
+        },
+        "-NDoJfaG4fA2Wcxy5PXI": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:21:03.891666Z"
+        },
+        "-NDoK8pQ5Ec3fdcKs71Q": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:07.741599Z"
+        },
+        "-NDoKegnF-Gln_ISg_xk": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:22.357255Z"
+        },
+        "-NDoLEPcll8yU29S75Qn": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:52.746803Z"
+        },
+        "-NDoLo7JO4DMtdfQ8XyV": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:30:23.126596Z"
+        },
+        "-NDoMDKi2dQm5SC5eLpo": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:10.480156Z"
+        },
+        "-NDoMn1pizJDJZzkuD_d": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:40.823381Z"
+        },
+        "-NDoNGeCgwv3FSahi9KE": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:36:46.223826Z"
+        },
+        "-NDoNhk10aqx52R-K2Ur": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:41.284711Z"
+        },
+        "-NDoO2lfU7v4_BkkmoRR": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:40:11.501632Z"
+        },
+        "-NDoOVLQS1swGE1JkfU2": {
+          "body": "Round 16",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:42:08.541598Z"
+        }
+      },
+      "name": "Group?",
+      "participants": [
+        "Quebec",
+        "Uniform",
+        "Zulu"
+      ]
+    },
+    "-NDoHr4UfwRVLcDO7wXj": {
+      "conversationId": "-NDoHr4UfwRVLcDO7wXj",
+      "messages": {
+        "-NDoHtWU6OolNVXnwbVC": {
+          "body": "Can I be your firend?",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:13:16.878Z"
+        },
+        "-NDoHubG5O0K7cOR9yyp": {
+          "body": "sure",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:13:21.972Z"
+        },
+        "-NDoILZXU_Q8DL6sksAb": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:15.619982Z"
+        },
+        "-NDoIjyZDZ2V1Ze3TmzH": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:59.686964Z"
+        },
+        "-NDoJGLlt0e885zcPSfE": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:16.403419Z"
+        },
+        "-NDoJfaKno01wUDCRWrb": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:21:03.895957Z"
+        },
+        "-NDoK8pVX0puFtLmxrEI": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:07.746875Z"
+        },
+        "-NDoKeguEGM3hrtpAc-R": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:22.364319Z"
+        },
+        "-NDoLEPg7CSdTQQDij8g": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:52.750931Z"
+        },
+        "-NDoLo7NSQNnYQXbCiDc": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:30:23.130807Z"
+        },
+        "-NDoMDKmKZMO0QFsbjMf": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:10.484686Z"
+        },
+        "-NDoMn1u5LZBTgzH_634": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:40.828137Z"
+        },
+        "-NDoNGeHv9CAyUaWj5Qj": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:36:46.228099Z"
+        },
+        "-NDoNhk5Y5BHDWaExwxh": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:41.288359Z"
+        },
+        "-NDoO2ljzN0f0GdcghSX": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:40:11.505814Z"
+        },
+        "-NDoOVLV3OVdez5qf7yc": {
+          "body": "Round 16",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:42:08.546841Z"
+        }
+      },
+      "name": "hello!",
+      "participants": [
+        "Zulu",
+        "Delta"
+      ]
+    },
+    "-NDoI8mWCtH4GSdnDx-2": {
+      "conversationId": "-NDoI8mWCtH4GSdnDx-2",
+      "messages": {
+        "-NDoIL5rfHGX-7W2jthQ": {
+          "body": "I'm giving 6 to y'all",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:13.641Z"
+        },
+        "-NDoILZ_pjHmy6OQnblU": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:15.623787Z"
+        },
+        "-NDoIZnR3FRJOymSQwx9": {
+          "body": "6 back at you X-ray, thanks",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:13.803Z"
+        },
+        "-NDoIbyzQv2L7a7396n7": {
+          "body": "It looks like Lima is friends with Uniform",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:26.865Z"
+        },
+        "-NDoIfD7bkPozkjiO1mB": {
+          "body": "Uniform also gave to me.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:39.200Z"
+        },
+        "-NDoIiXpYo7GnoTTALgE": {
+          "body": "7 to each of you",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:52.870Z"
+        },
+        "-NDoIjyc8P-brDzxy3KN": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:59.690915Z"
+        },
+        "-NDoIl9hjTqWTi9bmjzF": {
+          "body": "Should we include uniform in oru group?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:17:04.483Z"
+        },
+        "-NDoIo9WS2FICtl8kQGd": {
+          "body": "Not sure, seems inconsistent",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:17:15.891Z"
+        },
+        "-NDoIuqLzXKO1ncen9DT": {
+          "body": "Let's adopt someone besides Lima. Way too sketchy.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:17:44.100Z"
+        },
+        "-NDoIzUuXCTk1H0INAtW": {
+          "body": "Who then?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:18:02.266Z"
+        },
+        "-NDoJ-YQzRhz5bpAekWW": {
+          "body": "Quebec",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:18:07.477Z"
+        },
+        "-NDoJ6tqDN5m7jAEZl9z": {
+          "body": "I think Delta. Quebec is too connected to Uniform and Zulu.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:18:36.693Z"
+        },
+        "-NDoJAEou8-b_wbQpuHa": {
+          "body": "Yes, I was going to say the same.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:18:51.273Z"
+        },
+        "-NDoJC3Za87OKuLcH4Kc": {
+          "body": "Changed.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:18:58.749Z"
+        },
+        "-NDoJDyA-PekUqaEwyoz": {
+          "body": "They kinda have a group with the four of them",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:06.554Z"
+        },
+        "-NDoJGLqPAmNKtjTapZ_": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:16.408199Z"
+        },
+        "-NDoJKqgSyHoaymJ74LT": {
+          "body": "Lima has been left out of that group. Is that punishment enough? Should we adopt Lima back?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:34.709Z"
+        },
+        "-NDoJPBT4o8-YVlj11j4": {
+          "body": "Maybe. They have been giving 4 the last few rounds.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:51.609Z"
+        },
+        "-NDoJS6PgM8hRVUxMVl4": {
+          "body": "Adopt Lima as a lesser member",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:20:04.457Z"
+        },
+        "-NDoJToNlIre8GcH4x-m": {
+          "body": "I think so, if we lose lima they have the majority",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:20:11.461Z"
+        },
+        "-NDoJfaPa0ZRIPgc9DOx": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:21:03.900059Z"
+        },
+        "-NDoK8paiT8GtsqKst98": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:07.752329Z"
+        },
+        "-NDoKegzOaXqzU7LQYzw": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:22.369620Z"
+        },
+        "-NDoLEPlBqpWWD7srHfy": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:52.755264Z"
+        },
+        "-NDoLo7ScDdE-vL9yltA": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:30:23.135575Z"
+        },
+        "-NDoMDKqJHqavmSVXNyh": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:10.488776Z"
+        },
+        "-NDoMn1ysPJ9ujltFtbI": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:40.832085Z"
+        },
+        "-NDoNGeLFttKoPdw8PAa": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:36:46.232331Z"
+        },
+        "-NDoNhk9Wy39UVsxLie4": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:41.292168Z"
+        },
+        "-NDoO2lnLPkCbPv53C-V": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:40:11.509726Z"
+        },
+        "-NDoOVLa2o5xIHLJ0xQF": {
+          "body": "Round 16",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:42:08.552012Z"
+        }
+      },
+      "name": "Lima is sketch",
+      "participants": [
+        "X-ray",
+        "Foxtrot",
+        "Victor"
+      ]
+    },
+    "-NDoICTTnmwkpNROHsOO": {
+      "conversationId": "-NDoICTTnmwkpNROHsOO",
+      "messages": {
+        "-NDoIFPkXws8JwZb-KHV": {
+          "body": "Hi Delta. We think you should join our group",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:14:50.258Z"
+        },
+        "-NDoIHgeW3uZg3FGohKp": {
+          "body": "sure",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:00.599Z"
+        },
+        "-NDoIIWi4JxzU0VnAmQ0": {
+          "body": "4 each?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:04.014Z"
+        },
+        "-NDoIKndHwGc1zBxfEP5": {
+          "body": "Sounds good",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:10.167Z"
+        },
+        "-NDoIKo5TkZX-vRDhD-x": {
+          "body": "Yeah. NExt round though",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:12.088Z"
+        },
+        "-NDoILZdvt4lENvC7CuF": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:15.627338Z"
+        },
+        "-NDoIOVK7uj_BhGZTR4Y": {
+          "body": "Ran out of time",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:27.478Z"
+        },
+        "-NDoIRSNJgCMuo1NNunn": {
+          "body": "4 each ",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:39.964Z"
+        },
+        "-NDoIRzJeMyjsKjEzcxj": {
+          "body": "?",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:42.140Z"
+        },
+        "-NDoISd6bNila3QVGaFI": {
+          "body": "yee",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:43.899Z"
+        },
+        "-NDoISi77yrNmrdzAxw2": {
+          "body": "or 5? I miss counted",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:45.790Z"
+        },
+        "-NDoIU-7x-QR-Z8aZ_qT": {
+          "body": "Lets do 5 each",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:49.940Z"
+        },
+        "-NDoIXbghmHr7rRmcx8I": {
+          "body": "Hold the last token or should we try to stagger it?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:04.814Z"
+        },
+        "-NDoIcL3ruhfu2O7rRAg": {
+          "body": "I did not give delta last time so I will give the last one to delta",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:28.662Z"
+        },
+        "-NDoId8SQutTVycz0weB": {
+          "body": "I give uniform 7 uniform zulu 7 zulu delta 7 delta me 7?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:31.548Z"
+        },
+        "-NDoIfSJXVbGe5BR7fWV": {
+          "body": "Actually yeah good Idea",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:41.029Z"
+        },
+        "-NDoIhmJqUHSw9_pBtif": {
+          "body": "I'll give my extra to delta",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:50.553Z"
+        },
+        "-NDoIjygTem4u2V4GofA": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:59.694712Z"
+        },
+        "-NDoIr7M71mVDgbD7BnV": {
+          "body": "Nice delta",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:17:28.348Z"
+        },
+        "-NDoIvZUB448ncCS9xFl": {
+          "body": "It looks like two groups of four have emerged",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:17:47.024Z"
+        },
+        "-NDoIw_md8WT9sXHKOyk": {
+          "body": "I think we go 5 5 6 with the 6 to the lowest that isn't yourself to pull up the bottom, thoughts?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:17:52.202Z"
+        },
+        "-NDoJ0tIaCSSvMHeOaBW": {
+          "body": "agree",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:18:13.292Z"
+        },
+        "-NDoJ23In4dyKimEbOZi": {
+          "body": "I think that is a good idea. What if we give the extra to the other team though to try and make us a more stable society",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:18:17.652Z"
+        },
+        "-NDoJ2ECQni3Eb6K-cLX": {
+          "body": "sure",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:18:18.014Z"
+        },
+        "-NDoJ5dezuaNvPNysGoh": {
+          "body": "THoughts?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:18:32.289Z"
+        },
+        "-NDoJ8SyNS7l5Rzu36LF": {
+          "body": "i would rather do that",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:18:43.505Z"
+        },
+        "-NDoJAlVOsArN_r7-qMV": {
+          "body": "I would rather do that as well",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:18:53.756Z"
+        },
+        "-NDoJBjfuasDelNmpZXh": {
+          "body": "K. Next round we will coordinate",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:18:57.198Z"
+        },
+        "-NDoJDFeDUNi2cJHrFQP": {
+          "body": "cool",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:04.581Z"
+        },
+        "-NDoJGLxVPKyVpAA4OSY": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:16.415046Z"
+        },
+        "-NDoJKFp_ylvQzuVXkcg": {
+          "body": "Should we all give to one person or split evenly?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:32.236Z"
+        },
+        "-NDoJPJTL4mGZj2d71fw": {
+          "body": "Should we try to take advantage of Lima being low?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:52.582Z"
+        },
+        "-NDoJQAlBce8jLwuOBOr": {
+          "body": "I got 1 from victor, so Imma reciprocate",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:57.528Z"
+        },
+        "-NDoJWCZ0lATxBPL-rCr": {
+          "body": "I'll send one to xray",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:20:21.175Z"
+        },
+        "-NDoJfaVOu_2hELq765r": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:21:03.906508Z"
+        },
+        "-NDoJjmcgtm_FibWttlI": {
+          "body": "We're all very even now",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:21:20.579Z"
+        },
+        "-NDoJqqMPt9rVnxupqrV": {
+          "body": "It looks like it is a group of three. Lima is not growing with them",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:21:49.809Z"
+        },
+        "-NDoJxq1GH9hAWrECL17": {
+          "body": "but lima is not saving tokens though",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:22:18.838Z"
+        },
+        "-NDoK0Mj2BZj3AtBAIqd": {
+          "body": "Right. They are being taken advantage of",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:22:32.878Z"
+        },
+        "-NDoK4gztuXusAMpd4WA": {
+          "body": "yeah lima is just good at trading",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:22:51.035Z"
+        },
+        "-NDoK6Tx4nLqL1dVIrwP": {
+          "body": "not good at",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:22:58.348Z"
+        },
+        "-NDoK8pedQGsHGy709YC": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:07.756889Z"
+        },
+        "-NDoKCyomciQoGWbes9h": {
+          "body": "I think we should strike x ray",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:24.521Z"
+        },
+        "-NDoKEd8mvJdX6kivGNj": {
+          "body": "They don't have numbers",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:31.361Z"
+        },
+        "-NDoKFXfwPV7g0rLfIrM": {
+          "body": "How much for everyone?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:34.789Z"
+        },
+        "-NDoKH9z9ZSPZY9NF1C7": {
+          "body": "Like we each use everything at him?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:41.474Z"
+        },
+        "-NDoKJ14DFPXzcfEpH6v": {
+          "body": "Throw everything at him",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:49.356Z"
+        },
+        "-NDoKKhqaGdJc7KaMliR": {
+          "body": "okay!",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:56.621Z"
+        },
+        "-NDoKLt0EkgPRW_yQXbi": {
+          "body": "Then we will go back to 5 when they are out",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:24:01.072Z"
+        },
+        "-NDoKMGNakM2aR1zcMfr": {
+          "body": "sounds good",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:24:02.365Z"
+        },
+        "-NDoKOBoG0THCDmTH8ps": {
+          "body": "just x ray?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:24:11.535Z"
+        },
+        "-NDoKPjxmC2BNXJpfT44": {
+          "body": "or when they are all gone?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:24:17.891Z"
+        },
+        "-NDoKQ6VRC8SbS4DCeNr": {
+          "body": "Just x ray yes",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:24:18.398Z"
+        },
+        "-NDoKTZGE7INpRDYpTRA": {
+          "body": "All in on xray and we will talk next round",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:24:32.513Z"
+        },
+        "-NDoKeh3kG0jq3-OP9i2": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:22.374220Z"
+        },
+        "-NDoKhO6omPQKUfVErTo": {
+          "body": "oh my",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:32.992Z"
+        },
+        "-NDoKj2BNpnvIT-bA3ez": {
+          "body": "Awesome",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:40.395Z"
+        },
+        "-NDoKlvHlEaVuFRzJ2vI": {
+          "body": "Okay. I think we all hold this round",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:51.801Z"
+        },
+        "-NDoKn6Qt9PYnGF7G4-k": {
+          "body": "I think I'm gonna keep most of my tokens yeah",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:56.473Z"
+        },
+        "-NDoKnNIW4CcEknFPrBO": {
+          "body": "What are your thoughts",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:57.782Z"
+        },
+        "-NDoKpgderpfNQFaLYw6": {
+          "body": "They are gonna attack us",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:26:07.628Z"
+        },
+        "-NDoKqIZOP0LdHUlUcwT": {
+          "body": "defenetly",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:26:10.123Z"
+        },
+        "-NDoKrI_HtdNCqD0pOr-": {
+          "body": "we should keep fighting",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:26:14.219Z"
+        },
+        "-NDoKvFLlPRrVG7JMEhg": {
+          "body": "they have so little power we probably could pick them all off",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:26:29.803Z"
+        },
+        "-NDoKvaHXVALMMqFUl2F": {
+          "body": "Holding will block the attack. But we do have the numbers to crush them",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:26:31.423Z"
+        },
+        "-NDoKxIZOVveSernBwIy": {
+          "body": "okay",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:26:38.796Z"
+        },
+        "-NDoKxWqDJivS-mMMwKt": {
+          "body": "Lets just go for victor",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:26:39.361Z"
+        },
+        "-NDoKyIaL7PkhS0XFqNa": {
+          "body": "hold this round?",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:26:42.892Z"
+        },
+        "-NDoKz0qXz7WgBAXRNQu": {
+          "body": "all in on victor",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:26:45.481Z"
+        },
+        "-NDoL01ok4GUplF4f12T": {
+          "body": "okay!",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:26:54.107Z"
+        },
+        "-NDoL0NiaDsT9dqocWH_": {
+          "body": "best to attack not keep",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:26:56.156Z"
+        },
+        "-NDoL0PEhCazc3XHFBVY": {
+          "body": "No. We can crush them",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:26:55.250Z"
+        },
+        "-NDoL3IMQvNfA9HDItux": {
+          "body": "We will build whoever is hit as retribution",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:07.069Z"
+        },
+        "-NDoL5_8PX1_S5sa6Egr": {
+          "body": "sounds good",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:16.251Z"
+        },
+        "-NDoLEPpJ2KqZc6Uzu7-": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:52.759924Z"
+        },
+        "-NDoLIEYO4OeFrWlidLK": {
+          "body": "delta you didn't attack?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:28:08.147Z"
+        },
+        "-NDoLKfDWSmQ7b6Sxm3h": {
+          "body": "Did foxtrot attack anyone?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:28:18.211Z"
+        },
+        "-NDoLOQ_L871ou1P8sLY": {
+          "body": "nobe",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:28:33.963Z"
+        },
+        "-NDoLPZPf94iC6EA8FbP": {
+          "body": "I hit foxtrot cause of the poverty line mechanics, don't wanna overkill",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:28:39.286Z"
+        },
+        "-NDoLR-Vxy0EYEwVXblY": {
+          "body": "oh ok",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:28:44.035Z"
+        },
+        "-NDoLW3fF9i6oQY-DH7K": {
+          "body": "is foxtrot next?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:29:04.826Z"
+        },
+        "-NDoLWfGSKUj4Sx0Isct": {
+          "body": "Okay. Let's hit him next then? Do we mess with Lima?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:29:07.367Z"
+        },
+        "-NDoLZACI-OBzeT3yNev": {
+          "body": "I feel like we leave lima personally but",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:29:17.538Z"
+        },
+        "-NDoLZRQhmAf5qsd3tVe": {
+          "body": "idk",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:29:18.682Z"
+        },
+        "-NDoL_4qe20xtgvRdPyZ": {
+          "body": "but they all are saving tokens we should all hit them to take them down completely",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:29:21.755Z"
+        },
+        "-NDoLaP8gfiienXt_OYc": {
+          "body": "I think foxtrot kept, so all in on them?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:29:27.782Z"
+        },
+        "-NDoLaQe63nQM0TMTw56": {
+          "body": "We can let them know we won't bother them if they stay out",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:29:26.897Z"
+        },
+        "-NDoLcV66A9XI8FiRmvj": {
+          "body": "yeah",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:29:35.723Z"
+        },
+        "-NDoLcymxXV33x_db8Xg": {
+          "body": "all in yeah",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:29:37.330Z"
+        },
+        "-NDoLo7XmEcC9FL0RbX_": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:30:23.140598Z"
+        },
+        "-NDoLuT5X7goRC6NH8_W": {
+          "body": "Okay now we are dominant, Xray is keep attacking us",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:30:49.317Z"
+        },
+        "-NDoLwRW7pnRGI_rYEBI": {
+          "body": "yeah x-ray tried to steal from me",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:30:56.985Z"
+        },
+        "-NDoLxY2oFz71UWNC6gI": {
+          "body": "so we should completely take him down?",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:31:01.930Z"
+        },
+        "-NDoLynZdwm6Ukn4gWob": {
+          "body": "we can't anymore right?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:31:06.672Z"
+        },
+        "-NDoM-C2_UGFWd2Rx5iX": {
+          "body": "because of poverty mechanics?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:31:12.414Z"
+        },
+        "-NDoM0D-ylbQN1WdfARM": {
+          "body": "Lets just go back to giving eachother 5",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:31:16.568Z"
+        },
+        "-NDoM1SpoLf0RvJnPPI-": {
+          "body": "okay!",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:31:22.075Z"
+        },
+        "-NDoM3sTQ7xSr9l6_Aq7": {
+          "body": "we can't fully kill people, the poverty line will keep them alive and lower the benefit to us",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:31:32.605Z"
+        },
+        "-NDoM7_tigH6dHkN2k5N": {
+          "body": "Okay!",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:31:47.178Z"
+        },
+        "-NDoM9yW6AAZgUtXlya7": {
+          "body": "Hold your extra token",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:31:56.544Z"
+        },
+        "-NDoMDKuwuXAx-KK3Xxx": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:10.492850Z"
+        },
+        "-NDoMIN2vehDxJG8zI_m": {
+          "body": "Great job everyone!",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:30.956Z"
+        },
+        "-NDoMKhTPb3huAVyUVpZ": {
+          "body": "we won!",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:40.891Z"
+        },
+        "-NDoMLoWcPkRG-3LLz9w": {
+          "body": "yeeeeee",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:45.084Z"
+        },
+        "-NDoMMOH2tz7E04mw5aH": {
+          "body": "And no one died!",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:47.429Z"
+        },
+        "-NDoMXBCgzeJ6J3ziJR1": {
+          "body": "Its weird they didn't seem to fight back",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:33:32.663Z"
+        },
+        "-NDoMaTsho0f0-CHupcP": {
+          "body": "also, xray and victor both hit me for -16 and lima for -1",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:33:50.244Z"
+        },
+        "-NDoMcJs8D5CAH-_7viT": {
+          "body": "I agree. I was expecting more resistance but maybe they caught on too late",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:33:56.745Z"
+        },
+        "-NDoMgbFQjfM88Rw-Yh9": {
+          "body": "yeah its possible they weren't very coordinated",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:14.324Z"
+        },
+        "-NDoMjKP-tXH_Ozt6gfU": {
+          "body": "Lets keep giving as we are and we can adjust it if you keep losing popularity",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:25.483Z"
+        },
+        "-NDoMkUVSiy-ar40rkqC": {
+          "body": "yeah either way, 5 5 5 keep 1 seems goot",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:31.233Z"
+        },
+        "-NDoMlFrSSSp0KQ_IExo": {
+          "body": "*good",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:34.348Z"
+        },
+        "-NDoMn2032W0DpWuyGMH": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:40.835948Z"
+        },
+        "-NDoMvjoailKIuxLIH2V": {
+          "body": "I vote we just kill them. They are dropping us a bit",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:35:16.275Z"
+        },
+        "-NDoN-4x4qshtg4qaBAF": {
+          "body": "oh wait foxtrot is dead",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:35:34.104Z"
+        },
+        "-NDoN-MIWWyvVXD8GfoO": {
+          "body": "Lets do 4 to eachother and 4 to Xray",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:35:35.247Z"
+        },
+        "-NDoN0cSJ-TBSMdUb1oF": {
+          "body": "we can't, they'll keep falling as we get bigger but the poverty makes it hard",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:35:41.438Z"
+        },
+        "-NDoN2YwYg7PSZ7K7ynW": {
+          "body": "Oh okay",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:35:48.326Z"
+        },
+        "-NDoN2YwYg7PSZ7K7ynX": {
+          "body": "to kill people",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:35:49.364Z"
+        },
+        "-NDoN41Xd6jHwnPUEqTy": {
+          "body": "I will",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:35:54.763Z"
+        },
+        "-NDoN46Yj1AOzTtouRxN": {
+          "body": "5's it is",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:35:54.719Z"
+        },
+        "-NDoN7vkbUHp6_WDJP0o": {
+          "body": "also, quebec, what about xray?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:36:11.367Z"
+        },
+        "-NDoNC6Q7wS45eS8-Ey1": {
+          "body": "I was going to say to attack them but I guess we can't do anything about the poverty line",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:36:27.439Z"
+        },
+        "-NDoNGeQGoVjc88-7PQk": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:36:46.237049Z"
+        },
+        "-NDoNLK27H8V6Nl4-SQ5": {
+          "body": "I attacked x-ray",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:37:05.572Z"
+        },
+        "-NDoNLSq59bwLuRrRfan": {
+          "body": "yeah none of them are getting out of poverty",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:37:05.767Z"
+        },
+        "-NDoNOF75MpQhrR32fw3": {
+          "body": "Did they drop because of it Zulu?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:37:17.147Z"
+        },
+        "-NDoNR5Hv-csnGbRKADA": {
+          "body": "looks like it",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:37:28.847Z"
+        },
+        "-NDoNRzV9eqxepO9COhP": {
+          "body": "yeah",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:37:32.881Z"
+        },
+        "-NDoNWcehkugqzA1MuKY": {
+          "body": "Maybe the poverty line isn't working as intended",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:37:51.501Z"
+        },
+        "-NDoNY3oYczwNOOeMWnm": {
+          "body": "interesting, we might need to agdjust the poverty a bit",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:37:58.421Z"
+        },
+        "-NDoNYFgxx-70QSxd900": {
+          "body": "Sending you each 5",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:37:58.182Z"
+        },
+        "-NDoNbAPiGeoEVrNOsXd": {
+          "body": "that means we could kill them all?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:14.236Z"
+        },
+        "-NDoNbyN0smjmKYNcNOt": {
+          "body": "i am sending 5 to each as well",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:17.845Z"
+        },
+        "-NDoNdLWC8ZG6RFAMGEX": {
+          "body": "I'd expect the continual fall from us growing but attacking shouldn't work...",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:24.133Z"
+        },
+        "-NDoNe7hz4SXoK2vxWyF": {
+          "body": "I think so? But lets just keep going as is",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:26.325Z"
+        },
+        "-NDoNgs-H7tGrl6P9-pe": {
+          "body": "ok sounds good",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:37.551Z"
+        },
+        "-NDoNhkDHkHQr7ECTq2G": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:41.296303Z"
+        },
+        "-NDoNsDvO4cEmLWtYbLQ": {
+          "body": "sending 5",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:39:24.015Z"
+        },
+        "-NDoNtE9wHrZrHqZ8R-a": {
+          "body": "I think we can igoner them from now on. There are huge gaps unless one of us help them to grow",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:39:28.539Z"
+        },
+        "-NDoO2ls92Gjve2ujj7y": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:40:11.514013Z"
+        },
+        "-NDoODcvMpxYZgH4QIGW": {
+          "body": "5 each?",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:40:56.218Z"
+        },
+        "-NDoOElcp0wkYYDYYcCd": {
+          "body": "Yeah",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:41:00.462Z"
+        },
+        "-NDoOFZmNMbGvAp2PewS": {
+          "body": "yep",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:41:04.803Z"
+        },
+        "-NDoOFpdbkRDsBX7OvH7": {
+          "body": "you know it :)",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:41:04.892Z"
+        },
+        "-NDoOH5KVZWU4qPf-zKn": {
+          "body": "I'm content. We already won haha",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:41:09.989Z"
+        },
+        "-NDoOL4ahDsJnprVldQ4": {
+          "body": "yeah this was very successful",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:41:26.364Z"
+        },
+        "-NDoOUhQpQaEevvwtzx7": {
+          "body": "I will give 1 token to foxtrot to see how they would react on the new member of them. So do not surprise by that",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:42:06.148Z"
+        },
+        "-NDoOVLeTaYfn_t55oSh": {
+          "body": "Round 16",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:42:08.556903Z"
+        },
+        "-NDoOZb_0VBqP_MjdY3Q": {
+          "body": "Good game!",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:42:25.863Z"
+        }
+      },
+      "name": "Friends",
+      "participants": [
+        "Quebec",
+        "Delta",
+        "Uniform",
+        "Zulu"
+      ]
+    },
+    "-NDoLexqSJ7TzEXyuJWb": {
+      "conversationId": "-NDoLexqSJ7TzEXyuJWb",
+      "messages": {
+        "-NDoLheorpGJfnP85pco": {
+          "body": "If you stay out of this you can join our group",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:29:56.518Z"
+        },
+        "-NDoLo7d5PVe6ENG_eyC": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:30:23.147572Z"
+        },
+        "-NDoMDKzpxVq_KNQTMzh": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:10.497603Z"
+        },
+        "-NDoMn24JdDVNid56cF1": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:40.839937Z"
+        },
+        "-NDoNGeUsAMzQVpiN_K0": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:36:46.241426Z"
+        },
+        "-NDoNhkIuaziAX3TlySF": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:41.301055Z"
+        },
+        "-NDoO2lvkQ3pahTYv8aC": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:40:11.517775Z"
+        },
+        "-NDoOVLk7vsY7b4c7lJa": {
+          "body": "Round 16",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:42:08.562169Z"
+        }
+      },
+      "name": "peace",
+      "participants": [
+        "Quebec",
+        "Lima"
+      ]
+    },
+    "-NDoMApXjo7cC41nj5DU": {
+      "conversationId": "-NDoMApXjo7cC41nj5DU",
+      "messages": {
+        "-NDoMDL3VyuRMAoURtdE": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:10.501980Z"
+        },
+        "-NDoMFU9nZs7jq761fhB": {
+          "body": "hey we're at the top of our group",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:19.143Z"
+        },
+        "-NDoMIkah7brwC7-eIxT": {
+          "body": "can we make a pact that we will tell each other if the other members are gonna turn?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:32.533Z"
+        },
+        "-NDoMTL_T8hE3nryTI8d": {
+          "body": "okay",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:33:16.298Z"
+        },
+        "-NDoMTYLNJBGXnSXw9jC": {
+          "body": "!",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:33:17.147Z"
+        },
+        "-NDoMVHHm3oES1-6ivkv": {
+          "body": "sounds good to me",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:33:24.217Z"
+        },
+        "-NDoMn28wFzHkCM7y7iq": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:40.843759Z"
+        },
+        "-NDoNGeYBEtrPTGgrfqP": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:36:46.245835Z"
+        },
+        "-NDoNhkMiokkqj6TSOEU": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:41.305250Z"
+        },
+        "-NDoO2lzE_pI5M25QA9m": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:40:11.521918Z"
+        },
+        "-NDoOVLouowRhH6bReu_": {
+          "body": "Round 16",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:42:08.566707Z"
+        }
+      },
+      "name": "scared?",
+      "participants": [
+        "Uniform",
+        "Zulu"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-NDoHSb5Qz66MFOCDVGn": {
+          "body": "Pretty quiet out there. Anyone looking for a friend",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:11:22.170Z"
+        },
+        "-NDoHnumctHGN_mz7F-d": {
+          "body": "Round 2",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:12:53.684569Z"
+        },
+        "-NDoILZ3v9DytSqd_itG": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:15:15.590585Z"
+        },
+        "-NDoIjy7DpSyXPiO94n7": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:16:59.658305Z"
+        },
+        "-NDoJGLDmSl7nxAGwPOY": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:19:16.368290Z"
+        },
+        "-NDoJf_rkwWiiDLk6Nxh": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:21:03.865013Z"
+        },
+        "-NDoK8oxv-PvblinPNIK": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:23:07.710968Z"
+        },
+        "-NDoKegKsKwyS6sJYsLI": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:25:22.327208Z"
+        },
+        "-NDoLEPCYdd-MamxydVr": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:27:52.719541Z"
+        },
+        "-NDoLo6sePJRJ5_FTKx8": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:30:23.098510Z"
+        },
+        "-NDoMDKDXnMGANjlf8w8": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:32:10.448315Z"
+        },
+        "-NDoMn1NwLBMabG73MAG": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:34:40.794132Z"
+        },
+        "-NDoNGdijwUOLthVbUUc": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:36:46.192714Z"
+        },
+        "-NDoNenrc9MMkOepWTui": {
+          "body": "Could you leave our little continent alone? Just for a few rounds...",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:28.278Z"
+        },
+        "-NDoNhGSa4s1YqAGKvZ5": {
+          "body": "We get it, you're big and mighty.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:38.401Z"
+        },
+        "-NDoNhjVe_KTN20AIYZG": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:38:41.250944Z"
+        },
+        "-NDoO2lF8ybseS4Oqi2L": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:40:11.474500Z"
+        },
+        "-NDoOVKyvtuSsnk8iBfA": {
+          "body": "Round 16",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-07T21:42:08.512137Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

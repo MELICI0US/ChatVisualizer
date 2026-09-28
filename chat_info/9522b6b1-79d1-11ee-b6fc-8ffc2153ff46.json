@@ -1,0 +1,4077 @@
+{
+  "conversations": {
+    "-NiHD-FR2vcXLBXGFxy6": {
+      "conversationId": "-NiHD-FR2vcXLBXGFxy6",
+      "messages": {
+        "-NiHD1pQKLSkkjwGsBLt": {
+          "body": "You wanna win with me?",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:47:17.084359Z"
+        },
+        "-NiHD40G0xr3IaKp6ZJk": {
+          "body": "I know the strat",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:47:26.034409Z"
+        },
+        "-NiHD6c9J42M6Efrn-mR": {
+          "body": "absolutely",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:47:36.715784Z"
+        },
+        "-NiHD85otGA_oDnbepgy": {
+          "body": "twll mw",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:47:42.774069Z"
+        },
+        "-NiHDD8dNE9uNSWcAxwO": {
+          "body": "Every round, attack the lowest person (unless its me) with half your tokens, keep the rest to protect",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:48:03.435060Z"
+        },
+        "-NiHDIiISpr_fpQyBbVJ": {
+          "body": "maybe give a couple to someone early, but later on just protect",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:48:26.260659Z"
+        },
+        "-NiHDKLqYrTCEZ7mgFpi": {
+          "body": "ooo thats beast",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:48:32.952043Z"
+        },
+        "-NiHDOfTjP2pykT3Xb1f": {
+          "body": "give me five i give you five to start out strong keep the rest",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:48:50.656317Z"
+        },
+        "-NiHDQqVo0ggcBjI4-06": {
+          "body": "Lets give each other 4 now then put 6 into someone else",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:48:59.553816Z"
+        },
+        "-NiHDSS7SH3e6dP7RpF5": {
+          "body": "yeah 5, sounds good",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:49:06.122203Z"
+        },
+        "-NiHDSmiuN1Dn_9QaFKP": {
+          "body": "ok papa",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:49:07.503497Z"
+        },
+        "-NiHDWIm2Gyjj7nBsvTd": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:49:21.907521Z"
+        },
+        "-NiHDddGyHbnl6GWWO5e": {
+          "body": "im giving you 4 and papa attacked with 5",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:49:56.051165Z"
+        },
+        "-NiHDhBVL0Cv2PyihSh_": {
+          "body": "kk",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:50:10.594016Z"
+        },
+        "-NiHDmJ9XfPqABZSXMse": {
+          "body": "Just trade a low number with eachother and attack the low guy, we already are in the lead lol",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:50:31.564187Z"
+        },
+        "-NiHDnFDhej00H4JLruq": {
+          "body": "wait if we both attack the same person then it wont be as successful",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:50:35.407779Z"
+        },
+        "-NiHDvccNjk0Bu3iCJW8": {
+          "body": "oh really?",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:51:09.737672Z"
+        },
+        "-NiHDwkqxqC5-nauqP2G": {
+          "body": "trade 3 with me and give somehting to someone else that gave you something last round",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:51:14.360006Z"
+        },
+        "-NiHDwljzoccIjLJAEya": {
+          "body": "I'll do delta then",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:51:14.417098Z"
+        },
+        "-NiHE3iNuoOJdmix3UZC": {
+          "body": "sweet deal",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:51:46.970149Z"
+        },
+        "-NiHE5-U53VZBazFAR1q": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:51:52.224553Z"
+        },
+        "-NiHE8slwLk1vi46AR2c": {
+          "body": "you had zero net gain, what happened",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:52:08.114676Z"
+        },
+        "-NiHEEqH7aio_osOAKVx": {
+          "body": "I shouldn't have traded with anyone else.. I'm only trading with you and attacking low",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:52:32.531559Z"
+        },
+        "-NiHEKmu33pRVFNpG8ke": {
+          "body": "ok I had zero percent attack on papa, he kept everything",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:52:56.891634Z"
+        },
+        "-NiHENPmHyumOnLLt_e5": {
+          "body": "Delta kept everything too",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:53:07.635924Z"
+        },
+        "-NiHEP7bjitkeenL8cJh": {
+          "body": "I'm going to attack fox",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:53:14.664712Z"
+        },
+        "-NiHEQTy3RNBSbE0Wi3y": {
+          "body": "im trading five with you, itll boost you up bc im first",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:53:20.191847Z"
+        },
+        "-NiHEV8I2pOG5FSKIfWI": {
+          "body": "dope",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:53:39.284495Z"
+        },
+        "-NiHEdkn09RSY7KUvKmA": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:54:18.676918Z"
+        },
+        "-NiHEjwhxt3pyBkXSgzn": {
+          "body": "my attacks are failing.. everyone is keeping",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:54:44.014429Z"
+        },
+        "-NiHEnBwSlhFTZQMj-U1": {
+          "body": "I wonder if we just trade with eachother we could get higher that way?",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:54:57.342215Z"
+        },
+        "-NiHEoHeDzBXP2NvtUuk": {
+          "body": "yeah just trade lots with me and keep everyhting else",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:55:01.804084Z"
+        },
+        "-NiHEs-hSS_N4yWqegjv": {
+          "body": "I'm trading 10",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:55:17.038679Z"
+        },
+        "-NiHEwIZuoRY1qnCR91l": {
+          "body": "ok, maybe do 8 and keep the rest",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:55:34.629386Z"
+        },
+        "-NiHEyKK1vKx816FKOhP": {
+          "body": "genius",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:55:42.934482Z"
+        },
+        "-NiHF2fjPucg_lgzu8JG": {
+          "body": "they are probabaly gonna gang up ina a chat to attack me soon",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:56:04.848557Z"
+        },
+        "-NiHF4EhIcr5jEEvaNw7": {
+          "body": "I'm not scared of getting attacked, seems everyone is keeping",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:56:11.246866Z"
+        },
+        "-NiHF5_1GRPMlKy1Oz4l": {
+          "body": "true",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:56:16.707921Z"
+        },
+        "-NiHF9QmIK7j0Gnf_afe": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:56:32.500144Z"
+        },
+        "-NiHFD_dY14XKjt8hv22": {
+          "body": "did you get attacked?",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:56:49.515137Z"
+        },
+        "-NiHFLYVGQqf-k1ihbdy": {
+          "body": "I got put into a chat with alpha dekts romeo and papa but never rsponded to them and they all just attacked me",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:57:22.146113Z"
+        },
+        "-NiHFNgErjeNxbKn7u1l": {
+          "body": "whaaat",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:57:30.896934Z"
+        },
+        "-NiHFPiN-cHLFAszFYbP": {
+          "body": "dude lets get alpha in a chat",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:57:39.226285Z"
+        },
+        "-NiHFPp5SeK-_ODz9WZn": {
+          "body": "I just took a huge hit",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:57:39.655562Z"
+        },
+        "-NiHFQs_AVLl1U02itlw": {
+          "body": "kk",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:57:43.974414Z"
+        },
+        "-NiHFRPr_l0dOSubynqt": {
+          "body": "make it",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:57:46.168881Z"
+        },
+        "-NiHFSMbuDEfSfXWhZE0": {
+          "body": "keep trading with me",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:57:50.057281Z"
+        },
+        "-NiHFTC9zPKB9THeeStW": {
+          "body": "Im giving 6",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:57:53.484003Z"
+        },
+        "-NiHFUGxnolCiuUjLGzR": {
+          "body": "kk",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:57:57.886330Z"
+        },
+        "-NiHFiClY5VQAtCZR-FU": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:58:59.058815Z"
+        },
+        "-NiHFojsOLajrlufIhm8": {
+          "body": "ok we got it just pull through doing the same thing",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:59:25.817843Z"
+        },
+        "-NiHFueMdPXCxESsZFP2": {
+          "body": "trade 6",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:59:50.040466Z"
+        },
+        "-NiHGCQadxHodK4XBAzQ": {
+          "body": "bro alpha bouta take from both of us",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:01:06.919546Z"
+        },
+        "-NiHGF2Ra-9qYKOL-iVx": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:01:17.662313Z"
+        },
+        "-NiHGP3_s3ONj_ihS4KJ": {
+          "body": "trade with me i attacked aplpha",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:01:58.694908Z"
+        },
+        "-NiHGQaAZ8V3wVuwKIVz": {
+          "body": "trade 5",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:02:04.941073Z"
+        },
+        "-NiHGWsMLljAjKowSTQ1": {
+          "body": "LOLOLOL",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:02:30.680580Z"
+        },
+        "-NiHGYF1BRqWYq4BydCc": {
+          "body": "Okay I'm back with you lol",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:02:36.292309Z"
+        },
+        "-NiHGYuEdWdiuubHlFU8": {
+          "body": "That hilarious",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:02:38.992593Z"
+        },
+        "-NiHG_lSJGiJOmB7Z80Y": {
+          "body": "I saw this just now and missed it ahhaa",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:02:46.623290Z"
+        },
+        "-NiHGbGO5Wj82Uld4YtP": {
+          "body": "youre good haha",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:02:52.763187Z"
+        },
+        "-NiHGcebg2UCTAcRbcSK": {
+          "body": "they bouta come after me",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:02:58.472353Z"
+        },
+        "-NiHGe3NvUbNH8xXqT67": {
+          "body": "Keep more to protect, ill trade 3",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:03:04.217447Z"
+        },
+        "-NiHGg_s-bKfqjOjKnOt": {
+          "body": "ok",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:03:14.554244Z"
+        },
+        "-NiHGk1Uql8TLNZXJu-B": {
+          "body": "I'm all out attacking foxtrot",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:03:28.672670Z"
+        },
+        "-NiHGlXlUqAETkZmK_Uw": {
+          "body": "ok haha",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:03:34.834673Z"
+        },
+        "-NiHGnZjtjdcv_P_F-nY": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:03:43.153059Z"
+        },
+        "-NiHGwFY3qktTE6Y1elC": {
+          "body": "aplpha papa and delta attacked me but i blocked all",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:04:18.724488Z"
+        },
+        "-NiHGz-8NMvwh6R3Nw6y": {
+          "body": "trade 3 and keep the rest",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:04:29.963030Z"
+        },
+        "-NiHH4TUkVRRbRF5S9ZP": {
+          "body": "Bro I'll be hyped if you win this",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:04:56.481079Z"
+        },
+        "-NiHH4wWLNIlsZv7sLeX": {
+          "body": "dude you murdered foxtrot",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:04:58.402992Z"
+        },
+        "-NiHH6OvRctkEmCXaUvl": {
+          "body": "I don't even care about the money",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:05:04.380786Z"
+        },
+        "-NiHH8IqwQbSpzv0InT-": {
+          "body": "WE are winning this",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:05:12.183847Z"
+        },
+        "-NiHH8PHWU6YtjI1fHZQ": {
+          "body": "I put everything I had into him lolol",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:05:12.595569Z"
+        },
+        "-NiHHAJmfsdlMB_5igXc": {
+          "body": "hahahha",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:05:20.435556Z"
+        },
+        "-NiHHEwQ1wvzWo1LOnrO": {
+          "body": "tarde 3?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:05:39.356582Z"
+        },
+        "-NiHHFaXD1DkJBIl_Wd7": {
+          "body": "trade",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:05:42.051483Z"
+        },
+        "-NiHHHlAJSmabQuNtWyS": {
+          "body": "3",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:05:50.924502Z"
+        },
+        "-NiHHI8l9_Q3vK2Fc5aJ": {
+          "body": "yeah",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:05:52.498585Z"
+        },
+        "-NiHHLWrATvCobk5KM0O": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:06:06.328677Z"
+        },
+        "-NiHHPMla27V_xwGw1kG": {
+          "body": "ok what happened?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:06:22.066608Z"
+        },
+        "-NiHHRAb3Gfl33QRkJYV": {
+          "body": "my attack was 0%",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:06:29.481301Z"
+        },
+        "-NiHHU_--Gk07IGzwKsi": {
+          "body": "I'm trading with you more and keeping more, I won't try any attacks",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:06:43.393584Z"
+        },
+        "-NiHHVJWmgioFgVsIUjJ": {
+          "body": "5 to you",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:06:46.435261Z"
+        },
+        "-NiHHWTpxWr34mE_WH_6": {
+          "body": "ok deal",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:06:51.190625Z"
+        },
+        "-NiHHdW-fS7JJ5IOKOyo": {
+          "body": "attacking alpha wont do anything at thins point, hes keeping too much",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:07:24.098197Z"
+        },
+        "-NiHHhv3laBaTbpC0lu7": {
+          "body": "Yeah, I attacked fox and he kept everything",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:07:42.149336Z"
+        },
+        "-NiHHj4HotOf5AcM3XQE": {
+          "body": "dang",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:07:46.899770Z"
+        },
+        "-NiHHlseIr86BRanl1Uy": {
+          "body": "foxtrot just died tho right?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:07:58.379851Z"
+        },
+        "-NiHHm2W7bVo-uBJmEC3": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:07:59.074452Z"
+        },
+        "-NiHHo55YBIU-pxSsSir": {
+          "body": "good work",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:08:07.431883Z"
+        },
+        "-NiHHp-i4L_WFyMWSky8": {
+          "body": "do it again",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:08:11.183819Z"
+        },
+        "-NiHHsqMuvA9v65RR-Ya": {
+          "body": "trade 5",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:08:26.904496Z"
+        },
+        "-NiHHu4JGqi0xLsqlKIE": {
+          "body": "yup",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:08:31.958179Z"
+        },
+        "-NiHHxEsODyGk9_Xp2qr": {
+          "body": "4 people just attacked me and I blocked it all",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:08:44.922224Z"
+        },
+        "-NiHI5_IcR7JnzSvbDco": {
+          "body": "trade 4 and give me one more to keep, I think they are gonna go all out attacking me rn, its round 10 so it might be the last",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:09:23.157286Z"
+        },
+        "-NiHIIiB2TRYFPbM29XQ": {
+          "body": "Trade 3 to be safe",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:10:16.973874Z"
+        },
+        "-NiHIJH_hwRUhHVA-92d": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:10:19.302957Z"
+        },
+        "-NiHIKvL1wTD5l8NYlq9": {
+          "body": "broo",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:10:26.008096Z"
+        },
+        "-NiHIM_6EYSQNmkKQDIS": {
+          "body": "what happened? They all attack?",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:10:32.776454Z"
+        },
+        "-NiHIOMnJY63vf9zOoZV": {
+          "body": "yep by a lot",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:10:40.116340Z"
+        },
+        "-NiHIQru5Uu6lZaTUcgL": {
+          "body": "romeo hit me with 9",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:10:50.364291Z"
+        },
+        "-NiHISlWGVlTQMIDYmV0": {
+          "body": "I'll give you 3",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:10:58.146397Z"
+        },
+        "-NiHIU42VPEdGidykFji": {
+          "body": "kk",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:11:03.493301Z"
+        },
+        "-NiHIcBCf_LMbxfiog-s": {
+          "body": "delta and romeo dont want to win, they want to hurt us",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:11:40.814421Z"
+        },
+        "-NiHIeCT14XmuTjAcwgQ": {
+          "body": "they might go for you this roun",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:11:49.087433Z"
+        },
+        "-NiHIiczGzsWfJPZ0xFh": {
+          "body": "I think they just go for the top.. as long as we are trading, we might just alternate",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:12:07.233150Z"
+        },
+        "-NiHIkCgok2xauMTZPQt": {
+          "body": "true",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:12:13.677773Z"
+        },
+        "-NiHIlpMShP5SvlTm_jU": {
+          "body": "I'm giving you 5, lets see what happens",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:12:20.312858Z"
+        },
+        "-NiHIn4JRJ3xpEC7ceS7": {
+          "body": "but even papa is ahead of me rn",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:12:25.430053Z"
+        },
+        "-NiHIpDtykgia0SsmrCO": {
+          "body": "five it is",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:12:34.234671Z"
+        },
+        "-NiHIrjqDX1-phMh1k3J": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:12:44.535896Z"
+        },
+        "-NiHIw0SOdziIXBuTBCJ": {
+          "body": "no one attacked",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:13:02.046986Z"
+        },
+        "-NiHIwPwL1yNPwZmzOOM": {
+          "body": "5 again?",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:13:03.677698Z"
+        },
+        "-NiHIwyJokcQTIzdw_zW": {
+          "body": "That was weird",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:13:05.941809Z"
+        },
+        "-NiHIxcgyleM9pO1CQDl": {
+          "body": "treade 5 again",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:13:08.653348Z"
+        },
+        "-NiHJ3BhwYadx72JzHuS": {
+          "body": "they might be ganging up on you tho",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:13:35.535022Z"
+        },
+        "-NiHJ99w4ithHdI0hm_6": {
+          "body": "Idk whats happening haha",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:13:59.998032Z"
+        },
+        "-NiHJAF0UJpuxH5IIDMT": {
+          "body": "I'm giving you 5 though",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:14:04.418470Z"
+        },
+        "-NiHJBR9AWNE__m_wYN8": {
+          "body": "just trade 5 and keep the reat",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:14:09.292305Z"
+        },
+        "-NiHJNiv03lcMtIAZD_W": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:14:59.644576Z"
+        },
+        "-NiHJUIqOqJBFdtsrdlb": {
+          "body": "dope its working",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:15:26.583808Z"
+        },
+        "-NiHJVW7ZM9--LbuVNlq": {
+          "body": "cool 5 it is",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:15:31.530230Z"
+        },
+        "-NiHJXMfN5Ohv18K_WmT": {
+          "body": "yep",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:15:39.117164Z"
+        },
+        "-NiHJbYjv07XmGE_QIfm": {
+          "body": "how many rounds is this",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:16:00.369006Z"
+        },
+        "-NiHJifh21DUwG0J2xhX": {
+          "body": "expect damage from alpha",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:16:29.550640Z"
+        },
+        "-NiHJldImCqvJSAh1Akf": {
+          "body": "he might try to shoot ahead of us",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:16:41.685233Z"
+        },
+        "-NiHJnYVAb1oZzqKlNJV": {
+          "body": "no idea how many lol",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:16:49.506215Z"
+        },
+        "-NiHJxRobZeMfkztUWTF": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:17:30.038061Z"
+        },
+        "-NiHK0fCAb8BdxxT6wyc": {
+          "body": "what happned",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:17:47.342456Z"
+        },
+        "-NiHK7hdOCClzB3E1ABK": {
+          "body": "I got left out to dry on a trade",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:16.170908Z"
+        },
+        "-NiHK8VoyWCw4zOkj5To": {
+          "body": "alpha is probably trading a ton with a lot of people to boost himself, he didnt attack",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:19.446245Z"
+        },
+        "-NiHKBXK6UBYOsW56kZv": {
+          "body": "with whom?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:31.830813Z"
+        },
+        "-NiHKCV61TvP3RaZ7rnn": {
+          "body": "alpha",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:35.784728Z"
+        },
+        "-NiHKDPq-c-_AhDgECyy": {
+          "body": "frick",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:39.544040Z"
+        },
+        "-NiHKFyXL5Hf2HGzbTM4": {
+          "body": "thats what boosted him haha",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:50.019392Z"
+        },
+        "-NiHKGPDgMHyyh0Gzbw_": {
+          "body": "he didn't give me any, thats what boosted him",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:51.792114Z"
+        },
+        "-NiHKIuNQ96rE3qRtGoN": {
+          "body": "attack?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:02.042285Z"
+        },
+        "-NiHKJ4dvPT6PLuWy4Ln": {
+          "body": "I'm giving you 6",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:02.763009Z"
+        },
+        "-NiHKLYl2IXIsbedm-c1": {
+          "body": "Should we both attack someone?",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:12.882794Z"
+        },
+        "-NiHKPVP9UdLL1hdglFN": {
+          "body": "i havent bee attacke really, they are only coordinated",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:29.051382Z"
+        },
+        "-NiHKR6PHr4FTghObFa0": {
+          "body": "just rade 6",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:35.643572Z"
+        },
+        "-NiHKTyL7pl6oMPHs8VN": {
+          "body": "withe me",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:47.351393Z"
+        },
+        "-NiHKV4WtivNi7hOYSzz": {
+          "body": "deal",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:51.906428Z"
+        },
+        "-NiHKVA9cKNUPO-AJHpL": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:19:52.268310Z"
+        },
+        "-NiHKY7zACHe-0OEk6mV": {
+          "body": "good work",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:20:04.416830Z"
+        },
+        "-NiHKbh75qnKqkKxKzkq": {
+          "body": "I'll trade with you again, 6",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:20:23.114153Z"
+        },
+        "-NiHKemcBIJsn4PMSI9q": {
+          "body": "kk",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:20:35.753472Z"
+        },
+        "-NiHKll6URU0FkPjXh6M": {
+          "body": "I can take a risk here",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:21:04.328817Z"
+        },
+        "-NiHKnBFlcCsXgatjKaw": {
+          "body": "It might pan out",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:21:10.161379Z"
+        },
+        "-NiHKoH_5faYa-OT8HSX": {
+          "body": "ok lol",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:21:14.662755Z"
+        },
+        "-NiHKraAEMkJj6qM9Bju": {
+          "body": "I'm going to say I'm trading with alpha and not give him any lol, thats what he did to me",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:21:28.205108Z"
+        },
+        "-NiHKt9nVmi3OeHZgHvl": {
+          "body": "hahaha dope",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:21:34.644923Z"
+        },
+        "-NiHKw_rZ7xUNZnkwZON": {
+          "body": "sack him dude",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:21:48.664979Z"
+        },
+        "-NiHL-kV1Eh0ohuXuBx4": {
+          "body": "all the way baby",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:22:05.730185Z"
+        },
+        "-NiHL3153D1QOfMMIiYV": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:22:19.144148Z"
+        },
+        "-NiHL5CG0qxQuFsdtuVd": {
+          "body": "good stuff hes gone",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:22:28.051203Z"
+        },
+        "-NiHL6OS0qbHPcy2xAf1": {
+          "body": "HHAHAHAHAH",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:22:32.926262Z"
+        },
+        "-NiHL75sWuss9ravFQdZ": {
+          "body": "That is awesome",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:22:35.833708Z"
+        },
+        "-NiHL9NCrGXOHX18wT5i": {
+          "body": "I promise I won't do that to you",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:22:45.135061Z"
+        },
+        "-NiHL9gHoob3mjKYjX0E": {
+          "body": "swear",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:22:46.419364Z"
+        },
+        "-NiHLAynOoDlqONmBIpz": {
+          "body": "same here",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:22:51.700951Z"
+        },
+        "-NiHLBvEQnDG1D1oItzX": {
+          "body": "we got it in the bag",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:22:55.568566Z"
+        },
+        "-NiHLD8To4XMo0OORML-": {
+          "body": "I'm doing 6 to you, the rest is protect",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:23:00.576192Z"
+        },
+        "-NiHLE-0f43AZxzEAz3s": {
+          "body": "kk",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:23:04.067152Z"
+        },
+        "-NiHLIAfo9jRfmAkM2M5": {
+          "body": "3 attacked me last time but i blosked all",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:23:21.196712Z"
+        },
+        "-NiHLMyt3TNtmAc7vBZs": {
+          "body": "nice bro",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:23:40.858488Z"
+        },
+        "-NiHLNWdvcnadJIqqP6i": {
+          "body": "you might need to block more",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:23:43.082770Z"
+        },
+        "-NiHLPJcktu8D_hpFYUB": {
+          "body": "I'm blovking with 8",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:23:50.442281Z"
+        },
+        "-NiHLPpTa9NAtR4D3eK0": {
+          "body": "is that enough",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:23:52.544265Z"
+        },
+        "-NiHLRBghQW1-MGl0nO2": {
+          "body": "probably",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:23:58.126233Z"
+        },
+        "-NiHLSXSs0tO9IFvIFRX": {
+          "body": "should we trade 4 instead?",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:24:03.614961Z"
+        },
+        "-NiHLTCWTlHK3UjhsT07": {
+          "body": "untl they gang up big time haha",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:24:06.370740Z"
+        },
+        "-NiHLU0IMFTEqxGHgeIf": {
+          "body": "yeah do 4",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:24:09.684985Z"
+        },
+        "-NiHLc9ZLu46nU2CtSjU": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:24:47.141641Z"
+        },
+        "-NiHLeDAusvRZ6yO5rog": {
+          "body": "we are GONE",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:24:55.565009Z"
+        },
+        "-NiHLfMGeL9ywyUlxHbm": {
+          "body": "lol",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:00.243003Z"
+        },
+        "-NiHLg-CUobiUpCoqK2m": {
+          "body": "the gap is huuuuuuge",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:02.862978Z"
+        },
+        "-NiHLjO7hdj7i-izzF1X": {
+          "body": "ok trade 4 they are gonna come",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:16.745986Z"
+        },
+        "-NiHLlJmP-KDCGIcCYhr": {
+          "body": "There attacks won't even work lol",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:24.660039Z"
+        },
+        "-NiHLmMyOnCutPnpqVqm": {
+          "body": "or trade 3? what do you think?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:28.960248Z"
+        },
+        "-NiHLnrqFgi6I9Cagfxl": {
+          "body": "haha true",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:35.096143Z"
+        },
+        "-NiHLo62v32QkSqgQ-4S": {
+          "body": "4 is good",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:36.068969Z"
+        },
+        "-NiHLp6b5aweztvKwOeT": {
+          "body": "4",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:40.200989Z"
+        },
+        "-NiHLpweVOOwo3r_ZUpf": {
+          "body": "we killed them",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:43.596167Z"
+        },
+        "-NiHLqzs0bf2iqrqc_jT": {
+          "body": "you're a day 1",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:47.897667Z"
+        },
+        "-NiHLs-6efL2knfhyiqv": {
+          "body": "you can have the money",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:52.008442Z"
+        },
+        "-NiHLzHj7f2ULUyTbZiN": {
+          "body": "if you dont want it ill take it haha but we did this together",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:26:21.872502Z"
+        },
+        "-NiHMBbYYOsyBPBujT-r": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:27:16.453363Z"
+        },
+        "-NiHMFBtjQsO_M2NFvXr": {
+          "body": "bro no attacks, they know they cant win",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:27:31.131222Z"
+        },
+        "-NiHMHm40WNzg8xnDRE6": {
+          "body": "2 attacked me, but i blocked 100%",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:27:41.702795Z"
+        },
+        "-NiHMIlt5ZyqzY3r2sxn": {
+          "body": "nic",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:27:45.786907Z"
+        },
+        "-NiHMJBuiN4rfXtMTrnf": {
+          "body": "nice",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:27:47.515591Z"
+        },
+        "-NiHMK24xrBAodES5rJy": {
+          "body": "just keep doing 4",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:27:50.983111Z"
+        },
+        "-NiHMO-KV2vIyUPi-YwF": {
+          "body": "kk that works for me",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:28:07.190864Z"
+        },
+        "-NiHMRl8iNcSifDzO207": {
+          "body": "i wonder who foxtrot is lol",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:28:22.603093Z"
+        },
+        "-NiHMTuj2HjQrf_E9vAo": {
+          "body": "hahahaha",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:28:31.408605Z"
+        },
+        "-NiHMVElpB2x95cPcIdt": {
+          "body": "too bad for them",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:28:36.851199Z"
+        },
+        "-NiHMYieTbQakNxyHLvt": {
+          "body": "probabaly have no allies trading with them",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:28:51.115490Z"
+        },
+        "-NiHMcHJyPTgF9wNh5Lh": {
+          "body": "romeo and alpha hate eachother hahaha",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:29:09.782184Z"
+        },
+        "-NiHMgqOfTSDTFMiDJ3O": {
+          "body": "hahahahaha",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:29:28.474755Z"
+        },
+        "-NiHMjqJUqa2m9F1OUUh": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.758068Z"
+        },
+        "-NiHMkWvVNBnq5Ez5SOj": {
+          "body": "last round they jsut said",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:29:43.548750Z"
+        }
+      },
+      "name": "Ally",
+      "participants": [
+        "Oscar",
+        "Quebec"
+      ]
+    },
+    "-NiHD3O1QXYBkkwQrQ0q": {
+      "conversationId": "-NiHD3O1QXYBkkwQrQ0q",
+      "messages": {
+        "-NiHD7TRXFkZoSsgt0yO": {
+          "body": "i like the look of this",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:47:40.189509Z"
+        },
+        "-NiHD8HOq3qVVhcHSuBu": {
+          "body": "us v them?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:47:43.514316Z"
+        },
+        "-NiHDA-aBxWWvvLA5zDT": {
+          "body": "lets do it",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:47:50.568146Z"
+        },
+        "-NiHDDPJGdVsRMFeOyCt": {
+          "body": "we need some people in here who get good popularity to take down the others",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:48:04.501971Z"
+        },
+        "-NiHDFARmQHxoPLO6BU7": {
+          "body": "so we may wanna pair up and trade with each other",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:48:11.742189Z"
+        },
+        "-NiHDH4Elq8Ym0s5Vb6t": {
+          "body": "This is where the fun begins",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:48:19.537029Z"
+        },
+        "-NiHDMzz3_VqRB2_yixE": {
+          "body": "I've given some to everyone",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:48:43.776764Z"
+        },
+        "-NiHDPc5VcQ22NOuK-yS": {
+          "body": "but we can pair",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:48:54.535471Z"
+        },
+        "-NiHDRDuBSWVdbu6_qE8": {
+          "body": "I'm giving equally to everyone this round",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:49:01.116282Z"
+        },
+        "-NiHDS7Y0ufjRlqYycOl": {
+          "body": "are you in Quebec?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:49:04.804417Z"
+        },
+        "-NiHDWIrEVmJOmLJn178": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:49:21.912775Z"
+        },
+        "-NiHDkdycsCJNRYDGBjp": {
+          "body": "foxtrot hit me",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:50:24.768007Z"
+        },
+        "-NiHDomJE3ecfksyNkuQ": {
+          "body": "Ill trade with you Papa",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:50:41.686010Z"
+        },
+        "-NiHDtPHIvSPBdw0aPd9": {
+          "body": "foxtrot hit me too",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:51:00.627994Z"
+        },
+        "-NiHDvT6YYR3LhmmcCYm": {
+          "body": "lets all hit foxtrot the round after this",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:51:09.064581Z"
+        },
+        "-NiHDwTgAXCkguLrDhX6": {
+          "body": "ok",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:51:13.197958Z"
+        },
+        "-NiHDwj_K6ZX-ZLMKDS5": {
+          "body": "ill trade with you delta",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:51:14.279253Z"
+        },
+        "-NiHE08c8zxHBu8ELB3R": {
+          "body": "8?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:51:32.329952Z"
+        },
+        "-NiHE1vQnIwrPoIkPoW-": {
+          "body": "i can do 4",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:51:39.613141Z"
+        },
+        "-NiHE3ljfIVlcaJlbfM6": {
+          "body": "i am hitting someone else",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:51:47.184548Z"
+        },
+        "-NiHE5-ZdrY2RI4-J9-b": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:51:52.229553Z"
+        },
+        "-NiHE8fe8W0aaQavtnyS": {
+          "body": "IT DIDNT SUBMIT",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:52:07.275352Z"
+        },
+        "-NiHEBWbWN5u10u5nqHn": {
+          "body": "Big sad",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:52:18.921178Z"
+        },
+        "-NiHECZSeVDX7nFQ9_XI": {
+          "body": "delta, i am giving you 8, feel free to give me only like 4 so you gain pop",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:52:23.198841Z"
+        },
+        "-NiHEDmPSLnM5kFFAjiP": {
+          "body": "Unless of course, it \"didn't submit\"",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:52:28.188084Z"
+        },
+        "-NiHEX63fIA_Fzye_mBL": {
+          "body": "still hitting foxtrot?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:53:47.333856Z"
+        },
+        "-NiHEa33S7lZWFtyNrfC": {
+          "body": "yeah",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:54:03.525949Z"
+        },
+        "-NiHEdksbJJx4B4STPpN": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:54:18.682236Z"
+        },
+        "-NiHF9QrfvuS-cymm0BP": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:56:32.505346Z"
+        },
+        "-NiHFiCr4i8irSn8DJqu": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:58:59.064972Z"
+        },
+        "-NiHGF2Yq7UL248s0CbS": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:01:17.668484Z"
+        },
+        "-NiHGnZpy-8JPCceTjLO": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:03:43.158418Z"
+        },
+        "-NiHHLWx_Bymh_J6FPBn": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:06:06.334395Z"
+        },
+        "-NiHHm2bw6o36d3PI1zl": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:07:59.080431Z"
+        },
+        "-NiHIJHe2hc_Fv7yr9PA": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:10:19.308177Z"
+        },
+        "-NiHIrjwKZtOQYaM9xuB": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:12:44.541575Z"
+        },
+        "-NiHJNj-LbSQh6ZCPK_K": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:14:59.650071Z"
+        },
+        "-NiHJxRuWT9coaBEdNqy": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:17:30.043761Z"
+        },
+        "-NiHKVAGbRCM8LraseLn": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:19:52.274644Z"
+        },
+        "-NiHL31B7whKyV7iZOY3": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:22:19.149857Z"
+        },
+        "-NiHLc9dX8axaiJp9_Fs": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:24:47.147184Z"
+        },
+        "-NiHMBbdSQt4heCmotsb": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:27:16.459073Z"
+        },
+        "-NiHMjqOx1kWS2SP0zHh": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.763293Z"
+        }
+      },
+      "name": "The Alliance",
+      "participants": [
+        "Delta",
+        "Alpha",
+        "Papa",
+        "Quebec"
+      ]
+    },
+    "-NiHD4KOWjFTSvQG8qQm": {
+      "conversationId": "-NiHD4KOWjFTSvQG8qQm",
+      "messages": {
+        "-NiHDWIwCKXAX0UXPTGo": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:49:21.918225Z"
+        },
+        "-NiHE5-d6lu45kEIG6LQ": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:51:52.234503Z"
+        },
+        "-NiHEdky7ryksjs-fu2-": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:54:18.688291Z"
+        },
+        "-NiHF9QzZkY0lpfbiIEZ": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:56:32.512401Z"
+        },
+        "-NiHFiCy94Wzlw9JQZAu": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:58:59.072347Z"
+        },
+        "-NiHGF2d7885uD_UIke-": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:01:17.674479Z"
+        },
+        "-NiHGnZuGcG0Do6kOHr3": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:03:43.164351Z"
+        },
+        "-NiHHLX1lswPzr4c2amT": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:06:06.340100Z"
+        },
+        "-NiHHm2h-q9cSzUiUyxw": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:07:59.086815Z"
+        },
+        "-NiHIJHkoXu2CI4GXYwn": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:10:19.313690Z"
+        },
+        "-NiHIrk0CjIMlvjudnfX": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:12:44.546736Z"
+        },
+        "-NiHJNj5eQTWLujhdWJ9": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:14:59.655518Z"
+        },
+        "-NiHJxS-sdzg3dobBXlZ": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:17:30.049989Z"
+        },
+        "-NiHKVALzzxwMmlg3iUG": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:19:52.279747Z"
+        },
+        "-NiHL31HKXcPNmuepUzZ": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:22:19.155390Z"
+        },
+        "-NiHLc9jugmSgg9-Pxp0": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:24:47.152811Z"
+        },
+        "-NiHMBbj_AqbSz98Rmzv": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:27:16.465179Z"
+        },
+        "-NiHMjqUXXGK7BjKj5xO": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.768533Z"
+        }
+      },
+      "name": "$12 gang",
+      "participants": [
+        "Papa",
+        "Delta",
+        "Quebec"
+      ]
+    },
+    "-NiHDZpekJwoDwYOkIw2": {
+      "conversationId": "-NiHDZpekJwoDwYOkIw2",
+      "messages": {
+        "-NiHDdGu8vPo2_YZMVcK": {
+          "body": "whats up",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:49:54.556002Z"
+        },
+        "-NiHDjCCrg5LUUmQblts": {
+          "body": "I think we need to form a pair you and I",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:50:18.830403Z"
+        },
+        "-NiHDksx3Af6pnlR3d3Q": {
+          "body": "i like this",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:50:25.726361Z"
+        },
+        "-NiHDnv8OS4DZHl7dTA0": {
+          "body": "i can give you 5 if you give me 5, that way we make points",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:50:38.154563Z"
+        },
+        "-NiHDpz06ahzsoZVycqL": {
+          "body": "Sounds fair to me",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:50:46.595131Z"
+        },
+        "-NiHE5-jLNaRlOFrHLBp": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:51:52.240494Z"
+        },
+        "-NiHEInRjHLCwtg6GpFQ": {
+          "body": "I'll give you 6 this round if you match me",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:52:48.734299Z"
+        },
+        "-NiHEKK_zgWqwyKIWkce": {
+          "body": "SORRY MAN ",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:52:55.014941Z"
+        },
+        "-NiHEMCNLOTn4Mz3fSc0": {
+          "body": "nah give me 2 and ill give you 6 so you make more pop",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:53:02.681625Z"
+        },
+        "-NiHENNzxsshq9Ujm7w1": {
+          "body": "since i screwed you last time",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:53:07.520955Z"
+        },
+        "-NiHER1jkSpZOxy8BHe5": {
+          "body": "Very well",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:53:22.480969Z"
+        },
+        "-NiHEdl3ClZCQGe6h-5l": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:54:18.693468Z"
+        },
+        "-NiHEuvV-18_HCIB-eku": {
+          "body": "3 each way?",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:55:28.993615Z"
+        },
+        "-NiHExHd0uzd--ApV2Di": {
+          "body": "yessir",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:55:38.666574Z"
+        },
+        "-NiHF9R8NJd9tPl7lqeE": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:56:32.522693Z"
+        },
+        "-NiHFJNya3Npnd_yHZJB": {
+          "body": "You and I have enough weight that we should try to wipeout a lower tier player on the other team, and continue trading",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:57:13.279410Z"
+        },
+        "-NiHFKS9CPXWi-I2PtRb": {
+          "body": "Overtime",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:57:17.643395Z"
+        },
+        "-NiHFQfJtIICYgrQhK7n": {
+          "body": "Let's do 4 each",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:57:43.126279Z"
+        },
+        "-NiHFVXoAGCUI1UfMFSw": {
+          "body": "sounds good",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:58:03.061428Z"
+        },
+        "-NiHFiD4uDtRbx4t2xTh": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:58:59.078640Z"
+        },
+        "-NiHGF2kwxQwAEjKD7ro": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:01:17.682320Z"
+        },
+        "-NiHGiLNoKKajamQ-2zb": {
+          "body": "How much this round?",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:03:21.753859Z"
+        },
+        "-NiHGlbGhKG56frBV7AU": {
+          "body": "3",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:03:35.122675Z"
+        },
+        "-NiHGn_0x3qST4LofBpd": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:03:43.170550Z"
+        },
+        "-NiHHLX7khjipNtCHl9M": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:06:06.345693Z"
+        },
+        "-NiHHW5n9zZNfaYJQksP": {
+          "body": "we can do three between the two of us",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:06:49.653055Z"
+        },
+        "-NiHHm2mp724-MeqW28_": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:07:59.092277Z"
+        },
+        "-NiHIJHpMLR3nh-LXuNu": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:10:19.319056Z"
+        },
+        "-NiHIrk5WFLmdB-F6C1S": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:12:44.551785Z"
+        },
+        "-NiHJNjArKOHalOVW-6F": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:14:59.660837Z"
+        },
+        "-NiHJalRUoCO4Rs4PNA2": {
+          "body": "How are you doing Papa",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:15:57.149520Z"
+        },
+        "-NiHJk7QkeDZQ732qzjT": {
+          "body": "idk man",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:16:35.484993Z"
+        },
+        "-NiHJkgbj00aauBgpkSh": {
+          "body": "my head hurts",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:16:37.801047Z"
+        },
+        "-NiHJlqheBtmaVfgb5aP": {
+          "body": "im gonna give you 4 this round",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:16:42.542365Z"
+        },
+        "-NiHJtajqa_G0H1Cj1oa": {
+          "body": "I feel that",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:17:14.288660Z"
+        },
+        "-NiHJu1hsEbKPqP6b-81": {
+          "body": "I'll match",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:17:16.079088Z"
+        },
+        "-NiHJxS58ZzjmQM_R_yp": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:17:30.055634Z"
+        },
+        "-NiHKGdDlyM9VTM-2uID": {
+          "body": "no worries man",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:52.751400Z"
+        },
+        "-NiHKHiqauUmAkdPy4Lo": {
+          "body": "i had that happen to me",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:57.207416Z"
+        },
+        "-NiHKIaLcJg-erE1QRnT": {
+          "body": "i'll still give you 4",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:00.759961Z"
+        },
+        "-NiHKJSOTkUAV7-jOSp8": {
+          "body": "Yeah sorry I judged you",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:04.282723Z"
+        },
+        "-NiHKKFPRNPwr3ehcyPe": {
+          "body": "I'll give you 5 this round",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:07.548197Z"
+        },
+        "-NiHKLeqYywYVw6FlUL4": {
+          "body": "youre kind",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:13.335430Z"
+        },
+        "-NiHKMu2go-GfHgESH7X": {
+          "body": "feel free to save some to block",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:18.405155Z"
+        },
+        "-NiHKP7NEDZElMn6Ytqh": {
+          "body": "i can knock mine down to give you 2 if you wanna give me 3",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:27.514191Z"
+        },
+        "-NiHKRFMEsZGd-LbWIFf": {
+          "body": "Fine",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:36.216379Z"
+        },
+        "-NiHKVAQ7tGCqb7UMsrb": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:19:52.285030Z"
+        },
+        "-NiHL31NGHLhCPE8GHrG": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:22:19.161787Z"
+        },
+        "-NiHLc9ogoEm2m_BTXnK": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:24:47.158176Z"
+        },
+        "-NiHLyO-sSVQH2w1VdrE": {
+          "body": "Three and three?",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:26:18.178319Z"
+        },
+        "-NiHLyqKg92qRg_tOI1G": {
+          "body": "nw man im giving you 3, give me 2",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:26:20.055173Z"
+        },
+        "-NiHLzquGgMVQSiGd4Oq": {
+          "body": "i can give you pop",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:26:24.187364Z"
+        },
+        "-NiHM1jIzV4uXKG8Oydw": {
+          "body": "Very well",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:26:35.988569Z"
+        },
+        "-NiHMBbpZsJ7AcY7KIim": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:27:16.470798Z"
+        },
+        "-NiHMjqZ7xRfYGDb-P8K": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.773892Z"
+        }
+      },
+      "name": "Hello",
+      "participants": [
+        "Alpha",
+        "Papa"
+      ]
+    },
+    "-NiHENTYwUjzCKR9Rly_": {
+      "conversationId": "-NiHENTYwUjzCKR9Rly_",
+      "messages": {
+        "-NiHESCQfvXknj2wnq6r": {
+          "body": "has anyone gotten anything from Que?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:53:27.260959Z"
+        },
+        "-NiHEXKVQNIbB_i5KeGU": {
+          "body": "I have not",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:53:48.257779Z"
+        },
+        "-NiHEYE_Uh5Zvb-3tVf_": {
+          "body": "I don't trust them",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:53:51.974543Z"
+        },
+        "-NiHEc3uB7VX2J4hl-xr": {
+          "body": "I sense a plot to destroy the alliance. They're in cahoots iwth the other team",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:54:11.771648Z"
+        },
+        "-NiHEdl8td5S0qdqO5Yi": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:54:18.698534Z"
+        },
+        "-NiHEjzGJw-3T0vgDa3K": {
+          "body": "sounds good, we'll use this chat then",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:54:44.178949Z"
+        },
+        "-NiHEk0wynOM1YVwyls-": {
+          "body": "i have gotten nothing from quebec",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:54:44.349454Z"
+        },
+        "-NiHEkt7xzj0UW4cI5RI": {
+          "body": "lets wreck him",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:54:47.882247Z"
+        },
+        "-NiHEleluaF2ZudYxF3C": {
+          "body": "ok",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:54:51.058563Z"
+        },
+        "-NiHEwDwuS6f1A90sTlX": {
+          "body": "I'm taking 4 from Quebec, and giving 4 to each of you",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:55:34.333846Z"
+        },
+        "-NiHF0XeeNb6KQQKdC48": {
+          "body": "I'm taking three from quebec",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:55:56.075365Z"
+        },
+        "-NiHF2Sno_jiYfsaMwCm": {
+          "body": "so my pop will take a hit, alpha if you can bring us up ",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:56:03.957263Z"
+        },
+        "-NiHF3a77y0VTo7yo9W0": {
+          "body": "cool",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:56:08.586069Z"
+        },
+        "-NiHF9RIUWUuOuLdpU_J": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:56:32.532778Z"
+        },
+        "-NiHFL4avynnbP8B2Hws": {
+          "body": "quebec and oscar are partners",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:57:20.231384Z"
+        },
+        "-NiHFLHkUkq7nqSzOcLg": {
+          "body": "foxtrot hit me hard, my Quebec attack was not succesful",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:57:21.074222Z"
+        },
+        "-NiHFPqrKzL4sSywBWSD": {
+          "body": "I think so^",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:57:39.768817Z"
+        },
+        "-NiHFTiB7Ob2ahvK4Z8W": {
+          "body": "i will give 3 to each of you",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:57:55.597739Z"
+        },
+        "-NiHFZY5NMPHo-2WcusS": {
+          "body": "same, are you still in Alpha?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:58:19.464120Z"
+        },
+        "-NiHFavIrTuM_Xe3creb": {
+          "body": "we should all hit someone with a lot",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:58:29.204949Z"
+        },
+        "-NiHFbu1XsgmH0jNYBG_": {
+          "body": "try to succeed",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:58:33.219393Z"
+        },
+        "-NiHFeggJZ5XjTlckwbA": {
+          "body": "Oscar quick",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:58:44.654106Z"
+        },
+        "-NiHFhZ8EX6gUagMlzKE": {
+          "body": "submitted",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:58:56.394719Z"
+        },
+        "-NiHFi1nNk83ZkX7MarR": {
+          "body": "on oscar",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:58:58.356457Z"
+        },
+        "-NiHFiDAmJu_fnjNsyYf": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:58:59.084422Z"
+        },
+        "-NiHFiEaKONKiJhvBsSp": {
+          "body": "yep",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:58:59.176256Z"
+        },
+        "-NiHFmpM-ovxuLElej1N": {
+          "body": "foxtrot hit me again",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:59:17.976702Z"
+        },
+        "-NiHFpwIozNHiqj2oFR5": {
+          "body": "maybe we just trade a lot and try to boost popularity",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:59:30.708568Z"
+        },
+        "-NiHFqSg7FEOAhOePG6H": {
+          "body": "i think the big guys are saving a lot",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:59:32.846045Z"
+        },
+        "-NiHFs3snB6w6TFQAfBF": {
+          "body": "if we hit someone, maybe we hit someone smaller",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:59:39.449814Z"
+        },
+        "-NiHFtdk7RV0y6bcU5Pr": {
+          "body": "yeah, like foxtrot",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:59:45.906114Z"
+        },
+        "-NiHFucSfS7LJ1dx1eDj": {
+          "body": "Agreed",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:59:49.919176Z"
+        },
+        "-NiHFxWUoInA_gH5mUXu": {
+          "body": "^^ i like that. i will give each of you 5 and use the rest to hit foxtrot",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:00:01.761262Z"
+        },
+        "-NiHG0MOVRuQhOZ-jyH9": {
+          "body": "same",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:00:17.499312Z"
+        },
+        "-NiHG14kLH8c5HQehCTG": {
+          "body": "submitted",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:00:20.465445Z"
+        },
+        "-NiHGF2qUYTDekGuKQZQ": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:01:17.688106Z"
+        },
+        "-NiHGFJnrz5J0eqZtR5M": {
+          "body": "what do you think happens if we get foxtrot to join us?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:01:18.772808Z"
+        },
+        "-NiHGIEQONLZn31joaOt": {
+          "body": "Why would they?",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:01:30.716867Z"
+        },
+        "-NiHGQtW4GgtxTzQF0p6": {
+          "body": "they are isolated, look at the map, they don't have anyone close to their dot. WOuld our points change if we repair a relationship?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:02:06.178350Z"
+        },
+        "-NiHGYk1r2krVaTQd9RT": {
+          "body": "Everyone steal 2 from quebec",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:02:38.339524Z"
+        },
+        "-NiHGb_tkjDaP4KJf58D": {
+          "body": "but what if they block?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:02:54.075256Z"
+        },
+        "-NiHGf9y0gS3ZDOl8Yn1": {
+          "body": "Valid consideration. However, they keep getting stronger",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:03:08.735381Z"
+        },
+        "-NiHGn_5ZAbRHsp9corB": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:03:43.176279Z"
+        },
+        "-NiHH3_gbSTQTOg69qFu": {
+          "body": "lets say quebec and oscar are just trading with each other and then saving to block",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:04:52.846163Z"
+        },
+        "-NiHH5ORpxmoPqlGUOUw": {
+          "body": "we need to figure out a way to break that",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:05:00.253621Z"
+        },
+        "-NiHHAfsWu6s5VCEjhQL": {
+          "body": "I know they are. They invited me to join them in a trifecta",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:05:21.913472Z"
+        },
+        "-NiHHC9hBUoSfK5ubAOV": {
+          "body": "we di the same until we rise and have more value in our points?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:05:27.983220Z"
+        },
+        "-NiHHHtNgxoTHhhJMTzj": {
+          "body": "we have a trifecta already",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:05:51.449464Z"
+        },
+        "-NiHHLXDNElqg86g1EY3": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:06:06.351503Z"
+        },
+        "-NiHHLbLk3tGad4dXD6_": {
+          "body": "gave four each",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:06:06.679357Z"
+        },
+        "-NiHHPHfpjp3wiT4fxwU": {
+          "body": "we are rising",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:06:21.741145Z"
+        },
+        "-NiHHU99Srf0HcfGdXDb": {
+          "body": "lets do four each again",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:06:41.675534Z"
+        },
+        "-NiHHVj8dfXILuusH8Xi": {
+          "body": "I'm down",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:06:48.138406Z"
+        },
+        "-NiHHWVC-dxaNKtgOqRc": {
+          "body": "okay",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:06:51.278502Z"
+        },
+        "-NiHHm2spXdJBtQ7Ae3U": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:07:59.098091Z"
+        },
+        "-NiHHvAk_5uEZsDwg4NS": {
+          "body": "four each again",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:08:36.465459Z"
+        },
+        "-NiHI6F6yggz-C3M9FKS": {
+          "body": "rest goes against quebec",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:09:25.896735Z"
+        },
+        "-NiHI8x62FX-ZJVd_pni": {
+          "body": "sounds good",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:09:36.968846Z"
+        },
+        "-NiHIJHvzTD6dNQSQ-of": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:10:19.324454Z"
+        },
+        "-NiHIPD4AdKVCXGuLcAE": {
+          "body": "Quebec is falling",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:10:43.591007Z"
+        },
+        "-NiHIUbU5a7oMN1BF-MX": {
+          "body": "ill give each of you 3, dont give me any",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:11:05.696820Z"
+        },
+        "-NiHIVDB_gvN-ikO8XY8": {
+          "body": "ill boost yall up",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:11:08.173530Z"
+        },
+        "-NiHIXfLdPL-IRzHrstx": {
+          "body": "okay, thanks",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:11:18.231976Z"
+        },
+        "-NiHIYu1-JNcxWe4Gjmh": {
+          "body": "Papa I couldn't help but notice you didn't trade last round",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:11:23.267826Z"
+        },
+        "-NiHIe6040Q9G1BhjH2n": {
+          "body": "i messed up",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:11:48.675164Z"
+        },
+        "-NiHIfCW-vA4LGlBoU_8": {
+          "body": "but lemme fix it by giving you some",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:11:53.186631Z"
+        },
+        "-NiHIi1WqPjt3r3Dya0k": {
+          "body": "Ill give you a four for four Alpha",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:12:04.771230Z"
+        },
+        "-NiHIkstkkxUTytmhNql": {
+          "body": "I'm game Delta",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:12:16.442759Z"
+        },
+        "-NiHImN-VnodKOvdbggb": {
+          "body": "it may pay more if the most popular one gives tokens to others",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:12:22.529739Z"
+        },
+        "-NiHInm2laDFDspthXG_": {
+          "body": "true",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:12:28.293068Z"
+        },
+        "-NiHIrkAAkIqlumLKcY2": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:12:44.556779Z"
+        },
+        "-NiHJ0CqWxrFSZhi7s7b": {
+          "body": "okay alpha, do we use your position to attack or rise?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:13:23.320241Z"
+        },
+        "-NiHJ4uf7HpaVPo8eCB5": {
+          "body": "I say lets trade 3 each way among us this round",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:13:42.572376Z"
+        },
+        "-NiHJ77SAYuYXKFZYDS1": {
+          "body": "i will do that",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:13:51.647145Z"
+        },
+        "-NiHJ7s44lNN17s574uG": {
+          "body": "deal",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:13:54.694912Z"
+        },
+        "-NiHJDZ3uRPv93R3Zbu8": {
+          "body": "attack next round?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:14:17.990061Z"
+        },
+        "-NiHJEm5Yq2VDyhXS-tV": {
+          "body": "lets attack next round",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:14:22.983941Z"
+        },
+        "-NiHJNjFOHeHLdHmkIb_": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:14:59.666217Z"
+        },
+        "-NiHJcQqcdcdA082USNk": {
+          "body": "you have a pretty good relationship with Oscar Alpha...",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:16:03.959652Z"
+        },
+        "-NiHJhbR_jBc7ysq1bk0": {
+          "body": "you have no negative points with any of the big two",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:16:25.181720Z"
+        },
+        "-NiHJhep1SUQCgVwiUP5": {
+          "body": "That is correct. He and I are working taking down Quebec",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:16:25.398359Z"
+        },
+        "-NiHJlya3boMcDhV5rBs": {
+          "body": "He's not doing a good job",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:16:43.047648Z"
+        },
+        "-NiHJr_JdMBtpHYv96sB": {
+          "body": "What do you think is more likely to succeed?",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:17:06.005626Z"
+        },
+        "-NiHJu3fwt-NjyRZQwHH": {
+          "body": "me?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:17:16.204998Z"
+        },
+        "-NiHJxSI8ftpg3z3rCKX": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:17:30.068584Z"
+        },
+        "-NiHJxw-Qci3tGW8jpzG": {
+          "body": "ive hit oscar and quebec each",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:17:32.033415Z"
+        },
+        "-NiHJzBzly0h9oN5fFXm": {
+          "body": "yo alpha what",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:17:37.217038Z"
+        },
+        "-NiHK-bqWzQo_HKJEexv": {
+          "body": "I didn't hit submit",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:17:43.031986Z"
+        },
+        "-NiHK0LjWgUYvKmD_UFM": {
+          "body": "RIP",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:17:46.032355Z"
+        },
+        "-NiHK1QIinMik-QBraLY": {
+          "body": "thats an oof",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:17:50.420885Z"
+        },
+        "-NiHK22m8NOxaARc9S0x": {
+          "body": "I'll give yall one extra than last round",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:17:53.012061Z"
+        },
+        "-NiHKLQ99Bo3Bkt5Ewi6": {
+          "body": "okay, four each them",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:12.332207Z"
+        },
+        "-NiHKM8FQkMXfybqtmMg": {
+          "body": "*then",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:15.282082Z"
+        },
+        "-NiHKSl9rmwg1iONYI7e": {
+          "body": "each give 3",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:19:42.411444Z"
+        },
+        "-NiHKVAWlUrkIckbtkJE": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:19:52.290373Z"
+        },
+        "-NiHKhReM-htthNIzoqV": {
+          "body": "alpha you and Oscar better figure out what you're doing with Quebec",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:20:46.636075Z"
+        },
+        "-NiHKoXHTt4UrUnfpY4K": {
+          "body": "ill hit quebec this round",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:21:15.668181Z"
+        },
+        "-NiHKrzVDfdqVIvKa22G": {
+          "body": "I will as well. I'll put 3 on it",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:21:29.826298Z"
+        },
+        "-NiHL2tfWWwmAL9diQF9": {
+          "body": "done",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:22:18.604406Z"
+        },
+        "-NiHL31TLTzSpxXBzEJD": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:22:19.167479Z"
+        },
+        "-NiHLc9ug8gLSwuh36zQ": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:24:47.163596Z"
+        },
+        "-NiHLgzfUtLIsSgF-o87": {
+          "body": "alpha, what's your deal with oscar man",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:06.925044Z"
+        },
+        "-NiHLjh36CjNrId3D398": {
+          "body": "he's gonna screw you at some point for points",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:18.021579Z"
+        },
+        "-NiHLn02dya9i8IGpnFk": {
+          "body": "I'm aware",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:31.588907Z"
+        },
+        "-NiHLqLY6NlbMA9YFwWZ": {
+          "body": "We stopped with him turns ago",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:45.252965Z"
+        },
+        "-NiHLvONwhO2GIubfqdC": {
+          "body": "alright, alright",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:26:05.914242Z"
+        },
+        "-NiHLyvIk5t6R0bUZlB3": {
+          "body": "three each?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:26:20.372620Z"
+        },
+        "-NiHM6_cyYTDI66meUsM": {
+          "body": "ill do that",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:26:55.850312Z"
+        },
+        "-NiHMBbuUNS2YjP93_8d": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:27:16.475948Z"
+        },
+        "-NiHMVRqMQbIohXa0aL-": {
+          "body": "alpha, youre on top now",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:28:37.687941Z"
+        },
+        "-NiHMX0rQ-kVnHq3n0oI": {
+          "body": "how much you gonna give us? and well give you just under",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:28:44.152930Z"
+        },
+        "-NiHMbN5aoYj400b3rTI": {
+          "body": "I'll give you and delta each 4 this round",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:29:06.055374Z"
+        },
+        "-NiHMjqeUoLj6aV8kaYQ": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.780270Z"
+        }
+      },
+      "name": "Quebec is Sus",
+      "participants": [
+        "Delta",
+        "Papa",
+        "Alpha"
+      ]
+    },
+    "-NiHErlupcJyJw83Pd2l": {
+      "conversationId": "-NiHErlupcJyJw83Pd2l",
+      "messages": {
+        "-NiHEuoPCKuCTBx4xVcy": {
+          "body": "i see you gave me some so ill give you 2 this round",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:55:28.539946Z"
+        },
+        "-NiHEvzKaqkKloGMjpkV": {
+          "body": "we can start something good on the backend",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:55:33.334749Z"
+        },
+        "-NiHF9ROrnswLK8c76pr": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:56:32.538466Z"
+        },
+        "-NiHF__sdpsJCUhQuSNv": {
+          "body": "sounds good to me",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:58:23.738240Z"
+        },
+        "-NiHFiDGP1YMh5XCoGyd": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:58:59.091252Z"
+        },
+        "-NiHG04ZuDDy5JXsZktH": {
+          "body": "sorry, i didn't see this. this round i gotchu though",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:00:16.357481Z"
+        },
+        "-NiHGDql--OUegwMSuF6": {
+          "body": "all good",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:01:12.754639Z"
+        },
+        "-NiHGF2zpq3_W8Ji0zpV": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:01:17.696830Z"
+        },
+        "-NiHGY2jzvE7DbcKpWuy": {
+          "body": "ayyy my man. ill keep em coming",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:02:35.504670Z"
+        },
+        "-NiHGn_CfK8yE9YnJCZL": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:03:43.182381Z"
+        },
+        "-NiHHLXISdk1VqMGH8is": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:06:06.356827Z"
+        },
+        "-NiHHm2y-5EWGbQLNXM9": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:07:59.104304Z"
+        },
+        "-NiHIJI-Wxz8aW_fdYuo": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:10:19.329890Z"
+        },
+        "-NiHIrkGPK9Y-Ev7RH_u": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:12:44.562528Z"
+        },
+        "-NiHJNjKskCaWEMl31Ub": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:14:59.671363Z"
+        },
+        "-NiHJxSRPW-eMH9jw3lZ": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:17:30.078234Z"
+        },
+        "-NiHKVAaiRrKst19u3YV": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:19:52.295587Z"
+        },
+        "-NiHL31YezodaUpADmPQ": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:22:19.172709Z"
+        },
+        "-NiHLc9zFnzMSknMzxUd": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:24:47.169094Z"
+        },
+        "-NiHMBbzvSLJCeCPFuWv": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:27:16.481341Z"
+        },
+        "-NiHMjqkFpAYIaIwE9Vo": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.785775Z"
+        }
+      },
+      "name": "friend",
+      "participants": [
+        "Papa",
+        "Romeo"
+      ]
+    },
+    "-NiHFVycQZrXz-eBdHqI": {
+      "conversationId": "-NiHFVycQZrXz-eBdHqI",
+      "messages": {
+        "-NiHFYUnuTXxx3Lhp7U_": {
+          "body": "You wanna join the elites or nah?",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:58:15.156542Z"
+        },
+        "-NiHFcnIp-tWJ63yQuYi": {
+          "body": "Trade with us and we can run away with this",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:58:36.884917Z"
+        },
+        "-NiHFdyBHaWXwLWIU1IC": {
+          "body": "why did you guys gang up on me??",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:58:41.678279Z"
+        },
+        "-NiHFgAHG7fME7qOkmaw": {
+          "body": "poor move alpha..",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:58:50.708229Z"
+        },
+        "-NiHFgAHG7fME7qOkmax": {
+          "body": "alpha what happened",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:58:50.708317Z"
+        },
+        "-NiHFiDMkk8ZsAb5gVNJ": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:58:59.097176Z"
+        },
+        "-NiHFlQuqg9QdBi5vtk6": {
+          "body": "Alpha.. cmon buddy",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:59:12.252295Z"
+        },
+        "-NiHFmi1FWOmRzKfybGW": {
+          "body": "I saw this chat late. Apologies",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:59:17.508149Z"
+        },
+        "-NiHFo9pAQmCj6dRY3Nr": {
+          "body": "You want in?",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:59:23.446760Z"
+        },
+        "-NiHFqsq-Pm7tJiCIfq0": {
+          "body": "Sure",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:59:34.584019Z"
+        },
+        "-NiHFs5DjWddn2QqR_cG": {
+          "body": "Equal trading?",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:59:39.535575Z"
+        },
+        "-NiHFuwJsZa74VDHpl2Y": {
+          "body": "I'm trading 4 with both of you, trade 4 with both of us, use the rest to protect",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:59:51.189899Z"
+        },
+        "-NiHFxhLltrZ-_NTupMW": {
+          "body": "I'm down",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:00:02.519796Z"
+        },
+        "-NiHG3NKM0dhfsJx5Tsx": {
+          "body": "kk trade 4 each",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:00:29.846410Z"
+        },
+        "-NiHG3uVq5bwvxnv_CsG": {
+          "body": "Welcome to the elites",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:00:32.033406Z"
+        },
+        "-NiHG84GH0NnP2HcEJq7": {
+          "body": "do 3 each",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:00:49.106848Z"
+        },
+        "-NiHGANuEQUK_Tqu8Bba": {
+          "body": "I'll do 3",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:00:58.555904Z"
+        },
+        "-NiHGBj-3ePMXKSnA1XR": {
+          "body": "3 sounds good",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:01:04.066079Z"
+        },
+        "-NiHGF36INd8rrMt9p9P": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:01:17.704512Z"
+        },
+        "-NiHGKXqi792qrOmd1r3": {
+          "body": "romeo and foxtrot came after me",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:01:40.151736Z"
+        },
+        "-NiHGSZWfxtV7RtIMClB": {
+          "body": "Quebec stole from me. We're done.",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:02:13.026499Z"
+        },
+        "-NiHGScxqG3V2XWlnY2L": {
+          "body": "Quebec, don't trade as much with us.. they are attacking the top player. Keep more to protect",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:02:13.310361Z"
+        },
+        "-NiHGn_KzGaODeSQpLNR": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:03:43.190643Z"
+        },
+        "-NiHHLXOTR7RtNzDrl8-": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:06:06.362682Z"
+        },
+        "-NiHHm341uMki2uSixKW": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:07:59.110866Z"
+        },
+        "-NiHIJI9oyDMiJPNxPM6": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:10:19.339436Z"
+        },
+        "-NiHIrkLnAYZb7c7NUge": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:12:44.567831Z"
+        },
+        "-NiHJNjQsCAEMJ5Etju4": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:14:59.676758Z"
+        },
+        "-NiHJxSYRw0Wnkg8EJTg": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:17:30.084941Z"
+        },
+        "-NiHKVAfwjpEWXAFMPGe": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:19:52.300681Z"
+        },
+        "-NiHL31clT0xtU5Weh7n": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:22:19.178260Z"
+        },
+        "-NiHLcA4Ll2fIhnL7ST0": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:24:47.175271Z"
+        },
+        "-NiHMBc45TquqNFkOiQV": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:27:16.487187Z"
+        },
+        "-NiHMjqqfxRo8rsbWFGS": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.791516Z"
+        }
+      },
+      "name": "Alliance",
+      "participants": [
+        "Oscar",
+        "Quebec",
+        "Alpha"
+      ]
+    },
+    "-NiHGM2jGJ0IEMhckz5v": {
+      "conversationId": "-NiHGM2jGJ0IEMhckz5v",
+      "messages": {
+        "-NiHGO-MzYE39jRI1Iz3": {
+          "body": "fam, it is not profitable to hit you anymore",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:01:54.329197Z"
+        },
+        "-NiHGQ--L7XsDRxHqZEh": {
+          "body": "if you don't hit me, i won't hit you",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:02:02.498097Z"
+        },
+        "-NiHGRKXn5JMdmqIacS9": {
+          "body": "instead, we have oscar on top",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:02:07.971660Z"
+        },
+        "-NiHGc_se-KRDMmcWfHP": {
+          "body": "im tapped out on hitting ya",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:02:58.170301Z"
+        },
+        "-NiHGf9y0gS3ZDOl8Yn2": {
+          "body": "good man",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:03:08.736321Z"
+        },
+        "-NiHGn_PsY-4ocTae84N": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:03:43.195871Z"
+        },
+        "-NiHHLXUH2ViUawEc9oM": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:06:06.368509Z"
+        },
+        "-NiHHm3Ab18bh3xWssjT": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:07:59.116598Z"
+        },
+        "-NiHIJIEN7pcOmh1c_lq": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:10:19.344815Z"
+        },
+        "-NiHIrkSLvGTDRmny3Yw": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:12:44.574444Z"
+        },
+        "-NiHJNjWqdiFX4pFSfB4": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:14:59.682456Z"
+        },
+        "-NiHJxSdcdWR9Y9WIybI": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:17:30.090543Z"
+        },
+        "-NiHKVAk9p1PBfye6zCI": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:19:52.305702Z"
+        },
+        "-NiHL31j9ii28uoVz4BZ": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:22:19.185045Z"
+        },
+        "-NiHLcAAvCgfktqxEse8": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:24:47.181056Z"
+        },
+        "-NiHM3bm4oqf7VMIkQ9c": {
+          "body": "me and you togetha brotha",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:26:43.699514Z"
+        },
+        "-NiHMBcB3mN_cV5pA8FL": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:27:16.494093Z"
+        },
+        "-NiHMJEXm3TuOENM8crO": {
+          "body": "ill give you 2 this round",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:27:47.684054Z"
+        },
+        "-NiHMKir0Y-q-VYEeTeI": {
+          "body": "i wanna save to hit quebec or oscar tho",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:27:53.784756Z"
+        },
+        "-NiHM_KXjYggCCSx2YI4": {
+          "body": "same here ",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:28:57.699961Z"
+        },
+        "-NiHMdKmYBYPtAZsnPQV": {
+          "body": "im giving you a few of my tokens",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:29:14.099978Z"
+        },
+        "-NiHMfQGbe3VqyRJ1clY": {
+          "body": ";)",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:29:22.642845Z"
+        },
+        "-NiHMjqvJQH1slBdPX8y": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.796833Z"
+        }
+      },
+      "name": "olive branch",
+      "participants": [
+        "Papa",
+        "Foxtrot"
+      ]
+    },
+    "-NiHGmljmVGtUsHoOlq2": {
+      "conversationId": "-NiHGmljmVGtUsHoOlq2",
+      "messages": {
+        "-NiHGn_V6nbhaEQ6L_sh": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:03:43.201655Z"
+        },
+        "-NiHGqZ1wfhKo0TE0h8o": {
+          "body": "I did not know he was like that",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:03:55.395797Z"
+        },
+        "-NiHGrK_3lpQgeHrAYes": {
+          "body": "I'm sorrry",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:03:58.566844Z"
+        },
+        "-NiHGrz_i8BhGqCQZ2yI": {
+          "body": "I was all for it",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:04:01.255073Z"
+        },
+        "-NiHGuGr27vSwsGoeesk": {
+          "body": "I say we catch him in the halls after this",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:04:10.616688Z"
+        },
+        "-NiHH-qgrl3uSctXu6Lv": {
+          "body": "Agreed. I am happy to continue trading with you however. Wanna say 3 each way this round?",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:04:37.549957Z"
+        },
+        "-NiHHB8U3chlWvSvKfBd": {
+          "body": "Sure",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:05:23.808923Z"
+        },
+        "-NiHHLXcJuTDyQc8kQpw": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:06:06.378271Z"
+        },
+        "-NiHHZki2kQkZLO-nZ3O": {
+          "body": "sending you another 3",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:07:04.624227Z"
+        },
+        "-NiHHgx695KeEBXc7DMS": {
+          "body": "Same",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:07:38.184444Z"
+        },
+        "-NiHHm3F8bpDArMPoblO": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:07:59.121882Z"
+        },
+        "-NiHHsKCo7iYgN7v0hn8": {
+          "body": "3 from now on",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:08:24.782556Z"
+        },
+        "-NiHHw-EAi3mczsRTDkN": {
+          "body": "Fine by me",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:08:39.824778Z"
+        },
+        "-NiHIJIJSOYy0pB4FonP": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:10:19.350076Z"
+        },
+        "-NiHIrkXpXnoNqPhH767": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:12:44.580042Z"
+        },
+        "-NiHJB4bOALOLeM2fD-Y": {
+          "body": "Let's trade 4 this round. We are rising",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:14:07.848837Z"
+        },
+        "-NiHJEdAqir938dRFQkx": {
+          "body": "okay",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:14:22.412910Z"
+        },
+        "-NiHJNja4Lys6uwMzIf-": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:14:59.687823Z"
+        },
+        "-NiHJxSiRADHn-8K7poR": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:17:30.096156Z"
+        },
+        "-NiHK-ubryIb7OIqEgsh": {
+          "body": "ouch bro.. no trade?",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:17:44.232822Z"
+        },
+        "-NiHK63LQ53HagxzM7Mv": {
+          "body": "I didn't hit submit. Everyone is mad at me. My bad",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:09.432063Z"
+        },
+        "-NiHK8kNMMxTTxlXsMBw": {
+          "body": "I'll give you 4 this round, and you don't have to pay me",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:20.441482Z"
+        },
+        "-NiHKVAp_REMfQeAddmP": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:19:52.310883Z"
+        },
+        "-NiHK_55spio268UxHtA": {
+          "body": "Do you want to resume trading?",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:20:12.423425Z"
+        },
+        "-NiHKiBiNHe-Bqw6-BIt": {
+          "body": "Yead, do 3",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:20:49.712272Z"
+        },
+        "-NiHKkbsJ06OAkwIrHEm": {
+          "body": "Great",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:20:59.642085Z"
+        },
+        "-NiHL31pwPuuS-WVegtW": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:22:19.190460Z"
+        },
+        "-NiHLcAHZzV7KQLpKiqZ": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:24:47.187571Z"
+        },
+        "-NiHMBcJIebsxjVByK67": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:27:16.501937Z"
+        },
+        "-NiHMjr0pIIHRisUpfDo": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.802669Z"
+        }
+      },
+      "name": "Apology",
+      "participants": [
+        "Oscar",
+        "Alpha"
+      ]
+    },
+    "-NiHH8ddSyz1Q1muwFyM": {
+      "conversationId": "-NiHH8ddSyz1Q1muwFyM",
+      "messages": {
+        "-NiHHCekOTJgoFrXCZNQ": {
+          "body": "yall i think quebec and oscar are trading with each other and then blocking the rest",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:05:30.034085Z"
+        },
+        "-NiHHDPmQaXUDNEUyWXu": {
+          "body": "we all need to crush them",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:05:33.108319Z"
+        },
+        "-NiHHJ4QI5oGfpahz6C4": {
+          "body": "This is happening, I'm a witness. everyone steal 2 from quebec",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:05:56.316465Z"
+        },
+        "-NiHHLXk-xmQ_EmKqSfP": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:06:06.386091Z"
+        },
+        "-NiHHRYHP-kDt4N9dbZO": {
+          "body": "what is the last round? i say we all take them for everything theyre worth final round",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:06:30.995456Z"
+        },
+        "-NiHHm3MYFrtGsHsvBF1": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:07:59.128525Z"
+        },
+        "-NiHHqOiUETq5VUvmHrX": {
+          "body": "i think this is it",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:08:16.879767Z"
+        },
+        "-NiHHrNXsfGZmF2TXasl": {
+          "body": "all hit quebec and oscar",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:08:20.900043Z"
+        },
+        "-NiHHwbBPc70R5dPFH9v": {
+          "body": "if we bring one down, the other falls with them",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:08:42.317375Z"
+        },
+        "-NiHHzMsOwIJjLg_u5Zs": {
+          "body": "Quebec is strongest",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:08:53.625926Z"
+        },
+        "-NiHI2FqaBX5lKOLJNS1": {
+          "body": "so should we focus on quebec then",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:09:09.559974Z"
+        },
+        "-NiHI2n0bRSoHbUM44Gi": {
+          "body": "all crush him",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:09:11.747240Z"
+        },
+        "-NiHIAbewVBBwKbuzMWb": {
+          "body": "done",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:09:43.787911Z"
+        },
+        "-NiHIJIOZvaHJLT-av9m": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:10:19.355194Z"
+        },
+        "-NiHIjM26kXNjtRMW8QU": {
+          "body": "screw oscar",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:12:10.180344Z"
+        },
+        "-NiHIrkcmoCt-yHaSnGY": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:12:44.585569Z"
+        },
+        "-NiHIyr-kLczeWMJkN8D": {
+          "body": "yall, oscar and quebec are still on top",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:13:13.665816Z"
+        },
+        "-NiHIzeRJ2PELJQun7gZ": {
+          "body": "romeo, whats up man",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:13:16.957901Z"
+        },
+        "-NiHJHxj_tzstf4ztxlg": {
+          "body": "what did i do to piss alpha off",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:14:36.017315Z"
+        },
+        "-NiHJNjhRjAP9CBvfb9G": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:14:59.695084Z"
+        },
+        "-NiHJuLzKpI-08pHFoon": {
+          "body": "it's about to rough in this after the game ends",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:17:17.377139Z"
+        },
+        "-NiHJxSpyR1oMMQgBkYG": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:17:30.102813Z"
+        },
+        "-NiHKVAuLXpEDD4xZLaC": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:19:52.316165Z"
+        },
+        "-NiHKf37GncH-SdMA9zD": {
+          "body": "yo oscar and quebec trying to make deals and then not giving you any so they make money",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:20:36.873781Z"
+        },
+        "-NiHKfiC9_k9HmomaH_1": {
+          "body": "it just happened to me",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:20:39.566854Z"
+        },
+        "-NiHKh1e4avPULucanJw": {
+          "body": "and oscar shot up",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:20:44.971798Z"
+        },
+        "-NiHL31ugXGqD6j-4n8u": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:22:19.195918Z"
+        },
+        "-NiHLcAPVy_ARrUvSPYb": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:24:47.195873Z"
+        },
+        "-NiHLkUWVK46xcr78p6Z": {
+          "body": "im about to pop off on oscar",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:21.251198Z"
+        },
+        "-NiHLpKQkuIrk6Sho8pw": {
+          "body": "everyone take four?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:25:41.084582Z"
+        },
+        "-NiHLv3YXR-8fBDO5jZe": {
+          "body": "From Oscar? Might jsut lose points",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:26:04.580354Z"
+        },
+        "-NiHM2MgUmfEZ3Z34_sF": {
+          "body": "if everyone attacked?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:26:38.573488Z"
+        },
+        "-NiHMBcPieS3rFWVQkRj": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:27:16.507984Z"
+        },
+        "-NiHMjr7zdVHQo9zxTkp": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.809778Z"
+        }
+      },
+      "name": "anti establishment",
+      "participants": [
+        "Papa",
+        "Foxtrot",
+        "Romeo",
+        "Alpha",
+        "Delta"
+      ]
+    },
+    "-NiHI6qxVvAwpXN5UZvX": {
+      "conversationId": "-NiHI6qxVvAwpXN5UZvX",
+      "messages": {
+        "-NiHI9Dtki0WAOwxRDXg": {
+          "body": "Hey, you keep giving me tokens",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:09:38.107320Z"
+        },
+        "-NiHICW6GmzVvbgnsfZd": {
+          "body": "you want to get boosted? If i trade with you, you can get higher",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:09:51.560562Z"
+        },
+        "-NiHIEuCnARQ4qK57UNk": {
+          "body": "join the top of the leaderboard",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:10:01.358893Z"
+        },
+        "-NiHIJITjbb0Wv_ldYMF": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:10:19.360137Z"
+        },
+        "-NiHISceI4p9_qLbR3fL": {
+          "body": "Im down",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:10:57.580259Z"
+        },
+        "-NiHIXrdNaCsC62NrBnM": {
+          "body": "I'll give you 2 for 2",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:11:19.019161Z"
+        },
+        "-NiHIbdZAhL-8eGpIxJ_": {
+          "body": "sounds good to me",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:11:38.597702Z"
+        },
+        "-NiHIrkhXWzK970GbPGP": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:12:44.590777Z"
+        },
+        "-NiHJ14LiO9lr6C4N51F": {
+          "body": "lets both do 3 this round",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:13:26.871694Z"
+        },
+        "-NiHJ2LJKGMwELbiW3rv": {
+          "body": "Try to boost you up",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:13:32.054160Z"
+        },
+        "-NiHJ9AwQ33ZGz4NzJuR": {
+          "body": "will do",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:14:00.062108Z"
+        },
+        "-NiHJNjnQjAN89x___dL": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:14:59.700633Z"
+        },
+        "-NiHJxSvjDpohRRNc5by": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:17:30.108483Z"
+        },
+        "-NiHKVAz7CjloLrhcsTs": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:19:52.321354Z"
+        },
+        "-NiHL31z6y0GVZSmgfNi": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:22:19.201252Z"
+        },
+        "-NiHLcAdm-CeG6kpwVvx": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:24:47.210432Z"
+        },
+        "-NiHMBcV0lIBaC7HMVP4": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:27:16.514055Z"
+        },
+        "-NiHMjrGyezHNNWQHOBn": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.818931Z"
+        }
+      },
+      "name": "Trade?",
+      "participants": [
+        "Oscar",
+        "Romeo"
+      ]
+    },
+    "-NiHJYdYBhIaZruQXJWZ": {
+      "conversationId": "-NiHJYdYBhIaZruQXJWZ",
+      "messages": {
+        "-NiHJ_Q5iz7HKmHhEl1o": {
+          "body": "big papa",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:15:51.623408Z"
+        },
+        "-NiHJaqFYwlJYGv3smqa": {
+          "body": "whats good",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:15:57.457806Z"
+        },
+        "-NiHJbu6K3Z36BQ80ApB": {
+          "body": "you want to trade eh?",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:16:01.801327Z"
+        },
+        "-NiHJcdScK4bagxBcKo0": {
+          "body": "im down",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:16:04.831330Z"
+        },
+        "-NiHJdRxOIhHTSY5xLBE": {
+          "body": "ill give you 3 for 3",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:16:08.126818Z"
+        },
+        "-NiHJhb1OA_SFwQS8dPi": {
+          "body": "2 is the most i can do, I got people head hunting.. i need to protect",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:16:25.155794Z"
+        },
+        "-NiHJq11jqDxfrtSemsz": {
+          "body": "thats fine",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:16:59.651875Z"
+        },
+        "-NiHJxT-eavccvQ_Fh-T": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:17:30.114Z"
+        },
+        "-NiHKVB4PoxgasybEGoi": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:19:52.326850Z"
+        },
+        "-NiHK_Fb5SPBv-qeiC6I": {
+          "body": "oof my man",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:20:13.096769Z"
+        },
+        "-NiHL324U-HEOXFRh5TQ": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:22:19.206734Z"
+        },
+        "-NiHLcAku69hHD_6eaEB": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:24:47.217845Z"
+        },
+        "-NiHMBcbIeHmBw-4XPej": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:27:16.520460Z"
+        },
+        "-NiHMjrM-8CcUMyWCvgA": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.824700Z"
+        }
+      },
+      "name": "trade",
+      "participants": [
+        "Oscar",
+        "Papa"
+      ]
+    },
+    "-NiHJu2nVR1E6NwPtnAO": {
+      "conversationId": "-NiHJu2nVR1E6NwPtnAO",
+      "messages": {
+        "-NiHJxT5J5d99N8D2d38": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:17:30.120209Z"
+        },
+        "-NiHK26OBx2Zhs-qxIo6": {
+          "body": "Alpha is on the top now, and hasn't traded with me",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:17:53.242550Z"
+        },
+        "-NiHK5RnEYhjAhZSvptW": {
+          "body": "did he trade with you?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:06.900747Z"
+        },
+        "-NiHK775DhxQvNi3wPSn": {
+          "body": "no, he didn",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:13.767820Z"
+        },
+        "-NiHK7jn1F5L6c09WoAG": {
+          "body": "he ate 4 of mine",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:16.308835Z"
+        },
+        "-NiHK9ocrRzM6hUng9VH": {
+          "body": "we could bait him",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:24.810113Z"
+        },
+        "-NiHKB4zw7ImKfaknXDa": {
+          "body": "say well trade with all of us",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:30.016798Z"
+        },
+        "-NiHKBnJ6th1w--eqYen": {
+          "body": "but dont give any to him",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:32.917599Z"
+        },
+        "-NiHKDMK7pRuiZLotdWm": {
+          "body": "feign not submitting",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:39.319095Z"
+        },
+        "-NiHKI38dVCcjAUGjAvS": {
+          "body": "okay",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:18:58.570536Z"
+        },
+        "-NiHKVB9ItuRxxdjcUKP": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:19:52.331989Z"
+        },
+        "-NiHKo3LND7VnJV3iTmi": {
+          "body": "his relationship is as good as ours with Oscar",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:21:13.752080Z"
+        },
+        "-NiHKsQGooqoQAijZpyY": {
+          "body": "thats probably why he has more than us",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:21:31.602691Z"
+        },
+        "-NiHKx77GQBKWEk3WMpy": {
+          "body": "ill give you 4 this round",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:21:50.857983Z"
+        },
+        "-NiHKy5C0IfyAU-yR4pp": {
+          "body": "Oscar pulls him up, he pulls us up?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:21:54.830759Z"
+        },
+        "-NiHKyv2QDNe2zAj-fL9": {
+          "body": "okay",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:21:58.212761Z"
+        },
+        "-NiHKzjm_i02VMKjtJkM": {
+          "body": "that could work",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:22:01.587355Z"
+        },
+        "-NiHL-uq218HQiXbD8QF": {
+          "body": "alpha was true with me last round",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:22:06.392072Z"
+        },
+        "-NiHL32AOiLcnPkkuvRm": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:22:19.212570Z"
+        },
+        "-NiHLFLo-rJxRMr8e3B7": {
+          "body": "its possible we may need to cut ties to make this work",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:23:09.621555Z"
+        },
+        "-NiHLGEoXADU4ig8vXkz": {
+          "body": "romeo has been hitting alpha",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:23:13.269425Z"
+        },
+        "-NiHLIfYz3_34R4KIVNr": {
+          "body": "we could ally with him and hit alpha to bump us up",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:23:23.237317Z"
+        },
+        "-NiHLKKa1IoE4cLmXmtK": {
+          "body": "especially since alpha is working with oscar",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:23:30.024153Z"
+        },
+        "-NiHLKh0q7-JtgLSZHLa": {
+          "body": "strange, so has foxtrot",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:23:31.522980Z"
+        },
+        "-NiHLLpViCQCJrBNPNsa": {
+          "body": "true",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:23:36.161420Z"
+        },
+        "-NiHLOxLQQr-IiQ_iC1h": {
+          "body": "Romeo hasn't said anything",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:23:48.952168Z"
+        },
+        "-NiHLZ9qYh_N6OPULLxB": {
+          "body": "ill give you 5",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:24:30.776090Z"
+        },
+        "-NiHL_8vR63tJKmkx6gx": {
+          "body": "we need to keep trading at least",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:24:34.813057Z"
+        },
+        "-NiHLbn85LuxF5G_QWL6": {
+          "body": "deal",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:24:45.643233Z"
+        },
+        "-NiHLcApKy7DyxcguKKg": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:24:47.223289Z"
+        },
+        "-NiHMBchocY00bqt1bS_": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:27:16.526445Z"
+        },
+        "-NiHMJ1suknAiEvLDChG": {
+          "body": "alpha hasn't given me anything for 3 rounds",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:27:46.874249Z"
+        },
+        "-NiHMPPYbPBfhEddYpok": {
+          "body": "im not giving him any then",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:28:12.965272Z"
+        },
+        "-NiHMQ9lqNofd7xFH7eG": {
+          "body": "he is not to be trusted",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:28:16.050336Z"
+        },
+        "-NiHMhaeToKhU8FcdhQj": {
+          "body": "did he open a private chat with you?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:29:31.563358Z"
+        },
+        "-NiHMjrRJdUVNYRyVt9q": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.830109Z"
+        }
+      },
+      "name": "Alpha Sus",
+      "participants": [
+        "Delta",
+        "Papa"
+      ]
+    },
+    "-NiHMHJ0fHv_JmWAXNIP": {
+      "conversationId": "-NiHMHJ0fHv_JmWAXNIP",
+      "messages": {
+        "-NiHMJC33bQphgjl4ALS": {
+          "body": "I'll give you 4, you give me 2",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:27:47.526033Z"
+        },
+        "-NiHMKhxM4t9Y4Kp9pK-": {
+          "body": "I'll boost you up",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:27:53.727178Z"
+        },
+        "-NiHMQE6xcE_3UlsGs_z": {
+          "body": "you haven't traded with me for 3 rounds",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:28:16.329068Z"
+        },
+        "-NiHMVA3PMhx8M7up-_w": {
+          "body": "Very true, I've been attacking Romeo with all my points",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:28:36.550095Z"
+        },
+        "-NiHMW2drt0qrfznsxul": {
+          "body": "I apologize",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:28:40.171245Z"
+        },
+        "-NiHMY7nYNVzNdLIn4yI": {
+          "body": "Would you prefer not to trade at all?",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:28:48.692985Z"
+        },
+        "-NiHMaOaax-CAA_ymGgG": {
+          "body": "that works",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:29:02.055990Z"
+        },
+        "-NiHMfRDgoXTp37GYyJq": {
+          "body": "Which way? Trade or not trade?",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:29:22.703748Z"
+        },
+        "-NiHMjrXqLbLN4hojoAg": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.835397Z"
+        }
+      },
+      "name": "Friends",
+      "participants": [
+        "Alpha",
+        "Delta"
+      ]
+    },
+    "-NiHMPwCjuN5eVjHW1ho": {
+      "conversationId": "-NiHMPwCjuN5eVjHW1ho",
+      "messages": {
+        "-NiHMV0OlIkeFFk2l5rx": {
+          "body": "is alpha still attacking you?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:28:35.930373Z"
+        },
+        "-NiHMjrb3IQJ8F_Wte4M": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.840689Z"
+        },
+        "-NiHNZucdiJIN53uljV3": {
+          "body": "yeah",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:33:18.121993Z"
+        }
+      },
+      "name": "attackie",
+      "participants": [
+        "Romeo",
+        "Foxtrot"
+      ]
+    },
+    "-NiHMbQSeRdvE5Y4kpxw": {
+      "conversationId": "-NiHMbQSeRdvE5Y4kpxw",
+      "messages": {
+        "-NiHMdneIh1WEvHhhzCD": {
+          "body": "you need some help beating oscar",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:29:16.011770Z"
+        },
+        "-NiHMe95Rj80wVpm3xKW": {
+          "body": "cut me in",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:29:17.447795Z"
+        },
+        "-NiHMejR_l1d3NhN6WWZ": {
+          "body": "ill give you 2",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:29:19.837967Z"
+        },
+        "-NiHMfW6Wc0UrQb5oZBl": {
+          "body": "if you give me 3",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:29:23.016520Z"
+        },
+        "-NiHMgBN01Dm7BpWWfkA": {
+          "body": "*2",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T23:29:25.786002Z"
+        },
+        "-NiHMjrg24nm1bBxBrCN": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.846220Z"
+        }
+      },
+      "name": "some help",
+      "participants": [
+        "Papa",
+        "Quebec"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-NiHD-uoKju8YdeMiBsp": {
+          "body": "lets all be friendly now",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:47:09.237968Z"
+        },
+        "-NiHD1f7wdLbhHvRI9ru": {
+          "body": "everybody give everybody one and we win",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:47:16.426133Z"
+        },
+        "-NiHD2lhZJLbpY-eIa6A": {
+          "body": "so what we gonna do about this",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:47:20.942462Z"
+        },
+        "-NiHDWIgCEBljL9myO4i": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:49:21.902070Z"
+        },
+        "-NiHE-77gxrY6j1gYRWC": {
+          "body": "So Dairy Queen after this",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2023-11-02T22:51:28.137773Z"
+        },
+        "-NiHE5-P0kfgYKBN41CC": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:51:52.219515Z"
+        },
+        "-NiHEdketG6kcHcwW0QJ": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:54:18.667970Z"
+        },
+        "-NiHF9QfLMAY5CmOjR5x": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:56:32.492772Z"
+        },
+        "-NiHFiCf7gX9m-eRKqeH": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T22:58:59.052912Z"
+        },
+        "-NiHGF1THucca332HZzc": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:01:17.599431Z"
+        },
+        "-NiHGnZeuwlTC6WwbbB4": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:03:43.147384Z"
+        },
+        "-NiHHLWl0Kd4To_SvezZ": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:06:06.322408Z"
+        },
+        "-NiHHm2QjCMu-tvhBKtA": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:07:59.068565Z"
+        },
+        "-NiHIJHVJQsWHyoob9ve": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:10:19.297867Z"
+        },
+        "-NiHIrjlPLIriqIXp4MF": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:12:44.530610Z"
+        },
+        "-NiHJNip4h3WFy6NxhML": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:14:59.638843Z"
+        },
+        "-NiHJxRjr_PAiI5QqGUs": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:17:30.032910Z"
+        },
+        "-NiHKVA4DentaHzNPKbC": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:19:52.262531Z"
+        },
+        "-NiHL310gBCmcTElnTz5": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:22:19.138592Z"
+        },
+        "-NiHLc9T71jkvmrd7WiQ": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:24:47.135903Z"
+        },
+        "-NiHMBbT3CfRFWT0qWQP": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:27:16.447922Z"
+        },
+        "-NiHMjqEiOleLaSr1owu": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2023-11-02T23:29:40.752664Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

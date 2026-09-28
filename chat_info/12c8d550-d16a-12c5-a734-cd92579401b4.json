@@ -1,0 +1,2719 @@
+{
+  "conversations": {
+    "-OGplfQVqMpVzGQlA5zb": {
+      "conversationId": "-OGplfQVqMpVzGQlA5zb",
+      "messages": {
+        "-OGplj7drUZV-p-P4GSO": {
+          "body": "You have a long name",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:39:19.979568Z"
+        },
+        "-OGplnvePNsYFJGkYq6H": {
+          "body": "Friends, then?",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:39:39.629305Z"
+        },
+        "-OGplranVxvw2W-hbkVt": {
+          "body": "Without a doubt",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:39:54.677612Z"
+        },
+        "-OGplurfWMbomwaKWTsI": {
+          "body": "sending you 5 tokens",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:40:08.046309Z"
+        },
+        "-OGpm0K85Rc1yo7-uTfo": {
+          "body": "Same",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:40:34.508044Z"
+        },
+        "-OGpm87Fug5-e4puSB_T": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:41:06.450789Z"
+        },
+        "-OGpmErGwwoCilNXP_2V": {
+          "body": "Thx",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:41:34.035864Z"
+        },
+        "-OGpmIOagvw0vGYFDFJV": {
+          "body": "Sending you 6 this time",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:41:48.520959Z"
+        },
+        "-OGpmcgWWimwQWwl4I1N": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:43:15.748120Z"
+        },
+        "-OGpnADzCV0g1WcC6eSs": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:45:37.217613Z"
+        },
+        "-OGpnjwAezdBj2E-L7Si": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:48:07.566093Z"
+        },
+        "-OGpoGjVf4myqfbsorb8": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:50:26.018549Z"
+        },
+        "-OGponQEX3MTaijMkgSr": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:52:43.985568Z"
+        },
+        "-OGppKWhzTRUz4vOkxoS": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:55:03.663665Z"
+        },
+        "-OGppuF5EP_ZtRQiN_S3": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.089287Z"
+        },
+        "-OGpqTyAJUvL5znkgvLC": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.494185Z"
+        }
+      },
+      "name": "Wow",
+      "participants": [
+        "Polio",
+        "Creutzfeldt-Jakob Disease"
+      ]
+    },
+    "-OGplljbBE9C_PtK9P9S": {
+      "conversationId": "-OGplljbBE9C_PtK9P9S",
+      "messages": {
+        "-OGplnFtS6TEwfmNOo13": {
+          "body": "Hello brother",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:39:36.891765Z"
+        },
+        "-OGplpQf_FBC3DhHs3Eq": {
+          "body": "Hello",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:39:45.774270Z"
+        },
+        "-OGplqWDOuMsG1AsGubs": {
+          "body": "I'm giving 8",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:39:50.224527Z"
+        },
+        "-OGplqb5Mehm4dcizwm-": {
+          "body": "8 each?",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:39:50.600685Z"
+        },
+        "-OGplr65cqykbTrMohaz": {
+          "body": "yea",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:39:52.648820Z"
+        },
+        "-OGplsqMneiX6j76isoh": {
+          "body": "cool",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:39:59.770244Z"
+        },
+        "-OGpluLAaebQQzn6nv2l": {
+          "body": "look for converts",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:40:05.901752Z"
+        },
+        "-OGplwg28R9zzEj9N2Ur": {
+          "body": "sir yes sir",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:40:15.493935Z"
+        },
+        "-OGpm87KSc5hQZa8M3pm": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:41:06.456384Z"
+        },
+        "-OGpmFOTlLJZr28au7BE": {
+          "body": "diarrhea wants in",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:41:36.225129Z"
+        },
+        "-OGpmFbQwk9isPFurnGj": {
+          "body": "8 again?",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:41:37.118310Z"
+        },
+        "-OGpmG4_SM9-GOBhan7P": {
+          "body": "ok bet",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:41:39.047461Z"
+        },
+        "-OGpmGi6o4lQa3AaJnu9": {
+          "body": "yeah",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:41:41.641604Z"
+        },
+        "-OGpmKhvd_Fjh87p_KOi": {
+          "body": "you creating chat?",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:41:58.013583Z"
+        },
+        "-OGpmcgbPhIJFUtCp3Pe": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:43:15.754232Z"
+        },
+        "-OGpnAE3dUn69zYemrSI": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:45:37.223126Z"
+        },
+        "-OGpnjwGOTfOiDya0jgB": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:48:07.571688Z"
+        },
+        "-OGpoGj_kuqYbyxpXWsj": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:50:26.024265Z"
+        },
+        "-OGponQJsUEfO0VNdLCX": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:52:43.990604Z"
+        },
+        "-OGppKWmXPTHSgj1zo74": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:55:03.669165Z"
+        },
+        "-OGppuFBUYHJonRmhvPp": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.094750Z"
+        },
+        "-OGpqTyGZJPyxRYZ4Z_Q": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.499761Z"
+        }
+      },
+      "name": "Church",
+      "participants": [
+        "H1N1",
+        "Kidney Disease"
+      ]
+    },
+    "-OGplxUOlhUuaCHtZm54": {
+      "conversationId": "-OGplxUOlhUuaCHtZm54",
+      "messages": {
+        "-OGplzEas1Hebr28TH7w": {
+          "body": "guys if we stick together",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:40:25.961114Z"
+        },
+        "-OGplzd1KeREBhtNuiuE": {
+          "body": "we can win",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:40:27.589332Z"
+        },
+        "-OGpm5BOTAPYQYKck8r6": {
+          "body": "Bet bet",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:40:54.427722Z"
+        },
+        "-OGpm5fLD08qjaqqwSk1": {
+          "body": "I will send 2 to each of you",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:40:56.408800Z"
+        },
+        "-OGpm87RwAAcKKPGKYB9": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:41:06.462886Z"
+        },
+        "-OGpmAKx-A7TMO8txeAF": {
+          "body": "Haha, I already had 6 to each of you",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:41:15.520276Z"
+        },
+        "-OGpmG50sKdemwAXRtDc": {
+          "body": "i will give 5",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:41:39.076041Z"
+        },
+        "-OGpmGi6o4lQa3AaJnuA": {
+          "body": "Oh shoot, I'm down for more",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:41:41.641671Z"
+        },
+        "-OGpmH8hJYB1Y6STRXft": {
+          "body": "to all my good buddies",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:41:43.408194Z"
+        },
+        "-OGpmHg7hzTBbiJCo25g": {
+          "body": "5 each",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:41:45.611245Z"
+        },
+        "-OGpmNDKm_kHP9-KVFuJ": {
+          "body": "lets go 5. sorry leprosy I accidentally submitted last round, didnt realize I was the lsat one to submit",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:08.279806Z"
+        },
+        "-OGpmZ6y9aX9vblPuXVz": {
+          "body": "dont listen to that guy",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:57.024882Z"
+        },
+        "-OGpmZ_gLmspz9ajSlFz": {
+          "body": "were full",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:58.927014Z"
+        },
+        "-OGpma2j5E12JhGfMvSY": {
+          "body": "no room at the lunch table",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:04.945864Z"
+        },
+        "-OGpmcHLQejXi_MXuZuU": {
+          "body": "I'm friends with him",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:14.072897Z"
+        },
+        "-OGpmcHTnDmvEQ6Pz2fv": {
+          "body": "that guy being the dude who made the other chat w us",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:14.081049Z"
+        },
+        "-OGpmcNq2AphpHgLqrR4": {
+          "body": "I'll throw him one",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:14.488516Z"
+        },
+        "-OGpmcghnooMM-BBLmqY": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:43:15.759471Z"
+        },
+        "-OGpmgRGf5SenuRGVtUt": {
+          "body": "Let",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:31.091556Z"
+        },
+        "-OGpmiNXx-r1bcU-onl5": {
+          "body": "guys we must kill h1n1",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:39.045134Z"
+        },
+        "-OGpmk-QYOzTFf4M1sVP": {
+          "body": "theyre too powerfull",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:45.693515Z"
+        },
+        "-OGpmkir57p6s385cJVO": {
+          "body": "Let's all give creutz 1",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:48.665376Z"
+        },
+        "-OGpmkvDJD8SOlj0Uf3d": {
+          "body": "steal 2",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:49.457178Z"
+        },
+        "-OGpmm9c15H34PPQozxQ": {
+          "body": "ok",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:54.538885Z"
+        },
+        "-OGpmoC0_pTOTvmZUiCs": {
+          "body": "Hey I only got 4 from polio",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:02.883439Z"
+        },
+        "-OGpmoUhfOmV1TPjeCg5": {
+          "body": "ill give to creutz too",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:04.080318Z"
+        },
+        "-OGpmozY9vCBx94G8fKL": {
+          "body": "for the peopl",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:06.117589Z"
+        },
+        "-OGpmw5RzuJEr0MbgYm_": {
+          "body": "I gave one of yours to creutz",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:35.230472Z"
+        },
+        "-OGpmwbvgqD6xQj1Eou6": {
+          "body": "poor fella",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:37.374178Z"
+        },
+        "-OGpn4oF3O_uauYG9BG_": {
+          "body": "I'm giving 4 to each of you to attack h1n1 and give one to creutz",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:45:15.026800Z"
+        },
+        "-OGpn7A3qRNV4sICi8j5": {
+          "body": "very good",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:45:24.678501Z"
+        },
+        "-OGpn7hQVjum6niRsOnR": {
+          "body": "I like that idea",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:45:26.877994Z"
+        },
+        "-OGpnAE8nXL6bO-ewoBx": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:45:37.228228Z"
+        },
+        "-OGpnGTGEJfywG4BkJ1B": {
+          "body": "now kill kidney disease",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:02.771755Z"
+        },
+        "-OGpnHsdUC1VnyGb9fNd": {
+          "body": "we gotta keep them at bay",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:08.556017Z"
+        },
+        "-OGpnKarB2RYEoJdy0zP": {
+          "body": "creutz might be a farmer, but we're gangstas",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:19.706100Z"
+        },
+        "-OGpnM5qmE2CfC4OlRUm": {
+          "body": "You did like no damage to h1n1",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:25.849331Z"
+        },
+        "-OGpnRJ8iJ6CcSrgWqim": {
+          "body": "fr",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:47.179914Z"
+        },
+        "-OGpnRtD57Lz9Y-l4aV0": {
+          "body": "who me? i took two, i thought thats what we said",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:49.552867Z"
+        },
+        "-OGpnSWmnmZJgBDqh6JE": {
+          "body": "I think we go after H1N1 a little more",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:52.148902Z"
+        },
+        "-OGpnTOUN6oUjHN-U1qI": {
+          "body": "If you wanna kill them off you gotta full on attack",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:55.713567Z"
+        },
+        "-OGpnUvxU2QWAeJxfrmb": {
+          "body": "ok",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:02.015701Z"
+        },
+        "-OGpnVa5uwVEi0_qM2V0": {
+          "body": "Otherwise theyre gonna retaliate",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:04.712941Z"
+        },
+        "-OGpnW6aQ6I32lBBm0pX": {
+          "body": "h1n1 it is",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:06.856592Z"
+        },
+        "-OGpnXfVGlmxEUKGtAvm": {
+          "body": "let's put 3 or 4 on him them",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:13.251159Z"
+        },
+        "-OGpnYBZDJV8Bi9Rfj-S": {
+          "body": "tjen",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:15.367292Z"
+        },
+        "-OGpnbOnGt3rrLGChN8o": {
+          "body": "He's too low, though. Maybe lets go for kidney disease for the clout",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:32.598042Z"
+        },
+        "-OGpncX2e81Mb6L8RH0G": {
+          "body": "I'm taking 3. He gave me two last round though",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:37.221801Z"
+        },
+        "-OGpneoTjHnqQXRvlDvy": {
+          "body": "a bit on each",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:46.593119Z"
+        },
+        "-OGpneyMO5cPfFYm_qnS": {
+          "body": "It's a difference of 10",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:47.226329Z"
+        },
+        "-OGpnfYMq0VGKwLDgUH8": {
+          "body": "how about that",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:49.593967Z"
+        },
+        "-OGpnjwLCpTMw-sELj8x": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:48:07.576867Z"
+        },
+        "-OGpnjwtavh6i2P_S2ZA": {
+          "body": "Kidney hasn't been atttacking us, so why would he start now?",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:48:07.611513Z"
+        },
+        "-OGpnmSf-ScpFH5zp7T3": {
+          "body": "Weaken H1N1 moe!",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:48:17.901644Z"
+        },
+        "-OGpnqc_l0EGZgQjKvrA": {
+          "body": "Why didn't I get any from Polio?",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:48:34.983860Z"
+        },
+        "-OGpnwm8xtl-RgqTc7yt": {
+          "body": "I didn't submit tokens last round :o",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:00.172170Z"
+        },
+        "-OGpnxse7IhILLDAlBSK": {
+          "body": "I am trash at this game",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:04.685100Z"
+        },
+        "-OGpnydTd3FTgLwgWsYN": {
+          "body": "Oops",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:07.808782Z"
+        },
+        "-OGpo5aMnnuEX1MjGABL": {
+          "body": "sending you each 5",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:40.377691Z"
+        },
+        "-OGpoGjf_R5EpJ5REVul": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:50:26.029554Z"
+        },
+        "-OGpoSU9woVxbNjrHj8d": {
+          "body": "ok ill give 3 to each of you take two from kidney and creutz, hows that?",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:51:14.125276Z"
+        },
+        "-OGpoVb2LQgIObYdDegp": {
+          "body": "that's great",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:51:26.917565Z"
+        },
+        "-OGpoagXRLL387Yq7Ng1": {
+          "body": "Wait why creutz?",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:51:51.845128Z"
+        },
+        "-OGpod3ZjXs91ZM0bgPk": {
+          "body": "lol cuz we wanna be on top",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:01.575051Z"
+        },
+        "-OGpodoix-OqjffFjORO": {
+          "body": "I think we still try to crush H1N!",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:04.656507Z"
+        },
+        "-OGpoeB3i8EYqAD-XD19": {
+          "body": "cant let them have power",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:06.151341Z"
+        },
+        "-OGpof6NW-9J9NlwQ-eE": {
+          "body": "the status quo",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:09.946943Z"
+        },
+        "-OGpofuufO8ggInD4vy0": {
+          "body": "He's still relevant",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:13.244852Z"
+        },
+        "-OGpoh935gJMakgfBlDN": {
+          "body": "Let's send someone to bardo",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:18.311215Z"
+        },
+        "-OGpokNAhPAL17_df6sk": {
+          "body": "Squash him, then we can get others",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:31.501676Z"
+        },
+        "-OGpold9-GH014dP2lrb": {
+          "body": "ok kidney and h1n1",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:36.684722Z"
+        },
+        "-OGpomgsf5m5evEwkNia": {
+          "body": "kill them",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:41.018744Z"
+        },
+        "-OGponQOwWIALgQDgR-v": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:52:43.995656Z"
+        },
+        "-OGpoyG3t5HxqzmMlp-2": {
+          "body": "waht now?",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:28.391277Z"
+        },
+        "-OGpp-TEjsaSLQ0tatk_": {
+          "body": "ok lets end this, save some of yours, take 4 from h1n1, and 2 from kidney",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:37.425805Z"
+        },
+        "-OGpp2B2UU7RclK2lTp4": {
+          "body": "ill give like 1 or 2 to each of u",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:48.549997Z"
+        },
+        "-OGpp2FeVBTH0iK8KY4K": {
+          "body": "Is h1n1 worth it?",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:48.845165Z"
+        },
+        "-OGpp3mJ3sqSAKH3vnd0": {
+          "body": "he has the lowest points",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:55.095347Z"
+        },
+        "-OGpp4BsbJXDHTekJej-": {
+          "body": "its about sending a message",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:56.795187Z"
+        },
+        "-OGpp9MWyU9MUo0g52Yd": {
+          "body": "Ok",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:54:17.955829Z"
+        },
+        "-OGppCOq-ZkafDTZbIz5": {
+          "body": "Leprosy wya?",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:54:30.393085Z"
+        },
+        "-OGppHy5tkyu2n5H1v8-": {
+          "body": "I'm not going to attack",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:54:53.193196Z"
+        },
+        "-OGppKWs3WUkAJuuLfPN": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:55:03.674524Z"
+        },
+        "-OGppVc4IDVnimeAim_C": {
+          "body": "coward",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:55:49.127836Z"
+        },
+        "-OGppuFGZJvjJECOpeGn": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.099788Z"
+        },
+        "-OGpqDwEiVRCRSXJH3oU": {
+          "body": "Why am I getting only two from y'all?",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:58:58.834048Z"
+        },
+        "-OGpqTyMT8KWWH0QifC3": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.505582Z"
+        }
+      },
+      "name": "gangstas",
+      "participants": [
+        "Pneumonic Plague",
+        "Leprosy",
+        "Polio",
+        "Parkinson's Disease"
+      ]
+    },
+    "-OGplz15X0QHxZ5ZWmLy": {
+      "conversationId": "-OGplz15X0QHxZ5ZWmLy",
+      "messages": {
+        "-OGpm87XUZHOxKxhYr_Z": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:41:06.469249Z"
+        },
+        "-OGpmcgmYLT4IDRw605g": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:43:15.765412Z"
+        },
+        "-OGpnAEEYRg_vIdNT7PF": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:45:37.233739Z"
+        },
+        "-OGpnjwS4EY__Yza0CAL": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:48:07.583641Z"
+        },
+        "-OGpoGjkA_zXPM1mOsbd": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:50:26.034825Z"
+        },
+        "-OGponQTGDDG87d13_Rh": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:52:44.001081Z"
+        },
+        "-OGppKWxdGhBNaLHpcgQ": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:55:03.680094Z"
+        },
+        "-OGppuFb7Sjso0dYnJcC": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.121755Z"
+        },
+        "-OGpqTyURqbB090QZPCO": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.514117Z"
+        }
+      },
+      "name": "Death",
+      "participants": [
+        "Leprosy",
+        "Pneumonic Plague",
+        "Polio"
+      ]
+    },
+    "-OGpm8p1fSDnQWZnfc2e": {
+      "conversationId": "-OGpm8p1fSDnQWZnfc2e",
+      "messages": {
+        "-OGpm9vawS8RDMXwQWUt": {
+          "body": "gods love my boy",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:41:13.833097Z"
+        },
+        "-OGpmALKlxfVD7QCR8Lg": {
+          "body": "what you got for me",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:41:15.543926Z"
+        },
+        "-OGpmCOji_3x20jyI2oA": {
+          "body": "come to the covenant, ",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:41:23.953877Z"
+        },
+        "-OGpmcgs21CMrx8sLS36": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:43:15.771008Z"
+        },
+        "-OGpnAEJoQ5zrQJ-PiPw": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:45:37.239065Z"
+        },
+        "-OGpnjwX_U_OSDksoiIL": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:48:07.589188Z"
+        },
+        "-OGpoGjpf1U6hagfxiYY": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:50:26.040248Z"
+        },
+        "-OGponQZKcWUQyIEnmlH": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:52:44.006451Z"
+        },
+        "-OGppKX2mSGE8G-F2PSH": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:55:03.685480Z"
+        },
+        "-OGppuFg33jEVMY6zzYM": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.127126Z"
+        },
+        "-OGpqTy_NphpQd2U-L7s": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.519802Z"
+        }
+      },
+      "name": "believers",
+      "participants": [
+        "Infectious Diarrhea",
+        "H1N1"
+      ]
+    },
+    "-OGpmJR6tasd7F2mA51S": {
+      "conversationId": "-OGpmJR6tasd7F2mA51S",
+      "messages": {
+        "-OGpmLMx8c4wCJmvdDhA": {
+          "body": "welcome brethren",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:00.703951Z"
+        },
+        "-OGpmME3MxPFl4ne6AZK": {
+          "body": "hello",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:04.231048Z"
+        },
+        "-OGpmNBc_Mjt5_SyCRuw": {
+          "body": "hello",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:08.170429Z"
+        },
+        "-OGpmNNFW8CVQ_XHJu80": {
+          "body": "i will give 8 each?",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:08.914719Z"
+        },
+        "-OGpmQXbOmwug-zGwlGI": {
+          "body": "yes",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:21.866223Z"
+        },
+        "-OGpmRj33iwRRAm-KN7z": {
+          "body": "we must consecrate all",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:26.758994Z"
+        },
+        "-OGpmSUAp7jq4-wcsL4r": {
+          "body": "yes",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:29.837816Z"
+        },
+        "-OGpmU-CXDEMkdRk0nxn": {
+          "body": "rise above the mortal body",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:36.048066Z"
+        },
+        "-OGpmU0rCu81qMCJ5v14": {
+          "body": "rise above the mortal body",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:36.153818Z"
+        },
+        "-OGpmU3YPy0GD5uSAQ_p": {
+          "body": "Ill do 6 each",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:36.325728Z"
+        },
+        "-OGpmUzY4yu2M1JrOKBG": {
+          "body": "fair",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:40.102126Z"
+        },
+        "-OGpmYR1FEY0mMkiMsdp": {
+          "body": "im still 8 to h1n1",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:54.212602Z"
+        },
+        "-OGpmZln7kQVWHwCGlYs": {
+          "body": "okay",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:59.701539Z"
+        },
+        "-OGpm_PwCxIoC6mDIUqU": {
+          "body": "same",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:02.334998Z"
+        },
+        "-OGpm_Vl3VgcI3tkzfkU": {
+          "body": "thumbs up",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:02.707529Z"
+        },
+        "-OGpma1FbV53d7fYTXdm": {
+          "body": "but i'll 6 to you diarrhea",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:04.851040Z"
+        },
+        "-OGpmaYsaXtjBb3NBdjQ": {
+          "body": "word",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:07.003251Z"
+        },
+        "-OGpmcgyiCS-6HjUo09a": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:43:15.776620Z"
+        },
+        "-OGpmhSQybtPT92a-tR0": {
+          "body": "giving yall 8 each",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:35.261788Z"
+        },
+        "-OGpmitqEch3o7cbxUgj": {
+          "body": "bet",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:41.177243Z"
+        },
+        "-OGpmjrWspWfdJyo6W4F": {
+          "body": "i was gonna try and get parkinsons in here just becuase he has a lot of good connections",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:45.123940Z"
+        },
+        "-OGpmkvy7plAki8IuP5u": {
+          "body": "but he has not reciprocated",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:49.505331Z"
+        },
+        "-OGpml4lD_1WeO4mLA5m": {
+          "body": "ok ok",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:50.132348Z"
+        },
+        "-OGpmlhCC0tSGvjsxsjd": {
+          "body": "do it",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:52.655778Z"
+        },
+        "-OGpmmhgS4EFfk_h6CHx": {
+          "body": "we could try to throw him a message if we want",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:43:56.782916Z"
+        },
+        "-OGpmnwCv0pqgKkYtbl6": {
+          "body": "send him our brotherly love",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:01.807511Z"
+        },
+        "-OGpmoLjQjGUPqJwA5vN": {
+          "body": "might be worth",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:03.505388Z"
+        },
+        "-OGpmv48RlrkEkL5fM4L": {
+          "body": "I'm giving to parkinsons as well as six each to you guys",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:31.052075Z"
+        },
+        "-OGpmw7gXs58nskYKmO5": {
+          "body": "ok",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:35.374930Z"
+        },
+        "-OGpmxdF2gRtYsn1q17T": {
+          "body": "he just gets 2 unless he joins fr",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:41.554518Z"
+        },
+        "-OGpmz83DMqDz365zDQg": {
+          "body": "that works",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:47.686926Z"
+        },
+        "-OGpmzoJxo6ypSQYSbO0": {
+          "body": "yteah fair",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:50.454684Z"
+        },
+        "-OGpn0uZHcTlyj_CKEn-": {
+          "body": "ill reciprocate 6 to you and 8 to h1n1",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:59.046704Z"
+        },
+        "-OGpn28AiksE9DfLoOjD": {
+          "body": "ive already thrown him some tokens w/ no reciprication so like",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:45:04.078276Z"
+        },
+        "-OGpn3kiOXBr-jM745K8": {
+          "body": "hes already rich no reason to make his head any bigger",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:45:10.705082Z"
+        },
+        "-OGpn4whdsPUY-AcJJeD": {
+          "body": "true",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:45:15.567933Z"
+        },
+        "-OGpn7mmHYPLKKe5M_Ie": {
+          "body": "we need the main group to join us",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:45:27.220980Z"
+        },
+        "-OGpn9NqyuEmc7je4JZE": {
+          "body": "it seems like there are two groups",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:45:33.753219Z"
+        },
+        "-OGpnAEP6nQ_e_AJdeSh": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:45:37.245210Z"
+        },
+        "-OGpnE5ltcZ7iXJSV-lH": {
+          "body": "there are, do we wnat to try and snpe jacob diesease?",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:45:53.075745Z"
+        },
+        "-OGpnFdOJrN2sASv8ixp": {
+          "body": "they are taking down me",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:45:59.388107Z"
+        },
+        "-OGpnFnPagm_z-Ba5xMm": {
+          "body": "he doesn't seem to be a stron gmember of the other grou",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:00.029202Z"
+        },
+        "-OGpnJpou2QBbd2ILvO9": {
+          "body": "but we will make him string",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:16.566739Z"
+        },
+        "-OGpnKJLEt7eyi3GeIhe": {
+          "body": "string",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:18.520635Z"
+        },
+        "-OGpnKoqhjXs3O1zMOJU": {
+          "body": "strong",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:20.601306Z"
+        },
+        "-OGpnN4rdFpZPxkZxFTS": {
+          "body": "and ascend the hill together",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:29.882084Z"
+        },
+        "-OGpnQKsplWH1Q2xCZqP": {
+          "body": "H1 did you get stolen from or did you do the stealing, wanna know if we need to protect you",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:43.195063Z"
+        },
+        "-OGpnQwFH9Pv5xLobaq5": {
+          "body": "We need to just get a little more influence",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:45.651028Z"
+        },
+        "-OGpnUDwQRGE9eo9hqbO": {
+          "body": "we wanna let jake in?",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:59.134612Z"
+        },
+        "-OGpnVChWgo6AEg3v5lI": {
+          "body": "hes asking in the other chat",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:03.152327Z"
+        },
+        "-OGpnVjejTRifwTQQlex": {
+          "body": "I was stolen from, I might need to keep a little, is 5 each okay?",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:05.325287Z"
+        },
+        "-OGpnXGbEcmcqYPKqZUT": {
+          "body": "sure",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:11.593455Z"
+        },
+        "-OGpnYwbtkJFS0azeK_O": {
+          "body": "yeah let him in",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:18.441856Z"
+        },
+        "-OGpndNYgczdJmgyHiUF": {
+          "body": "chill",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:40.710027Z"
+        },
+        "-OGpnjwcoB_n_UP6DGq9": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:48:07.594437Z"
+        },
+        "-OGpoGjvv8glSDoy5xiI": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:50:26.046106Z"
+        },
+        "-OGponQdKq7jCJ4cV1xy": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:52:44.011802Z"
+        },
+        "-OGppKX7Gi9d1tucbpu6": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:55:03.691193Z"
+        },
+        "-OGppuFmrKwHYrkAKwEK": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.132428Z"
+        },
+        "-OGpqTyfbQqVKy4cEx9U": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.525635Z"
+        }
+      },
+      "name": "Church2",
+      "participants": [
+        "H1N1",
+        "Infectious Diarrhea",
+        "Kidney Disease"
+      ]
+    },
+    "-OGpmSLfoVDumbpvgPRK": {
+      "conversationId": "-OGpmSLfoVDumbpvgPRK",
+      "messages": {
+        "-OGpmUJsIqD8wQXlTFQE": {
+          "body": "Should we all be friends?",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:37.371051Z"
+        },
+        "-OGpmYttPbDcJWa0Ku9H": {
+          "body": "Of course",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:56.123784Z"
+        },
+        "-OGpmch20ffli8t6GPGl": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:43:15.782129Z"
+        },
+        "-OGpmpjB-vXT0lMSmf2O": {
+          "body": "yes",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:09.166383Z"
+        },
+        "-OGpnAEV9K_hJFkErMVJ": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:45:37.250618Z"
+        },
+        "-OGpnjwhGL4AuHuCkF9T": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:48:07.599947Z"
+        },
+        "-OGpoGk0iIaBcD2nuQTv": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:50:26.051574Z"
+        },
+        "-OGponQi9eLgm3TyYkLS": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:52:44.016956Z"
+        },
+        "-OGppKXDnKS8ML-NCIGr": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:55:03.697050Z"
+        },
+        "-OGppuFqF6AKct7x3ZEU": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.137288Z"
+        },
+        "-OGpqTyleOQ6ND3q4PuY": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.531800Z"
+        }
+      },
+      "name": "Strongest group",
+      "participants": [
+        "Creutzfeldt-Jakob Disease",
+        "Parkinson's Disease",
+        "Polio",
+        "Pneumonic Plague"
+      ]
+    },
+    "-OGpmoj9Ik4fzFqWEyu1": {
+      "conversationId": "-OGpmoj9Ik4fzFqWEyu1",
+      "messages": {
+        "-OGpmqvIetMsIYjYbtB1": {
+          "body": "Can I be in your group?",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:14.037858Z"
+        },
+        "-OGpn2seQ7ydSw9BuZV1": {
+          "body": "Ill give you 1",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:45:07.116899Z"
+        },
+        "-OGpn8_43E1jXbVqUpW7": {
+          "body": "That's all you have for a poor farmer?",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:45:30.439730Z"
+        },
+        "-OGpnAE_2CWUJ9LLeA_V": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:45:37.256097Z"
+        },
+        "-OGpnHcPncYMADZBpwmC": {
+          "body": "Sending you each 2",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:07.516457Z"
+        },
+        "-OGpnjwn8nWSj_yi5ML0": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:48:07.605450Z"
+        },
+        "-OGpnrQoJDWzizxL3nwo": {
+          "body": "Thanks, Lep and Park",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:48:38.262699Z"
+        },
+        "-OGpoGk5VizHdhRDH_ZL": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:50:26.056750Z"
+        },
+        "-OGponQo-6K48VO782Bu": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:52:44.022599Z"
+        },
+        "-OGppKXJ8LeZ-bUy3qCA": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:55:03.702423Z"
+        },
+        "-OGppuFw23IfNzf6M5-t": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.142716Z"
+        },
+        "-OGpqTyq_fziVxyhX9CX": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.536982Z"
+        }
+      },
+      "name": "Join you?",
+      "participants": [
+        "Creutzfeldt-Jakob Disease",
+        "Pneumonic Plague",
+        "Parkinson's Disease",
+        "Polio",
+        "Leprosy"
+      ]
+    },
+    "-OGpmsERZUrvbwRFNYsI": {
+      "conversationId": "-OGpmsERZUrvbwRFNYsI",
+      "messages": {
+        "-OGpmu_TLKHTbo5RFurW": {
+          "body": "I would love to invite you to join our esteemed group",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:29.024406Z"
+        },
+        "-OGpmw3p69LRUYCvBzBx": {
+          "body": "you seem to be highly regarded by the bretheren",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:44:35.128260Z"
+        },
+        "-OGpnAEfTP5lVvrtreYh": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:45:37.261585Z"
+        },
+        "-OGpnjwsLN36u9IO_csB": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:48:07.610970Z"
+        },
+        "-OGpoGkAJLjdinSVAsQq": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:50:26.061890Z"
+        },
+        "-OGponQt79Vh0o3hdwp3": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:52:44.028255Z"
+        },
+        "-OGppKXOw6h24pcPS-UL": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:55:03.707979Z"
+        },
+        "-OGppuG0NAnGM05GhPOn": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.148029Z"
+        },
+        "-OGpqTywI3zi6yHmRH5q": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.543380Z"
+        }
+      },
+      "name": "secret shhhh",
+      "participants": [
+        "Infectious Diarrhea",
+        "Parkinson's Disease"
+      ]
+    },
+    "-OGpn3QF2ikBbXAj2DJN": {
+      "conversationId": "-OGpn3QF2ikBbXAj2DJN",
+      "messages": {
+        "-OGpnAEkGx6GFLOi-fVS": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:45:37.267194Z"
+        },
+        "-OGpnjwydZgrFQRBcke1": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:48:07.616621Z"
+        },
+        "-OGpoGkF6pqHQq3J8nZg": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:50:26.067110Z"
+        },
+        "-OGponQz-ha2sO6BrzYK": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:52:44.033600Z"
+        },
+        "-OGppKXUx0xUAXXPb4od": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:55:03.713499Z"
+        },
+        "-OGppuG5J-K6sCXji8H9": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.153305Z"
+        },
+        "-OGpqTz2fKx-jRiXZ_u6": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.549672Z"
+        }
+      },
+      "name": "Invitation",
+      "participants": [
+        "H1N1",
+        "Parkinson's Disease"
+      ]
+    },
+    "-OGpnOVLi112wEWJXzcB": {
+      "conversationId": "-OGpnOVLi112wEWJXzcB",
+      "messages": {
+        "-OGpnQUyVaknSb5VMnib": {
+          "body": "Would you let me into your group?",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:46:43.840994Z"
+        },
+        "-OGpnUpfaIJC8zrE2xEk": {
+          "body": "I'll send you each 2 this round to show my loyalty",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:01.613568Z"
+        },
+        "-OGpnWq9X3b3jsV-wx6W": {
+          "body": "ok ok",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:09.836591Z"
+        },
+        "-OGpnYzqnPl8fQOWEAWB": {
+          "body": "yeah welcome aboard",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:18.648792Z"
+        },
+        "-OGpnahYkqzE6gK4rUgK": {
+          "body": "ill reciprocate 2",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:29.765886Z"
+        },
+        "-OGpnb-GFbF9eJ4ucYbo": {
+          "body": "you have been aproved by the council",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:30.964296Z"
+        },
+        "-OGpnf0Ym-jfux8JnXLZ": {
+          "body": "welcome brother",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:47:47.430316Z"
+        },
+        "-OGpniZKiAJlWASkok95": {
+          "body": "welcome",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:48:01.943523Z"
+        },
+        "-OGpnjx21q1XMqYoenuB": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:48:07.622136Z"
+        },
+        "-OGpnncSZ08EgTrxx4Dc": {
+          "body": "aight who got stolen from, h1 you doing alright?",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:48:22.687765Z"
+        },
+        "-OGpnpOtpZrtJxhJqwvA": {
+          "body": "I am being hit hard",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:48:29.948109Z"
+        },
+        "-OGpnrQoJDWzizxL3nwp": {
+          "body": "we wanna try and snipe plague or do we want to try and hold on a little longer?",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:48:38.262773Z"
+        },
+        "-OGpntiX53BOusmY4iFm": {
+          "body": "he seems to be the weakest and the most weekly connected of the other group",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:48:47.652658Z"
+        },
+        "-OGpnuoWH-1W576J8mCk": {
+          "body": "righteous anger",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:48:52.132375Z"
+        },
+        "-OGpnvCPwuESURO2vJhX": {
+          "body": "but we gotta move quickly they are getting powerful;",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:48:53.725082Z"
+        },
+        "-OGpo0PXl-9iQK_qDNhV": {
+          "body": "2 each, everyone take three from plaque",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:19.140604Z"
+        },
+        "-OGpo1bNIC4_v75HPQ_X": {
+          "body": "plague attacked me",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:24.058663Z"
+        },
+        "-OGpo63jMpZxyxAy4Vvh": {
+          "body": "he might save this turn",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:42.321856Z"
+        },
+        "-OGpo6WjSHrkry97mzO_": {
+          "body": "We should all hit hard rather than just with 3",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:44.177387Z"
+        },
+        "-OGpo7IzMQodqnoLrK8A": {
+          "body": "everyone take 5 from plaque",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:47.393533Z"
+        },
+        "-OGpo7LamPWiJ4s5A4lB": {
+          "body": "aight everyone steal 3 from plague, more if yu can ",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:47.561346Z"
+        },
+        "-OGpo8Ugq3caF5nU6gss": {
+          "body": "everyone hit with 5",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:52.239119Z"
+        },
+        "-OGpo8r8wB_FgEmRcO20": {
+          "body": "agree",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:53.740081Z"
+        },
+        "-OGpo9kQEGW8bNzueNC8": {
+          "body": "yes",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:57.406300Z"
+        },
+        "-OGpoBU-_Js8pUjmXHC0": {
+          "body": "giving 3 to all and stealing 5 from plage",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:50:04.482713Z"
+        },
+        "-OGpoGkKhBP_3yehayvY": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:50:26.072392Z"
+        },
+        "-OGpoKDov0dVglcOuHBJ": {
+          "body": "they were ready for that",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:50:40.311038Z"
+        },
+        "-OGpoODriiGTy060ooFX": {
+          "body": "they were ready for that drat",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:50:56.697818Z"
+        },
+        "-OGpoX6FvaenOJLK36a0": {
+          "body": "im giving 3 h1n1 to raise, infectious 4 cause strength and 2 jakob",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:51:33.074664Z"
+        },
+        "-OGpoXDVJsahp2EWuG_a": {
+          "body": "We need to hit hard at once for it to be successful",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:51:33.539299Z"
+        },
+        "-OGpo_BUzmwxOK7LQPRE": {
+          "body": "do we wanna try and hit hard or do we want to clump up? Im not sure how to turn this without getting a traitor from they team",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:51:45.698096Z"
+        },
+        "-OGpo_ambXI4mOwbBsJ8": {
+          "body": "just give, lets see if we can grow",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:51:47.380704Z"
+        },
+        "-OGpoccJY-bNC6G4XvAI": {
+          "body": "yeah",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:51:59.766584Z"
+        },
+        "-OGpod_cAgQuSt3vtd7D": {
+          "body": "give",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:03.690457Z"
+        },
+        "-OGpofZwMLcLsMRkrxHD": {
+          "body": "like the stream",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:11.838991Z"
+        },
+        "-OGpoi4Vdv5vsDVjuPyY": {
+          "body": "If they attack and we don't, it'll be problematic",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:22.114457Z"
+        },
+        "-OGpoi96adFNWGUNhdBX": {
+          "body": "idk if we can grow enough at thsi point",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:22.409606Z"
+        },
+        "-OGpojDwb5Z6lVl-iC6v": {
+          "body": "they have the higher ground",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:26.814806Z"
+        },
+        "-OGpokqzHa0XNOU3zMLT": {
+          "body": "Leprosy is good, btw",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:33.473395Z"
+        },
+        "-OGponR3cgvu_96O0TNH": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:52:44.038871Z"
+        },
+        "-OGponaLyhCxJ6pWHxlI": {
+          "body": "what mean good",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:44.697280Z"
+        },
+        "-OGporaKBhiTvxfl4xmP": {
+          "body": "yes",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:01.080041Z"
+        },
+        "-OGposlh08pl0vpCA5dY": {
+          "body": "we could all shoot for polio if we want",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:05.903720Z"
+        },
+        "-OGpotKQWEt6aD1exj4s": {
+          "body": "pnumonic and polio are bad",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:08.190248Z"
+        },
+        "-OGpouSGJFDZBU4HZrkF": {
+          "body": "just becuase he is the weakest of the grou",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:12.788305Z"
+        },
+        "-OGpouXo8dT95EV-MHbM": {
+          "body": "if he wants in that sounds good",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:13.142794Z"
+        },
+        "-OGpow3S6xqFMJQbzO1Q": {
+          "body": "we have the highest chance of being able to take them down",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:19.392037Z"
+        },
+        "-OGpp0EVkGmf_GBj1Adb": {
+          "body": "Lep said their group is sus",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:40.578903Z"
+        },
+        "-OGpp2SnbvAzpfYIT3td": {
+          "body": "lets take polio?",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:49.685881Z"
+        },
+        "-OGpp7304V7IhZUfIiK9": {
+          "body": "not now",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:54:08.515973Z"
+        },
+        "-OGpp7RKA1e13sOeYSLh": {
+          "body": "all raise the right hand to manifest",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:54:10.071462Z"
+        },
+        "-OGpp8Rf3uIthP_z9PQU": {
+          "body": "they are prepping for a block",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:54:14.189896Z"
+        },
+        "-OGpp8URMFnQrM1_n9RO": {
+          "body": "oh okay",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:54:14.366512Z"
+        },
+        "-OGppAeGwXQPMPFXECFc": {
+          "body": "they attacked me",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:54:23.251954Z"
+        },
+        "-OGppDgp7d1ZL3LjQsmR": {
+          "body": "give and block",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:54:35.704027Z"
+        },
+        "-OGppF3XHazMlmvNgaNX": {
+          "body": "yes",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:54:41.316884Z"
+        },
+        "-OGppK8jnUtrJiid1fQf": {
+          "body": "Should we all hit one of 'em hard next round?",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:55:02.129604Z"
+        },
+        "-OGppKXZ-7JQuD8bEzre": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:55:03.718575Z"
+        },
+        "-OGppMHH4jupCKFXy3VC": {
+          "body": "dang",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:55:10.869016Z"
+        },
+        "-OGppNoIFF2V0foLsy7C": {
+          "body": "they took hard from h1n1",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:55:17.142039Z"
+        },
+        "-OGppPwaUpDsvwrG2zns": {
+          "body": "parkinsons?",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:55:25.865162Z"
+        },
+        "-OGppRUBttvdSyGpRwH9": {
+          "body": "he's our best shot",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:55:32.174814Z"
+        },
+        "-OGppUQ55TRI3bcbavlJ": {
+          "body": "Everyone hit Plague with 10 tokens",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:55:44.200630Z"
+        },
+        "-OGppUvng1cDgMJVrJFH": {
+          "body": "they keep attacking me",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:55:46.294035Z"
+        },
+        "-OGppXSv-v1Ynm6SWqiT": {
+          "body": "Park or Plague?",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:55:56.669816Z"
+        },
+        "-OGppYHTDe60REgS0hJL": {
+          "body": "plague?",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:00.032870Z"
+        },
+        "-OGppcpTJroYj5zHJmR6": {
+          "body": "We have to all hit the same individual",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:22.752995Z"
+        },
+        "-OGppdqTNungmMTm4D_j": {
+          "body": "if all 16 of our token hit plague it could work, especially if they beef up parkinsons",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:26.912851Z"
+        },
+        "-OGppg1g1BcgHKZnfOuz": {
+          "body": "plague",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:35.886481Z"
+        },
+        "-OGppggtmj1419p9h4fr": {
+          "body": "is my ote",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:38.587608Z"
+        },
+        "-OGpphWbSBv_N2UGJheP": {
+          "body": "vote",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:41.962139Z"
+        },
+        "-OGppn6RqvxmjJNFosaK": {
+          "body": "plage",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:57:04.862501Z"
+        },
+        "-OGppo0w86yngKIoszL9": {
+          "body": "plague",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:57:08.607101Z"
+        },
+        "-OGppuGAwZ4KBPleB9JM": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.158218Z"
+        },
+        "-OGpq0g1POSg-3OXJr9y": {
+          "body": "definse chat",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:58:04.549235Z"
+        },
+        "-OGpqTz8ZIyLKPPwRkyH": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.555453Z"
+        }
+      },
+      "name": "Stronger?",
+      "participants": [
+        "Creutzfeldt-Jakob Disease",
+        "Kidney Disease",
+        "Infectious Diarrhea",
+        "H1N1"
+      ]
+    },
+    "-OGpnhJn90obDmpicUqq": {
+      "conversationId": "-OGpnhJn90obDmpicUqq",
+      "messages": {
+        "-OGpnjx8rQpOjI47-FUV": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:48:07.627422Z"
+        },
+        "-OGpnpUDUxi-EM3Ib578": {
+          "body": "My group is a little sus. You want to be friends?",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:48:30.289171Z"
+        },
+        "-OGpnuiYKJsM2F0T_92H": {
+          "body": "Yes!",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:48:51.749958Z"
+        },
+        "-OGpnvxKVRwInPQ026xu": {
+          "body": "Send you 5 this time",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:48:56.791713Z"
+        },
+        "-OGpoGkRgoE_QMHDxKCu": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:50:26.078899Z"
+        },
+        "-OGpoMhQ7F3b3aDVlwfk": {
+          "body": "Thanks!",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:50:50.461691Z"
+        },
+        "-OGpoR5kdQNzFnv6QOWj": {
+          "body": "Sending you 6 (you can just send me 4 or 5)",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:51:08.467015Z"
+        },
+        "-OGponR9DZsQ77qiGjbu": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:52:44.044540Z"
+        },
+        "-OGppKXd2X9EB3-eTIDw": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:55:03.724014Z"
+        },
+        "-OGppuGF-_PKYDKehuth": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.163036Z"
+        },
+        "-OGpqGSMHOKHCgENOlNk": {
+          "body": "There's a plot to attack you.",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:59:09.145403Z"
+        },
+        "-OGpqHeoXOJQtQ4iFZIZ": {
+          "body": "Not sure it will materialize",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:59:14.103051Z"
+        },
+        "-OGpqKwHKBriCfRL1Lr0": {
+          "body": "From who?",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:59:27.509080Z"
+        },
+        "-OGpqPLZDgsF-yzFNEtp": {
+          "body": "Plague said it.  I can't keep up wih chat",
+          "from": "Creutzfeldt-Jakob Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:59:45.575067Z"
+        },
+        "-OGpqTzEWn2EQ37X3uM4": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.561629Z"
+        }
+      },
+      "name": "Jakob",
+      "participants": [
+        "Leprosy",
+        "Creutzfeldt-Jakob Disease"
+      ]
+    },
+    "-OGpnzltmBbrLK-PTQky": {
+      "conversationId": "-OGpnzltmBbrLK-PTQky",
+      "messages": {
+        "-OGpo1cki2UQAyhMGi_R": {
+          "body": "polio betrayed us",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:24.146394Z"
+        },
+        "-OGpo3w_T2S-wjv8defm": {
+          "body": "give 4 to each other and tak 3 from him",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:33.607988Z"
+        },
+        "-OGpo5ord6rzQYEmgYBB": {
+          "body": "put em in his place",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:41.306055Z"
+        },
+        "-OGpo72pEh40uAJ-B6iU": {
+          "body": "this is a rebellion",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:49:46.360210Z"
+        },
+        "-OGpoC9G3BjOO95DqU6b": {
+          "body": "This is a civil war",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:50:07.251607Z"
+        },
+        "-OGpoD_kBMpjCZhIbspU": {
+          "body": "We will all suffer",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:50:13.107073Z"
+        },
+        "-OGpoGkWL-D6rSF-8D6A": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:50:26.084293Z"
+        },
+        "-OGpoICs-aw0eD8WOOAB": {
+          "body": "fair enough",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:50:32.059303Z"
+        },
+        "-OGpoIjk945vb1Ylgbtk": {
+          "body": "i take it back",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:50:34.226731Z"
+        },
+        "-OGpoQG8sZSq7AY8g4pU": {
+          "body": "He just made a mistake. We're good",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:51:05.036101Z"
+        },
+        "-OGponREN5uQMBrVxYAr": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:52:44.049723Z"
+        },
+        "-OGppKXjrdQFjg4Df6cK": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:55:03.729542Z"
+        },
+        "-OGppuGKCl3N92FCf6D2": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.168137Z"
+        },
+        "-OGpqTzJA4L_zjc32ojH": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.567220Z"
+        }
+      },
+      "name": "og",
+      "participants": [
+        "Pneumonic Plague",
+        "Parkinson's Disease",
+        "Leprosy"
+      ]
+    },
+    "-OGpoICZ63M6k_c7BSUb": {
+      "conversationId": "-OGpoICZ63M6k_c7BSUb",
+      "messages": {
+        "-OGpoJmNfSIj_O2uLYY0": {
+          "body": "yo",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:50:38.491254Z"
+        },
+        "-OGpoKk27vDJtLGyq-nx": {
+          "body": "trade 3?",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:50:42.438020Z"
+        },
+        "-OGpoW7uufN1vjFmz1pd": {
+          "body": "Sure",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:51:29.084573Z"
+        },
+        "-OGpoZOwHvhU_0Th55wf": {
+          "body": "bet",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:51:42.462869Z"
+        },
+        "-OGponJR0_CJFWiaC0Hh": {
+          "body": "Plague and Park might attack you this round",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:52:43.551265Z"
+        },
+        "-OGponRJF8WVeol2SaCn": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:52:44.054957Z"
+        },
+        "-OGpowYHzzTt8CMaQDMz": {
+          "body": "they did",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:21.364407Z"
+        },
+        "-OGpoxK0gMAkmQlevSOA": {
+          "body": "they hit hard",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:24.547680Z"
+        },
+        "-OGpp0HyCznG5UJAGo6t": {
+          "body": "Lol I don't know what theyre trying to do",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:40.800937Z"
+        },
+        "-OGpp1a9OTQzQTNfKpHd": {
+          "body": "idk either",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:46.125276Z"
+        },
+        "-OGpp2tnAt012Pg_hcjj": {
+          "body": "But it's a little reckless",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:51.478366Z"
+        },
+        "-OGpp37dDnT3Mczo2jeB": {
+          "body": "im giving 3 again?",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:52.427907Z"
+        },
+        "-OGpp427CXfGSK17Q2xu": {
+          "body": "I agree",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:53:56.170660Z"
+        },
+        "-OGpp5gAuTwg-nxyYR4q": {
+          "body": "i blocked a bit",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:54:02.893427Z"
+        },
+        "-OGppKXo-GAH-OAmA5tM": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:55:03.734885Z"
+        },
+        "-OGppuGPgfMtFeAY3C1J": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.173077Z"
+        },
+        "-OGpqTzPk1mLDbsxLBun": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.572713Z"
+        }
+      },
+      "name": "Team?",
+      "participants": [
+        "Kidney Disease",
+        "Leprosy"
+      ]
+    },
+    "-OGppJWXIrLXn7lDIF_4": {
+      "conversationId": "-OGppJWXIrLXn7lDIF_4",
+      "messages": {
+        "-OGppKXy9v2cdwwiDrfH": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:55:03.745195Z"
+        },
+        "-OGppMcOTP2BA61073Xs": {
+          "body": "yo youre my favorite, i want you and me on top",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:55:12.284270Z"
+        },
+        "-OGppOP93Pr3Jpbd_Brc": {
+          "body": "lets subtly make that happen haha",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:55:19.564818Z"
+        },
+        "-OGppS4sPXImot2IDSnQ": {
+          "body": "How do you suggest we do such a thing",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:55:34.651335Z"
+        },
+        "-OGppbpfrhRvXhpZ-Lxl": {
+          "body": "i will give you five",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:18.669752Z"
+        },
+        "-OGppeIQT-qrgEux4BqB": {
+          "body": "and eventually we must kill off one of our compadres",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:28.765476Z"
+        },
+        "-OGppgJArTVTgmDoEbyR": {
+          "body": "perhaps",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:37.006161Z"
+        },
+        "-OGpplRm-r7UhNhuwf3Q": {
+          "body": "sounds like a plan",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:58.037107Z"
+        },
+        "-OGppmhPzUE84qPta50j": {
+          "body": "5 to you, too",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:57:03.197321Z"
+        },
+        "-OGppuGU5qqFCgJwhOxZ": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.178113Z"
+        },
+        "-OGpqTzW7zIHLrL4yxUU": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.579643Z"
+        }
+      },
+      "name": "winners",
+      "participants": [
+        "Pneumonic Plague",
+        "Polio"
+      ]
+    },
+    "-OGppTOutTfCqNQ-LqRq": {
+      "conversationId": "-OGppTOutTfCqNQ-LqRq",
+      "messages": {
+        "-OGppclOWgCUaH0MzCVI": {
+          "body": "Those not in this group are trying to take over",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:22.492294Z"
+        },
+        "-OGppf0xoZUdmi5dXZ6k": {
+          "body": "yeah",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:31.744242Z"
+        },
+        "-OGppfCl3V2DnjIbqma3": {
+          "body": "I say we fight back",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:32.499543Z"
+        },
+        "-OGppfNXLfoAM07uZOAI": {
+          "body": "its bad",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:33.189351Z"
+        },
+        "-OGppk3VXITXXCaG8dEw": {
+          "body": "h1n1 thinks we should hit plague",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:52.387190Z"
+        },
+        "-OGppn27ojd5Hr7NfbOK": {
+          "body": "parkinson's would be easier",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:57:04.586961Z"
+        },
+        "-OGppoP_aXhOkHq6X10u": {
+          "body": "Okay next round?",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:57:10.183879Z"
+        },
+        "-OGpppaVpZZPdIKqza9Z": {
+          "body": "yeah, not now",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:57:15.042898Z"
+        },
+        "-OGpps0XMuQuou1ObxBr": {
+          "body": "waht",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:57:24.964439Z"
+        },
+        "-OGppuGZBK2PNSUr3DF0": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.183311Z"
+        },
+        "-OGppzd4-vquFrVlM8E_": {
+          "body": "sorry i didn't see this chat in time",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:57:56.167416Z"
+        },
+        "-OGpq5bHRUCMAEuPOh7y": {
+          "body": "Lets attack plague",
+          "from": "Leprosy",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:58:24.724451Z"
+        },
+        "-OGpq7zdkvYbouGy29MF": {
+          "body": "okay, what do you all think",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:58:34.475448Z"
+        },
+        "-OGpq9IqK4PHuVpulR3k": {
+          "body": "parkinson's heavy attacked me",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:58:39.864935Z"
+        },
+        "-OGpqMJi_mpws75wWQcH": {
+          "body": "lets take out plaque, I think that they would expect retaliation against park",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:59:33.168953Z"
+        },
+        "-OGpqR32N_a_MwasSZZh": {
+          "body": "guys ?",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:59:52.581505Z"
+        },
+        "-OGpqTzaIMHzTVjXdAey": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.585401Z"
+        }
+      },
+      "name": "Defense",
+      "participants": [
+        "Leprosy",
+        "Creutzfeldt-Jakob Disease",
+        "H1N1",
+        "Infectious Diarrhea",
+        "Kidney Disease"
+      ]
+    },
+    "-OGppaW9RcS3AViP8-ZB": {
+      "conversationId": "-OGppaW9RcS3AViP8-ZB",
+      "messages": {
+        "-OGppfAcFxGIPfQkx0uU": {
+          "body": "Hey yall. Not a big fan of stealing, i was thinking we could team up",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:32.363249Z"
+        },
+        "-OGppgkzsQRVH4HPcHez": {
+          "body": "The other top dogs are all about taking",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:56:38.850056Z"
+        },
+        "-OGppuGe31DpOHvjbW59": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.189113Z"
+        },
+        "-OGpqLpBnIKgG0zSWN6A": {
+          "body": "leprosy",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:59:31.151279Z"
+        },
+        "-OGpqNPm4OZxgN_VJpwn": {
+          "body": "parkinsons would like to attack you",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:59:37.653027Z"
+        },
+        "-OGpqOKRBD4foHXtSMx2": {
+          "body": "just fyi",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:59:41.406443Z"
+        },
+        "-OGpqTzgHsBhle--NyRW": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.591001Z"
+        }
+      },
+      "name": "peacemakers",
+      "participants": [
+        "Polio",
+        "Leprosy",
+        "Creutzfeldt-Jakob Disease"
+      ]
+    },
+    "-OGpq03wiyuQFFgQrVoJ": {
+      "conversationId": "-OGpq03wiyuQFFgQrVoJ",
+      "messages": {
+        "-OGpq7d7N7o2uY1E-xy9": {
+          "body": "Hey, you've been the most loyal to me. I'm good sticking with the others, but I trust you more than them. I'm upping to 5 per turn for you",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:58:33.035262Z"
+        },
+        "-OGpqDbKpHPzLd7Rg1DD": {
+          "body": "thank you brother",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:58:57.495452Z"
+        },
+        "-OGpqE9ZF6b7T-x9gA2L": {
+          "body": "same here",
+          "from": "Polio",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:58:59.751218Z"
+        },
+        "-OGpqTzlcFhE2ywx6exD": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.596255Z"
+        }
+      },
+      "name": "Polio dude",
+      "participants": [
+        "Parkinson's Disease",
+        "Polio"
+      ]
+    },
+    "-OGpq1D07fK2TA9Tavj6": {
+      "conversationId": "-OGpq1D07fK2TA9Tavj6",
+      "messages": {
+        "-OGpq44k59s2Bk0Ce-lg": {
+          "body": "how would you like to be top 3",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:58:18.483035Z"
+        },
+        "-OGpq6_2Wk9QH5Gd0Ldq": {
+          "body": "i suggest we take out leprosy in a swift attack",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:58:28.678229Z"
+        },
+        "-OGpqAAorYPXlhZ_R42k": {
+          "body": "ill look past the fact you just attacked me lol",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:58:43.446413Z"
+        },
+        "-OGpqTzrPqRBH62sRRqH": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.601895Z"
+        }
+      },
+      "name": "lets win",
+      "participants": [
+        "Pneumonic Plague",
+        "Polio",
+        "Creutzfeldt-Jakob Disease"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-OGpldCYCcBm9zTLmKyX": {
+          "body": "Covenant group?",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:38:55.718215Z"
+        },
+        "-OGpleq1v1bN162d6lu9": {
+          "body": "yes",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:39:02.404696Z"
+        },
+        "-OGplfLq6eRDURE-aZlN": {
+          "body": "no",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:39:04.504912Z"
+        },
+        "-OGplfqzPxY4U1JVdjjG": {
+          "body": "total war",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:39:06.561869Z"
+        },
+        "-OGplh3-jL5FQWSxIL7B": {
+          "body": "H1N1",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:39:11.491264Z"
+        },
+        "-OGplhbiORZdw_-FsPhG": {
+          "body": "got you",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:39:13.776967Z"
+        },
+        "-OGplrvnb_o9wDCKXE_9": {
+          "body": "You have died of dysentary",
+          "from": "Parkinson's Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:39:56.021755Z"
+        },
+        "-OGplv5UOvGesyw0cQQs": {
+          "body": "bro",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:40:08.993410Z"
+        },
+        "-OGplvl2HlSReFXnquKA": {
+          "body": "I am the worst",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:40:11.717974Z"
+        },
+        "-OGplwySBisHdWwMuco9": {
+          "body": "not only am I diarrhea",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:40:16.671770Z"
+        },
+        "-OGplxdzlSXmCMP29Od0": {
+          "body": "I am infectous",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:40:19.457973Z"
+        },
+        "-OGpm0j-_ksk7Oi8eVX0": {
+          "body": "its like lactose",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:40:36.162913Z"
+        },
+        "-OGpm12Ac9ZlE-IeWu8b": {
+          "body": "but worse",
+          "from": "Infectious Diarrhea",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:40:37.454175Z"
+        },
+        "-OGpm2ykMoF4VDCkgjTL": {
+          "body": "diarrhea, trade a few?",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:40:45.362728Z"
+        },
+        "-OGpm3hLtmKDqCc0c5fZ": {
+          "body": "would anyone like to hear a message about god's love?",
+          "from": "H1N1",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:40:48.345296Z"
+        },
+        "-OGpm879X4FBOcMtyNKg": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:41:06.444986Z"
+        },
+        "-OGpmPaHTWjKtpWGw6ct": {
+          "body": "give me tokens or i will send a swarm of plagued rats",
+          "from": "Pneumonic Plague",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:42:18.004619Z"
+        },
+        "-OGpmcgQLGCHJn5a93PL": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:43:15.741878Z"
+        },
+        "-OGpnADtrWz183ou3dX1": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:45:37.211507Z"
+        },
+        "-OGpnjw4yJeI-Rau4Tdv": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:48:07.559715Z"
+        },
+        "-OGpnvSe7nNEYhR21WGD": {
+          "body": "pnumonic",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:48:54.764434Z"
+        },
+        "-OGpnvzXxqx0-TLSAJCh": {
+          "body": "brotha",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:48:56.932558Z"
+        },
+        "-OGpoGjPIfVNQbb5M7hs": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:50:26.013195Z"
+        },
+        "-OGponQ8wTNzxOgL1TF-": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:52:43.980219Z"
+        },
+        "-OGppKWbHGv2lcLRfE6i": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:55:03.657632Z"
+        },
+        "-OGppuF0aXeYLCXtgHT3": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T19:57:34.083928Z"
+        },
+        "-OGpqKxTuirTiDH5kty4": {
+          "body": "please no attack me :(",
+          "from": "Kidney Disease",
+          "runtimeType": "identified",
+          "time": "2025-01-17T19:59:27.584871Z"
+        },
+        "-OGpqTy3n_xp52_8N_fd": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-01-17T20:00:04.487385Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

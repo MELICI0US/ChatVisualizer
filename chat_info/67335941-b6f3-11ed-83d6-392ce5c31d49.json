@@ -1,0 +1,965 @@
+{
+  "conversations": {
+    "-NPK955xiITaqWBfgrTk": {
+      "conversationId": "-NPK955xiITaqWBfgrTk",
+      "messages": {
+        "-NPK97P-usa33MAXETNu": {
+          "body": "hi",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:15:06.498587Z"
+        },
+        "-NPK9CFj8aXX99fIX9Fb": {
+          "body": "what are yall thinking",
+          "from": "The Grand Old Duke of York",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:15:26.385264Z"
+        },
+        "-NPK9P_tta590v-KXFk_": {
+          "body": "Exterminate the mice?",
+          "from": "3 Blind Mice",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:16:20.987664Z"
+        },
+        "-NPK9Souwic7vsSKKZ5G": {
+          "body": "got it",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:16:34.236431Z"
+        },
+        "-NPK9TZQKshk0flwEaeq": {
+          "body": "-10 on mice",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:16:37.277122Z"
+        },
+        "-NPK9YYL81HCg1QD5831": {
+          "body": "JK guys that was a joke",
+          "from": "3 Blind Mice",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:16:57.688211Z"
+        },
+        "-NPK9_muO9F2amjH-klf": {
+          "body": "Don't kill me",
+          "from": "3 Blind Mice",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:17:06.876054Z"
+        },
+        "-NPK9eCDl0Y2_kcWL2AX": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:17:24.944271Z"
+        },
+        "-NPK9u2mDerkyNDWZVbZ": {
+          "body": "Rats",
+          "from": "3 Blind Mice",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:18:29.876333Z"
+        },
+        "-NPKANxbRcbUlPcWvaAT": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:20:36.457664Z"
+        },
+        "-NPKAmGTJYKFTTFw_SSi": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:22:20.128345Z"
+        },
+        "-NPKBX-HfZMdCD87hfzt": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:25:35.636562Z"
+        },
+        "-NPKByXM-aALLEM4uYD0": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:27:32.505288Z"
+        },
+        "-NPKCfLHb55E8NadJojS": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:30:36.052919Z"
+        },
+        "-NPKD-OzmFtLxx0wCq9n": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:32:02.305003Z"
+        },
+        "-NPKDXKjubYC8Gu52jgO": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:34:21.297918Z"
+        },
+        "-NPKE1taCeezZDWP503C": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:36:34.664917Z"
+        },
+        "-NPKEPfgQH4CoQzo-TsJ": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:38:12.078180Z"
+        },
+        "-NPKEdkrtCk4NkMPsMCp": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:39:13.849664Z"
+        },
+        "-NPKEtnHtF3wgLBzfhtP": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:40:19.540165Z"
+        },
+        "-NPKFECWCF1bTC9_WG_r": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:41:47.235674Z"
+        },
+        "-NPKFTrZZwaVXrWo4vKb": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:42:51.366466Z"
+        },
+        "-NPKFm4oCKTPEKJBhn5I": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:44:10.102889Z"
+        },
+        "-NPKG5XG0pSPz2TxmO5G": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:45:33.843856Z"
+        }
+      },
+      "name": "Nursery Ramblers",
+      "participants": [
+        "3 Blind Mice",
+        "Jill",
+        "Little Miss Muffet",
+        "The Grand Old Duke of York"
+      ]
+    },
+    "-NPK9JCEgHIe6A_zqzhL": {
+      "conversationId": "-NPK9JCEgHIe6A_zqzhL",
+      "messages": {
+        "-NPK9KOlItQLkVOuARHI": {
+          "body": "yooo whats up",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:15:59.731051Z"
+        },
+        "-NPK9eCGAx3rrIEu67LW": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:17:24.947627Z"
+        },
+        "-NPKANxfMHy60SKLmRNb": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:20:36.461103Z"
+        },
+        "-NPKAl2Sv4yikWQYFgUs": {
+          "body": "hey you around?",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:22:15.135632Z"
+        },
+        "-NPKAm9z65YuuNdz7gKv": {
+          "body": "?????",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:22:19.713827Z"
+        },
+        "-NPKAmGW7T4Uld4Q981B": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:22:20.131488Z"
+        },
+        "-NPKAvVME39UHHCbb9sd": {
+          "body": "hmm",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:22:57.945153Z"
+        },
+        "-NPKAydgabg1Me8O-Y7U": {
+          "body": "that was a pretty brutal opener",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:23:10.830544Z"
+        },
+        "-NPKAylV9JiNLiHbzs8N": {
+          "body": "hmmm??",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:23:11.330027Z"
+        },
+        "-NPKAzPQUG6de--6VyWw": {
+          "body": "yeah it was",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:23:13.949412Z"
+        },
+        "-NPKB-FQkU2xqZh-b18D": {
+          "body": "kill or be killed",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:23:17.405525Z"
+        },
+        "-NPKB-j0d0MlRFlKrKfJ": {
+          "body": "haha",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:23:19.363889Z"
+        },
+        "-NPKB0UCkVxgkhX9D8fS": {
+          "body": "fair enough",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:23:22.447328Z"
+        },
+        "-NPKB2DES9jKsOYlnoCm": {
+          "body": "you down to build though?",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:23:29.553433Z"
+        },
+        "-NPKB591XwR61WwHNyq9": {
+          "body": "Yeah",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:23:41.572466Z"
+        },
+        "-NPKB8YAuaGS7o9K_cEC": {
+          "body": "I think we all got off on the wrong foot",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:23:55.469633Z"
+        },
+        "-NPKB9bBvhQaQeWNIqaj": {
+          "body": "Ok I'm gonna keep this round though",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:23:59.822099Z"
+        },
+        "-NPKBHyp8CfES-2X3ECR": {
+          "body": "Are you willing to exchange 2 as a sign of good will?",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:24:34.103750Z"
+        },
+        "-NPKBKBOyX54cjxmz-Am": {
+          "body": "I'm giving 1 to everyone in the group",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:24:43.163584Z"
+        },
+        "-NPKBX-KZcoFXpnUKGPe": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:25:35.639812Z"
+        },
+        "-NPKBg9xBMAKlPr-viU-": {
+          "body": "wyd",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:26:17.279383Z"
+        },
+        "-NPKBkMRAqLNgByZDACT": {
+          "body": "4 to you and duke",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:26:34.462744Z"
+        },
+        "-NPKBku1orCq-AUwraNd": {
+          "body": "1 to others",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:26:36.676033Z"
+        },
+        "-NPKBq2PTZJbJxg7je8b": {
+          "body": "ok sounds good, i'll give 4 too",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:26:57.756443Z"
+        },
+        "-NPKByXQ4DKGjnw1CVPd": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:27:32.509039Z"
+        },
+        "-NPKC1suX-Pqqsx7vsxv": {
+          "body": "wow",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:27:50.332392Z"
+        },
+        "-NPKC3XSP3fNITtn-EnH": {
+          "body": "utter betrayal of the utmost degree",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:27:57.087895Z"
+        },
+        "-NPKC4M2eIYhmfGORM5i": {
+          "body": "classic",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:28:00.453308Z"
+        },
+        "-NPKC8iDlVFeppiB7nC9": {
+          "body": "you will not get away with this",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:28:18.320458Z"
+        },
+        "-NPKCEjCiyAdSuzQs73Z": {
+          "body": "go ahead and try something B-)",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:28:42.959918Z"
+        },
+        "-NPKCfLL0vHK-yNez9y8": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:30:36.056135Z"
+        },
+        "-NPKD-P7sU6B2lWrNitz": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:32:02.314391Z"
+        },
+        "-NPKDXKn1UM00uQVmz5C": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:34:21.301349Z"
+        },
+        "-NPKE1tmxyDFvQDshKPe": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:36:34.676523Z"
+        },
+        "-NPKEPfkVLUbxjhCrPrG": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:38:12.082906Z"
+        },
+        "-NPKEdkwX5pkj4bfNq8Q": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:39:13.854307Z"
+        },
+        "-NPKEtnLlsWQrQXrz5JJ": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:40:19.544036Z"
+        },
+        "-NPKFEC_2CPPoSkDdheQ": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:41:47.239132Z"
+        },
+        "-NPKFTrbkuAtquG_KR-1": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:42:51.369666Z"
+        },
+        "-NPKFm4sprMmz7jpNJNh": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:44:10.106749Z"
+        },
+        "-NPKG5XK9Huu-zTETkSM": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:45:33.847479Z"
+        }
+      },
+      "name": "Epic time?",
+      "participants": [
+        "Little Miss Muffet",
+        "Jill"
+      ]
+    },
+    "-NPKA1xJxIhZXnSXFg3E": {
+      "conversationId": "-NPKA1xJxIhZXnSXFg3E",
+      "messages": {
+        "-NPKA4qaEBiU4MUwCrjq": {
+          "body": "we band against muffet and duke?",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:19:18.184247Z"
+        },
+        "-NPKADgA50zsdq7jvvZD": {
+          "body": "I'm down",
+          "from": "Mary Mary Quite Contrary",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:19:54.380987Z"
+        },
+        "-NPKAH-iBbr0tHYtYjRp": {
+          "body": "5 each? Mice are you in?",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:20:07.984439Z"
+        },
+        "-NPKAJ21_rfNbu5yF5aK": {
+          "body": "Yes",
+          "from": "3 Blind Mice",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:20:16.324182Z"
+        },
+        "-NPKALGHlJFy_Pa0AgrZ": {
+          "body": "k just sent 5 each",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:20:25.428474Z"
+        },
+        "-NPKANxiIXwEp_MFf6dN": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:20:36.464401Z"
+        },
+        "-NPKATOklAMC-TTWPBnn": {
+          "body": "They attacked me",
+          "from": "Mary Mary Quite Contrary",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:20:58.738546Z"
+        },
+        "-NPKAXuD37lF00o4BhAy": {
+          "body": "Let's attack them",
+          "from": "3 Blind Mice",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:21:17.200006Z"
+        },
+        "-NPKAd2B8LmuZhfo7USB": {
+          "body": "I don't think we have much of a chance, but let's go all out on york",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:21:42.350081Z"
+        },
+        "-NPKAhWNF4gRD_0AXQQn": {
+          "body": "-10",
+          "from": "3 Blind Mice",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:22:00.666213Z"
+        },
+        "-NPKAi7Loen1XVujVQaX": {
+          "body": "if we get lucky, they won't hold",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:22:03.160464Z"
+        },
+        "-NPKAmGZY4FjBiGgtKkh": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:22:20.134676Z"
+        },
+        "-NPKAsuyRGANXiSltbC_": {
+          "body": "okay now let's take out miss muffet",
+          "from": "3 Blind Mice",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:22:47.360057Z"
+        },
+        "-NPKB3-aAwGAVTstwapE": {
+          "body": "sounds good",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:23:32.776213Z"
+        },
+        "-NPKBE4VyZML12_zqEUc": {
+          "body": "don't attack, muffet told me they'd keep",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:24:18.146587Z"
+        },
+        "-NPKBSJm6BbNTgVW2yxq": {
+          "body": "We have enough power together",
+          "from": "3 Blind Mice",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:25:16.468430Z"
+        },
+        "-NPKBV0dy7trUUsfDT32": {
+          "body": "not even close",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:25:27.531314Z"
+        },
+        "-NPKBX-U-odsOo2v6H36": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:25:35.649471Z"
+        },
+        "-NPKByXUEyji-RS2ch7v": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:27:32.513048Z"
+        },
+        "-NPKCfLO5Ld_57mNU8Gl": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:30:36.059446Z"
+        },
+        "-NPKCu9fZEVsmQuT_Wpz": {
+          "body": "If I can take out the other two, I'll start bringing you two back up",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:31:36.749318Z"
+        },
+        "-NPKD-PME79sXmUpmfNt": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:32:02.329876Z"
+        },
+        "-NPKD7t7qNRXOaSuE_JE": {
+          "body": "Go for the strongest player first",
+          "from": "3 Blind Mice",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:32:37.066206Z"
+        },
+        "-NPKDAtoL8aWBTYrIYCV": {
+          "body": "I went -10 but york held",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:32:49.398125Z"
+        },
+        "-NPKDC4ZVKgdGfjZ_Dxn": {
+          "body": "i need you guys to help me",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:32:54.246083Z"
+        },
+        "-NPKDG6bDwzIB905Nmwe": {
+          "body": "Do you want us to attack too?",
+          "from": "Mary Mary Quite Contrary",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:33:10.761271Z"
+        },
+        "-NPKDIp3yPCPnfnR5xm3": {
+          "body": "yeah -10 on york",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:33:21.862295Z"
+        },
+        "-NPKDPiBm19Y9OkJzLSS": {
+          "body": "okay",
+          "from": "3 Blind Mice",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:33:50.094879Z"
+        },
+        "-NPKDXKqGNg1s0Tt09KN": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:34:21.304759Z"
+        },
+        "-NPKDfyLJ9vWxNZ6OhvT": {
+          "body": "alright nice",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:35:00.760505Z"
+        },
+        "-NPKDiZ_x-zzuRkcTot7": {
+          "body": "should we take them out all the way or just start rebuilding now?",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:35:11.399460Z"
+        },
+        "-NPKDlEHPoFnGHNuFvZG": {
+          "body": "I think all the way",
+          "from": "3 Blind Mice",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:35:22.324806Z"
+        },
+        "-NPKDoWSXFPEDD0yk5QD": {
+          "body": "i agree",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:35:35.775279Z"
+        },
+        "-NPKDw1GAKQyByUE-hae": {
+          "body": "-7 on york, -3 on muffet?",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:36:06.547597Z"
+        },
+        "-NPKE1tqGGWtifEi7TuZ": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:36:34.680556Z"
+        },
+        "-NPKE6P8_nCKW95dCPNk": {
+          "body": "beautiful",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:36:53.131272Z"
+        },
+        "-NPKECJpxWvMT0FrOfTI": {
+          "body": "giving you both 3",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:37:17.367028Z"
+        },
+        "-NPKEPftAV1GBnt4PYqv": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:38:12.090984Z"
+        },
+        "-NPKEX2sKWolJcm05nue": {
+          "body": "giving you both 4",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:38:42.298492Z"
+        },
+        "-NPKEdkz4CeoX10cPnXu": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:39:13.857457Z"
+        },
+        "-NPKEoyTmO2juObk2XMa": {
+          "body": "5?",
+          "from": "3 Blind Mice",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:39:59.776475Z"
+        },
+        "-NPKErP1EjZ-ymh5d_N9": {
+          "body": "4 still",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:40:09.732727Z"
+        },
+        "-NPKEtnO0a48VSz0BpLQ": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:40:19.547628Z"
+        },
+        "-NPKFAlfq6O6u_cyOyYA": {
+          "body": "giving 4 again",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:41:33.165294Z"
+        },
+        "-NPKFCZCDqZoqCEOe2ic": {
+          "body": "okay 4",
+          "from": "3 Blind Mice",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:41:40.495331Z"
+        },
+        "-NPKFECcLPAo7S9IZsP7": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:41:47.242572Z"
+        },
+        "-NPKFMHE_oEx2FpSTyuA": {
+          "body": "fair enough haha",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:42:20.305336Z"
+        },
+        "-NPKFORSTpOZ_PaV11RL": {
+          "body": "i don't blame you two",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:42:29.151548Z"
+        },
+        "-NPKFTrfXwJVWlnIRfv5": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:42:51.373111Z"
+        },
+        "-NPKFXlUbMlNshQ5gWc9": {
+          "body": "just know it's lonely up there",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:43:07.361420Z"
+        },
+        "-NPKFazEE3J-Jnv2AYjY": {
+          "body": "Nah Mary is my friend",
+          "from": "3 Blind Mice",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:43:24.624984Z"
+        },
+        "-NPKFdKLxiHFon-rNqFB": {
+          "body": "mary will betray you eventually",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:43:34.232352Z"
+        },
+        "-NPKFhNAq1iUVq6hbuoq": {
+          "body": "but i'd rather have you two win than muffet or york",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:43:50.797207Z"
+        },
+        "-NPKFjD48NliG-8zzuOy": {
+          "body": "no hard feelings",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:43:58.343725Z"
+        },
+        "-NPKFm4xtUmV5jLTaeJ4": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:44:10.111299Z"
+        },
+        "-NPKG5XRyt0GR_ujxtI7": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:45:33.854134Z"
+        },
+        "-NPKGCRE954LqmfuoX-h": {
+          "body": "like clockwork",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:46:02.129476Z"
+        }
+      },
+      "name": "they're mean",
+      "participants": [
+        "Jill",
+        "Mary Mary Quite Contrary",
+        "3 Blind Mice"
+      ]
+    },
+    "-NPKCUBr4b_w7X7cCPNC": {
+      "conversationId": "-NPKCUBr4b_w7X7cCPNC",
+      "messages": {
+        "-NPKCfLSq5YODcONdJwK": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:30:36.063830Z"
+        },
+        "-NPKClJopvNfra3AvxZr": {
+          "body": "You traitor",
+          "from": "3 Blind Mice",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:31:00.534066Z"
+        },
+        "-NPKD-PWjy_GrI4kp8f4": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:32:02.339514Z"
+        },
+        "-NPKDBQlqtfY-hEp7mwn": {
+          "body": "he betrayed me cmon",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:32:51.571357Z"
+        },
+        "-NPKDCfLG0_m7JwAmRIU": {
+          "body": "so whats the plan",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:32:56.664556Z"
+        },
+        "-NPKDFEVC0d4nnVHGyNR": {
+          "body": "this would be really embarrassing michael would yell at us for forever",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:33:07.170890Z"
+        },
+        "-NPKDMIdK01jK8X0-z36": {
+          "body": "do we want to just all attack?",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:33:36.107203Z"
+        },
+        "-NPKDTW3TYKPiSlSQm8N": {
+          "body": "Yea lets do it",
+          "from": "Mary Mary Quite Contrary",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:34:05.638089Z"
+        },
+        "-NPKDXKuzhLgZ7wQ_T2M": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:34:21.308151Z"
+        },
+        "-NPKDvjFP6G7riEqHZBa": {
+          "body": "ok im actually doing 3 to each",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:36:05.330774Z"
+        },
+        "-NPKDzRyfRb3ZxXbWOGW": {
+          "body": "3 to everyone on the bottom",
+          "from": "The Grand Old Duke of York",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:36:20.544210Z"
+        },
+        "-NPKE1tuTjxMqHdutQgf": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:36:34.684390Z"
+        },
+        "-NPKEPg54fYQXcyAYTb-": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:38:12.104559Z"
+        },
+        "-NPKEdl1Pu2qJE--Eolj": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:39:13.860973Z"
+        },
+        "-NPKEtnUGx4OWCk6eAR_": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:40:19.552982Z"
+        },
+        "-NPKFECfK5P3GDpq0PLc": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:41:47.245689Z"
+        },
+        "-NPKFTrihQjI8ERQeRZY": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:42:51.376208Z"
+        },
+        "-NPKFm50rCt4D8QE3tdg": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:44:10.115659Z"
+        },
+        "-NPKG5XU15JZBEcUn5s4": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:45:33.857514Z"
+        }
+      },
+      "name": "We cant let him win",
+      "participants": [
+        "3 Blind Mice",
+        "Little Miss Muffet",
+        "Mary Mary Quite Contrary",
+        "The Grand Old Duke of York"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-NPK9C7U8qYjrRQ9xRjQ": {
+          "body": "Looking to have a good time <3",
+          "from": "Jill",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:15:25.857419Z"
+        },
+        "-NPK9GYwWkWzAlxQPEqb": {
+          "body": "I'm looking to have a great time <3",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:15:43.998423Z"
+        },
+        "-NPK9eC9xcD1f3Q2B3do": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:17:24.940914Z"
+        },
+        "-NPKANxZ7txaUuPtaoCr": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:20:36.454144Z"
+        },
+        "-NPKAmGPtBlnJivMNsi1": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:22:20.124966Z"
+        },
+        "-NPKBX-E-HJVQiZf3cIJ": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:25:35.633032Z"
+        },
+        "-NPKBpNIU9g891LMY6Tx": {
+          "body": "I will be giving 4 to duke and jill, 1 to mary and mice",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:26:54.997153Z"
+        },
+        "-NPKBsUAhaueJt8kQ3l-": {
+          "body": "Let's try to rebuild",
+          "from": "Little Miss Muffet",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:27:07.725667Z"
+        },
+        "-NPKBvHmB84WpD3w73Kq": {
+          "body": "sure",
+          "from": "The Grand Old Duke of York",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:27:19.220055Z"
+        },
+        "-NPKByXIuzEd1tu21vTQ": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:27:32.501641Z"
+        },
+        "-NPKCFy_J6bQs0eHO1Dv": {
+          "body": "Newsbot says that Jill has betrayed Muffet!",
+          "from": "The Grand Old Duke of York",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:28:48.039064Z"
+        },
+        "-NPKCHJV2cHLJU_r5WlB": {
+          "body": "I'm giving 2 to everyone",
+          "from": "Mary Mary Quite Contrary",
+          "runtimeType": "identified",
+          "time": "2023-02-27T23:28:53.538259Z"
+        },
+        "-NPKCfLEpl6JDzBa9T4l": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:30:36.049107Z"
+        },
+        "-NPKD-OuU05lKOi9I7Em": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:32:02.300206Z"
+        },
+        "-NPKDXKgSesiDF7Aq5Fx": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:34:21.294515Z"
+        },
+        "-NPKE1tXa-_KBiwPCNqy": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:36:34.660358Z"
+        },
+        "-NPKEPfaptxY6Zwd1aj1": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:38:12.072875Z"
+        },
+        "-NPKEdko1k2F8Qbv8Nt3": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:39:13.846328Z"
+        },
+        "-NPKEtnDnhEe8mc6Dq10": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:40:19.536755Z"
+        },
+        "-NPKFECT74FxxitRSJhJ": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:41:47.232152Z"
+        },
+        "-NPKFTrVUAwvj4lT-OaJ": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:42:51.362892Z"
+        },
+        "-NPKFm4jyX0F9K1bJeyf": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:44:10.097488Z"
+        },
+        "-NPKG5XDnZ2HtqbE9AKk": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2023-02-27T23:45:33.840010Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

@@ -1,0 +1,1095 @@
+{
+  "conversations": {
+    "-OyKnvPrPrisk2sTe3vu": {
+      "conversationId": "-OyKnvPrPrisk2sTe3vu",
+      "messages": {
+        "-OyKnxvwqj7mFZmhJYBQ": {
+          "body": "we need a doctor ",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:27:36.061836Z"
+        },
+        "-OyKo39LxUaTurJCuCAY": {
+          "body": "yo want to trade 10 each time and break the system?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:28:01.559979Z"
+        },
+        "-OyKo66mpA3Y68MKYleL": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:28:13.684230Z"
+        },
+        "-OyKo7tB1Hmm2IGocmPa": {
+          "body": "we give 10 each round",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:28:20.942143Z"
+        },
+        "-OyKo8NSxZN42fi2v3c_": {
+          "body": "sure",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:28:22.942398Z"
+        },
+        "-OyKoDGZ2gaQYBEMmoaC": {
+          "body": "k im giving u 10",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:28:42.981630Z"
+        },
+        "-OyKoG6EZnsIVn-KLaiL": {
+          "body": "I can only give 7",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:28:54.608685Z"
+        },
+        "-OyKoGkVHD3YNrvJkfSs": {
+          "body": "I'm sorry",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:28:57.249478Z"
+        },
+        "-OyKoIXhqO65DI8dm99U": {
+          "body": "k ill mirror",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:29:04.558472Z"
+        },
+        "-OyKoKMEBb-twROz_D9h": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:29:12.017035Z"
+        },
+        "-OyKoMGeM315omsrlAFN": {
+          "body": "hahahahah",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:29:19.851966Z"
+        },
+        "-OyKoVMsu7x02XKYo7In": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:29:57.113697Z"
+        },
+        "-OyKoYapBjG9V37VUKuZ": {
+          "body": "you betrayed me ",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:30:10.358373Z"
+        },
+        "-OyKoiwbDIvH7nIKORzw": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:30:56.808699Z"
+        },
+        "-OyKoiwcnR43PtENlTl0": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:30:56.809611Z"
+        },
+        "-OyKoxjPObTUfRqhksB5": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:31:57.403816Z"
+        },
+        "-OyKp9VjEv56BG4Bjboc": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:32:49.713248Z"
+        },
+        "-OyKpOGRSGlqaKoLC4xC": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:33:50.173641Z"
+        },
+        "-OyKpc1rBxaEpGlUKmIl": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:34:50.680972Z"
+        },
+        "-OyKpqmn37_Zhcchw-c8": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:35:51.093200Z"
+        },
+        "-OyKq4_uB5EHSRLP8tyQ": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:36:51.708229Z"
+        },
+        "-OyKqJPChQxdnWnRoWwD": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:37:52.398525Z"
+        },
+        "-OyKqWVay82AgCqvNQKG": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:38:46.057268Z"
+        },
+        "-OyKqkHtyHmTJIsvBvnW": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:39:46.620280Z"
+        },
+        "-OyKqy7QoGQ19hwraDW8": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:40:43.295102Z"
+        },
+        "-OyKrBrj5tQkuAvOImb0": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:41:43.666553Z"
+        },
+        "-OyKrQdFOK-NxocU-G83": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:42:44.179945Z"
+        },
+        "-OyKrePwViVU44ZYr1FT": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:43:44.703494Z"
+        },
+        "-OyKrstJrUGl7Gml_D6U": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:44:43.991255Z"
+        },
+        "-OyKs6eKe6JZ3jqtjvKz": {
+          "body": "Round 21",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:45:44.472612Z"
+        },
+        "-OyKsLSXIFtUomp9LNz5": {
+          "body": "Round 22",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:46:45.094047Z"
+        },
+        "-OyKs_FCYkiZ9NhpiX9B": {
+          "body": "Round 23",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:47:45.680418Z"
+        },
+        "-OyKso2gTN2cjHFMpikh": {
+          "body": "Round 24",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:48:46.319908Z"
+        },
+        "-OyKt1o_NN59U1t0tYr0": {
+          "body": "Round 25",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:49:46.792257Z"
+        },
+        "-OyKtDYjpbLZLVdGsLpV": {
+          "body": "Round 26",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:50:34.866228Z"
+        }
+      },
+      "name": "us",
+      "participants": [
+        "Golf",
+        "Alpha"
+      ]
+    },
+    "-OyKo0ONj4-iazUoAQCi": {
+      "conversationId": "-OyKo0ONj4-iazUoAQCi",
+      "messages": {
+        "-OyKo3MtvRDeDE-wPGMV": {
+          "body": "i want alpha to be here",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:28:02.426308Z"
+        },
+        "-OyKo3RiFWfMBR-apqi2": {
+          "body": "Howdy best friends wanna team",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:28:02.735615Z"
+        },
+        "-OyKo5Z9W0amFvzeRv0j": {
+          "body": "alpha is insurance",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:28:11.403712Z"
+        },
+        "-OyKo66uynsQrmEzYSqw": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:28:13.691435Z"
+        },
+        "-OyKo7zDEqLka4468rPT": {
+          "body": "but he can be our buddy",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:28:21.327330Z"
+        },
+        "-OyKoC3d-tgvZq80kqp_": {
+          "body": "thats everyone but golf",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:28:38.058789Z"
+        },
+        "-OyKoFAnhK4WECBaaT1y": {
+          "body": "at least we got a doctor",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:28:50.804767Z"
+        },
+        "-OyKoGkWUhieTrd5qZtV": {
+          "body": "i think we can keep it to us three",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:28:57.250678Z"
+        },
+        "-OyKoI9Xum0Jc9GvOjiv": {
+          "body": "but isnt it beneficial to have insurance guy as your friend?",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:29:03.012218Z"
+        },
+        "-OyKoIbxVSTb29ZXltMu": {
+          "body": "yeah",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:29:04.894879Z"
+        },
+        "-OyKoKMJFNyZY_l8VRCJ": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:29:12.022141Z"
+        },
+        "-OyKoVMzTlxdP9qtfvoQ": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:29:57.120681Z"
+        },
+        "-OyKoiwgNdJddDksOnk7": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:30:56.813979Z"
+        },
+        "-OyKoiwiJ7ScYCyVtmGl": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:30:56.815439Z"
+        },
+        "-OyKoxjWqC9fBpdFx3uF": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:31:57.411016Z"
+        },
+        "-OyKp9VpwrF5Jg-4g4U1": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:32:49.718748Z"
+        },
+        "-OyKpOGWxRCGHsGbyQG_": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:33:50.178960Z"
+        },
+        "-OyKpc1xynwPCBWTitwX": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:34:50.686339Z"
+        },
+        "-OyKpqmvN-AQEPP5b-Ml": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:35:51.100714Z"
+        },
+        "-OyKq4a4FwMYnetcr-Q1": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:36:51.719118Z"
+        },
+        "-OyKqJPHeV-EnBwW0nyE": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:37:52.403842Z"
+        },
+        "-OyKqWVgkD2Avl4KqIDw": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:38:46.063522Z"
+        },
+        "-OyKqkHyRoQmiGTmLvV8": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:39:46.625829Z"
+        },
+        "-OyKqy7W8-ziWBaZ-84t": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:40:43.300469Z"
+        },
+        "-OyKrBro-TLpCMgJNWBf": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:41:43.672217Z"
+        },
+        "-OyKrQdL4OQkNcdrqxZr": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:42:44.185537Z"
+        },
+        "-OyKreQ1ESVMzBrawyoX": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:43:44.709516Z"
+        },
+        "-OyKrstOzrY-cLlXV1ZF": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:44:43.996582Z"
+        },
+        "-OyKs6eQsCACyMTn_zPd": {
+          "body": "Round 21",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:45:44.478704Z"
+        },
+        "-OyKsLScvhUJDySAa9m_": {
+          "body": "Round 22",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:46:45.099659Z"
+        },
+        "-OyKs_FHr0my25Q6u83C": {
+          "body": "Round 23",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:47:45.685934Z"
+        },
+        "-OyKsf8G6v0BDuWgchiP": {
+          "body": "hotel can you help me",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:48:09.812468Z"
+        },
+        "-OyKso2mEJ7mckPJcYNt": {
+          "body": "Round 24",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:48:46.325611Z"
+        },
+        "-OyKt1oejOUoetKPdsyM": {
+          "body": "Round 25",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:49:46.797540Z"
+        },
+        "-OyKtDYpch1QjTPzuAOy": {
+          "body": "Round 26",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:50:34.872603Z"
+        }
+      },
+      "name": "best friends",
+      "participants": [
+        "X-ray",
+        "Hotel",
+        "Juliett"
+      ]
+    },
+    "-OyKp2WsLelZiTYopmJv": {
+      "conversationId": "-OyKp2WsLelZiTYopmJv",
+      "messages": {
+        "-OyKp43P8MxiWGMAUthT": {
+          "body": "wanna attack someone",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:32:27.419315Z"
+        },
+        "-OyKp9Vu21v1uLb3zQyL": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:32:49.723937Z"
+        },
+        "-OyKpJ3NuhGzgXZE17rH": {
+          "body": "golf",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:33:28.857440Z"
+        },
+        "-OyKpJG9ZmhgI7eBDr4b": {
+          "body": "golf",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:33:29.675397Z"
+        },
+        "-OyKpJRoGxWN4-i8JJmb": {
+          "body": "golf",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:33:30.421411Z"
+        },
+        "-OyKpOGbi1L59J6U-aik": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:33:50.184619Z"
+        },
+        "-OyKpc21rcYZxEN-j3bt": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:34:50.691956Z"
+        },
+        "-OyKpqn-LMwN49RtSBun": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:35:51.106111Z"
+        },
+        "-OyKq4aCwCxVPAi1EMcW": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:36:51.726297Z"
+        },
+        "-OyKqJPMU6molmAEBiSA": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:37:52.409016Z"
+        },
+        "-OyKqWVmHu8Vncs6RfH8": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:38:46.069331Z"
+        },
+        "-OyKqkI3Mnv_O_0XQ_nl": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:39:46.632040Z"
+        },
+        "-OyKqy7brrFUumrB9aSy": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:40:43.306578Z"
+        },
+        "-OyKrBrunPIdwyocaMTf": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:41:43.678147Z"
+        },
+        "-OyKrQdRQ_FYW_4cYh_E": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:42:44.192125Z"
+        },
+        "-OyKreQ786Bh2QVQkL_1": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:43:44.715406Z"
+        },
+        "-OyKrstTtJlfj6qTi3jS": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:44:44.002135Z"
+        },
+        "-OyKs6eXaLug_z6sNjzN": {
+          "body": "Round 21",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:45:44.486003Z"
+        },
+        "-OyKsLSkEaTZJkaLi5ST": {
+          "body": "Round 22",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:46:45.107445Z"
+        },
+        "-OyKs_FNA_gWeoLZtUvW": {
+          "body": "Round 23",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:47:45.692206Z"
+        },
+        "-OyKso2sT6wT2l8X_2lN": {
+          "body": "Round 24",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:48:46.331661Z"
+        },
+        "-OyKt1oky_KYWGvhfWTr": {
+          "body": "Round 25",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:49:46.803325Z"
+        },
+        "-OyKtDYvFEX_lsetsAtd": {
+          "body": "Round 26",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:50:34.878429Z"
+        }
+      },
+      "name": "odyssey",
+      "participants": [
+        "Juliett",
+        "Golf"
+      ]
+    },
+    "-OyKrqzdNSTbsrgbdnUQ": {
+      "conversationId": "-OyKrqzdNSTbsrgbdnUQ",
+      "messages": {
+        "-OyKrsJs1ogE_HAACFzm": {
+          "body": "wanna attack golf",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:44:41.659838Z"
+        },
+        "-OyKrstZdaa3h3x_DPbH": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:44:44.007507Z"
+        },
+        "-OyKryBolI8w7618UAoh": {
+          "body": "wait till hotel is a bit healthier",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:45:05.719705Z"
+        },
+        "-OyKs-Gp8ka7f8AUR8B7": {
+          "body": "cant have our dr die on us",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:45:14.232269Z"
+        },
+        "-OyKs3Pk_lvrffgWE005": {
+          "body": "hes already at 80",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:45:31.187559Z"
+        },
+        "-OyKs6-ljTVyfmi1-O-6": {
+          "body": "we can do it next round?",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:45:41.812410Z"
+        },
+        "-OyKs6ecjWsL8SSgVAmD": {
+          "body": "Round 21",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:45:44.492016Z"
+        },
+        "-OyKs87Ib_syyM7_tSS1": {
+          "body": "sure",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:45:50.487032Z"
+        },
+        "-OyKs8obH5jqPMdYZXEE": {
+          "body": "strike now",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:45:53.322707Z"
+        },
+        "-OyKs9Yd4wUJjHdowQrP": {
+          "body": "how much are you taking",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:45:56.332954Z"
+        },
+        "-OyKsDv_QwgT9uechgLM": {
+          "body": "im taking 8",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:46:14.248976Z"
+        },
+        "-OyKsLSqiTsYmH5fPUbe": {
+          "body": "Round 22",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:46:45.114159Z"
+        },
+        "-OyKsWOonX-VBuKYBdZf": {
+          "body": "idk why that didnt wortk",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:47:29.911792Z"
+        },
+        "-OyKsZo2miYR50PAF_k6": {
+          "body": "yeah i dunnp",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:47:43.878545Z"
+        },
+        "-OyKs_FTHkrXPdfltPkm": {
+          "body": "Round 23",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:47:45.698015Z"
+        },
+        "-OyKso2xmH7twLJOrZyN": {
+          "body": "Round 24",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:48:46.337076Z"
+        },
+        "-OyKt1opluDNlnF0wde3": {
+          "body": "Round 25",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:49:46.809079Z"
+        },
+        "-OyKtDZ0H71OYwBc_IiC": {
+          "body": "Round 26",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:50:34.884608Z"
+        }
+      },
+      "name": "attackers",
+      "participants": [
+        "Juliett",
+        "X-ray"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-OyKnh4CknLqjvfgwvm-": {
+          "body": "welcome ",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:26:27.022660Z"
+        },
+        "-OyKni4EZ8awVlHBsnXp": {
+          "body": "yo yo yo yo yo ",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:26:31.121095Z"
+        },
+        "-OyKnjAtf5g929quCp8l": {
+          "body": "Howdy Partner",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:26:35.642393Z"
+        },
+        "-OyKnjM1ojVQPeAWydzW": {
+          "body": "the odyssey be like oooo aaaaaa",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:26:36.355272Z"
+        },
+        "-OyKnjrGh3Bl6BmDeXkb": {
+          "body": "my life be like",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:26:38.418510Z"
+        },
+        "-OyKnkM1Ve83aWRFvBBP": {
+          "body": "oooo aaaaaa",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:26:40.451237Z"
+        },
+        "-OyKnsLb4RdyOWPmYyDr": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:27:13.192929Z"
+        },
+        "-OyKnwkXiq8dGf8TMtgD": {
+          "body": "round 1 golf attacked me",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:27:31.235877Z"
+        },
+        "-OyKo66geHQC4_vBY1eL": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:28:13.677403Z"
+        },
+        "-OyKoJ8UQusTjruxSSPS": {
+          "body": "give me money and I heal you later",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:29:07.040357Z"
+        },
+        "-OyKoKM9vitU3TMu9sLh": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:29:12.011968Z"
+        },
+        "-OyKoRUBHUH3-Uej87bT": {
+          "body": "alpha lied to me everyone tak 5 form him",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:29:41.197586Z"
+        },
+        "-OyKoVMnLoKMxjI-GYcq": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:29:57.108510Z"
+        },
+        "-OyKoYx8x-yMWvKegvwi": {
+          "body": "guys keep it up ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:30:11.786615Z"
+        },
+        "-OyKo_V2fkGrAbdrzSYm": {
+          "body": "eat the rich",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:30:18.117084Z"
+        },
+        "-OyKoaMe4YCKTZq9UgBC": {
+          "body": "fine by me I hate the insurance",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:30:21.675911Z"
+        },
+        "-OyKoc3tSo9gfBb8k6lI": {
+          "body": "take form alpha he is scaming me",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:30:28.666536Z"
+        },
+        "-OyKoeuRcEG6WPCjOtEZ": {
+          "body": "u crossed me for the last time ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:30:40.285850Z"
+        },
+        "-OyKofXrnMj5k8fukYCa": {
+          "body": "since I am the only doctor just cook the insurance and go right to me",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:30:42.872728Z"
+        },
+        "-OyKohqYLlH74vZ0UbOy": {
+          "body": "i will take 10 now form u evbery round",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:30:52.324421Z"
+        },
+        "-OyKoiwV5Otc8aA4s0YY": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:30:56.801983Z"
+        },
+        "-OyKoiwV5Otc8aA4s0YZ": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:30:56.802054Z"
+        },
+        "-OyKolrPyF1cwuN2qmZM": {
+          "body": "he is in prison now",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:31:08.763936Z"
+        },
+        "-OyKon0nzjmvmPKX2yEv": {
+          "body": "cme to me for heqaling",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:31:13.525200Z"
+        },
+        "-OyKonAkrQLsDVWfwRmr": {
+          "body": "good",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:31:14.161256Z"
+        },
+        "-OyKonjBtwoGtCdFCqUe": {
+          "body": "we keep him alive as punishment",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:31:16.429330Z"
+        },
+        "-OyKonydgBXQsfFMGJbf": {
+          "body": "no need the isunaieunace",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:31:17.418545Z"
+        },
+        "-OyKopy7bB8xkBlfPN4A": {
+          "body": "julliet frick you ",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:31:25.578136Z"
+        },
+        "-OyKorvxuhphuEqxRPnA": {
+          "body": "go team",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:31:33.630727Z"
+        },
+        "-OyKotrZEJi8fjxiRgkG": {
+          "body": "the rest i pay u 1 for ur good deeds",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:31:41.541595Z"
+        },
+        "-OyKowxDdDphyr2Qphbm": {
+          "body": "thank you for this justice",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:31:54.190465Z"
+        },
+        "-OyKoxjJOBwvIZd0SQBE": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:31:57.398068Z"
+        },
+        "-OyKp1IJtUZWJy4HqTR_": {
+          "body": "i need health",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:32:16.085580Z"
+        },
+        "-OyKp3I7WFQvH9_XG_0X": {
+          "body": "no one heal him",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:32:24.265446Z"
+        },
+        "-OyKp4wdG4p22_I3AsGO": {
+          "body": "i need docter",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:32:31.018364Z"
+        },
+        "-OyKp9Vd_4rAzptyhwVY": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:32:49.707233Z"
+        },
+        "-OyKpIm1kCMhzKPkwrx8": {
+          "body": "yo my b i didnt realize its an honor system i pay u 3 now",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:33:27.683332Z"
+        },
+        "-OyKpJrNAAMk6ZV9kVOC": {
+          "body": "golf gimme one more token this round",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:33:32.121908Z"
+        },
+        "-OyKpOGJTzdWUOqI85bm": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:33:50.165735Z"
+        },
+        "-OyKpOjJ-l307ZZjXFS0": {
+          "body": "hotel I can make your business ",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:33:52.085963Z"
+        },
+        "-OyKpUDGlRcWdPhhpIze": {
+          "body": "yo ill heal u",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:34:14.546294Z"
+        },
+        "-OyKpVP7aEFBtHs4qYyC": {
+          "body": "i need to become docter",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:34:19.401922Z"
+        },
+        "-OyKpVxRNTgcAf_bZJER": {
+          "body": "buy insurance ",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:34:21.661643Z"
+        },
+        "-OyKpc1m9GD9oAjez22x": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:34:50.675294Z"
+        },
+        "-OyKplQJKgugDjkrOz38": {
+          "body": "yo keep stealign form alpha ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:35:29.109651Z"
+        },
+        "-OyKpmw1HmhEFXHiRhc0": {
+          "body": "they are charging us too much",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:35:35.300032Z"
+        },
+        "-OyKpqmhgXOdcJeSqkVc": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:35:51.086673Z"
+        },
+        "-OyKq4_iEoKIR4mSPqka": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:36:51.696110Z"
+        },
+        "-OyKq88i3EXx9J_A6CmK": {
+          "body": "hotel fund my med school and I heal you",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:37:06.287228Z"
+        },
+        "-OyKqJP60vQ6emfv0Sg6": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:37:52.392980Z"
+        },
+        "-OyKqP-q4jRlLBAIVbqn": {
+          "body": "please i am doctor for docter ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:38:15.351670Z"
+        },
+        "-OyKqRcji_SfRs0PvaxP": {
+          "body": "hotel needs to fund golf",
+          "from": "Alpha",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:38:26.098718Z"
+        },
+        "-OyKqSCkp9ONHSeexajP": {
+          "body": "medical is expensive im tyring to heal the doc",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:38:28.467390Z"
+        },
+        "-OyKqWVTwJpFM_9xad3v": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:38:46.049914Z"
+        },
+        "-OyKqZssbik1SMDQB_3v": {
+          "body": "i pay 11 tokens for school im so sick",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:38:59.900103Z"
+        },
+        "-OyKqe9m8ejJGgocJ0mQ": {
+          "body": "please i need healing ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:39:21.525747Z"
+        },
+        "-OyKqkHmvB1pmGC9JHez": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:39:46.613384Z"
+        },
+        "-OyKqpUMr44bV77D0TeR": {
+          "body": "alpha attacked me",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:40:07.898989Z"
+        },
+        "-OyKqq3uBqCAeYipLWyU": {
+          "body": "slime him",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:40:10.301906Z"
+        },
+        "-OyKqrICyAos4dL1TCUL": {
+          "body": "everyone get him",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:40:15.312922Z"
+        },
+        "-OyKqtR0_jlKnNUdhcUi": {
+          "body": "how do we slime that which has already ben slimed",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:40:24.068267Z"
+        },
+        "-OyKqy7JOA2J6DmkXtoz": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:40:43.287912Z"
+        },
+        "-OyKr2bhxyPtGVSyVCHj": {
+          "body": "i had to pay for schoool plseas i need to live",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:41:05.776689Z"
+        },
+        "-OyKrAL145endjtrRIQU": {
+          "body": "ill heal; the docter",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:41:37.413503Z"
+        },
+        "-OyKrBleB6DLhtSg3GpA": {
+          "body": "kill alpha",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:41:43.277632Z"
+        },
+        "-OyKrBrdhlY9lCKQo-h_": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:41:43.660489Z"
+        },
+        "-OyKrEsFcwrsb9Mgwzd7": {
+          "body": "i am now docter",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:41:55.987721Z"
+        },
+        "-OyKrFVrmMyirI5QXHb2": {
+          "body": "ill heal u",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:41:58.586588Z"
+        },
+        "-OyKrHF-ko0VBAgZSS_3": {
+          "body": "golf save hotel",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:42:05.699637Z"
+        },
+        "-OyKrQNDBNBeua6ixA4Z": {
+          "body": "i heal alll for 1",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:42:43.089064Z"
+        },
+        "-OyKrQd9rqevxsCeCMuZ": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:42:44.173802Z"
+        },
+        "-OyKrc-Yq0U-ueyHrXJn": {
+          "body": "ok",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-24T20:43:34.822230Z"
+        },
+        "-OyKrePqGWYmAvfAC2wj": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:43:44.697298Z"
+        },
+        "-OyKrstDNUwN4NKHexrK": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:44:43.985815Z"
+        },
+        "-OyKs6eDIHIQTMi33z0N": {
+          "body": "Round 21",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:45:44.465616Z"
+        },
+        "-OyKsLSRXxeBODDElnEL": {
+          "body": "Round 22",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:46:45.087466Z"
+        },
+        "-OyKs_F6MnFUSxTU1zcS": {
+          "body": "Round 23",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:47:45.674716Z"
+        },
+        "-OyKso2bkMc8EJR42Od1": {
+          "body": "Round 24",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:48:46.314235Z"
+        },
+        "-OyKt1oUqS3N-J1dhG6y": {
+          "body": "Round 25",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:49:46.786749Z"
+        },
+        "-OyKtDYb-K886KjOUjck": {
+          "body": "Round 26",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-24T20:50:34.858977Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}
