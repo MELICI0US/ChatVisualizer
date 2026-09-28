@@ -1,0 +1,2500 @@
+{
+  "conversations": {
+    "-NENJWtR7v-2dlVLJEtO": {
+      "conversationId": "-NENJWtR7v-2dlVLJEtO",
+      "messages": {
+        "-NENJ_EZzahU5w6zEFht": {
+          "body": "Is it possible?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:06:57.637132Z"
+        },
+        "-NENJaGy32psf5zlZdxG": {
+          "body": "I think it is",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:07:01.886598Z"
+        },
+        "-NENJc-wUmSivWrS2Cpn": {
+          "body": "I'm in",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:07:08.989127Z"
+        },
+        "-NENJcjBVCxBuGt3lH7O": {
+          "body": "?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:07:11.948656Z"
+        },
+        "-NENJczcflYHDRpyBQsU": {
+          "body": "What are you recommending?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:07:13.001123Z"
+        },
+        "-NENJd8ikWQfvCJv4N2q": {
+          "body": "I'm down to try",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:07:13.647064Z"
+        },
+        "-NENJeGLMSzcB4tlDG6d": {
+          "body": "sure",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:07:18.231061Z"
+        },
+        "-NENJfERP9WuRqKjdRp0": {
+          "body": "2 each and hold 2?",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:07:22.204544Z"
+        },
+        "-NENJii8q6DfszWpKYyU": {
+          "body": "Not the most exciting game but can it be done",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:07:36.458034Z"
+        },
+        "-NENJjQ7Np_tQdyzUSpz": {
+          "body": "Do we get food? If we converge",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:07:39.336566Z"
+        },
+        "-NENJkI5kWVEvjheBi8o": {
+          "body": "No holding. 2 is up to your discretion",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:07:42.918680Z"
+        },
+        "-NENJoi5RHpTc7AqAyVF": {
+          "body": "Dr. Crandall here: NO FOOD!!!",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:08:01.030262Z"
+        },
+        "-NENJp7Eszv-A0BcTW8K": {
+          "body": "Give the extra two to the person directly below you in the rankings",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:08:02.703610Z"
+        },
+        "-NENJtZ_mahNec1AL60J": {
+          "body": "This seems like communism",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:08:20.902166Z"
+        },
+        "-NENJvHmLOltg3MtvMM2": {
+          "body": "Well that was what I was going to do anyways.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:08:27.954929Z"
+        },
+        "-NENJx2lBIdVdaO2uQYW": {
+          "body": "It is. And it works if everyone cooperates.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:08:35.185350Z"
+        },
+        "-NENK-NbskDsnEiCe4mY": {
+          "body": "But communism is good for everyone when we work together",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:08:48.807504Z"
+        },
+        "-NENK1DiX6pvBFqdhgGY": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:08:56.367206Z"
+        },
+        "-NENK7H2zaWZcOT7WSWP": {
+          "body": "apologies.  i ran out of time and kept everything",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:09:21.155958Z"
+        },
+        "-NENKA_UW7LB5o26iiY_": {
+          "body": "Sure Dr. Crandall",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:09:34.687967Z"
+        },
+        "-NENKCbtXknJc6zHuZd9": {
+          "body": "Delta. We will try again with you but if you refuse the convergance, the convergance will refuse you",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:09:43.034064Z"
+        },
+        "-NENKEp235-GEu4BV-4K": {
+          "body": "Don't let it happen again. Everyone do the same thing.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:09:52.067780Z"
+        },
+        "-NENKJLZd7QbPz1qLl7r": {
+          "body": "2 directly below?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:10:10.596916Z"
+        },
+        "-NENKNoZvox7927TnI2c": {
+          "body": "Sacrifice your individualism for the machine. Send 4 to the same person you did last time. Who was delta supposed to give to",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:10:28.900392Z"
+        },
+        "-NENKPSSBCKCx3s4l3pH": {
+          "body": "2 directly below actually",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:10:35.613718Z"
+        },
+        "-NENKQcuiWulfXZxmWvl": {
+          "body": "that will solve the problem",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:10:40.442976Z"
+        },
+        "-NENKTaXAy90VbVc9UlF": {
+          "body": "4 directly below excuse me",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:10:52.578636Z"
+        },
+        "-NENKV-iU4mTQrJAe9I6": {
+          "body": "I'm send 4 to golf.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:10:58.350894Z"
+        },
+        "-NENKWmqfIK8EE-EtNaP": {
+          "body": "4 to victor",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:11:05.654475Z"
+        },
+        "-NENKYjyA7ImbFnnzLcX": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:11:13.662668Z"
+        },
+        "-NENKjiFlZM3uk_1r4Qc": {
+          "body": "I got 2 from everyone",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:12:02.705175Z"
+        },
+        "-NENKjneY0Krr6k-pXXH": {
+          "body": "4 to victor",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:12:03.051096Z"
+        },
+        "-NENKlpZOLg1iOuO9BhC": {
+          "body": "okay nvm",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:12:11.364958Z"
+        },
+        "-NENKp1qdX_LNHXyDtH5": {
+          "body": "who was above you last round mike",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:12:24.503025Z"
+        },
+        "-NENKpUK84RFxf_BVkOU": {
+          "body": "Send 4 to the same person each time. 2 to everyone else. I got 4 from 2 people, someone messed up.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:12:26.325361Z"
+        },
+        "-NENKq7t-6vbbbuxVigW": {
+          "body": "4 to oscar for me",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:12:28.985861Z"
+        },
+        "-NENKsAmkeIeHLkAauhe": {
+          "body": "Delta",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:12:37.362475Z"
+        },
+        "-NENKwoT0n0Ew0shw4a7": {
+          "body": "Send 4 to the person below you again this time should be the last one. Delta is about to get blacklisted",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:12:56.351156Z"
+        },
+        "-NENKyAuqpEexrCJbrKE": {
+          "body": "Wait who was below me",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:13:01.947189Z"
+        },
+        "-NENL0YzqG2E0t3bfFuM": {
+          "body": "Just send four to the person below you now",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:13:15.776088Z"
+        },
+        "-NENL4khnD6PsehoXFEN": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:13:32.973762Z"
+        },
+        "-NENLC8odpfvVlbfjZuE": {
+          "body": "What a beautiful network graph",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:14:03.252355Z"
+        },
+        "-NENLFnEKjSxn9jRJhM2": {
+          "body": "I feel bad for papa.  I'm giving papa extra",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:14:18.191341Z"
+        },
+        "-NENLG_VsGCzgMIh1S2U": {
+          "body": "It looks like we're trying to summon a demon",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:14:21.408841Z"
+        },
+        "-NENLHksr98QJFdp2nx0": {
+          "body": "No delta",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:14:26.233203Z"
+        },
+        "-NENLJBoJsZxnrci8X51": {
+          "body": "We will converge",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:14:32.116265Z"
+        },
+        "-NENLKKYGBaaYUOjTFN6": {
+          "body": "Don't give extra to anyone. We will converge with time. ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:14:36.771529Z"
+        },
+        "-NENLL0VH55v_RBw-1da": {
+          "body": "I only got 2 from everyone",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:14:39.584566Z"
+        },
+        "-NENLMk7FEb0jxJyLuVO": {
+          "body": "I sent you 4 papa",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:14:46.664955Z"
+        },
+        "-NENLOdkjfiJaoYsu7Tu": {
+          "body": "jk",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:14:54.449035Z"
+        },
+        "-NENLPSXgZsrSMc2sY08": {
+          "body": "I sent golf 4",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:14:57.763117Z"
+        },
+        "-NENLPbiwpbxCkLBhkOl": {
+          "body": "same -- i only got 2 from everyone.  people are cheating",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:14:58.414266Z"
+        },
+        "-NENLRpvJEqNV3PDpLfl": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:15:07.515927Z"
+        },
+        "-NENLXWpcgD_OELCf7Ci": {
+          "body": "Thou hast spoken Delta",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:15:30.805961Z"
+        },
+        "-NENLZ2xa-GooK0Bl3SM": {
+          "body": "Everyone say who your giving 4 to",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:15:37.085932Z"
+        },
+        "-NENLZeFnIhlmpicznaP": {
+          "body": "arent we only supposed to give two?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:15:39.537067Z"
+        },
+        "-NENLdtgsuY34PsMHWNe": {
+          "body": "I will give 4 to golf this round",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:16:01.005098Z"
+        },
+        "-NENLefJw6mDIt7PsFqW": {
+          "body": "My receives are correct. I get 4 from Echo and give 4 to Mike.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:16:04.181172Z"
+        },
+        "-NENLgjBTCRfrXdtK9de": {
+          "body": "4 to papa",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:16:12.620345Z"
+        },
+        "-NENLiQqFlntN-V2PaMr": {
+          "body": "I got 4 and give 4 to Oscar",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:16:19.574979Z"
+        },
+        "-NENLmv5qMKrR00_j8F-": {
+          "body": "Wait. Are we giving to eachother papa?",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:16:37.959154Z"
+        },
+        "-NENLpSufad_pQjDamKX": {
+          "body": "Who has Golf?",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:16:48.378450Z"
+        },
+        "-NENLsg8BzQwDwvUL2Ma": {
+          "body": "This is too many to coordinate",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:17:01.577838Z"
+        },
+        "-NENLuuW3m5txpRv6cau": {
+          "body": "Yes, that is what happened last round. I assumed that was the pattern.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:17:10.689764Z"
+        },
+        "-NENLyROOoAR6cNubw0Z": {
+          "body": "Give 4 to the person directly below you",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:17:25.146128Z"
+        },
+        "-NENLyTIovPmnQoQ8x5G": {
+          "body": "It can be done. Next time we will reset and try again",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:17:25.267488Z"
+        },
+        "-NENLzNvz49KpnAp4d5Z": {
+          "body": "We will reset who the person is next round if there is further confusion. It will be the person directly below you.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:17:29.019466Z"
+        },
+        "-NENLzVT3ugQGhpQGI77": {
+          "body": "Comrad Mike: don't abandon it",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:17:29.502951Z"
+        },
+        "-NENM-oijJdhYqrouwwE": {
+          "body": "agreed mike",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:17:34.894309Z"
+        },
+        "-NENM00Re9rpMJSPGmdT": {
+          "body": "I'm confused",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:17:35.708260Z"
+        },
+        "-NENM0Rhc4qBR9nLX_pc": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:17:37.454191Z"
+        },
+        "-NENM5lzyap9KnF77U9D": {
+          "body": "I got 4 from 2 people",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:17:59.295603Z"
+        },
+        "-NENM8dpOULezat16Pes": {
+          "body": "Did you agree with them?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:18:11.062046Z"
+        },
+        "-NENM8r1xPwgX9ZO_fbw": {
+          "body": "Starting this round: Always give 4 to the person directly underneath you. The player in last place will give to the first place player",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:18:11.907125Z"
+        },
+        "-NENMDVds_VCXCR3Ccaf": {
+          "body": "I will always give 4 to echo",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:18:30.953415Z"
+        },
+        "-NENMF5CW_z5k58dN_-l": {
+          "body": "I'll give to Delta",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:18:37.453874Z"
+        },
+        "-NENMHKTx-SpIn58Q7ae": {
+          "body": "I will always give to Mike",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:18:46.623094Z"
+        },
+        "-NENMIdJLmK8K4VeU_y1": {
+          "body": "I will always give 4 to golf",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:18:51.988801Z"
+        },
+        "-NENMLSlPGoqy8i2bupV": {
+          "body": "Delta will always give me for",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:19:03.537436Z"
+        },
+        "-NENMM3e_iZeLzFJoRZi": {
+          "body": "i will give four to victor",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:19:06.026354Z"
+        },
+        "-NENMS9ZbWn0NDEbmd-o": {
+          "body": "Delta ....",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:19:30.980311Z"
+        },
+        "-NENMWp9ArqJpzCjLQds": {
+          "body": "Mike->Echo->Papa->Delta->Oscar->Golf-Victor->Mike",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:19:50.091033Z"
+        },
+        "-NENMZE1T-8HhcpJ_497": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:19:59.938427Z"
+        },
+        "-NENMb-Q_iT4O1HIdHgR": {
+          "body": "Give 4 to who the arrow points to.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:20:11.291552Z"
+        },
+        "-NENMgzSwiMB02NklTNN": {
+          "body": "I think echo kept 2",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:20:35.805532Z"
+        },
+        "-NENMkYx_G3gOSxQulbI": {
+          "body": "Delta kept 2",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:20:50.429730Z"
+        },
+        "-NENMm54JmW9_GGQ9QWB": {
+          "body": "See my new chat for details",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:20:56.709351Z"
+        },
+        "-NENMoG-7SZWXvWjdxmI": {
+          "body": "i'm so lost",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:21:05.600221Z"
+        },
+        "-NENMpbp0uhDilwqGBXb": {
+          "body": "last time two of us gave to mike",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:21:11.157991Z"
+        },
+        "-NENMsl9qiUK4UYoDLKq": {
+          "body": "so i assumed i did it wrong",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:21:24.042408Z"
+        },
+        "-NENMvsiR7vuxYCZVhR_": {
+          "body": "I only got 4 from victor last round",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:21:36.814551Z"
+        },
+        "-NENMyDg_qsGxkSAtmuH": {
+          "body": "Seems about right",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:21:46.412210Z"
+        },
+        "-NENMzGOiVyLg39mlOAd": {
+          "body": "Give the same as last time. We will fix the details next round without delta",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:21:50.681798Z"
+        },
+        "-NENMzKqAFa_ob1xcFCI": {
+          "body": "Look up in the chat see who the arrows point to. That's who you give to.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:21:50.966677Z"
+        },
+        "-NENMzcDPaI5ZIiuGZgR": {
+          "body": "This isn't working. I think more people are confused than those who aren't",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:21:52.142455Z"
+        },
+        "-NENN2ejaTeJC5_xtrIF": {
+          "body": "Apparently arrows are too much for some people",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:22:08.687860Z"
+        },
+        "-NENN38YUF1qzjTAuEBl": {
+          "body": "which round was the arrows for?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:22:10.659507Z"
+        },
+        "-NENN4VQ9LwBTvtGDOR-": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:22:16.219787Z"
+        },
+        "-NENNAyLvXJmdwNM7EE-": {
+          "body": "It doesn't change with rounds.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:22:42.711027Z"
+        },
+        "-NENNE8oMd8bwBTVP2b9": {
+          "body": "Once you have a set person, everyone maintains that same person.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:22:55.733134Z"
+        },
+        "-NENNKMRdk5mbJnuyKtD": {
+          "body": "SEE THE NEW CHAT SYSTEM",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:23:21.180304Z"
+        },
+        "-NENNbOj6n3oWl4e3-hB": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:24:35.055407Z"
+        },
+        "-NENNl0NP0dIAGk1ZHEn": {
+          "body": "Just saying, Oscar gave me 0 last round",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:25:14.456719Z"
+        },
+        "-NENNq74EtUW3aK7mPqn": {
+          "body": "Your a snake delta and a betrayer to the cause of convergance",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:25:35.365633Z"
+        },
+        "-NENNqt6oQFdMteqzy24": {
+          "body": "Have you been giving 4 each round?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:25:38.503558Z"
+        },
+        "-NENO3b5vdxjUSpVWcLi": {
+          "body": "Delta, have you been giving Oscar 4?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:26:34.694347Z"
+        },
+        "-NENO4MSbX7h_V-3LH9p": {
+          "body": "what if oscar is the lying?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:26:37.789849Z"
+        },
+        "-NENO73gBJjdbmlVL3Ys": {
+          "body": "Then I would not be in last ....",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:26:48.877192Z"
+        },
+        "-NENO9Rx9Fw80eAxthie": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:26:58.622189Z"
+        },
+        "-NENO_mTPbXeJ21qNLSm": {
+          "body": "True Oscar, we believe you. But we can't deviate from where we are without falling to chaos.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:28:50.590674Z"
+        },
+        "-NENOaY31d7_fBVqj_Gi": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:28:53.700355Z"
+        },
+        "-NENOb-GrOHJ3zFSCwPW": {
+          "body": "Deltas extra tokens are going to echo",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:28:55.569339Z"
+        },
+        "-NENOj_g1a2mAGcuu0Am": {
+          "body": "Delta, Papa, Echo, and Mike have split.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:29:30.733031Z"
+        },
+        "-NENOlZ3g4G8i1mHuDS1": {
+          "body": "Agreed",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:29:38.820486Z"
+        },
+        "-NENOn5nvAYL8SW2bZYh": {
+          "body": "We will converge without them",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:29:45.139413Z"
+        },
+        "-NENOoWtVrVgygxEaYff": {
+          "body": "Possibly to poverty",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:29:50.969676Z"
+        },
+        "-NENP9pb3Io39MiYWWzw": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:31:22.343796Z"
+        },
+        "-NENPj7-k5ZBnoNWHmpI": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:33:50.976979Z"
+        },
+        "-NENQETZI29-zFByLGk3": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:36:03.492590Z"
+        },
+        "-NENQeI7hghnYKkqe5ig": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:37:53.352964Z"
+        },
+        "-NENR4tmNn-fU1kjJyAJ": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:39:46.418917Z"
+        }
+      },
+      "name": "CONVERGANCE",
+      "participants": [
+        "Oscar",
+        "Echo",
+        "Papa",
+        "Golf",
+        "Delta",
+        "Mike",
+        "Victor"
+      ]
+    },
+    "-NENJkPkhAGwFuhOmfRU": {
+      "conversationId": "-NENJkPkhAGwFuhOmfRU",
+      "messages": {
+        "-NENJmBzh3y7seL1wiFT": {
+          "body": "giving you 4 if you want",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:07:50.719791Z"
+        },
+        "-NENJyrPSnCS-TpZFg5B": {
+          "body": "sounds good",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:08:42.587028Z"
+        },
+        "-NENJzcJNJFmJOUnvHjW": {
+          "body": "right back atcha",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:08:45.717046Z"
+        },
+        "-NENK1DmrgHZBDQQN2v5": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:08:56.370813Z"
+        },
+        "-NENK43-NfE2uBKJqOGu": {
+          "body": "whups.  I ran out of time",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:09:07.969186Z"
+        },
+        "-NENKKAW12862Q-onAht": {
+          "body": "Giving you 4.  you can just give me 2 or less or whatever you want until I make amends",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:10:13.985921Z"
+        },
+        "-NENKYk1Qs5KD0JPobBY": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:11:13.666391Z"
+        },
+        "-NENKc9nij7hcUsAcbtG": {
+          "body": "this is going to seem suspicious",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:11:31.763672Z"
+        },
+        "-NENKiBlv0Bp3-Cjmk39": {
+          "body": "I'm supposed to give 4 to you",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:11:56.465536Z"
+        },
+        "-NENKkwqONyrfHdEFcHZ": {
+          "body": "so not suspicious",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:12:07.734910Z"
+        },
+        "-NENKmsGpzdrFVFSs_Ri": {
+          "body": "you can do what you want",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:12:15.633394Z"
+        },
+        "-NENKotOS_Ma5JEhLgU7": {
+          "body": "But I'm your bestie",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:12:23.898144Z"
+        },
+        "-NENKrmkfVBDrfMjv16Z": {
+          "body": "okay, i'm going to give 2 directly below for a while",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:12:35.760697Z"
+        },
+        "-NENKtdTcPrSrUwDzU3i": {
+          "body": "just so we don't get attacked from the get go",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:12:43.359038Z"
+        },
+        "-NENL4klT-i7c0cG5yDD": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:13:32.977251Z"
+        },
+        "-NENLRpz0jwexc9fMPV5": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:15:07.519529Z"
+        },
+        "-NENM0Rl-v-W02DcfCHH": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:17:37.457685Z"
+        },
+        "-NENMDZ2fYGs2iBiB4Yi": {
+          "body": "I'm giving you 4",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:18:31.171524Z"
+        },
+        "-NENMEOvOxKli89exnoP": {
+          "body": "everyone is so confused",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:18:34.619589Z"
+        },
+        "-NENMPfu_BvnLZI_lfuU": {
+          "body": "I think it is feigned confusion",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:19:20.826281Z"
+        },
+        "-NENMTx_Bmqjf8WHgsOn": {
+          "body": "maybe they're figuring it out",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:19:38.342010Z"
+        },
+        "-NENMUmlBuXBJ20lFGLf": {
+          "body": "i'm not sure what to do",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:19:41.745882Z"
+        },
+        "-NENMZE4RsotSLiTQlpD": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:19:59.941790Z"
+        },
+        "-NENN4VT5P9JEarqDDE0": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:22:16.223107Z"
+        },
+        "-NENNbOmkj7_xfkzE69i": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:24:35.058942Z"
+        },
+        "-NENO9S0199CncGWB_Rg": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:26:58.625501Z"
+        },
+        "-NENOaY6xdr2iOjO8XKv": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:28:53.703987Z"
+        },
+        "-NENP9pfjLnnK-pBdW8U": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:31:22.347588Z"
+        },
+        "-NENPj73QiRkMxJE3jLA": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:33:50.981150Z"
+        },
+        "-NENQETbukA1nv3ehBs5": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:36:03.495908Z"
+        },
+        "-NENQeIBQXoyiCJXK-jn": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:37:53.356398Z"
+        },
+        "-NENR4tqBhXCDEZzsG8h": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:39:46.422530Z"
+        }
+      },
+      "name": "besties",
+      "participants": [
+        "Delta",
+        "Echo"
+      ]
+    },
+    "-NENKf6edq3QZFh-CvXN": {
+      "conversationId": "-NENKf6edq3QZFh-CvXN",
+      "messages": {
+        "-NENKhA8nOrfyhxQSExj": {
+          "body": "Giving back to you this time.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:11:52.265576Z"
+        },
+        "-NENKjmVywXMullBJwwS": {
+          "body": "I know you are a shady character, but I'll trust you.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:12:02.977085Z"
+        },
+        "-NENKsbn8ye8o0X-vbzw": {
+          "body": "Thx",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:12:39.155478Z"
+        },
+        "-NENKwBSr3WDeuFtO9S9": {
+          "body": "Should we do something interesting?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:12:53.790066Z"
+        },
+        "-NENL0IP-o5c9NkiIcc8": {
+          "body": "and buck the system?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:13:14.714748Z"
+        },
+        "-NENL4ahKwWu77l2qSy9": {
+          "body": "commrade, what are you suggesting?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:13:32.333846Z"
+        },
+        "-NENL4kohMPxEjOfXnQ5": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:13:32.980627Z"
+        },
+        "-NENL6xfrMffQ2OQKkw4": {
+          "body": "I don't know. If we do, we should make it clear our intentions so that they don't kill us.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:13:41.996011Z"
+        },
+        "-NENLBjpdcxq5SKdJLp1": {
+          "body": "Or we can just let them kill us, and then sow chaos from the poverty line",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:14:01.589876Z"
+        },
+        "-NENLRq1qEcnioL9eRPE": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:15:07.523068Z"
+        },
+        "-NENLVPzcrucCgzBQgnU": {
+          "body": "Let's start with just verbal manipulation",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:15:22.175945Z"
+        },
+        "-NENLmV0OaWLYiOfYm7L": {
+          "body": "What should we say?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:16:36.225916Z"
+        },
+        "-NENM0Ros8kvNSkpeNAU": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:17:37.460744Z"
+        },
+        "-NENMNyFwSOWLLExSL89": {
+          "body": "It's pretty hard to buck the system without immediately appearing shady.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:19:13.808647Z"
+        },
+        "-NENMWjyc1f4F_6RwOgE": {
+          "body": "Just a little here and there",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:19:49.758862Z"
+        },
+        "-NENMZE81jrAVtN2M1Jm": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:19:59.945346Z"
+        },
+        "-NENMhn-gWcFBYs8BbEm": {
+          "body": "Just verbal for now though right? What kinds of things could we say?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:20:39.105Z"
+        },
+        "-NENMlYia43jA1D4yUOE": {
+          "body": "not sure",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:20:54.510236Z"
+        },
+        "-NENMn1oAnhPzPvLHtZg": {
+          "body": "just act confused?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:21:00.596401Z"
+        },
+        "-NENN4VXkcFPMd_TofxI": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:22:16.226562Z"
+        },
+        "-NENNGMApYO18LivmFU9": {
+          "body": "There is a chat without you where they already want to drop you",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:23:04.780111Z"
+        },
+        "-NENNN2Fa_K1oF9Zk568": {
+          "body": "I think we need to take larger action",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:23:32.176713Z"
+        },
+        "-NENNQmPK8RZAvZlWfSd": {
+          "body": "What do you recommend?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:23:47.482417Z"
+        },
+        "-NENNbMQeCmuilT-MY9R": {
+          "body": "Not sure",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:24:34.907398Z"
+        },
+        "-NENNbOqMSYnGRv9NnC8": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:24:35.062429Z"
+        },
+        "-NENNlFBmAJrLrGKBEt3": {
+          "body": "Maybe let's bring Echo into the group. They've been shady too",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:25:15.404912Z"
+        },
+        "-NENO9S3zU0LSU0r-IEG": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:26:58.628902Z"
+        },
+        "-NENOaYAdm1Czt2RS6ar": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:28:53.708041Z"
+        },
+        "-NENP9pio3icf8PFszNp": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:31:22.350954Z"
+        },
+        "-NENPj77UOzjbbnCMWDT": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:33:50.985069Z"
+        },
+        "-NENQETfT4eaz3uFL1sd": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:36:03.499959Z"
+        },
+        "-NENQeIE0rBMNQ59medX": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:37:53.359820Z"
+        },
+        "-NENQiLruB9FzUndeHtf": {
+          "body": "I don't trust Echo. But the bottom probably will focus on him. Why don't we just build each other up. Ignore Echo",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:38:09.975994Z"
+        },
+        "-NENQmqhqtRgggmvZrQn": {
+          "body": "Keep half and build half.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:38:28.397223Z"
+        },
+        "-NENQrdcP2qdEpSRUrPI": {
+          "body": "I'm not sure yet.  Let's not be too clear about it",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:38:48.041103Z"
+        },
+        "-NENR4tt08aECa_IAWNY": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:39:46.426213Z"
+        }
+      },
+      "name": "Hi",
+      "participants": [
+        "Papa",
+        "Delta"
+      ]
+    },
+    "-NENMdLg3e8cXAoC9EON": {
+      "conversationId": "-NENMdLg3e8cXAoC9EON",
+      "messages": {
+        "-NENMfCoY8C0ikCBM1Gq": {
+          "body": "Delta is not cooperating",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:20:28.532412Z"
+        },
+        "-NENMi07h-6vEcvii7KY": {
+          "body": "We must conerge without him",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:20:40.009090Z"
+        },
+        "-NENMnOC0yjLsA2R7USm": {
+          "body": "Are you sure? Delta also shot up",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:21:02.029585Z"
+        },
+        "-NENMpPTFX3DiJno_mg9": {
+          "body": "They kept for that reason",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:21:10.302396Z"
+        },
+        "-NENMptE3l8mx7FtalRy": {
+          "body": "*Echo",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:21:12.271701Z"
+        },
+        "-NENMwPcHOxp1Ty2itE3": {
+          "body": "i didn't keep",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:21:38.984900Z"
+        },
+        "-NENN-ZQp4yWcEbgd5ua": {
+          "body": "i'll fix it this time",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:21:55.995528Z"
+        },
+        "-NENN4VcF9aaKwsqJ4ti": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:22:16.232370Z"
+        },
+        "-NENN89o6HMFIqGtPUaR": {
+          "body": "Delta is out",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:22:31.221108Z"
+        },
+        "-NENNEQZeaRx6fX2HbE9": {
+          "body": "Give 3 to everyone and 2 to the person below you",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:22:56.868420Z"
+        },
+        "-NENNHTCUnziI7j96gEk": {
+          "body": "Sending mike 2",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:23:09.325380Z"
+        },
+        "-NENNSmWP34wakibKcdi": {
+          "body": "Wait Oscar, no one else has agreed yet. Maintain the old strategy for now.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:23:55.681561Z"
+        },
+        "-NENNWnC2HlQILul7KDX": {
+          "body": "I can't. I am getting no tokens from delta and he is supposed to give me 4",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:24:12.109382Z"
+        },
+        "-NENNaLG1cdA2xmxeuOV": {
+          "body": "So you're the only one not being maintained?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:24:30.737262Z"
+        },
+        "-NENNbOtCR8YVRBnn8TY": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:24:35.065915Z"
+        },
+        "-NENNbQxARYMZJUFSf_v": {
+          "body": "i'm giving to papa",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:24:35.197409Z"
+        },
+        "-NENNg3leYadVsCMvLq7": {
+          "body": "yes",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:24:54.194168Z"
+        },
+        "-NENO9S6wJyQLmzYP8Kg": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:26:58.632176Z"
+        },
+        "-NENOaYEBOvMec5dfPNj": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:28:53.711687Z"
+        },
+        "-NENP9pnfxkAGIg5mO32": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:31:22.355517Z"
+        },
+        "-NENPj7BrmZD5VrrQ15x": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:33:50.988642Z"
+        },
+        "-NENQETjFyfBTjCxboTV": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:36:03.503880Z"
+        },
+        "-NENQeIHbPMj-K5EyRrq": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:37:53.363028Z"
+        },
+        "-NENR4txY8M1tYEPSqdj": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:39:46.429762Z"
+        }
+      },
+      "name": "CONERGE without delt",
+      "participants": [
+        "Oscar",
+        "Echo",
+        "Golf",
+        "Mike",
+        "Victor",
+        "Papa"
+      ]
+    },
+    "-NENN89o6HMFIqGtPUaQ": {
+      "conversationId": "-NENN89o6HMFIqGtPUaQ",
+      "messages": {
+        "-NENNHCpoFtMBhtdzw5q": {
+          "body": "Would you like to form an alliance?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:23:08.277985Z"
+        },
+        "-NENNNOPjKK28lZnH9Tw": {
+          "body": "Yes!",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:23:33.595196Z"
+        },
+        "-NENNO_8y4Nk6dUImefR": {
+          "body": "sure",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:23:38.441954Z"
+        },
+        "-NENNSZ0Tv_9JbEq8UAI": {
+          "body": "3 to each?",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:23:54.753431Z"
+        },
+        "-NENNSeeeMJxuweUjbmM": {
+          "body": "play along with everyone this round",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:23:55.178308Z"
+        },
+        "-NENNTan8GdK0KmRK5F3": {
+          "body": "What do you suggest?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:23:59.027951Z"
+        },
+        "-NENNTplXCaYiYPSBFVj": {
+          "body": "ok",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:23:59.985531Z"
+        },
+        "-NENNUxtDfwA5JHwS2yh": {
+          "body": "alright",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:24:04.602139Z"
+        },
+        "-NENNVVFqZ29C8E11c8H": {
+          "body": "sounds good",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:24:06.801056Z"
+        },
+        "-NENNaaQERWoLIgQdWtJ": {
+          "body": "Do we need to add a 4th individual?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:24:31.771230Z"
+        },
+        "-NENNbOwWBWxqaIKiYV4": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:24:35.069216Z"
+        },
+        "-NENNk_vzMkCdR3vw_QQ": {
+          "body": "Hmm idk",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:25:12.699820Z"
+        },
+        "-NENNmLlhzWOQwkUUU6w": {
+          "body": "7 to each other this round?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:25:19.921257Z"
+        },
+        "-NENNs4Mgw5jXFQPc2fQ": {
+          "body": "i think we'll get attacked if we break off to soon",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:25:43.384176Z"
+        },
+        "-NENNtMI4yaZD9QRuDO_": {
+          "body": "but we could?",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:25:48.628148Z"
+        },
+        "-NENNwOpgaeJl0Zjg01W": {
+          "body": "Let's add papa and then break off",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:26:01.078020Z"
+        },
+        "-NENNxaMnylhasxF53E-": {
+          "body": "yeah i agree",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:26:05.976109Z"
+        },
+        "-NENNxwZWgRPQ71EwLCZ": {
+          "body": "add papa",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:26:07.396702Z"
+        },
+        "-NENO9SA-gDt4CoRuyns": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:26:58.635700Z"
+        },
+        "-NENOaYIPuTeu6oyrzf1": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:28:53.715343Z"
+        },
+        "-NENP9prhzOLo074z7mo": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:31:22.359364Z"
+        },
+        "-NENPj7MNO64heGtmiZS": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:33:50.999548Z"
+        },
+        "-NENQETnqR0HEN-EeuJm": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:36:03.507532Z"
+        },
+        "-NENQeILvmGLxNa3Xmt2": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:37:53.366588Z"
+        },
+        "-NENR4u02OmoU8GaQaaH": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:39:46.433383Z"
+        }
+      },
+      "name": "My friends",
+      "participants": [
+        "Mike",
+        "Echo",
+        "Delta"
+      ]
+    },
+    "-NENNq54Oj2lvoUwU027": {
+      "conversationId": "-NENNq54Oj2lvoUwU027",
+      "messages": {
+        "-NENNtDdicNf5cEhJURk": {
+          "body": "Smaller groups are easier to coordinate.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:25:48.074188Z"
+        },
+        "-NENNvILw8bexDUbAUFz": {
+          "body": "What about staying together?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:25:56.567059Z"
+        },
+        "-NENO-P5t8ZVOicZJv1n": {
+          "body": "Let's add Mike",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:26:17.478522Z"
+        },
+        "-NENO2Mpv4VbTHbIOCCN": {
+          "body": "sounds good",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:26:29.621502Z"
+        },
+        "-NENO9SDe2groSYF3Wv7": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:26:58.638973Z"
+        },
+        "-NENOaYLwaihwDasQP2U": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:28:53.718618Z"
+        },
+        "-NENP9puwBnvSSfsJOk_": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:31:22.363018Z"
+        },
+        "-NENPj7QDREFA2HNZDd8": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:33:51.003314Z"
+        },
+        "-NENQETrlB-GV6thKnPn": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:36:03.511436Z"
+        },
+        "-NENQeIOppqjHyfj7-ji": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:37:53.369949Z"
+        },
+        "-NENR4u3DVwn-T5lYmbg": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:39:46.437049Z"
+        }
+      },
+      "name": "group",
+      "participants": [
+        "Papa",
+        "Echo",
+        "Delta"
+      ]
+    },
+    "-NENO9280dTpfbhuPZQ3": {
+      "conversationId": "-NENO9280dTpfbhuPZQ3",
+      "messages": {
+        "-NENO9SHv6TqiDEvy4jF": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:26:58.642633Z"
+        },
+        "-NENOCUgOOfj4eVZPMuQ": {
+          "body": "Okay, new group.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:27:11.084859Z"
+        },
+        "-NENOEd30Kyui7fE1DgX": {
+          "body": "Easier to coordinate in smaller groups",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:27:19.876832Z"
+        },
+        "-NENOHhTIC-RQweQBADV": {
+          "body": "okay okay, ignore the other chat",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:27:32.446903Z"
+        },
+        "-NENOIEn-kivTBiIQu-x": {
+          "body": "what's the plan",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:27:34.643534Z"
+        },
+        "-NENOJiPx2TXRV73bYw1": {
+          "body": "4 each?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:27:40.699179Z"
+        },
+        "-NENOMFE1rpEhPlOdWJj": {
+          "body": "4 to each, then 2 to another person?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:27:51.055672Z"
+        },
+        "-NENOR47YbwA95tHeLYP": {
+          "body": "Sure",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:28:10.824993Z"
+        },
+        "-NENOUdniDCeHzvRg54e": {
+          "body": "done",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:28:25.459215Z"
+        },
+        "-NENOV1aoAqB91U1voPy": {
+          "body": "deal",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:28:27.046487Z"
+        },
+        "-NENOX_-4-TrSfB9SIwv": {
+          "body": "we better prepare to get attacked though",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:28:37.440795Z"
+        },
+        "-NENOYrKXXiMXd0JAqGB": {
+          "body": "they won't be happy",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:28:42.709313Z"
+        },
+        "-NENOZnEQw2XC-1sFYGh": {
+          "body": "Next round keep everything?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:28:46.543809Z"
+        },
+        "-NENO_3Xp4hVUXYI-2kD": {
+          "body": "But we shouldn't keep it like that otherwise we'll leak",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:28:47.650558Z"
+        },
+        "-NENO_GPq_gfzPQXXQkH": {
+          "body": "there are only 3 of them",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:28:48.474685Z"
+        },
+        "-NENOaYO9T-01LukFKFS": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:28:53.722069Z"
+        },
+        "-NENOeA5A7E9Nx2Fkwnp": {
+          "body": "oh, it's obvious.",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:29:08.550770Z"
+        },
+        "-NENOh6RME9h9XfUD5nN": {
+          "body": "Keep 10 tokens? Attack with 4?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:29:20.604246Z"
+        },
+        "-NENOkCXWRom_NeDj52I": {
+          "body": "Maybe not attack?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:29:33.282526Z"
+        },
+        "-NENOmW35GFPxCvEneav": {
+          "body": "No attack.  Just 3 to each and keep the rest?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:29:42.725027Z"
+        },
+        "-NENOoy06trTvNTlAfMz": {
+          "body": "i agree with delta",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:29:52.769883Z"
+        },
+        "-NENOqcq4HDiwjX7OLuo": {
+          "body": "Delta's plan",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:29:59.606439Z"
+        },
+        "-NENOrgtH4_lQFm-aSyF": {
+          "body": "Done",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:30:03.961371Z"
+        },
+        "-NENOuqCUvWlbtj8apps": {
+          "body": "though we can't do that forever",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:30:16.845414Z"
+        },
+        "-NENP-GfruzndD1lSoeg": {
+          "body": "or we'll lose ground",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:30:39.084054Z"
+        },
+        "-NENP2uepErF6fT2eyhn": {
+          "body": "Only if they are coordinated enough",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:30:53.994455Z"
+        },
+        "-NENP3jnlhDLMxeO9XCq": {
+          "body": "Just this round and the next and then back to giving",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:30:57.395864Z"
+        },
+        "-NENP6UEGRAxQllLJUda": {
+          "body": "sounds good",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:31:08.624083Z"
+        },
+        "-NENP9pypCgsH1hDsoAf": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:31:22.366589Z"
+        },
+        "-NENPDE2KF6dUOmj3kLh": {
+          "body": "i just got added to a group",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:31:36.259947Z"
+        },
+        "-NENPDZn5Q3JPL_be-Tt": {
+          "body": "Victor attacked",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:31:37.652144Z"
+        },
+        "-NENPDx9aLaxC3kOWqRm": {
+          "body": "oh, they attacked -- golf and oscar",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:31:39.210274Z"
+        },
+        "-NENPEE1uMEbzHV6usOz": {
+          "body": "they want to attack",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:31:40.354594Z"
+        },
+        "-NENPH6HSsJNm4_R7KwA": {
+          "body": "they're probably going to keep",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:31:52.146237Z"
+        },
+        "-NENPIGtrT7xLmbOhdT7": {
+          "body": "what should we do?",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:31:56.921845Z"
+        },
+        "-NENPItQiqCMdO1s0l8h": {
+          "body": "should we keep",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:31:59.451870Z"
+        },
+        "-NENPKQZpdvXY6waI1R7": {
+          "body": "Just keep?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:32:05.732246Z"
+        },
+        "-NENPNPv8lZs4g65EDYJ": {
+          "body": "-2 to Oscar?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:32:17.979729Z"
+        },
+        "-NENPNzrDX5rKJPh91Hl": {
+          "body": "No, let's hit one of them",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:32:20.343934Z"
+        },
+        "-NENPP8lfEW70xInFYhe": {
+          "body": "-2 won't have an impact",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:32:25.073764Z"
+        },
+        "-NENPSpmOE9HzfnWtK-r": {
+          "body": "Let's hit Oscar hard",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:32:40.178895Z"
+        },
+        "-NENPUqAhVyoQ08T0_ch": {
+          "body": "okay",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:32:48.395936Z"
+        },
+        "-NENPVSrZx_tSEZrtJbi": {
+          "body": "Maybe 2 of us?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:32:50.935942Z"
+        },
+        "-NENPXPkDGJ7WHL187hd": {
+          "body": "The other two hit Victor",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:32:58.929060Z"
+        },
+        "-NENPYgs9jAiTsq8EsXK": {
+          "body": "2 of you should be enough",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:33:04.184808Z"
+        },
+        "-NENP_HnBmCPTBrSJW57": {
+          "body": "ill do vic",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:33:10.707985Z"
+        },
+        "-NENPaG35x0nj68J-sE8": {
+          "body": "should papa and i keep a little",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:33:14.692938Z"
+        },
+        "-NENPb14OWwESdxoCYse": {
+          "body": "everything on vic",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:33:17.830152Z"
+        },
+        "-NENPbU_vRMyvri7EPFs": {
+          "body": "before we get shot down",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:33:19.718114Z"
+        },
+        "-NENPd_6YQaM10OyRUeB": {
+          "body": "no, we need to all attack",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:33:28.263517Z"
+        },
+        "-NENPedcLDS-xiMGAtUA": {
+          "body": "okay",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:33:32.649103Z"
+        },
+        "-NENPj7UkWTl8i5ARvQs": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:33:51.007590Z"
+        },
+        "-NENPne6-5lCqYvAAxwZ": {
+          "body": "sorry i ran out of time to do all",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:34:09.544030Z"
+        },
+        "-NENPo9qIu9-E--GMbbL": {
+          "body": "what now?",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:34:11.638714Z"
+        },
+        "-NENPrloMyHl2KtlAuVr": {
+          "body": "golf and oscar?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:34:26.420245Z"
+        },
+        "-NENPuDCeDHZrBibq2ur": {
+          "body": "I'll hit golf",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:34:36.429965Z"
+        },
+        "-NENPwXC1TaF2Hb1xcw2": {
+          "body": "with echo?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:34:45.901930Z"
+        },
+        "-NENPyF0GbYQhft9U85d": {
+          "body": "You need to both hit Golf",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:34:52.929549Z"
+        },
+        "-NENQ-e4AxB7vTBAVxkb": {
+          "body": "I'll hit golf too",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:35:02.790055Z"
+        },
+        "-NENQ2eMRY9ZHrcy09Tq": {
+          "body": "okay",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:35:15.096030Z"
+        },
+        "-NENQ5IR4hEXv-Mz0z20": {
+          "body": "Me and D on golf e and p on oscar?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:35:25.916971Z"
+        },
+        "-NENQ7k9eMFg0RGp7lkr": {
+          "body": "yes",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:35:35.946789Z"
+        },
+        "-NENQAjcouLVkz9bgBZt": {
+          "body": "Sure",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:35:48.200208Z"
+        },
+        "-NENQBO6NKfi9mC6Afjf": {
+          "body": "sure",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:35:50.855980Z"
+        },
+        "-NENQETvhGn2NpAmB1Hf": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:36:03.516066Z"
+        },
+        "-NENQJMWJwU_hqIoflCL": {
+          "body": "oscar and victor are really threatening attack",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:36:23.522059Z"
+        },
+        "-NENQK1CQTpP44lPZC9B": {
+          "body": "just fyi",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:36:26.253776Z"
+        },
+        "-NENQNgdDEkkVIG1heQP": {
+          "body": "should we build eachother up?",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:36:41.258028Z"
+        },
+        "-NENQQBl5ZboOFukmyED": {
+          "body": "Keep half and use the other half to build up each other.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:36:51.505747Z"
+        },
+        "-NENQSH_FT-Ju6opzqFt": {
+          "body": "Drop golf a bit more?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:37:00.069548Z"
+        },
+        "-NENQXuhLy1u_jRv6V4w": {
+          "body": "I'll take Golf since he's my level",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:37:23.117938Z"
+        },
+        "-NENQeISZkW4AprvlNf2": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:37:53.373379Z"
+        },
+        "-NENQjhjbA-vHQNnnKim": {
+          "body": "Giving 4 each",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:38:15.535906Z"
+        },
+        "-NENQxUOPQ4JSXLmQNjf": {
+          "body": "Anyone else giving?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:39:11.961487Z"
+        },
+        "-NENR0-4tmfX9Mj96Nhk": {
+          "body": "i'm giving 3",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:39:26.341585Z"
+        },
+        "-NENR1iR0qcCWogWDIOR": {
+          "body": "victor and oscar went after me last round (fyi)",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:39:33.405120Z"
+        },
+        "-NENR3x64rT0iYrRBPaW": {
+          "body": "3 to each",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:39:42.535796Z"
+        },
+        "-NENR4XYT0642wkfoKqR": {
+          "body": "I'm giving, but I feel very funerable.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:39:44.931700Z"
+        },
+        "-NENR4u70kNdZv-DaPbq": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:39:46.440448Z"
+        }
+      },
+      "name": "New group",
+      "participants": [
+        "Papa",
+        "Echo",
+        "Delta",
+        "Mike"
+      ]
+    },
+    "-NENOASEtFN_CRpdA4If": {
+      "conversationId": "-NENOASEtFN_CRpdA4If",
+      "messages": {
+        "-NENODrJ7hDWZ4h7ccDi": {
+          "body": "What's the plan",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:27:16.693181Z"
+        },
+        "-NENOJ_aSPGWBirC5sGy": {
+          "body": "Okay, this chat then. Ignore the New Group chat",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:27:40.135067Z"
+        },
+        "-NENOMnsAsOeSCrDuMdB": {
+          "body": "Nevermind, New group it is",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:27:53.337194Z"
+        },
+        "-NENOaYSMWoWf9Cehj4o": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:28:53.725677Z"
+        },
+        "-NENP9q0nm-jhu2g1vFa": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:31:22.370093Z"
+        },
+        "-NENPj7Y2e5sOLRlbsoY": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:33:51.012008Z"
+        },
+        "-NENQETzgTR7VmoYVR5s": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:36:03.519940Z"
+        },
+        "-NENQeIV31kplCK75XWP": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:37:53.376323Z"
+        },
+        "-NENR4uA1nyXIDklfavh": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:39:46.443998Z"
+        }
+      },
+      "name": "Friends",
+      "participants": [
+        "Echo",
+        "Mike",
+        "Delta",
+        "Papa"
+      ]
+    },
+    "-NENOjCpxC5h9fh7_nzM": {
+      "conversationId": "-NENOjCpxC5h9fh7_nzM",
+      "messages": {
+        "-NENOrL8X_tnQnhZRwE6": {
+          "body": "Sending you each 7",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:30:02.506067Z"
+        },
+        "-NENP0vgk7R-2bOrbehZ": {
+          "body": "Let's attack Delta with everything.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:30:45.868568Z"
+        },
+        "-NENP4LTFetbI3KlvyCG": {
+          "body": "deak",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:30:59.870564Z"
+        },
+        "-NENP9q4Kzzc8aU-HeOm": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:31:22.373695Z"
+        },
+        "-NENPG-fw8u60fhvOLQo": {
+          "body": "Sorry, I forgot to attack, then I attacked Mike.... ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:31:47.628091Z"
+        },
+        "-NENPUCQVmqjJp5af-bE": {
+          "body": "All in on papa",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:32:45.787598Z"
+        },
+        "-NENPVXrInoe4Z4dnZ-x": {
+          "body": "Let's each attack Papa",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:32:51.255647Z"
+        },
+        "-NENPczBbDilg2YJ4qG8": {
+          "body": "This should be our main chat. Attack Papa!!!",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:33:25.836339Z"
+        },
+        "-NENPfCXUQqAVCwrzCp9": {
+          "body": "Agreed",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:33:34.947013Z"
+        },
+        "-NENPj7b3G4T-LTOVkHH": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:33:51.015484Z"
+        },
+        "-NENPsBcyc3CEF9Ey2ku": {
+          "body": "Mike and Echo both hit me with everything. Continue the attach on Mike now?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:34:28.136372Z"
+        },
+        "-NENQ8rTG4tP1JNPX1jK": {
+          "body": "All in on mike yes",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:35:40.510723Z"
+        },
+        "-NENQAXo38JOVbrT4rTr": {
+          "body": "Kill Mike.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:35:47.380783Z"
+        },
+        "-NENQEU7xm65n0TmK-Pf": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:36:03.528426Z"
+        },
+        "-NENQUK3NkNrBfszvxUw": {
+          "body": "Kill Delta again",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:37:08.420270Z"
+        },
+        "-NENQWFnpb6mUpqPMUnG": {
+          "body": "Agreed",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:37:16.339355Z"
+        },
+        "-NENQYiDTrACRvyqwevA": {
+          "body": "He will be the target of all our attacks perpetually",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:37:26.414274Z"
+        },
+        "-NENQcMYvdzwSe6DHGoO": {
+          "body": "We will pull them all down. Unless they kill the timer.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:37:45.443999Z"
+        },
+        "-NENQeIY_NWMZSVajFuS": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:37:53.379821Z"
+        },
+        "-NENQj-0OTTIPYUidwqs": {
+          "body": "all 14 on delta",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:38:12.610149Z"
+        },
+        "-NENQkxW7L-lwnXdrrHt": {
+          "body": "Hit delta with everything",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:38:20.641463Z"
+        },
+        "-NENR4uEYIoZLmisChlw": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:39:46.447400Z"
+        }
+      },
+      "name": "The cause",
+      "participants": [
+        "Oscar",
+        "Victor",
+        "Golf"
+      ]
+    },
+    "-NENOriw23aVrTipaUS_": {
+      "conversationId": "-NENOriw23aVrTipaUS_",
+      "messages": {
+        "-NENP-KnQSiOSWWp5KcW": {
+          "body": "Are we attacking?",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:30:39.347876Z"
+        },
+        "-NENP0oOu4nB6nvBuixJ": {
+          "body": "I thought echo was in their group",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:30:45.402011Z"
+        },
+        "-NENP1_4Nywn6nqcvEmY": {
+          "body": "I want to converge",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:30:48.518171Z"
+        },
+        "-NENP4XGeEEDfSAbJThP": {
+          "body": "We will continue to try converging",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:31:00.625356Z"
+        },
+        "-NENP9q7e8PUsfoc24Rw": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:31:22.377135Z"
+        },
+        "-NENPH4xa8GokF57-bv_": {
+          "body": "Will you join the cause or leave your brothers to die",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:31:52.061469Z"
+        },
+        "-NENPRiL1rnp6kNIbZy2": {
+          "body": "echo. We need your leadership",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:32:35.607048Z"
+        },
+        "-NENP_5n9_YlE7aK8tSH": {
+          "body": "Echo, what do you want our small force to do?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:33:09.939289Z"
+        },
+        "-NENPb2t-It-WnAlXynG": {
+          "body": "Echo. We will crown you as king",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:33:17.946036Z"
+        },
+        "-NENPcj_n-3MsUDa2Ago": {
+          "body": "You will be our leader",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:33:24.838085Z"
+        },
+        "-NENPj7fQIyDavTeajT6": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:33:51.019697Z"
+        },
+        "-NENPrloMyHl2KtlAuVs": {
+          "body": "Echo has betrayed the cause",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:34:26.420342Z"
+        },
+        "-NENPsXd8aKB-2yddWs5": {
+          "body": "The cause is lost",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:34:29.546164Z"
+        },
+        "-NENPwOg7NHvvhT29gQO": {
+          "body": "sorry guys",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:34:45.356264Z"
+        },
+        "-NENPzsuTyup0U0hCmyn": {
+          "body": "i can't join",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:34:59.642881Z"
+        },
+        "-NENQ-CHd-wXhZVc5F9z": {
+          "body": "At least kill delta for us",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:35:00.946257Z"
+        },
+        "-NENQ2PnmixpilazI8qn": {
+          "body": "We will leave you alone",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:35:14.099332Z"
+        },
+        "-NENQ2lM4DsnZsZdkCct": {
+          "body": "Turn on Mike and we'll make you our king. Otherwise we'll pull you down with our poverty.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:35:15.543750Z"
+        },
+        "-NENQ53RpUjKd7VhvhOV": {
+          "body": "Hear hear",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:35:24.956291Z"
+        },
+        "-NENQEUAG5oLmi_J2Yuc": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:36:03.531938Z"
+        },
+        "-NENQOPW8_SiSSZPEQ0S": {
+          "body": "Echo, we'll let you stay on top if you turn on Mike",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:36:44.193354Z"
+        },
+        "-NENQT6KKPI3-3laNzju": {
+          "body": "Echo. My faith was misplaced",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:37:03.445228Z"
+        },
+        "-NENQeIav3FqSDyQZQDu": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:37:53.383148Z"
+        },
+        "-NENQocZTww9ZO446X3C": {
+          "body": "I'm giving both some",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:38:35.684296Z"
+        },
+        "-NENQqGODrND__lmSY3K": {
+          "body": "both of you",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:38:42.393748Z"
+        },
+        "-NENQs2pgVJWxjcFDkFP": {
+          "body": "hopefully we cna still be friends",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:38:49.718105Z"
+        },
+        "-NENQvRwTm_lzvDPTgVS": {
+          "body": "Turn on Mike or delta and we won't come for you.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:39:03.612295Z"
+        },
+        "-NENR4uHWL84u5Le_Nrh": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:39:46.451024Z"
+        }
+      },
+      "name": "Attack!",
+      "participants": [
+        "Victor",
+        "Golf",
+        "Oscar",
+        "Echo"
+      ]
+    },
+    "-NENQpKRtnEhubXD8Juv": {
+      "conversationId": "-NENQpKRtnEhubXD8Juv",
+      "messages": {
+        "-NENQtYHK78SRn3BGQlV": {
+          "body": "We know you wanted to be a cool kid papa but they've already forgotten you",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:38:55.826844Z"
+        },
+        "-NENQvPjrZu_-dksj6Oc": {
+          "body": "kill delta and we will make you our king",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:39:03.471973Z"
+        },
+        "-NENQy40xus1BFSZRtrm": {
+          "body": "I'm more worried about Echo",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:39:14.370018Z"
+        },
+        "-NENR1U8ubQ2zGKgVhtk": {
+          "body": "Echo is dependent on delta",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:39:32.425731Z"
+        },
+        "-NENR2CUA39P2EP5CqB7": {
+          "body": "Delta is acting as their shield.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:39:35.391956Z"
+        },
+        "-NENR4fHM2_MJ70-pE5f": {
+          "body": "They're linked with the blood of their fellow men",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:39:45.490486Z"
+        },
+        "-NENR4uLzWDanR04j1rH": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:39:46.454505Z"
+        },
+        "-NENR5qy0MsVOD4YZtvB": {
+          "body": "Hit Delta with everything and then we can hit Echo.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:39:50.334574Z"
+        }
+      },
+      "name": "The bottom",
+      "participants": [
+        "Oscar",
+        "Papa",
+        "Golf",
+        "Victor"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-NENK1DfjZPLmDrXBEE3": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:08:56.363783Z"
+        },
+        "-NENKYjuTDzDKCsQKhQA": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:11:13.658636Z"
+        },
+        "-NENL4kdT2_Q2i2ZRmtx": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:13:32.969860Z"
+        },
+        "-NENLRpr2qpJzbUjMU7e": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:15:07.511756Z"
+        },
+        "-NENM0RdDWGFSF6uJ1_B": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:17:37.449881Z"
+        },
+        "-NENMZDy4St9EGCoZjFw": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:19:59.934823Z"
+        },
+        "-NENN4VMMxDK38N6Jfsd": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:22:16.215821Z"
+        },
+        "-NENNbOfse75UPjcHXEX": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:24:35.051893Z"
+        },
+        "-NENO9RuPYODedeEHy6A": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:26:58.618241Z"
+        },
+        "-NENOaY-qafJ9mkDbeNN": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:28:53.696938Z"
+        },
+        "-NENP9pYsvS7Mi7T7mz9": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:31:22.339798Z"
+        },
+        "-NENPj6weeNwBhC8-Kwt": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:33:50.973010Z"
+        },
+        "-NENQETVVwWS9P9PGTkz": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:36:03.488723Z"
+        },
+        "-NENQeI4Q-XQE1Cnb222": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:37:53.349487Z"
+        },
+        "-NENR4tiaejD2shf81nX": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T21:39:46.415129Z"
+        },
+        "-NENRB9fwktatI1FYRlZ": {
+          "body": "Well that is seriously frustrating that delta won",
+          "from": "Oscar",
+          "runtimeType": "identified",
+          "time": "2022-10-14T21:40:12.076179Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

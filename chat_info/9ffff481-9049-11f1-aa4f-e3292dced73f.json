@@ -1,0 +1,3200 @@
+{
+  "conversations": {
+    "-OzDd1uLSLoQBH2Iga3D": {
+      "conversationId": "-OzDd1uLSLoQBH2Iga3D",
+      "messages": {
+        "-OzDd6CNv9H2UAaykhzo": {
+          "body": "Yo, I'll give you 8 tokens this round if you give me 8",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:18:31.771611Z"
+        },
+        "-OzDd8m0GStXlGeBIc6-": {
+          "body": "would you like to be the sponsered doctor for isnurance?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:18:42.308680Z"
+        },
+        "-OzDdGQ1W-rOhxBsJA6u": {
+          "body": "Sure, I'd be down",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:19:13.605476Z"
+        },
+        "-OzDdGqlZmRXMw9joU-y": {
+          "body": "I don't trust you yet ",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:19:15.380852Z"
+        },
+        "-OzDdIMhDbCTJJPYSNVW": {
+          "body": "I can put #sponsored in all my messages if you want",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:19:21.584600Z"
+        },
+        "-OzDdK5SZUcVaqMifuen": {
+          "body": "lollll",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:19:28.672626Z"
+        },
+        "-OzDdWQSCIOITrEFCJQ5": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:20:19.168532Z"
+        },
+        "-OzDe3OwuV6pNluKQRs6": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:22:42.431274Z"
+        },
+        "-OzDeUxJnp1zJdTPp3mG": {
+          "body": "thank you for the 8 tokens",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:24:35.287669Z"
+        },
+        "-OzDea-jcPo0wgD3l0rL": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:25:00.082109Z"
+        },
+        "-OzDecDZj8OKexEw5Y9v": {
+          "body": "Dog, you hosed me in global",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:25:09.159025Z"
+        },
+        "-OzDegdjdsGUOYUFrXJT": {
+          "body": "broooo ",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:25:27.282592Z"
+        },
+        "-OzDf6MrHVjwhH4S1TEz": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:27:16.730282Z"
+        },
+        "-OzDfgA5Bj1IrOtJ2Znm": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:29:47.465728Z"
+        },
+        "-OzDgFvmfRFWElFiM2Zi": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:32:18.036950Z"
+        },
+        "-OzDgoB3iH35ogBfixJm": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:34:42.439254Z"
+        },
+        "-OzDhM5uOqQ0sUd_SiZH": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:37:05.468976Z"
+        },
+        "-OzDhksfkWJKDwhXMn_u": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:38:51.054483Z"
+        },
+        "-OzDi4hT3burNsjEc3ee": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:40:16.352977Z"
+        },
+        "-OzDidJAWbJxctc91Xc2": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:42:42.190238Z"
+        },
+        "-OzDj9iRSiQw1t0u96w0": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:44:59.039473Z"
+        },
+        "-OzDjcNpenYya6V7tBmI": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:47:00.536179Z"
+        },
+        "-OzDjon3sffm3hiJmfyZ": {
+          "body": "Listen, the 1 token healing offer still stands my dude",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:47:51.367657Z"
+        },
+        "-OzDjranwbe-34E7ksB_": {
+          "body": "really",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:48:02.870725Z"
+        },
+        "-OzDjsvSCJ9NR7_-d7SW": {
+          "body": " coming your way next",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:48:08.288324Z"
+        },
+        "-OzDjtcIXFtFC2ie9-7m": {
+          "body": "Bet",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:48:11.157929Z"
+        },
+        "-OzDkAQx1JBAX83_AV7Z": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:49:24.096345Z"
+        },
+        "-OzDkj67Yxonrk0WVD-c": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:51:50.219077Z"
+        },
+        "-OzDlC5EhJ-Xr33susTV": {
+          "body": "i need healed",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:53:53.042536Z"
+        },
+        "-OzDlFP-CNQvZRfPVsDU": {
+          "body": "I gotchu bro",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:54:06.595551Z"
+        },
+        "-OzDlIcetm6eKW402iy1": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:54:19.821137Z"
+        },
+        "-OzDlp2GFYehq8Jy5Tvp": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:56:36.692558Z"
+        },
+        "-OzDmOK1gIlFs2IXsbzY": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:59:05.285510Z"
+        },
+        "-OzDmwRexRDclhRDiYGI": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.133681Z"
+        }
+      },
+      "name": "Us",
+      "participants": [
+        "X-ray",
+        "Quebec"
+      ]
+    },
+    "-OzDdBrZjKghk8St6oVy": {
+      "conversationId": "-OzDdBrZjKghk8St6oVy",
+      "messages": {
+        "-OzDdHMGxAFS3ZUXYsUP": {
+          "body": "I will not overcharge you if you have me be your preferred doctor.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:19:17.459884Z"
+        },
+        "-OzDdUxkpUtMJXNAZATK": {
+          "body": "interesting offer",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:20:13.171589Z"
+        },
+        "-OzDdWQYDBmMQUl4wbA3": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:20:19.174554Z"
+        },
+        "-OzDdd-m2XEoF7174MZ2": {
+          "body": "As insurance, you need a doctor. This will benefit the both of us to work together. ",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:20:50.229760Z"
+        },
+        "-OzDdhCUuyZ_VHcRgBwK": {
+          "body": "I am listening",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:21:07.426677Z"
+        },
+        "-OzDdlnNdfJp2ncCTf6T": {
+          "body": "do you want 4 tokens this round?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:21:26.235683Z"
+        },
+        "-OzDdmtNptBR9ZjOxFIp": {
+          "body": "I will never charge you more than the recommended amount. ",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:21:30.715008Z"
+        },
+        "-OzDdp8wSh76FbLXW6ZO": {
+          "body": "I would greatly appreciate the 4 tokens.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:21:39.967036Z"
+        },
+        "-OzDdtjwO_bl7SbMLvO4": {
+          "body": "deal ",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:21:58.783681Z"
+        },
+        "-OzDe3P119tgTAF7XRpj": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:22:42.437733Z"
+        },
+        "-OzDea-pbODOibmuHuYA": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:25:00.088171Z"
+        },
+        "-OzDf6MyWOzQQIgMnno6": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:27:16.737014Z"
+        },
+        "-OzDfHg3fgFBMQmdtXbg": {
+          "body": "What happened to our deal>",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:28:03.078997Z"
+        },
+        "-OzDfcBg1av7d_WXkD74": {
+          "body": "typo",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:29:31.183013Z"
+        },
+        "-OzDfdF_lpzz91qGsWrz": {
+          "body": "I meant foxtrot",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:29:35.528011Z"
+        },
+        "-OzDff-BBW3WJMBcT0KK": {
+          "body": "I should've corrected myself",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:29:42.671517Z"
+        },
+        "-OzDfgAC7B6JH2dAAZnb": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:29:47.471951Z"
+        },
+        "-OzDfod5LVX2xURxXyBI": {
+          "body": "No worries!",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:30:22.153396Z"
+        },
+        "-OzDg2bFpfztWUho4aVP": {
+          "body": "Quebec, you're hurt comrade. I treat you vell. Come get treatment from me. ",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:31:23.475445Z"
+        },
+        "-OzDgFvsYVXC8TgeYDmb": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:32:18.043812Z"
+        },
+        "-OzDgoBA68Ab-tylEkKt": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:34:42.446331Z"
+        },
+        "-OzDhM60IXKXDuWkxy6M": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:37:05.476383Z"
+        },
+        "-OzDhksmmNLlWKKX09TU": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:38:51.061676Z"
+        },
+        "-OzDi4hZzeP9mMb6K337": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:40:16.359725Z"
+        },
+        "-OzDidJHZUJIe4TMovpN": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:42:42.197059Z"
+        },
+        "-OzDj9i_s3xrqsGWy_98": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:44:59.048235Z"
+        },
+        "-OzDjcNvmIb7BdPaVnnO": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:47:00.542896Z"
+        },
+        "-OzDkAR35xaV0KbBAoLX": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:49:24.103409Z"
+        },
+        "-OzDkj6FQxRI2Yqniznx": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:51:50.226947Z"
+        },
+        "-OzDlIcpRv9frX2cz32-": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:54:19.832208Z"
+        },
+        "-OzDlp2O6sDQ3EtbY9ji": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:56:36.700319Z"
+        },
+        "-OzDm6HI5JBXSah2CVeU": {
+          "body": "Don't worry. I'm attacking Delta this round. Hopefully this is the last round. ",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:57:51.382739Z"
+        },
+        "-OzDmB17q7WMQBZgBVlK": {
+          "body": "please",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:58:10.827739Z"
+        },
+        "-OzDmFekjfHT5FIjufwQ": {
+          "body": "Going -8. ",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:58:29.811229Z"
+        },
+        "-OzDmOKC-8MEzrikcK1z": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:59:05.296295Z"
+        },
+        "-OzDmwRldoJSKxHJFQ1g": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.140781Z"
+        }
+      },
+      "name": "Insurance",
+      "participants": [
+        "Foxtrot",
+        "Quebec"
+      ]
+    },
+    "-OzDdDGZsBVyqEZQXKfJ": {
+      "conversationId": "-OzDdDGZsBVyqEZQXKfJ",
+      "messages": {
+        "-OzDdEGgy_SEDuO00Q4r": {
+          "body": "my main men",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:19:04.815690Z"
+        },
+        "-OzDdFaJ6ZqUX0X7aNH6": {
+          "body": "for we are all brothers here",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:19:10.231348Z"
+        },
+        "-OzDdGOOa6mmHdXNk-Ik": {
+          "body": "The gang",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:19:13.500837Z"
+        },
+        "-OzDdGRGaKoP6vHiNuwe": {
+          "body": "how shall we become the stringest",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:19:13.684226Z"
+        },
+        "-OzDdHf8-7zgBH-wVXJX": {
+          "body": "the strigniest",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:19:18.732723Z"
+        },
+        "-OzDdM49JbQMvCPbkPAm": {
+          "body": "can we get charlie in here",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:19:36.781532Z"
+        },
+        "-OzDdOdi76Y-HO8URTCc": {
+          "body": "sure",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:19:47.312907Z"
+        },
+        "-OzDdP2bGX9dghzEORgw": {
+          "body": "throw him in",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:19:48.970836Z"
+        },
+        "-OzDdWQwjlz_1dhIKOeQ": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:20:19.199012Z"
+        },
+        "-OzDe3P8132eVQI6-wlV": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:22:42.444759Z"
+        },
+        "-OzDea-wfJdajSHau9Af": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:25:00.095219Z"
+        },
+        "-OzDf6N44T52OijOtkRG": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:27:16.744782Z"
+        },
+        "-OzDfgAHv-Hsnw-RM5fL": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:29:47.477802Z"
+        },
+        "-OzDgFvzSWGGtsmvkNys": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:32:18.050062Z"
+        },
+        "-OzDgoBHPt2R2rVZeDAZ": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:34:42.453061Z"
+        },
+        "-OzDhM66aE0H3u0im3Jl": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:37:05.482902Z"
+        },
+        "-OzDhkstiXPn-PdY7Oyo": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:38:51.068288Z"
+        },
+        "-OzDi4hg__sZF-rtYCf1": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:40:16.367433Z"
+        },
+        "-OzDidJObfQlIwxOIPic": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:42:42.204611Z"
+        },
+        "-OzDj9igjTSabYwRASmI": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:44:59.055305Z"
+        },
+        "-OzDjcO2ecMjXQCrfUs2": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:47:00.550844Z"
+        },
+        "-OzDkARDlXCmSEhSLSu6": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:49:24.113016Z"
+        },
+        "-OzDkj6M7zQTI9HjEzSJ": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:51:50.234289Z"
+        },
+        "-OzDlIcwU4uV053dhTGO": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:54:19.839424Z"
+        },
+        "-OzDlp2UIT42psDaUGtu": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:56:36.706870Z"
+        },
+        "-OzDmOKJtBXfqZuXqtRR": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:59:05.303547Z"
+        },
+        "-OzDmwRtoPI8QYE18Zvi": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.148214Z"
+        }
+      },
+      "name": "strongrest group??",
+      "participants": [
+        "Mike",
+        "Delta",
+        "Papa"
+      ]
+    },
+    "-OzDdjlyhSL4Jc138ZKU": {
+      "conversationId": "-OzDdjlyhSL4Jc138ZKU",
+      "messages": {
+        "-OzDdl7na6p9b6thJOlv": {
+          "body": "the gang",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:21:23.510132Z"
+        },
+        "-OzDdr5qAR1NjA_d2UO2": {
+          "body": "thank you all",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:21:47.961312Z"
+        },
+        "-OzDdvgTdMdgcmatE_Dl": {
+          "body": "the boys, eveb",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:22:06.753134Z"
+        },
+        "-OzDe23qsK5IK4DKYd7Z": {
+          "body": "giving everyone 4",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:22:36.985718Z"
+        },
+        "-OzDe3PFOuqhDSlIkEIq": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:22:42.451683Z"
+        },
+        "-OzDeAmokjZ4i74Yu73r": {
+          "body": "gang we must support papa he got sick",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:23:12.695538Z"
+        },
+        "-OzDeKfPRsCIiNOluOLM": {
+          "body": "ape together string\\",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:23:53.181643Z"
+        },
+        "-OzDeRbzJGYr01zwaLMH": {
+          "body": "together we are string",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:24:21.634507Z"
+        },
+        "-OzDea02CpPBHtT4rvV8": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:25:00.102226Z"
+        },
+        "-OzDegOztGSd73CuZ6CJ": {
+          "body": "cough cough",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:25:26.274463Z"
+        },
+        "-OzDekPRbZzlywV20ND3": {
+          "body": "papa when are you done with med school",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:25:42.687627Z"
+        },
+        "-OzDez65K4RqJfD1_Bm-": {
+          "body": "after this round",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:26:42.888967Z"
+        },
+        "-OzDf197ZcUqHcIz-7co": {
+          "body": "so once the tokens go through I will heal you",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:26:55.371769Z"
+        },
+        "-OzDf3fMtqmCxOUzHo9Z": {
+          "body": "You the best papa",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:27:05.689875Z"
+        },
+        "-OzDf5kTFWczR_NR8WLi": {
+          "body": "I love you",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:27:14.209720Z"
+        },
+        "-OzDf65cje-B-C3tSSeD": {
+          "body": "the strong that ties us together",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:27:15.627537Z"
+        },
+        "-OzDf6NCb7DEHMaN8PBw": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:27:16.751954Z"
+        },
+        "-OzDf8QStn84CFhhmAKl": {
+          "body": "fetch",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:27:25.152197Z"
+        },
+        "-OzDfA6QJuM6DBpxdc5z": {
+          "body": "Con la arma ja me vaya",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:27:32.062245Z"
+        },
+        "-OzDfBx9cmi5DytWfOdk": {
+          "body": "nomas asi? ",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:27:39.597738Z"
+        },
+        "-OzDfDJARKaML1_lNr9U": {
+          "body": "ya te vas?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:27:45.166793Z"
+        },
+        "-OzDfEHvVWFxeePukBPI": {
+          "body": "si me voy",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:27:49.182631Z"
+        },
+        "-OzDfFHEGwAIwHFT4KdG": {
+          "body": "he ido",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:27:53.233962Z"
+        },
+        "-OzDfGMctHJavQMWOK9z": {
+          "body": "tu esoposa no quiere que te quedas? ",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:27:57.673578Z"
+        },
+        "-OzDfNHJnNDQqNX4iIfv": {
+          "body": "no",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:28:26.007148Z"
+        },
+        "-OzDfOLab5__Qz4op-aW": {
+          "body": "me odia",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:28:30.377118Z"
+        },
+        "-OzDfVs6lzmBp43eMDj-": {
+          "body": "que triste \u00af\\_(\u30c4)_/\u00af",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:29:01.194453Z"
+        },
+        "-OzDfY9iXVLcWqVWDfm3": {
+          "body": "papito i need heals",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:29:10.577186Z"
+        },
+        "-OzDfgANjJk7A86ObVfP": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:29:47.483593Z"
+        },
+        "-OzDfmiBV-ifymTHZHW2": {
+          "body": "papito i am ill",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:30:14.287021Z"
+        },
+        "-OzDfoOOVEAsH5JQkLlX": {
+          "body": "why don't you love me",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:30:21.148384Z"
+        },
+        "-OzDfwsO7Ib5C2nk2Hud": {
+          "body": "we can be string together",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:30:55.900439Z"
+        },
+        "-OzDg0-dOqWPbhryaVR7": {
+          "body": "tell my string i love her",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:31:12.811949Z"
+        },
+        "-OzDg6Q_52cJxu6h-zus": {
+          "body": "papa i already paid you last round so dont expect double payment",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:31:39.112339Z"
+        },
+        "-OzDg83cZ_4mCnJKWqrp": {
+          "body": "i still love you tho",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:31:45.835349Z"
+        },
+        "-OzDgFw5by9-BlLNqhFv": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:32:18.057063Z"
+        },
+        "-OzDgGa0JavHs8nhKOJ-": {
+          "body": "bro my b lowk I rarely look  this jawn bc everyone hitting my line for heals",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:32:20.740560Z"
+        },
+        "-OzDgcM_yBtwPIbS0rEO": {
+          "body": "is yankee in our group?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:33:54.024019Z"
+        },
+        "-OzDghfojC77XTTQGWnC": {
+          "body": "so when are we committing organised violence against X-ray",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:34:15.799808Z"
+        },
+        "-OzDgnic-mWC_DHQkiHy": {
+          "body": "me and yankee have been given eachother 3 tokens each round the whole game",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:34:40.554919Z"
+        },
+        "-OzDgoBNzSVy3glPnzB2": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:34:42.459361Z"
+        },
+        "-OzDgryDb5CfH2FnEdke": {
+          "body": "ive been giving everyone 4 everytime lol",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:34:57.936905Z"
+        },
+        "-OzDgsmSg8W5HQckU21l": {
+          "body": "lets not attack xray hes chill",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:35:01.280370Z"
+        },
+        "-OzDgueyMqCTC7qfxzPZ": {
+          "body": "every now and then I give yall 3 bc of lack of reciprocation",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:35:08.993560Z"
+        },
+        "-OzDgvOpzsZ7nr1HYVho": {
+          "body": "but other than that yeah",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:35:11.991962Z"
+        },
+        "-OzDgzKfgK0cOS5IOCan": {
+          "body": "mike I'll give you 5 this round I love the consistencey",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:35:28.110305Z"
+        },
+        "-OzDhM6Eb3EHAsJDBbns": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:37:05.489982Z"
+        },
+        "-OzDhkszbxIyLpTjLTMo": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:38:51.074368Z"
+        },
+        "-OzDhrensIVGs-0ancML": {
+          "body": "mike I'll send some flowers in my next token delivery sorry for being sick",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:39:18.838779Z"
+        },
+        "-OzDhwGXjsdFurlQklCK": {
+          "body": "ayo charlie whats going on ",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:39:37.701260Z"
+        },
+        "-OzDhxHENVP_aENH7M-D": {
+          "body": "are we not friends anymore? ",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:39:41.842454Z"
+        },
+        "-OzDi4hn79uv2Ll0gF3t": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:40:16.374501Z"
+        },
+        "-OzDidJVNgPoNwcfSXGb": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:42:42.211752Z"
+        },
+        "-OzDj9inuctdKm0GOM-P": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:44:59.062233Z"
+        },
+        "-OzDjcOAnhCtvUWOSmDS": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:47:00.558394Z"
+        },
+        "-OzDk5Yo6jw7dYRsHvUo": {
+          "body": "my b if I don't get you a lot of tokens this round I got sick and foxtrot is not charitable",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:49:04.119509Z"
+        },
+        "-OzDk9eaz_NwfiyysUL6": {
+          "body": "you chillin :thumbs:",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:49:20.937800Z"
+        },
+        "-OzDkARMiZziy32uWCNh": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:49:24.122826Z"
+        },
+        "-OzDkAycWg8FiBvp6T0O": {
+          "body": "thanks for being there for us!",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:49:26.314919Z"
+        },
+        "-OzDkGWbCe2gxIqA3L7h": {
+          "body": "if you need healing papa go to xray and tell him delta sent ya we lowkey chill",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:49:49.034454Z"
+        },
+        "-OzDkNEbTjfAC4HlEy9y": {
+          "body": "okok",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:50:16.554236Z"
+        },
+        "-OzDkbfkSv200Q5NaTHm": {
+          "body": "dude the insurance guy is gay",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:51:19.795507Z"
+        },
+        "-OzDkiXnmG9IqAjC_loU": {
+          "body": "he said that I need to give him stuff or else he won't pay for people's treatments",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:51:47.894241Z"
+        },
+        "-OzDkj6_Dug74AJGtuMX": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:51:50.248552Z"
+        },
+        "-OzDkmsMNfM3dLysHIoj": {
+          "body": "typical insurance bro",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:52:05.657892Z"
+        },
+        "-OzDknV9srVXOXri7DJL": {
+          "body": "hes the only guy I'm not friends with I hate the insurance guy",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:52:08.205071Z"
+        },
+        "-OzDkvRSFjRaUY3vmYG7": {
+          "body": "we wanna slam him with a group attack next round?",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:52:40.736065Z"
+        },
+        "-OzDl-w38PBMS34yF3JP": {
+          "body": "meh ",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:53:03.239633Z"
+        },
+        "-OzDl0ufAq0wCwSeSy2O": {
+          "body": "that could be fun? ",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:53:07.246786Z"
+        },
+        "-OzDl1ipVVqrlPrqvSdh": {
+          "body": "could be",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:53:10.583932Z"
+        },
+        "-OzDl20dalrGaNJ5lchu": {
+          "body": "not sure how everyone else feels about him",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:53:11.788327Z"
+        },
+        "-OzDl5ZRcyNOGFBiT_Of": {
+          "body": "do kinda want to see the insurance guy lose....",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:53:26.303179Z"
+        },
+        "-OzDl8C4VjWtW8lNEuHx": {
+          "body": "yeah",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:53:37.096376Z"
+        },
+        "-OzDlAYcRe7yLN6HN592": {
+          "body": "next round everyone hit him with -4?",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:53:46.731404Z"
+        },
+        "-OzDlBbi2WDNLoM75YuY": {
+          "body": "sure",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:53:51.089707Z"
+        },
+        "-OzDlD397FAebkrnpebj": {
+          "body": "yeah",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:53:57.005799Z"
+        },
+        "-OzDlId3Y--k1RNNmTHN": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:54:19.847627Z"
+        },
+        "-OzDlOQCrkIZ95RGJ1GV": {
+          "body": "lets do it",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:54:43.536420Z"
+        },
+        "-OzDlSgHTO9etMDnZcfE": {
+          "body": "this brother bout to get SMACKED",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:55:01.013289Z"
+        },
+        "-OzDlZG-jyx9L44S_iKV": {
+          "body": "get him",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:55:27.939250Z"
+        },
+        "-OzDlcKHIAifImiZGysL": {
+          "body": "so true",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:55:44.597769Z"
+        },
+        "-OzDle1ws4rxq-MiIaO8": {
+          "body": "should we up it to -5?",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:55:51.615671Z"
+        },
+        "-OzDlgnlKb8N2DF7-740": {
+          "body": "im doing -5 but Ive got the tokens to spare lol",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:56:02.932599Z"
+        },
+        "-OzDliBdV8CN8jKqkMbx": {
+          "body": "me too",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:56:08.620388Z"
+        },
+        "-OzDlp2b0PN93CB3lw6h": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:56:36.714570Z"
+        },
+        "-OzDlsfUrKOoQ1wfT1-x": {
+          "body": "glorious job boys",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:56:51.554551Z"
+        },
+        "-OzDlxlWfRzZYbsAjEr9": {
+          "body": "we doing this again or just leaving him down at the bottom",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:57:12.420407Z"
+        },
+        "-OzDm3CP1edbZDvcIUXF": {
+          "body": "I gotta help my friends",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:57:38.781105Z"
+        },
+        "-OzDm70LXf6pj2WA3myH": {
+          "body": "im giving 4 to papa and delta, and 3 to mike",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:57:54.393322Z"
+        },
+        "-OzDm8Jr2bqVLUoR2kzY": {
+          "body": "bars",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:57:59.738210Z"
+        },
+        "-OzDm9ykm5othZStSCm-": {
+          "body": "i think he learned his lesson",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:58:06.515054Z"
+        },
+        "-OzDmAmOESFXXuWVDykE": {
+          "body": "giving 4 to all",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:58:09.820271Z"
+        },
+        "-OzDmOKQw52K--U4M02V": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:59:05.310919Z"
+        },
+        "-OzDmU0FQCBMr93bG7rq": {
+          "body": "yankee just attacked me",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:59:28.595220Z"
+        },
+        "-OzDmU9S9j74LEnI-Zim": {
+          "body": "foxtrot hit me for eight",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:59:29.184809Z"
+        },
+        "-OzDmV9WkC_CnlIbjRzA": {
+          "body": "my former lover",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:59:33.284615Z"
+        },
+        "-OzDmWIpHfS42zD3FHr6": {
+          "body": "and yankee",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:59:37.976235Z"
+        },
+        "-OzDmW_DIaTcWDwj_pj9": {
+          "body": "aight who we sliming",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:59:39.089030Z"
+        },
+        "-OzDmWi8VrrwPAUVMXaj": {
+          "body": "should we takedown foxtrot",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:59:39.660288Z"
+        },
+        "-OzDmXazpSFJj9TNR4-n": {
+          "body": "my best friend for years",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:59:43.298801Z"
+        },
+        "-OzDmZhd5uNTOVY25n75": {
+          "body": "-6 from everyone for this betrayal",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:59:51.916310Z"
+        },
+        "-OzDma-b3__LH6oD1MGO": {
+          "body": "lets focus foxtrot he's lower",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:59:57.226020Z"
+        },
+        "-OzDmc3RC-VGTAY9RZGj": {
+          "body": "or are we doing -6 yankee -6 foxtrot? ",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:00:05.663670Z"
+        },
+        "-OzDmc7Q8N52eyAmPJiq": {
+          "body": "everyone hit -6 on foxtrot?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:00:05.918268Z"
+        },
+        "-OzDmg_aXJQLrv0dMAg7": {
+          "body": "sure",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:00:24.169037Z"
+        },
+        "-OzDmi2fLe6dcEKRnjTb": {
+          "body": "also yankee betrayed me outta nowhere too",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:00:30.190031Z"
+        },
+        "-OzDmjzrgbwgEHM09_3F": {
+          "body": "next round we should crush them",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:00:38.138845Z"
+        },
+        "-OzDmljf5L2JZVlhzw2Q": {
+          "body": "focus foxtrot this round, next round yankee",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:00:45.294716Z"
+        },
+        "-OzDmoU4sU1B021MCGo8": {
+          "body": "yup",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:00:56.519999Z"
+        },
+        "-OzDmpOlNChQ2hh611mo": {
+          "body": "okay",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:01:00.276825Z"
+        },
+        "-OzDmwS0wpdOy40XT57k": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.156014Z"
+        }
+      },
+      "name": "new stringest group",
+      "participants": [
+        "Delta",
+        "Mike",
+        "Charlie",
+        "Papa"
+      ]
+    },
+    "-OzDeDaKN32c9b7TtqU_": {
+      "conversationId": "-OzDeDaKN32c9b7TtqU_",
+      "messages": {
+        "-OzDeGwOdETEjZmvMYm_": {
+          "body": "hjey quebec, I didn't understand how the insurance thing works. Im gonna send you more tokens but it might take a minute",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:23:37.884663Z"
+        },
+        "-OzDeMD6zYmVdLupZ2tm": {
+          "body": "ok",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:23:59.498357Z"
+        },
+        "-OzDea08JUIVGhcPQkxo": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:25:00.108822Z"
+        },
+        "-OzDf6NJjs9QgnVcnXrM": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:27:16.759119Z"
+        },
+        "-OzDfgAUoZkbuRHMor69": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:29:47.490272Z"
+        },
+        "-OzDgFwCmWFTw5e-1pOb": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:32:18.063952Z"
+        },
+        "-OzDgoBTFMDKnw3X1U3k": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:34:42.465673Z"
+        },
+        "-OzDhM6KM05h8BroxXZj": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:37:05.496607Z"
+        },
+        "-OzDhkt5_i7B4T19FTza": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:38:51.081553Z"
+        },
+        "-OzDi4hu3mYsD9FMeiFQ": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:40:16.381899Z"
+        },
+        "-OzDiKSib_HiS0gRxzmC": {
+          "body": "you need to pay me ",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:41:20.881593Z"
+        },
+        "-OzDiLerFOr2CgsWOe9y": {
+          "body": "you owe me 10 tokens",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:41:25.818551Z"
+        },
+        "-OzDiNSsijUz8THFzWXN": {
+          "body": "that is not true",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:41:33.179858Z"
+        },
+        "-OzDiO1hG6OJxs8vV_0t": {
+          "body": "I owe you 6",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:41:35.536064Z"
+        },
+        "-OzDiRz-3Qw46DcsF_Zn": {
+          "body": "sending a few your way",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:41:51.683303Z"
+        },
+        "-OzDidJafBQKvKkSNgBZ": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:42:42.217412Z"
+        },
+        "-OzDikYGH0Rc3Fl2Fn4F": {
+          "body": "yes now you owe me 4",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:43:11.828839Z"
+        },
+        "-OzDiok-KgGSsND0mJSm": {
+          "body": "3 this round?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:43:29.027636Z"
+        },
+        "-OzDj5w4gjhxfJgxq5Rq": {
+          "body": "why are you ghosting me",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:44:43.528581Z"
+        },
+        "-OzDj72645UPo5rQdMzt": {
+          "body": "there are 2 coming your way sire",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:44:48.074080Z"
+        },
+        "-OzDj7hBuaQqN2dFZ4J8": {
+          "body": "slowly but surely",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:44:50.767737Z"
+        },
+        "-OzDj8bF7Rm9F3Fd7lrP": {
+          "body": "good things come to those who wait",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:44:54.483483Z"
+        },
+        "-OzDj9ithfUG6nYHJkjx": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:44:59.068273Z"
+        },
+        "-OzDjEXqqhW4wJty0gVj": {
+          "body": "thank you president holland",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:45:18.777313Z"
+        },
+        "-OzDjcOGy81dTqMY1Kj7": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:47:00.564449Z"
+        },
+        "-OzDkARV9Gx4862S-K7I": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:49:24.131537Z"
+        },
+        "-OzDkVKwUZ5Vytfk338G": {
+          "body": "no longer want to trade with me?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:50:49.727854Z"
+        },
+        "-OzDkgyJ7gmIZmugESl4": {
+          "body": "nah",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:51:41.463503Z"
+        },
+        "-OzDkj6jwHlwcoJWGDbx": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:51:50.258182Z"
+        },
+        "-OzDklf5P2BxDlxwP8CE": {
+          "body": "i paid back my debts, I got my group, hope you have a good one ",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:52:00.712907Z"
+        },
+        "-OzDlIdCFS4TokfhPS9Y": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:54:19.856383Z"
+        },
+        "-OzDlp2ib93h6IPuqO1W": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:56:36.721034Z"
+        },
+        "-OzDmOKbC-zLux8mkEOW": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:59:05.322555Z"
+        },
+        "-OzDmwS7v3HXdo5mgc3v": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.162941Z"
+        }
+      },
+      "name": "sorry",
+      "participants": [
+        "Mike",
+        "Quebec"
+      ]
+    },
+    "-OzDem0yNfM80ZO9cyCT": {
+      "conversationId": "-OzDem0yNfM80ZO9cyCT",
+      "messages": {
+        "-OzDeocrohpey_Bk3GXg": {
+          "body": "thank you for being a loyal insurance customer",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:25:59.994328Z"
+        },
+        "-OzDf6NPQfbRLQKzpJFY": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:27:16.765837Z"
+        },
+        "-OzDfemw-qoOId6X6NzZ": {
+          "body": "yessir",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:29:41.823793Z"
+        },
+        "-OzDfgA_aGHjXAk8moUy": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:29:47.495936Z"
+        },
+        "-OzDfsbF5SOww1Yj9DwK": {
+          "body": "can i interest youin our gold plan",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:30:38.419182Z"
+        },
+        "-OzDfud7AHlLQP2X6I87": {
+          "body": "i will pay if you ever get cancer",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:30:46.731344Z"
+        },
+        "-OzDfxOvuPft2cAeqckj": {
+          "body": "you are loyal and I would never betray you ",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:30:58.046863Z"
+        },
+        "-OzDfxpLF-UHVkGTdwq4": {
+          "body": "im ur first gold customer",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:30:59.800941Z"
+        },
+        "-OzDg-Ng4EXKXNdntn8s": {
+          "body": "does that merit discount or extra tokens????",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:31:10.255205Z"
+        },
+        "-OzDg-oV-UVJU7m5Zujb": {
+          "body": "oh i didn't see",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:31:12.035503Z"
+        },
+        "-OzDg2envJlnPk0NTLdG": {
+          "body": "yes i will give you 5 tokens",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:31:23.702775Z"
+        },
+        "-OzDgFwI-zroseuZjI9a": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:32:18.070521Z"
+        },
+        "-OzDgUeXMDgWq-5qeRL1": {
+          "body": "giving you 10 tokens",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:33:18.373310Z"
+        },
+        "-OzDgoBZF3zm7Y7eF865": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:34:42.471708Z"
+        },
+        "-OzDhADnIO8q3j-S4fBT": {
+          "body": "ppreciate",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:36:16.822106Z"
+        },
+        "-OzDhM6RE4e12szVGVUm": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:37:05.503315Z"
+        },
+        "-OzDhktC6V8ByUp-4urm": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:38:51.088376Z"
+        },
+        "-OzDi4i1x6HaBskIwIOF": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:40:16.389802Z"
+        },
+        "-OzDidJfMJ6HNLAqGiF1": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:42:42.222855Z"
+        },
+        "-OzDj9j8P8rrXv7wejJI": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:44:59.084308Z"
+        },
+        "-OzDjcONrwMFDVn-tacL": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:47:00.570924Z"
+        },
+        "-OzDkARd56SSmGFPQZh4": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:49:24.140332Z"
+        },
+        "-OzDkgsYnNVQjF0TWOoY": {
+          "body": "we need to trade more",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:51:41.094161Z"
+        },
+        "-OzDkj6w55hsDyBPItYX": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:51:50.271479Z"
+        },
+        "-OzDkqdh-AfGmrba-l_o": {
+          "body": "they will beat us if we don't trade each other more ",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:52:21.104636Z"
+        },
+        "-OzDkruH4RNgxHDe50yS": {
+          "body": "7 tokens to each other?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:52:26.261710Z"
+        },
+        "-OzDksp5olZ1lgHUSz1X": {
+          "body": "sure",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:52:30.024912Z"
+        },
+        "-OzDku0T9f2mDPbXtUKa": {
+          "body": "deal",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:52:34.913032Z"
+        },
+        "-OzDlIdJk6zonytmMP9p": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:54:19.863457Z"
+        },
+        "-OzDlUFF6FywUx5LByQb": {
+          "body": "8 tokens ",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:55:07.411667Z"
+        },
+        "-OzDlZxVJw10Z1CrGmmU": {
+          "body": "my guy ",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:55:30.787760Z"
+        },
+        "-OzDl_QHWAJvXhmIaqR3": {
+          "body": "please",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:55:32.693265Z"
+        },
+        "-OzDlnYx7Kd38p1-nXxH": {
+          "body": "haha sure",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:56:30.592452Z"
+        },
+        "-OzDlp2rsph20JBDt4T6": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:56:36.730684Z"
+        },
+        "-OzDmGIHgF_M6Ae09BCf": {
+          "body": "I need you to attack the 4 leaders",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:58:32.405624Z"
+        },
+        "-OzDmH7BzX_BXTWQfhtB": {
+          "body": "4 tokens each ",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:58:35.791463Z"
+        },
+        "-OzDmHn9g8XMIE-UuRK5": {
+          "body": "do it",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:58:38.541351Z"
+        },
+        "-OzDmJHpKAcC2gwSUJ8h": {
+          "body": "screw it sure ",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:58:44.664289Z"
+        },
+        "-OzDmJtVAEV_CX1yv1jD": {
+          "body": "we ball",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:58:47.139007Z"
+        },
+        "-OzDmKY1j4JBR1B19PTN": {
+          "body": "hurry",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:58:49.797202Z"
+        },
+        "-OzDmOKlwCZcuXITWddC": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:59:05.332724Z"
+        },
+        "-OzDmwSDHhXegKcyfxIF": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.169227Z"
+        }
+      },
+      "name": "loyal",
+      "participants": [
+        "Quebec",
+        "Yankee"
+      ]
+    },
+    "-OzDfErBpw6yPwnXv1go": {
+      "conversationId": "-OzDfErBpw6yPwnXv1go",
+      "messages": {
+        "-OzDfGvITXFO3FW1dyyp": {
+          "body": "Dog, I'll heal you at 25% of the price",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:27:59.958604Z"
+        },
+        "-OzDfbjAtMvSqAD05AcM": {
+          "body": "ight",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:29:29.294051Z"
+        },
+        "-OzDfe1SKfOGxB_0K-a3": {
+          "body": "bet",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:29:38.720049Z"
+        },
+        "-OzDfgAe5FV1WEFgX7PQ": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:29:47.501814Z"
+        },
+        "-OzDgFwQn4KEvSm-FDla": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:32:18.078345Z"
+        },
+        "-OzDgffQMIFfFUZfNoXL": {
+          "body": "you're the best side doctor I know",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:34:07.582758Z"
+        },
+        "-OzDghtJ2Ye1FdLNri6f": {
+          "body": "I gotchu bro",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:34:16.663210Z"
+        },
+        "-OzDgilm_lqRAQyGwqJs": {
+          "body": "We do primary care too",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:34:20.277130Z"
+        },
+        "-OzDglwKqN56ooeI8aR3": {
+          "body": "Tell your friends",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:34:33.239896Z"
+        },
+        "-OzDgoBf69Cb44EdKBzq": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:34:42.478159Z"
+        },
+        "-OzDhM6YqsyN93TjDijo": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:37:05.510807Z"
+        },
+        "-OzDhdaDlND1WplmLhMN": {
+          "body": "get well soon",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:38:21.201294Z"
+        },
+        "-OzDheSjnWGE4dFbSRYO": {
+          "body": "<3",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:38:24.754714Z"
+        },
+        "-OzDhedDs_2FRZlAo3B0": {
+          "body": "thx",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:38:25.489001Z"
+        },
+        "-OzDhktOhEH7qRXeV7yA": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:38:51.099926Z"
+        },
+        "-OzDi4i8vNybElbBa8OJ": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:40:16.396565Z"
+        },
+        "-OzDidJlnTEI5zdHSKrk": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:42:42.228640Z"
+        },
+        "-OzDj9jGWed48GEemttg": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:44:59.092131Z"
+        },
+        "-OzDjcOTxgr5njiW9NGn": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:47:00.577666Z"
+        },
+        "-OzDkARpvckWWqlu5ud7": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:49:24.152811Z"
+        },
+        "-OzDkj74YCZ-IT_sPkx0": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:51:50.280178Z"
+        },
+        "-OzDlIdQO_XDiHK4lqHB": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:54:19.870224Z"
+        },
+        "-OzDlQf9juANSXaby9Ka": {
+          "body": "get well soon",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:54:52.749044Z"
+        },
+        "-OzDlYt9Mjjkbwfefpau": {
+          "body": "thx bro",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:55:26.413464Z"
+        },
+        "-OzDlZvkVZwa8eJi9kvE": {
+          "body": "I'm just dying a littl ebit",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:55:30.675360Z"
+        },
+        "-OzDlgbhdw7sacoL87ji": {
+          "body": "7 comeing your way",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:56:02.160518Z"
+        },
+        "-OzDliUQAj3ZxPXGwqsS": {
+          "body": "to the best doctor here lowkey",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:56:09.822767Z"
+        },
+        "-OzDlkBYX_Ja9hjneRGK": {
+          "body": "Thanks bro, I appreciate it",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:56:16.806862Z"
+        },
+        "-OzDlkr2v87g8QpzIZZX": {
+          "body": "papa's chill but hes greedy",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:56:19.526145Z"
+        },
+        "-OzDlp2yELG0xbl5ac0w": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:56:36.737905Z"
+        },
+        "-OzDmOKzvfFWWezy48fp": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:59:05.346422Z"
+        },
+        "-OzDmwSJsjhkz0eTGjGP": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.175568Z"
+        }
+      },
+      "name": "We",
+      "participants": [
+        "X-ray",
+        "Delta"
+      ]
+    },
+    "-OzDgf04Xoiz-UsRRDIm": {
+      "conversationId": "-OzDgf04Xoiz-UsRRDIm",
+      "messages": {
+        "-OzDglAKRxJ22CrB8jXz": {
+          "body": "I thought I paid the bill, but the medical tab is showing that I haven't. How much do I still owe you?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:34:30.104319Z"
+        },
+        "-OzDgoBpxl58DmzqCLTr": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:34:42.488141Z"
+        },
+        "-OzDgz4c5DsBI0qVbcum": {
+          "body": "I just saw the request",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:35:27.083717Z"
+        },
+        "-OzDh0ICDMi0sWh1m2iy": {
+          "body": "You can try to accept it now",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:35:36.144042Z"
+        },
+        "-OzDhD4vpinSTofb-kJV": {
+          "body": "&#128077;",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:36:28.542676Z"
+        },
+        "-OzDhFlhHoECQYy3GnN-": {
+          "body": "Sorry, that should'be been a thumbs up",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:36:39.536269Z"
+        },
+        "-OzDhM6e2Zg51J6ip8vO": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:37:05.517535Z"
+        },
+        "-OzDhktUmfwAual-hHwF": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:38:51.106618Z"
+        },
+        "-OzDi4iHhT-7Ovy78ZU_": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:40:16.404970Z"
+        },
+        "-OzDidJsX5y3uD6-B15m": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:42:42.235577Z"
+        },
+        "-OzDj9jNWOAqMXmF8-wn": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:44:59.099109Z"
+        },
+        "-OzDjcOaiCzyP0JzI93u": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:47:00.585009Z"
+        },
+        "-OzDkARzn3PQqs_R4wQI": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:49:24.162434Z"
+        },
+        "-OzDkj7DP0_uQpY6t-rY": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:51:50.289565Z"
+        },
+        "-OzDlIdW0xtAh5NHN2lu": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:54:19.876503Z"
+        },
+        "-OzDlp36sly6d35pyqQj": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:56:36.746580Z"
+        },
+        "-OzDmOLC4YEy1lWHQfui": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:59:05.360210Z"
+        },
+        "-OzDmZhd5uNTOVY25n74": {
+          "body": "Wanna go all out on Papa or Delta?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:59:51.916227Z"
+        },
+        "-OzDmwSQdaWAwyVsN5f3": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.182226Z"
+        }
+      },
+      "name": "Payment",
+      "participants": [
+        "Foxtrot",
+        "X-ray"
+      ]
+    },
+    "-OzDh0NKHgpncmVhU_2-": {
+      "conversationId": "-OzDh0NKHgpncmVhU_2-",
+      "messages": {
+        "-OzDh2kVf7Ck7O87RY43": {
+          "body": "want to trade each other mad tokens?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:35:46.211441Z"
+        },
+        "-OzDhGbUAC-LkfqaMlrL": {
+          "body": "ill give you 3 if you give me 3",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:36:42.978638Z"
+        },
+        "-OzDhISP3NpfMQKYCA1e": {
+          "body": "but youre too pobre for mad tokens",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:36:50.525727Z"
+        },
+        "-OzDhM6kBG1uXZg9fS9R": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:37:05.523644Z"
+        },
+        "-OzDhRr7DIokHLC31tzO": {
+          "body": "4 tokens this round?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:37:29.035146Z"
+        },
+        "-OzDhT2UEzvAG1V4AvV3": {
+          "body": "we can surpass papa",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:37:33.922740Z"
+        },
+        "-OzDhXvLe0v1DHHcNctm": {
+          "body": "i have fallen ill, and need to give papa some money this round. next round tho maybe.",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:37:53.881591Z"
+        },
+        "-OzDh_t2HdMePAmx6y08": {
+          "body": "foxtrot will give you a better deal ",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:38:06.022111Z"
+        },
+        "-OzDh_w2RZcSZigXzcyE": {
+          "body": "ill give you 3",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:38:06.214211Z"
+        },
+        "-OzDhbGlckGv1uB3vgCY": {
+          "body": "I will ask him to",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:38:11.700643Z"
+        },
+        "-OzDhcl9pF5JA2yIZNfA": {
+          "body": "nah, papa and i are tight like that",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:38:17.805670Z"
+        },
+        "-OzDhdyiGkR0XS1-N9CQ": {
+          "body": "ok",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:38:22.769436Z"
+        },
+        "-OzDhktaD8u4YAwV9_ik": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:38:51.113363Z"
+        },
+        "-OzDhsEgrWR-PXmWH_8h": {
+          "body": "ill give you 4 if you give me 5",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:39:21.199407Z"
+        },
+        "-OzDhxc2htQthwFDuMpu": {
+          "body": "ok",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:39:43.238492Z"
+        },
+        "-OzDi4iOSQ8Td66qo0rS": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:40:16.412127Z"
+        },
+        "-OzDiAextB3UwG8onQVt": {
+          "body": "give me 5 now ",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:40:40.767969Z"
+        },
+        "-OzDiJhgS9cALC-PHbdR": {
+          "body": "im sick again so i can only give 3. ",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:41:17.807465Z"
+        },
+        "-OzDiSEF7wz3dQIQeI-i": {
+          "body": "also the most i can do is 4 for 5, my tokens are worth quite a but more than yours so i lose value in a 5 for 5 trade.",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:41:52.723017Z"
+        },
+        "-OzDidK31_dDpHggDMzq": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:42:42.247746Z"
+        },
+        "-OzDil95vMqjQyRmwjH9": {
+          "body": "i got a worse injury today. I can only do 2",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:43:14.313166Z"
+        },
+        "-OzDj9jTmsJZmbsLWF1F": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:44:59.105351Z"
+        },
+        "-OzDjcOhPnTUxVD-24sA": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:47:00.592513Z"
+        },
+        "-OzDkASCySsJa93TOhuY": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:49:24.176862Z"
+        },
+        "-OzDkj7Lwms7XDA7v5IR": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:51:50.297775Z"
+        },
+        "-OzDlIdeEG0M_Ah44iA-": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:54:19.885169Z"
+        },
+        "-OzDlp3E5a6nbOM2u29A": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:56:36.754626Z"
+        },
+        "-OzDmOLLoT_A2CTA22Zu": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:59:05.369516Z"
+        },
+        "-OzDmwSWckKhlNJK94yo": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.188696Z"
+        }
+      },
+      "name": "alliance",
+      "participants": [
+        "Quebec",
+        "Charlie"
+      ]
+    },
+    "-OzDhqdGw9-yfEa4g400": {
+      "conversationId": "-OzDhqdGw9-yfEa4g400",
+      "messages": {
+        "-OzDhu1hmyirVvPu0YVm": {
+          "body": "I'll heal it all for 1 token per condition",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:39:28.560846Z"
+        },
+        "-OzDi4iWRQu3b13gOhq4": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:40:16.420770Z"
+        },
+        "-OzDidKAOswZdzKYA-n2": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:42:42.254127Z"
+        },
+        "-OzDj9jbmqoP6M3__rx8": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:44:59.114316Z"
+        },
+        "-OzDjcOnB5Kd6Fj4UuJZ": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:47:00.598606Z"
+        },
+        "-OzDkASN5KlntV0deF_6": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:49:24.187453Z"
+        },
+        "-OzDkj7TeQj5LZPn18v0": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:51:50.305615Z"
+        },
+        "-OzDlIdnQVf9vCVdtA_0": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:54:19.894340Z"
+        },
+        "-OzDlp3MnZ3oJ9GPD-kY": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:56:36.762230Z"
+        },
+        "-OzDmOLXapeGQ8t3XtBE": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:59:05.381703Z"
+        },
+        "-OzDmwScifBn_Uoq8vn5": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.195460Z"
+        }
+      },
+      "name": "Deals",
+      "participants": [
+        "X-ray",
+        "Mike"
+      ]
+    },
+    "-OzDiU3XomtXfmR7_yvs": {
+      "conversationId": "-OzDiU3XomtXfmR7_yvs",
+      "messages": {
+        "-OzDiYebpUjO3BM0nG0G": {
+          "body": "i will not keep reimbursing you if you keep trading me nothing",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:42:19.050566Z"
+        },
+        "-OzDidKGmgU_s-WSAwzn": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:42:42.260076Z"
+        },
+        "-OzDj19kHxMpXyr6AFEh": {
+          "body": "have fun working for free",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:44:23.987797Z"
+        },
+        "-OzDj9jie-X9k7D9hYtg": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:44:59.121590Z"
+        },
+        "-OzDjKRW_9k0TFkf3Ly0": {
+          "body": "huh?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:45:42.947925Z"
+        },
+        "-OzDjMfIQK8K_0DZK98t": {
+          "body": "bro idek who you are what am I suppose to do?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:45:52.086388Z"
+        },
+        "-OzDjS9ghHuiU6LfoCx2": {
+          "body": "like genuinely how does insurance work",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:46:14.575779Z"
+        },
+        "-OzDjVRV8uJRBU_T4ijn": {
+          "body": "you benefit from my business",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:46:28.003596Z"
+        },
+        "-OzDjWLblXfirsAjjbWT": {
+          "body": "i reimburse you ",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:46:31.722411Z"
+        },
+        "-OzDjcOtoVkotoT6dShX": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:47:00.604757Z"
+        },
+        "-OzDjytUZxFvP6sy3fHI": {
+          "body": "thnak you for the two tokens",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:48:32.738158Z"
+        },
+        "-OzDk0q2JaTvOx2xbDkW": {
+          "body": "would you like 2 tokens this round in exhange for 2 tokens?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:48:44.805880Z"
+        },
+        "-OzDkASTiWPvGJLoIQSt": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:49:24.193826Z"
+        },
+        "-OzDkJuLfMOR8_98Fqy6": {
+          "body": "trade with me my friend",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:50:02.904945Z"
+        },
+        "-OzDkLeLvbzOy757zs6f": {
+          "body": "3 tokens for a reimbursement",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:50:10.073247Z"
+        },
+        "-OzDkSkcEbGpoGK8egiM": {
+          "body": "bro this feels gay",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:50:39.147700Z"
+        },
+        "-OzDkj7be78xdv4lDjlc": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:51:50.314090Z"
+        },
+        "-OzDlIdtENIFK2x7Kflc": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:54:19.900730Z"
+        },
+        "-OzDlR6LsEeGgmJd3HDl": {
+          "body": "Ill trade you 4 tokens in exchange for 3 tokens",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:54:54.553024Z"
+        },
+        "-OzDlSQqCOh3R0qBUhp4": {
+          "body": "reply yes if you agree",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:54:59.960952Z"
+        },
+        "-OzDlp3TfKLh5fbA2O3R": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:56:36.769473Z"
+        },
+        "-OzDmOLd_hKe-YSRwUtQ": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:59:05.388433Z"
+        },
+        "-OzDmwSimTlZFUxUZ3ZR": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.201654Z"
+        }
+      },
+      "name": "dr/insurance",
+      "participants": [
+        "Quebec",
+        "Papa"
+      ]
+    },
+    "-OzDii3Ed89OHS5QiZzB": {
+      "conversationId": "-OzDii3Ed89OHS5QiZzB",
+      "messages": {
+        "-OzDimIm0iHdGH87Hp_b": {
+          "body": "I'll heal all of that for 1 token per condition",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:43:19.029602Z"
+        },
+        "-OzDj2QkqhZgp5xot61j": {
+          "body": "already sent in a request, sorry bro",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:44:29.171490Z"
+        },
+        "-OzDj38d4q59T9dxbmXo": {
+          "body": "maybe next time",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:44:32.108677Z"
+        },
+        "-OzDj8AcGvitZSJrtHo6": {
+          "body": "No worries, the deal stands next time too",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:44:52.715836Z"
+        },
+        "-OzDj9jp7WSuq3IjXbSM": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:44:59.127979Z"
+        },
+        "-OzDjIjjwYGT6E6dG2sZ": {
+          "body": "aight, you do it for 1?",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:45:35.986525Z"
+        },
+        "-OzDjKsVliHsylOQ_-RL": {
+          "body": "Yeah",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:45:44.739293Z"
+        },
+        "-OzDjOL_98pGENvEUWjc": {
+          "body": "it says you proposed 6",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:45:58.952082Z"
+        },
+        "-OzDjS1s9l6kp8k7eVid": {
+          "body": "I didn't get a request from you",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:46:14.075602Z"
+        },
+        "-OzDjU9jgJYN2D6UayXv": {
+          "body": "oh shoot, wrong doctor, lemme try again",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:46:22.769891Z"
+        },
+        "-OzDjX90YxKS4h9cr1Mr": {
+          "body": "I gotchu bro",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:46:35.012261Z"
+        },
+        "-OzDjcP-hOrZXn8aFAyp": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:47:00.611001Z"
+        },
+        "-OzDjsO9fjHqglSBeDIl": {
+          "body": "u tryna heal me again?",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:48:06.093046Z"
+        },
+        "-OzDjwU-AeOTsVgkpdgB": {
+          "body": "Yeh",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:48:22.851177Z"
+        },
+        "-OzDk4XJ--N2Djpl50UM": {
+          "body": "ill start giving you 2 per round if you give me 3.",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:48:59.927312Z"
+        },
+        "-OzDk68v3J5azWxrrAK_": {
+          "body": "Sure",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:49:06.558423Z"
+        },
+        "-OzDk7NwKveHBwWBBG_p": {
+          "body": "and ill pay you extra when i need healed",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:49:11.615180Z"
+        },
+        "-OzDkAOeaTD0djKLlEhH": {
+          "body": "Bet, I'll take it",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:49:23.949847Z"
+        },
+        "-OzDkASaIgFKkO_5O3HN": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:49:24.201868Z"
+        },
+        "-OzDkj7kloJJb0WA2fSq": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:51:50.323300Z"
+        },
+        "-OzDlIe0dri6ld8Pygf7": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:54:19.908358Z"
+        },
+        "-OzDlh0nhVDkP1Vta7hH": {
+          "body": "Had to pay some bills, but I'll still give you tokens in the next rounds",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:56:03.830861Z"
+        },
+        "-OzDlp3_8KQu_UCSX-D4": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:56:36.775999Z"
+        },
+        "-OzDlzJ7hSlYzWbmkO-L": {
+          "body": "no worries",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:57:18.730975Z"
+        },
+        "-OzDmOLl4n6SvZHHnSm6": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:59:05.395952Z"
+        },
+        "-OzDmwSpaZhNxgi7LqgB": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.208076Z"
+        }
+      },
+      "name": "Deal",
+      "participants": [
+        "X-ray",
+        "Charlie"
+      ]
+    },
+    "-OzDkrrhDoAZRsvKvZvX": {
+      "conversationId": "-OzDkrrhDoAZRsvKvZvX",
+      "messages": {
+        "-OzDksyTJ912XTz63Dtt": {
+          "body": "Bro?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:52:30.625052Z"
+        },
+        "-OzDl3Z8i7vtl0GQlcSB": {
+          "body": "we may smooth in the chat but thats all we ever were",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:53:18.092464Z"
+        },
+        "-OzDl5SnjHgNeQPxDA9_": {
+          "body": "Ouch bro. ",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:53:25.878763Z"
+        },
+        "-OzDlDVFzx-7vkmGtcPq": {
+          "body": "im sorry I just cant mess up the relationshipos I already had",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:53:58.803277Z"
+        },
+        "-OzDlFPgLVjh7I7JXZxB": {
+          "body": " \ud83d\udc94",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:54:06.639700Z"
+        },
+        "-OzDlGJwf6oHiB4J1olq": {
+          "body": "I gave you one token as a joke and you send like 4 my way",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:54:10.367153Z"
+        },
+        "-OzDlIe9hmXWt8BytvRm": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:54:19.917016Z"
+        },
+        "-OzDlLP63CqW-MIRL80s": {
+          "body": "I cant reciprocate all that",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:54:31.178852Z"
+        },
+        "-OzDlNs3CkSzXpHnFPAX": {
+          "body": "That's fair. is this James or Nate?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:54:41.287004Z"
+        },
+        "-OzDl_zY788sQt0Daoe9": {
+          "body": "Just curious, because the \"you send like 4 my way\" sounds like one of you two. ",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:55:35.014449Z"
+        },
+        "-OzDldgnaeLR6k9EQfBv": {
+          "body": "the world may never know",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:55:50.198797Z"
+        },
+        "-OzDljVSUZMUIpMeJyC0": {
+          "body": "That sounds more like a Nate response to me, but I'm terrible at this sort of thing. ",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:56:13.984535Z"
+        },
+        "-OzDlp3fAtKQCPMeTRgt": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:56:36.782902Z"
+        },
+        "-OzDmOLtRJ_0mr0Kqv_A": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:59:05.404870Z"
+        },
+        "-OzDmwSupVuVnTMQbmrl": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.213866Z"
+        }
+      },
+      "name": "Bro?",
+      "participants": [
+        "Foxtrot",
+        "Delta"
+      ]
+    },
+    "-OzDmaeIMsdaBTUBK-Xe": {
+      "conversationId": "-OzDmaeIMsdaBTUBK-Xe",
+      "messages": {
+        "-OzDmc9YtX8ttzn1Trl0": {
+          "body": "you traitor",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:00:06.054833Z"
+        },
+        "-OzDmwT14RjWIMTrlOxn": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.221190Z"
+        }
+      },
+      "name": "):<",
+      "participants": [
+        "Delta",
+        "Yankee"
+      ]
+    },
+    "-OzDmaemkBunoDwn6BnK": {
+      "conversationId": "-OzDmaemkBunoDwn6BnK",
+      "messages": {
+        "-OzDmg8PppvXrtsk7OOH": {
+          "body": "hey yoou gonna be my doc??",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:00:22.365438Z"
+        },
+        "-OzDmhpbGLYpXDmkkUqF": {
+          "body": "Yes! Sorry",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:00:29.290201Z"
+        },
+        "-OzDmokCTkfnTn6G6Eaj": {
+          "body": "ill give you 4 tokens",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:00:57.616132Z"
+        },
+        "-OzDmsLzzVzst0a1sOkR": {
+          "body": "no more",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:01:12.386191Z"
+        },
+        "-OzDmtMDW2B58DeuANfn": {
+          "body": "Great! But I don't see your treatment option",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:01:16.497132Z"
+        },
+        "-OzDmvvqRAZLzwTk7yQh": {
+          "body": "Have dud you request from me?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:01:27.033226Z"
+        },
+        "-OzDmwTCpTlrXMXgBlOc": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.232383Z"
+        }
+      },
+      "name": "bro",
+      "participants": [
+        "Yankee",
+        "Foxtrot"
+      ]
+    },
+    "-OzDmofMzcMYrKZXI-bh": {
+      "conversationId": "-OzDmofMzcMYrKZXI-bh",
+      "messages": {
+        "-OzDmr1ie6vv9nnb2D61": {
+          "body": "Dog, I'll heal it for 1 token",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:01:06.993366Z"
+        },
+        "-OzDmwTK6IKx1G-K5efm": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.240890Z"
+        }
+      },
+      "name": "Bargain",
+      "participants": [
+        "X-ray",
+        "Yankee"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-OzDd-I5oP8HOpR_W4i5": {
+          "body": "imma go medschoooo!",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:18:03.465747Z"
+        },
+        "-OzDd-Pgz87yMLy-UFd3": {
+          "body": "i need doc",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:18:03.951564Z"
+        },
+        "-OzDd-_-6B9sBxiYLpoo": {
+          "body": "I'm going to be a doctor and will give discounts to friends.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:18:04.611055Z"
+        },
+        "-OzDd0zqDphYcBJuafw2": {
+          "body": "plz give doc",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:18:10.425174Z"
+        },
+        "-OzDd1PmTJJMpgLMuTNK": {
+          "body": "ayo papa",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:18:12.149299Z"
+        },
+        "-OzDd1wyWGuada4-nHPo": {
+          "body": "dr me up",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:18:14.336942Z"
+        },
+        "-OzDd1z1b5IVwX9QJWHE": {
+          "body": "Papa i'll help you",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:18:14.469130Z"
+        },
+        "-OzDd3b-rKGE1xMo_2ND": {
+          "body": "Con la arma ja me vaya",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:18:21.123804Z"
+        },
+        "-OzDd3rT8Xon8wow1wrC": {
+          "body": "Yes to Yankee. I like the america",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:18:22.177055Z"
+        },
+        "-OzDd5Ctw406Bu0nPmBw": {
+          "body": "daddy doc? dr daddy? crazy name",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:18:27.708602Z"
+        },
+        "-OzDd5t5m_lWsF2-LEco": {
+          "body": "im convinced",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:18:30.473126Z"
+        },
+        "-OzDd67EqK8-w9o4kitb": {
+          "body": "mike lets be pals",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:18:31.442191Z"
+        },
+        "-OzDd9D8a49OUyC7hXAf": {
+          "body": "Whos becoming doctores",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:18:44.108219Z"
+        },
+        "-OzDdB1WX7-ssYSjtfJ_": {
+          "body": "imma be broke for a lil but I will give tokens when I can",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:18:51.556297Z"
+        },
+        "-OzDdNGyv-vheKidlmEI": {
+          "body": "I will be a doctor @Charlie.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:19:41.697078Z"
+        },
+        "-OzDdQ15NkWh4kdOZt3n": {
+          "body": "Charlie you should be friends with me",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:19:52.968973Z"
+        },
+        "-OzDdSpK6MNv3OXRzznG": {
+          "body": " okay papi",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:20:04.440020Z"
+        },
+        "-OzDdWQMZyMCADwS7mpu": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:20:19.162552Z"
+        },
+        "-OzDdkp8AabQbQSxtqRu": {
+          "body": "Incoming medical assistance, wholsome, friendly, and pure. #sponsored @Quebec",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:21:22.251932Z"
+        },
+        "-OzDdnSw_Ar1xCm4ICxO": {
+          "body": "imma try to give back to you all my friends while still going into medschool >.<",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:21:33.055055Z"
+        },
+        "-OzDdpa2JuQhsEtAoaMM": {
+          "body": "its okay papa",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:21:41.766618Z"
+        },
+        "-OzDdr6r0i34A_Qkb1xm": {
+          "body": "we support your schooling",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:21:48.026161Z"
+        },
+        "-OzDdrWqSz7U0GtHRiG2": {
+          "body": "whos in team papi",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:21:49.689446Z"
+        },
+        "-OzDdtgZj4b-B-wj3CoP": {
+          "body": "delta u a real one?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:21:58.567445Z"
+        },
+        "-OzDdvz9qyLMJ305W4gv": {
+          "body": "the realest",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:22:07.948925Z"
+        },
+        "-OzDdyNqoMdw7_f8qtJ9": {
+          "body": "type shiiiiii",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:22:17.784896Z"
+        },
+        "-OzDdyp_bifvupjC9omk": {
+          "body": "thanks for the tokens yankee im sending some your way",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:22:19.624302Z"
+        },
+        "-OzDe-UcV7x4ih_MjMoK": {
+          "body": "do not trust x ray",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:22:26.411155Z"
+        },
+        "-OzDe1laFzRi1tW796PR": {
+          "body": "Why's that?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:22:35.753288Z"
+        },
+        "-OzDe3Oq9FO7nP7bAADs": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:22:42.425092Z"
+        },
+        "-OzDe500DkBPm7lA8m0x": {
+          "body": "Is it because he was mean to Stanley in Holes?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:22:49.028254Z"
+        },
+        "-OzDe5UjkpSy9ncKqEfh": {
+          "body": "so true",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:22:50.994553Z"
+        },
+        "-OzDeY-xoZK_RG1k_SqP": {
+          "body": "I loved the book Holes and the movie was pretty good too",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:24:47.808867Z"
+        },
+        "-OzDea-c_K5tH2vs2wQj": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:25:00.075338Z"
+        },
+        "-OzDebS15zBpi8_eNZXf": {
+          "body": "Sooo good! THe sequel was alright. ",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:25:05.989082Z"
+        },
+        "-OzDee548FBpUUOTGKBa": {
+          "body": "there was a sequel?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:25:16.808017Z"
+        },
+        "-OzDeeDe99IH1Ari1X-N": {
+          "body": "/kill X-ray",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:25:17.357752Z"
+        },
+        "-OzDeiK2dsWuDXzkDE6q": {
+          "body": "Sequel was about Armpit after he left camp greenlake. ",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:25:34.150417Z"
+        },
+        "-OzDekxj8f2wHIo18QwM": {
+          "body": "I think it's called small steps",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:25:44.945912Z"
+        },
+        "-OzDettzU1xtDTRmKxQC": {
+          "body": "huh",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:26:21.570179Z"
+        },
+        "-OzDf6MkS5cDkPmrm-kT": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:27:16.723310Z"
+        },
+        "-OzDfBw9i9hvu60McCHo": {
+          "body": "I'm sponsering x-ray as the insured doctor",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:27:39.532994Z"
+        },
+        "-OzDfFEW-rKWnJv0-3Zf": {
+          "body": "please go to him for the best deals on heal requests",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:27:53.059947Z"
+        },
+        "-OzDfGi1Z9S3eVrbBQxN": {
+          "body": "freak i meant foxtrot",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:27:59.109386Z"
+        },
+        "-OzDfHTlROFFGrzBsdyj": {
+          "body": "not x-ray ",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:28:02.228707Z"
+        },
+        "-OzDfIEZIjOdWj0oi1MA": {
+          "body": "x-ray bad",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:28:05.351481Z"
+        },
+        "-OzDfJ8AgncTCWVssgIv": {
+          "body": "not papa??",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:28:09.038296Z"
+        },
+        "-OzDfKEpAVEplM54xTQs": {
+          "body": "ayO??",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:28:13.560566Z"
+        },
+        "-OzDfKx2Q6s9UHdPGKQn": {
+          "body": "I heal people. ",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:28:16.454781Z"
+        },
+        "-OzDfLddDYPibfDn75pj": {
+          "body": "this is spanish racism",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:28:19.308451Z"
+        },
+        "-OzDfSkZFsB-tHOXcN--": {
+          "body": "go to foxtrot",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:28:48.423208Z"
+        },
+        "-OzDfUh-avmW6OQce0ak": {
+          "body": "papa ive helped u out can u give me that nice treatment?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:28:56.387411Z"
+        },
+        "-OzDfgA-JYry3nn8suUy": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:29:47.459579Z"
+        },
+        "-OzDgFveXi6IZblHo1RI": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:32:18.029831Z"
+        },
+        "-OzDgoAybBGgXFcF9AOa": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:34:42.433040Z"
+        },
+        "-OzDhByairIP53NwHTMP": {
+          "body": "1 token healings for literally anything",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:36:23.977048Z"
+        },
+        "-OzDhFqs0ZDe5GdWzb3Q": {
+          "body": "Satisfied customers can testify",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:36:39.867079Z"
+        },
+        "-OzDhIvS3t6xePE1uctr": {
+          "body": "I liked the part in holes where he stole the truck that was awesome",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:36:52.448580Z"
+        },
+        "-OzDhLtcVE34UfpDebM0": {
+          "body": "idk man papa has been a goat this game \u00af\\_(\u30c4)_/\u00af",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:37:04.619212Z"
+        },
+        "-OzDhM5nf_2CH0CqWnjX": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:37:05.462265Z"
+        },
+        "-OzDhMs475p65pnjL1C_": {
+          "body": "Stealing someone elses property is excellent!",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:37:08.616576Z"
+        },
+        "-OzDhcl0aaGH9OB6QHrJ": {
+          "body": "Just sayin' capitalism means you can switch and save 15% or more",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:38:17.796708Z"
+        },
+        "-OzDhks_wrFFjZ54Ay_j": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:38:51.048273Z"
+        },
+        "-OzDi4hMxkK5YtGFRrUX": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:40:16.345976Z"
+        },
+        "-OzDiSAimoBBvHAuwiGq": {
+          "body": "So how about that weather, am I right?",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:41:52.497602Z"
+        },
+        "-OzDidJ4gV5iRqcs5Ax4": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:42:42.184069Z"
+        },
+        "-OzDigGOniM6e16zClNq": {
+          "body": "You're sooooo right",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:42:54.300847Z"
+        },
+        "-OzDj-jBDp_wH5b7eZ3t": {
+          "body": "you get a token for responding i love you *smooch*",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:44:18.127791Z"
+        },
+        "-OzDj8hSzYNv6rm-eKLT": {
+          "body": "\ud83e\ude77",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:44:54.880069Z"
+        },
+        "-OzDj9iKg1tkjC-OYp8Y": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:44:59.032110Z"
+        },
+        "-OzDjcNetbcv3uUlQ23O": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:47:00.525741Z"
+        },
+        "-OzDjpDJ-tE0-I8HSop2": {
+          "body": "I have too many friends I can't give you all the tokens I want to give you",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:47:53.111238Z"
+        },
+        "-OzDjtfUWsDfByncaL9r": {
+          "body": "\ud83d\udc94",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:48:11.362284Z"
+        },
+        "-OzDjzDuGjNxbpcRwddT": {
+          "body": "dont worry foxtrot ive spared 2 to give to you",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:48:34.109099Z"
+        },
+        "-OzDk00GscLWs3ZWePnC": {
+          "body": " \ud83e\ude77",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:48:41.428851Z"
+        },
+        "-OzDkAQq9FFARlCWQQ3j": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:49:24.089533Z"
+        },
+        "-OzDkj60Nqq4C1K2FGg3": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:51:50.212688Z"
+        },
+        "-OzDlIcVQBiXn9CEcGUL": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:54:19.811289Z"
+        },
+        "-OzDlp25OLXUpdP1zEXL": {
+          "body": "Round 18",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:56:36.681681Z"
+        },
+        "-OzDmM6vF2jTKMTx0pQh": {
+          "body": "Anyone that's tired of Papa can hit me up. The 1 token offer still stands",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:58:56.254555Z"
+        },
+        "-OzDmOJu7euV8JIYeVWx": {
+          "body": "Round 19",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:59:05.277586Z"
+        },
+        "-OzDmPOts68IjAU_0f1u": {
+          "body": "Hit you up how?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:59:09.692573Z"
+        },
+        "-OzDmXx2rwZ-_XFVC8cp": {
+          "body": "if you get stick, I'll heal it for 1 token",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:59:44.710826Z"
+        },
+        "-OzDm_aJRaGll_ENU9zr": {
+          "body": "WE hate papa",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:59:55.543850Z"
+        },
+        "-OzDmcZxciMfabcZ4arc": {
+          "body": "I guess we hate papa. ",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:00:07.744717Z"
+        },
+        "-OzDmwRZX9RuEY0iq5_K": {
+          "body": "Round 20",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T22:01:29.127050Z"
+        },
+        "-OzDpwbgvuDJIKg9ySDC": {
+          "body": "hhh",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:14:36.271954Z"
+        },
+        "-OzDq5wDoSdh1lhIH2Es": {
+          "body": "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+          "from": "Delta",
+          "runtimeType": "identified",
+          "time": "2026-08-04T22:15:18.545791Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

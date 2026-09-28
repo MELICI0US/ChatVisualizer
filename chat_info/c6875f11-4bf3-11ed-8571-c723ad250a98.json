@@ -1,0 +1,3365 @@
+{
+  "conversations": {
+    "-NEMv9KOx5YouDlHcqqM": {
+      "conversationId": "-NEMv9KOx5YouDlHcqqM",
+      "messages": {
+        "-NEMvBM_KyuM9IwhdWO2": {
+          "body": "Group?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:16:02.150221Z"
+        },
+        "-NEMvC1xfW1aRMxu_bEn": {
+          "body": "Yup",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:16:04.925782Z"
+        },
+        "-NEMvD1uifp-EH2T1BKj": {
+          "body": "Yes sir",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:16:09.018882Z"
+        },
+        "-NEMvGej2eZELOWh5Qo1": {
+          "body": "Sure",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:16:23.855803Z"
+        },
+        "-NEMvJG3DH_yFQtyAaz-": {
+          "body": "6 each?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:16:34.500906Z"
+        },
+        "-NEMvMt40nyyC83cRtS0": {
+          "body": "Works for me",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:16:49.349906Z"
+        },
+        "-NEMvO5IF0xGT1wAZ-_l": {
+          "body": "Yeah",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:16:54.291950Z"
+        },
+        "-NEMvSCDBsPbvOm4tpGg": {
+          "body": "how bout 5 this round and we have freedom on the other 3",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:17:11.118744Z"
+        },
+        "-NEMvSRP8fhfRXpKkqc7": {
+          "body": "Stay consistent please. With the poverty line it is much less advantageous to try to steal or betray someone.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:17:12.091636Z"
+        },
+        "-NEMv_2y8q_fhZfFb36R": {
+          "body": "I'm going to go with 6, but I'm fine if Juliett does 5.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:17:43.295086Z"
+        },
+        "-NEMvcMVCYblWvFwNuWR": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:17:56.833645Z"
+        },
+        "-NEMvnDFl-Hq14SJgtik": {
+          "body": "Sending 6 again. Should we pick up november?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:18:41.296985Z"
+        },
+        "-NEMvokRXnRB3Fk8tljY": {
+          "body": "Maybe so.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:18:47.580931Z"
+        },
+        "-NEMvpq9zIohM2F72002": {
+          "body": "I'm down",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:18:52.042841Z"
+        },
+        "-NEMvsBa_CuDmueDQFow": {
+          "body": "I'm fine with that. They gave me 3.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:19:01.671247Z"
+        },
+        "-NEMvxfNCa7Tw-28jWeP": {
+          "body": "I'll give 5 to each of you and 3 to November.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:19:24.121601Z"
+        },
+        "-NEMw8Kn7hvL-WNXjviW": {
+          "body": "I'm doing 4 to november and 5 to the lower 2",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:20:11.892411Z"
+        },
+        "-NEMwB9WQ-NCALm1KIkQ": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:20:23.458618Z"
+        },
+        "-NEMwhzEgMHseyl-dpTL": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:22:42.000174Z"
+        },
+        "-NEMxCldvdK-CHxN7V1p": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:24:52.202344Z"
+        },
+        "-NEMxg7NqqetPACue6mm": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:26:56.537713Z"
+        },
+        "-NEMxx2erloA6H_SHIKa": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:28:05.866924Z"
+        },
+        "-NEMySwOztbAe6acXIO9": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:30:20.570335Z"
+        },
+        "-NEMz1HOTS7Mku9RNvZy": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:32:49.434377Z"
+        },
+        "-NEMzVcWJQzC_uzQw_OC": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:34:53.729971Z"
+        },
+        "-NEMzy24pe7dHCVe8Hhb": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:36:54.214045Z"
+        },
+        "-NEN-Xjzv7zldKnZSwGu": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.544398Z"
+        },
+        "-NEN-Xk-cmKlCJT5yynE": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.544896Z"
+        },
+        "-NEN0010DMIRepQ0QGWr": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:41:28.578579Z"
+        },
+        "-NEN0HF9Ewok6ju-Ik1p": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:42:39.115156Z"
+        },
+        "-NEN0pEjUlgfZcXxlueB": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:45:02.448151Z"
+        },
+        "-NEN1OYVGJe98Z7ktT3x": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.168820Z"
+        },
+        "-NEN1OYXrrJyymYXHvY6": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.170822Z"
+        },
+        "-NEN1xvcaMnmZedaYDmB": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:50:00.169683Z"
+        }
+      },
+      "name": "BFFs",
+      "participants": [
+        "Papa",
+        "Juliett",
+        "Bravo",
+        "Hotel"
+      ]
+    },
+    "-NEMvBQ4mgaiyrTZ2Jvf": {
+      "conversationId": "-NEMvBQ4mgaiyrTZ2Jvf",
+      "messages": {
+        "-NEMvF_1HAa9pjOuoq8o": {
+          "body": "Want to team up?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:16:19.395114Z"
+        },
+        "-NEMvJbOLDx6T62omiGu": {
+          "body": "sure",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:16:35.930442Z"
+        },
+        "-NEMvKohquCb9S5dmPfq": {
+          "body": "sure",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:16:40.878088Z"
+        },
+        "-NEMvTHkVtCUHl6d3kcX": {
+          "body": "i'm giving you each 9",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:17:15.568891Z"
+        },
+        "-NEMvUQIz0BpzkXNyJ6I": {
+          "body": "same",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:17:20.212106Z"
+        },
+        "-NEMv_O6nSgtAEvIHPVB": {
+          "body": "sounds good",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:17:44.647810Z"
+        },
+        "-NEMvcMZYR46n3DVmPTa": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:17:56.837272Z"
+        },
+        "-NEMvf-xSDfX1zNsLK8m": {
+          "body": "oh",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:18:07.677790Z"
+        },
+        "-NEMvgJmsfuZS7AwIOn-": {
+          "body": "sorry I forgot to",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:18:13.042836Z"
+        },
+        "-NEMvhEmOIKvFmQ3iKZo": {
+          "body": "submit",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:18:16.818987Z"
+        },
+        "-NEMvjjmNAVDv9oos-4U": {
+          "body": "you guys dont have to give me this round",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:18:27.058775Z"
+        },
+        "-NEMvtTVqJeNq9-8IyYJ": {
+          "body": "what are you doing this round?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:19:06.913274Z"
+        },
+        "-NEMw01iK3tmosD9LgmR": {
+          "body": "giving you guys 9 each",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:19:37.903113Z"
+        },
+        "-NEMw05LBszpOxEcCYXe": {
+          "body": "do we want to bring in nov and fox?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:19:38.135455Z"
+        },
+        "-NEMw0BsJcw32Oe0SYPd": {
+          "body": "?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:19:38.553171Z"
+        },
+        "-NEMw5hDG8Gr-hC7YGYn": {
+          "body": "i'm down...? what do you guys thing",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:20:01.103158Z"
+        },
+        "-NEMw6mzkGfDxb538hIH": {
+          "body": "think*",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:20:05.568674Z"
+        },
+        "-NEMw7PY8UNl3RXa6xUi": {
+          "body": "sure",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:20:08.100461Z"
+        },
+        "-NEMw7cq0L189GZMdlGP": {
+          "body": "!",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:20:09.014937Z"
+        },
+        "-NEMw7to7REz2e5x5xof": {
+          "body": "I'm game",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:20:10.101153Z"
+        },
+        "-NEMwB9_6366Viv2OSHv": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:20:23.462434Z"
+        },
+        "-NEMwFR22LApvr_iviTz": {
+          "body": "I'll make a new chat",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:20:40.964087Z"
+        },
+        "-NEMwGanOvfC5F8v9anV": {
+          "body": "thanks",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:20:45.748554Z"
+        },
+        "-NEMwhzH9GAwqEteYKvE": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:22:42.003592Z"
+        },
+        "-NEMxClgK-5Vn0-6wgOc": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:24:52.205681Z"
+        },
+        "-NEMxg7RyD_HvXqnRXrE": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:26:56.541130Z"
+        },
+        "-NEMxx2jjjNaXWj2fjQB": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:28:05.872642Z"
+        },
+        "-NEMySwSmAXVnGN6RaGe": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:30:20.573997Z"
+        },
+        "-NEMz1HYObxLzW9h9rvm": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:32:49.445735Z"
+        },
+        "-NEMzVc_3qKYLa1fuCO0": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:34:53.733926Z"
+        },
+        "-NEMzy28JyLoRUAD9szt": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:36:54.218548Z"
+        },
+        "-NEN-Xk2z-UFRcoG8dTv": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.547768Z"
+        },
+        "-NEN-Xk3JKyj1ojNskKS": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.549023Z"
+        },
+        "-NEN0014Vq6L_tbzkfDu": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:41:28.582683Z"
+        },
+        "-NEN0HFEN35TsPHxqUlY": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:42:39.119835Z"
+        },
+        "-NEN0pEmNrNLDUtlrVe_": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:45:02.451629Z"
+        },
+        "-NEN1OYZ8D0u2ky7oIUE": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.173351Z"
+        },
+        "-NEN1OY_vvSVLouvYpsZ": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.174460Z"
+        },
+        "-NEN1xvgJOJlNn-iJhbi": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:50:00.173380Z"
+        }
+      },
+      "name": "Group",
+      "participants": [
+        "Quebec",
+        "Victor",
+        "Uniform"
+      ]
+    },
+    "-NEMvGW1Gt1vfNXxQF_O": {
+      "conversationId": "-NEMvGW1Gt1vfNXxQF_O",
+      "messages": {
+        "-NEMvIqav_uvNWrf0VJB": {
+          "body": "make a team?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:16:32.806953Z"
+        },
+        "-NEMvW73XyB3dWJALCcm": {
+          "body": "I've joined another group but lets stay friends",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:17:27.173570Z"
+        },
+        "-NEMvaCs1fXz-QFOkxkx": {
+          "body": "Same here",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:17:48.024871Z"
+        },
+        "-NEMvb1JIEWJ2e4dcbtd": {
+          "body": "smae",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:17:51.381191Z"
+        },
+        "-NEMvcMc7TFOO1Kk4hMt": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:17:56.840804Z"
+        },
+        "-NEMwB9evPkvaE0JhGBG": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:20:23.467320Z"
+        },
+        "-NEMwhzLEQ4BJbyqF4-Z": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:22:42.006833Z"
+        },
+        "-NEMxClnu2eVHuMEsPX3": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:24:52.211774Z"
+        },
+        "-NEMxg7USkAHlPBys2T7": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:26:56.544126Z"
+        },
+        "-NEMxx2njT3UaHuhBntd": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:28:05.876266Z"
+        },
+        "-NEMySwVBQ_GLB8rVUNp": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:30:20.577696Z"
+        },
+        "-NEMz1HccoUOAOeipG34": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:32:49.449278Z"
+        },
+        "-NEMzVcgN2e2F3JewSKh": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:34:53.741582Z"
+        },
+        "-NEMzy2CjqqqP03NL9Sv": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:36:54.222303Z"
+        },
+        "-NEN-Xk4fOhKrvwj_vzZ": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.550686Z"
+        },
+        "-NEN-Xk6zC1ZwnxtjTd8": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.552315Z"
+        },
+        "-NEN00196LfADfKlSFVg": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:41:28.587010Z"
+        },
+        "-NEN0HFJ7ZiY3LHwu97r": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:42:39.125244Z"
+        },
+        "-NEN0pErFQeVBwIKYF4P": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:45:02.455798Z"
+        },
+        "-NEN1OYbXkWpx4nzsPDJ": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.176529Z"
+        },
+        "-NEN1OYdnuerBK7sMTKX": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.178229Z"
+        },
+        "-NEN1xvkpPIOfvAmuheZ": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:50:00.177308Z"
+        }
+      },
+      "name": "5-some",
+      "participants": [
+        "Foxtrot",
+        "Victor",
+        "Hotel",
+        "Juliett",
+        "Quebec"
+      ]
+    },
+    "-NEMvKGygqlyMsp3a3bT": {
+      "conversationId": "-NEMvKGygqlyMsp3a3bT",
+      "messages": {
+        "-NEMvNVdQdNLMlfvHwUF": {
+          "body": "Are you interested in being friends?",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:16:51.881965Z"
+        },
+        "-NEMvWNq1Hz0fO3Edy5s": {
+          "body": "Sorry, I've already found some friends.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:17:28.247143Z"
+        },
+        "-NEMvbW3I6I0XF6XK_22": {
+          "body": "Happy to have a non-aggression pact though",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:17:53.349485Z"
+        },
+        "-NEMvcMfNKCOj4kXpitt": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:17:56.844304Z"
+        },
+        "-NEMwB9iwyN-OyMJQIA-": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:20:23.470812Z"
+        },
+        "-NEMwhzO1eliNMraRFq7": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:22:42.010277Z"
+        },
+        "-NEMxCls51W4Fef1YPG1": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:24:52.216852Z"
+        },
+        "-NEMxg7X1QwPYOW_rmuP": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:26:56.547354Z"
+        },
+        "-NEMxx2rz_CzpvA3gjh-": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:28:05.879867Z"
+        },
+        "-NEMySwZFGOnmmT-gmyc": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:30:20.581181Z"
+        },
+        "-NEMz1HgOjcXJKs_dMTH": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:32:49.452826Z"
+        },
+        "-NEMzVcmtJ88EIwdsK6W": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:34:53.747282Z"
+        },
+        "-NEMzy2GfvcNOobiFVP5": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:36:54.225959Z"
+        },
+        "-NEN-Xk8QeP8IUfFRxxx": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.553855Z"
+        },
+        "-NEN-XkAZZ_pCuKxAQdH": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.555897Z"
+        },
+        "-NEN001Dyi-JbgPOo3VU": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:41:28.590855Z"
+        },
+        "-NEN0HFN4NLe74rlS87h": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:42:39.129110Z"
+        },
+        "-NEN0pEuSzPjIAwBoWQq": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:45:02.459235Z"
+        },
+        "-NEN1OYfjkZNqeH9hmjv": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.180344Z"
+        },
+        "-NEN1OYjisHNH6m28Hp2": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.184056Z"
+        },
+        "-NEN1xvohmKo9kuvFvfy": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:50:00.180816Z"
+        }
+      },
+      "name": "Friends?",
+      "participants": [
+        "November",
+        "Victor",
+        "Uniform",
+        "Papa"
+      ]
+    },
+    "-NEMvnm5xMVTObeIdzBL": {
+      "conversationId": "-NEMvnm5xMVTObeIdzBL",
+      "messages": {
+        "-NEMvqThcnXyZWsmeB72": {
+          "body": "hey, we expand the group to include me?",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:18:54.638478Z"
+        },
+        "-NEMvv0KMoShU-6IusCL": {
+          "body": "ill give you each 6 this round and you can decide next round",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:19:13.238023Z"
+        },
+        "-NEMw9fzIWzsWelvtrac": {
+          "body": "yeah!",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:20:17.408564Z"
+        },
+        "-NEMwB9nN_ZoL4i3sMZh": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:20:23.475875Z"
+        },
+        "-NEMwhzRWdROiCcAtEuz": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:22:42.013595Z"
+        },
+        "-NEMxClvd4e_O0coWxaR": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:24:52.220562Z"
+        },
+        "-NEMxg7_tx4CeILo5fdP": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:26:56.550495Z"
+        },
+        "-NEMxx2u-Ek4zkG-MnRR": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:28:05.883713Z"
+        },
+        "-NEMySwcDqHmPWJ0vgWk": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:30:20.584847Z"
+        },
+        "-NEMz1Hj44nTXmwYb-n1": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:32:49.456366Z"
+        },
+        "-NEMzVcqNK_ULyXWJVOq": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:34:53.751049Z"
+        },
+        "-NEMzy2MLw_3fLz5FnkT": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:36:54.231955Z"
+        },
+        "-NEN-XkBruG-p3-xWSDy": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.556978Z"
+        },
+        "-NEN-XkDteRAnC7jcW9e": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.559510Z"
+        },
+        "-NEN001I-LtwWv95Kns6": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:41:28.596174Z"
+        },
+        "-NEN0HFR2eCseIph9roD": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:42:39.133154Z"
+        },
+        "-NEN0pEyKVYuN-ZLrhIn": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:45:02.463026Z"
+        },
+        "-NEN1OYkN447IUczlViS": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.184963Z"
+        },
+        "-NEN1OYmxyKRANDJ66oI": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.187248Z"
+        },
+        "-NEN1xvrzyr5PW-3RJlc": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:50:00.184435Z"
+        }
+      },
+      "name": "good friends??",
+      "participants": [
+        "November",
+        "Victor",
+        "Quebec",
+        "Uniform"
+      ]
+    },
+    "-NEMvqEYFgzSb6oxyhJt": {
+      "conversationId": "-NEMvqEYFgzSb6oxyhJt",
+      "messages": {
+        "-NEMvsh1wOs7n_rmzP2t": {
+          "body": "do you need someone else in your team?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:19:03.746828Z"
+        },
+        "-NEMwB9qnLvpNQ_4rjOi": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:20:23.479318Z"
+        },
+        "-NEMwCKC0juhxTGv4qu-": {
+          "body": "Sounds good!",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:20:28.238233Z"
+        },
+        "-NEMwDAkasm2JDYKth_Q": {
+          "body": "I'll make a new chat",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:20:31.728937Z"
+        },
+        "-NEMwKRddAxjqkFxjW88": {
+          "body": "Can we get November to join us?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:21:01.481744Z"
+        },
+        "-NEMwN1a794v0jC4_NqK": {
+          "body": "yeah we are working on it",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:21:12.103457Z"
+        },
+        "-NEMwZCryEu23rbyK-C1": {
+          "body": "quebec?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:22:01.976236Z"
+        },
+        "-NEMwa5Hq5fKMA4yZC7D": {
+          "body": "are you creating a room?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:22:09.682808Z"
+        },
+        "-NEMwhzVWB98xTM4wwE7": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:22:42.016918Z"
+        },
+        "-NEMxClzCLzTf3Idzw-i": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:24:52.224146Z"
+        },
+        "-NEMxNEYD9u7h7fa0NV6": {
+          "body": "Should we talk in here?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:25:35.076135Z"
+        },
+        "-NEMxQyDuZa6wphNDV4s": {
+          "body": "I think so",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:25:50.351132Z"
+        },
+        "-NEMxZB9FQalMjhxZktj": {
+          "body": "6 to each? ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:26:24.011430Z"
+        },
+        "-NEMx_Y_KnX3VquPQC2z": {
+          "body": "sounds good",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:26:29.606117Z"
+        },
+        "-NEMxabldBkNJIvWhRcY": {
+          "body": "yeah same as last time",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:26:33.969943Z"
+        },
+        "-NEMxdzpC2EoS-ihv5nQ": {
+          "body": "sounds good",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:26:47.797946Z"
+        },
+        "-NEMxg7cySxBkK45OmNC": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:26:56.553676Z"
+        },
+        "-NEMxx2yvJfpi8cSG7mR": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:28:05.887171Z"
+        },
+        "-NEMy8NbFGBhHhWyAMwh": {
+          "body": "chat here.  Nov for now wants to be in the other group",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:28:56.360099Z"
+        },
+        "-NEMy9GjeqfB8aoGbvtc": {
+          "body": "sorry, used the wrong chat",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:29:00.016295Z"
+        },
+        "-NEMyEn0U32esrQ1uwHb": {
+          "body": "May be we need to contact ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:29:22.626687Z"
+        },
+        "-NEMyHaaZYr11N2qVMdP": {
+          "body": "each of them?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:29:34.119170Z"
+        },
+        "-NEMyPb33saNNb0SCyzM": {
+          "body": "what do you guys think?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:30:06.916769Z"
+        },
+        "-NEMySMdApG8tdYYYmcW": {
+          "body": "I'm not sure.",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:30:18.218226Z"
+        },
+        "-NEMySwfd_Dx9Hf6tCwi": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:30:20.588514Z"
+        },
+        "-NEMyUh0XGVisDFo1ED7": {
+          "body": "do we seem desparate and coniving if we do that?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:30:27.777826Z"
+        },
+        "-NEMyYsyFEmIhlqrNcq0": {
+          "body": "I think it would be hard to convince anyone to jump ship",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:30:44.927159Z"
+        },
+        "-NEMy_HAdMsGN2sqYH4Z": {
+          "body": "agree",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:30:50.636715Z"
+        },
+        "-NEMydf5GEfdZwPSgJY0": {
+          "body": "what if we all just give like 2 to hotel and see if they help?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:31:08.615546Z"
+        },
+        "-NEMyfCy3djS9-aIhgyK": {
+          "body": "or would that make things worse",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:31:14.942957Z"
+        },
+        "-NEMyjSs3krNwfkQ_Prl": {
+          "body": "it would give that group more strength",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:31:32.344771Z"
+        },
+        "-NEMykUD3kaus7v6OUrw": {
+          "body": "yeah",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:31:36.527140Z"
+        },
+        "-NEMylkIRhRTq_ltYlzF": {
+          "body": "true",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:31:41.716143Z"
+        },
+        "-NEMymngaqGXDFQjt3YI": {
+          "body": "How about suggeting a whole union",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:31:46.029458Z"
+        },
+        "-NEMypAbgURqn8ejU8Lh": {
+          "body": "that'd be interesting",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:31:55.752348Z"
+        },
+        "-NEMyr4vpbcBXdMZnBqE": {
+          "body": "Or can we make one of them look suspicious?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:32:03.580572Z"
+        },
+        "-NEMyx08jZi0XyGjb8FB": {
+          "body": "uniform? any thoughts",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:32:27.850464Z"
+        },
+        "-NEMz1HnrgVrA2dX2F5u": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:32:49.460757Z"
+        },
+        "-NEMz23CLS5PVmd1zmgt": {
+          "body": "Im not sure, this game is diff with the poverty line",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:32:52.622158Z"
+        },
+        "-NEMzB-YCyyfJY8cRGL2": {
+          "body": "We can suggest november to be the top 1 if he helps us.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:33:29.252007Z"
+        },
+        "-NEMzCB0bWch6UygRU7Q": {
+          "body": "we can start attacking them",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:33:34.082276Z"
+        },
+        "-NEMzDJtKJOT-1SSYQux": {
+          "body": "but that can be",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:33:38.745789Z"
+        },
+        "-NEMzDgIVu4P3arBREXx": {
+          "body": "dangerous",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:33:40.244735Z"
+        },
+        "-NEMzKLRr6L7drPjGxxW": {
+          "body": "didn't papa said we weren't fighting this time",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:34:07.517432Z"
+        },
+        "-NEMzN-oyBaRtvPUlhB5": {
+          "body": "in the global chat",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:34:18.420778Z"
+        },
+        "-NEMzRW6D_xuYYH1ZwBz": {
+          "body": "Sorry I missed that one",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:34:36.872233Z"
+        },
+        "-NEMzSLZ5_qLk8oeSD5x": {
+          "body": "But can we believe them?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:34:40.292979Z"
+        },
+        "-NEMzVcu5zxppiGAw0gf": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:34:53.754786Z"
+        },
+        "-NEMzcrNOME5DdPg3qsg": {
+          "body": "we can for the time being, at poverty we have 200 pop which is a deterent for now",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:35:27.449378Z"
+        },
+        "-NEMzy2Y542Iuu3kHcrW": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:36:54.244604Z"
+        },
+        "-NEN--_JomVWQO9vKwsy": {
+          "body": "...I'm dumb",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:37:04.596793Z"
+        },
+        "-NEN-27YVnriaQmDc59f": {
+          "body": "No worries",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:37:15.044223Z"
+        },
+        "-NEN-2dD34pnxCt7dVv0": {
+          "body": "what happened?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:37:17.135559Z"
+        },
+        "-NEN-5tPGPsgGgLsH24G": {
+          "body": "thought I had things allocated and hit submit but didn't",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:37:30.458762Z"
+        },
+        "-NEN-7HPqHiJuvwizWYA": {
+          "body": "that actually helps us if you keep giving",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:37:36.155321Z"
+        },
+        "-NEN-9FW8QxfFMB-m7Kz": {
+          "body": "because you have higher popularity",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:37:44.226107Z"
+        },
+        "-NEN-CWlKS0bAxAq4hab": {
+          "body": "it will hurt us a little altogether, but no worries at all",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:37:57.618097Z"
+        },
+        "-NEN-CkTNvvHZmC-wWh5": {
+          "body": "okay, 6s to you all, again sorry",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:37:58.559339Z"
+        },
+        "-NEN-IDwNJgmrjR6kM1C": {
+          "body": "What if we picked a winner from our group",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:38:20.989646Z"
+        },
+        "-NEN-IcOglMa_aiGCGDP": {
+          "body": "?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:38:22.618515Z"
+        },
+        "-NEN-L2p374gQZu6elXM": {
+          "body": "We could get uniform ahead and cause a stir",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:38:32.565765Z"
+        },
+        "-NEN-L4Mqcom096xrLJ8": {
+          "body": "that could be a good idea",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:38:32.664712Z"
+        },
+        "-NEN-MGZITv1oTpkuKLW": {
+          "body": "i like that",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:38:37.541042Z"
+        },
+        "-NEN-Qdk8sOaqDPxjWXD": {
+          "body": "that seems a bit iffy to me",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:38:55.472795Z"
+        },
+        "-NEN-RRegKBIHoyHrEAp": {
+          "body": "8 to uniform and 5 to the others???",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:38:58.730806Z"
+        },
+        "-NEN-TAUEUMsq1a1h3Z8": {
+          "body": "down",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:39:05.824416Z"
+        },
+        "-NEN-TpjN1EnghnJNhZV": {
+          "body": "next round",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:39:08.527732Z"
+        },
+        "-NEN-UFCA9r00j2pjyHE": {
+          "body": "You don't like it uniform?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:39:10.222194Z"
+        },
+        "-NEN-XkE9C7XLSa1vOfJ": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.560382Z"
+        },
+        "-NEN-XkIGbnj6ltkL_lt": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.564472Z"
+        },
+        "-NEN-a8gEsjteGJgbebC": {
+          "body": "just feels unfair but also makes a lot of sense since it keeps the power flow in the group",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:39:38.476993Z"
+        },
+        "-NEN-dUsQl0l4REM7xjG": {
+          "body": "Let's do it!!!",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:39:52.184902Z"
+        },
+        "-NEN-fgYxmHxpKjrdT5h": {
+          "body": "great!",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:40:01.188261Z"
+        },
+        "-NEN-gngwa-Z53Et96ji": {
+          "body": "might as well try!",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:40:05.741476Z"
+        },
+        "-NEN-hhcdTO--L12Ctdg": {
+          "body": "Only bad thing is it might make uniform a target",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:40:09.448782Z"
+        },
+        "-NEN-mThyj5ekAko84ak": {
+          "body": "see",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:40:28.974247Z"
+        },
+        "-NEN-npnh0vgACkbYzVz": {
+          "body": "how they react",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:40:34.547807Z"
+        },
+        "-NEN-qvNxcAMIzzGYiz2": {
+          "body": "yeah, if they aren't attacking like they said",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:40:47.192927Z"
+        },
+        "-NEN-s1pHZjwl_hWDWRV": {
+          "body": "i guess we'll find out",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:40:51.766479Z"
+        },
+        "-NEN-sSWRsTg1vKg6mc7": {
+          "body": "agreed",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:40:53.474250Z"
+        },
+        "-NEN001L3az0j5Dhc0JI": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:41:28.599568Z"
+        },
+        "-NEN03pxXcBihYvpFZk6": {
+          "body": "4-4-10?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:41:44.190248Z"
+        },
+        "-NEN04qGS0S-f19etQ2w": {
+          "body": "yeah",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:41:48.306479Z"
+        },
+        "-NEN05rIWifH4MlrjOUe": {
+          "body": "yeah",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:41:52.468631Z"
+        },
+        "-NEN0CZFyZnuh05gGPNo": {
+          "body": "okay, still feels unfair to you all",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:42:19.921231Z"
+        },
+        "-NEN0EvpMnFoOheDLz-E": {
+          "body": "it is just a game",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:42:29.622536Z"
+        },
+        "-NEN0FU0L-3iXs-Yn9uY": {
+          "body": "no worry",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:42:31.873873Z"
+        },
+        "-NEN0HFauTzmQfmo1BmH": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:42:39.143219Z"
+        },
+        "-NEN0NGQvbUX9wKzkNTV": {
+          "body": "next round should be the last?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:03.771795Z"
+        },
+        "-NEN0O6feZgwcj7-ztzz": {
+          "body": "give all?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:07.243745Z"
+        },
+        "-NEN0OVpu4L0TCqpBi4o": {
+          "body": "haha",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:08.854112Z"
+        },
+        "-NEN0W8CQ2Cb7DMtxiAo": {
+          "body": "Uniform: keep",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:40.110693Z"
+        },
+        "-NEN0XyZUDRdBGxRdJPc": {
+          "body": "you sure?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:47.621128Z"
+        },
+        "-NEN0ZjcSYHLgDZaoR5t": {
+          "body": "The rest of us can do 4-4-10",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:54.857269Z"
+        },
+        "-NEN0hJ0ZsVEecVzR7Ua": {
+          "body": "great!",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:44:29.954610Z"
+        },
+        "-NEN0l78hw4yIjnd0F5K": {
+          "body": "I want a winner from our group!",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:44:45.578109Z"
+        },
+        "-NEN0nXIN8UQXeMWANHC": {
+          "body": "smae!",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:44:55.444554Z"
+        },
+        "-NEN0pF0DdBsxzQVYYyY": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:45:02.466478Z"
+        },
+        "-NEN0s73DRjLgTkBK1g2": {
+          "body": "Still more time!",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:45:14.245550Z"
+        },
+        "-NEN0s9n2G8sme0smcCx": {
+          "body": "Yay!",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:45:14.420615Z"
+        },
+        "-NEN0vd2DJt_pR0PuWJN": {
+          "body": "what now?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:45:28.644034Z"
+        },
+        "-NEN12YWnJawVuNQKFl7": {
+          "body": "How about 6-6-6.  Uniform keep?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:46:01.058602Z"
+        },
+        "-NEN17h7OuLQPLBUp4fn": {
+          "body": "okay for that",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:46:22.152985Z"
+        },
+        "-NEN1ApPe_jDTPipH8Lu": {
+          "body": "alright",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:46:34.970907Z"
+        },
+        "-NEN1BLbLscltM1JtE3u": {
+          "body": "you sure you want me to keep?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:46:37.096055Z"
+        },
+        "-NEN1FXzl59AoNwuThE3": {
+          "body": "Yes -- incase they attack you it will blunt it a bit",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:46:54.272355Z"
+        },
+        "-NEN1GzAKodIceNYmjf9": {
+          "body": "hopefully this game ends soon ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:47:00.172421Z"
+        },
+        "-NEN1HbfmBGp8Ucpwc-A": {
+          "body": "okay",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:47:02.764352Z"
+        },
+        "-NEN1Mj8ZcScL6upX2Oi": {
+          "body": "Or we could attack them :-)",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:47:23.721735Z"
+        },
+        "-NEN1OYnk3U1n2ky3P_M": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.188378Z"
+        },
+        "-NEN1OYq1D76bzl33I1p": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.190852Z"
+        },
+        "-NEN1SX6Qzl3cUzuoxI3": {
+          "body": "...again I'm dumb",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:47:47.464043Z"
+        },
+        "-NEN1Wgh5ScJ7Y8QreSL": {
+          "body": "uniform all?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:04.526228Z"
+        },
+        "-NEN1XTgn9UnmiqTgauD": {
+          "body": "you gave to us",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:07.725433Z"
+        },
+        "-NEN1Y-FLc-uYP_NiEZH": {
+          "body": "I had it pre allocated 666",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:09.873105Z"
+        },
+        "-NEN1abTkB1bHo_z7r-9": {
+          "body": "forgetting that I had done that",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:24.671108Z"
+        },
+        "-NEN1b0h5nBAq_S5P9zU": {
+          "body": "Everything to uniform!  Uniform keep",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:26.349808Z"
+        },
+        "-NEN1e3QbSG-aEjQngsi": {
+          "body": "okay",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:38.812164Z"
+        },
+        "-NEN1iE81ifnoJpaBXpT": {
+          "body": "What's the deal with Juliett?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:55.882702Z"
+        },
+        "-NEN1nW-WSJLysowoyWT": {
+          "body": "maybe they are trying to copy?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:49:17.504871Z"
+        },
+        "-NEN1pNo7biU0_2xWXuq": {
+          "body": "thats what I think too",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:49:25.173020Z"
+        },
+        "-NEN1qO6em9WA4SUQNhr": {
+          "body": "could be :)",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:49:29.287903Z"
+        },
+        "-NEN1rSjnNq8m_dxrkJW": {
+          "body": "Juliett kept some",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:49:33.680636Z"
+        },
+        "-NEN1xvvDBSTAkfnAGj4": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:50:00.188002Z"
+        },
+        "-NEN2C61RWhimWYoONE9": {
+          "body": "Nice, Victory, eh?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:51:02.339017Z"
+        }
+      },
+      "name": "addition",
+      "participants": [
+        "Foxtrot",
+        "Victor",
+        "Uniform",
+        "Quebec"
+      ]
+    },
+    "-NEMvvWICUkc2dJ5U2lr": {
+      "conversationId": "-NEMvvWICUkc2dJ5U2lr",
+      "messages": {
+        "-NEMvxUsRt6N4wdgisdB": {
+          "body": "Would you like to join our group?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:19:23.385389Z"
+        },
+        "-NEMwB9ulCqTXQfzDNN4": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:20:23.482830Z"
+        },
+        "-NEMwhzY0LMAWoL9QUrm": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:22:42.020421Z"
+        },
+        "-NEMxCm1Vqw5_9namGzM": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:24:52.227675Z"
+        },
+        "-NEMxg7f8odki6tstIIk": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:26:56.556713Z"
+        },
+        "-NEMxx307u9H4BrbmmzL": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:28:05.890672Z"
+        },
+        "-NEMySwjn_-5vsLxlfxL": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:30:20.592303Z"
+        },
+        "-NEMz1HrYxx3o-usC70D": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:32:49.464311Z"
+        },
+        "-NEMzVcxm6iQi8nFpyte": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:34:53.758342Z"
+        },
+        "-NEMzy2fQUjSaRpZ5tAa": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:36:54.252153Z"
+        },
+        "-NEN-XkJHtca-3360Adj": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.564808Z"
+        },
+        "-NEN-XkMiM6rT2udTe3S": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.568272Z"
+        },
+        "-NEN001PgPJdPY8BTKA1": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:41:28.603196Z"
+        },
+        "-NEN0HFe5JSOdgF77_nT": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:42:39.146922Z"
+        },
+        "-NEN0pF4TJyKktX4rTHC": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:45:02.469983Z"
+        },
+        "-NEN1OYrW9mL0vTkytb_": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.192168Z"
+        },
+        "-NEN1OYtbCFM3oK-hyxH": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.194517Z"
+        },
+        "-NEN1xvyk4FwJLgrzuyd": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:50:00.191709Z"
+        }
+      },
+      "name": "Nov",
+      "participants": [
+        "Hotel",
+        "November"
+      ]
+    },
+    "-NEMvwQdfgdwMppA8vQz": {
+      "conversationId": "-NEMvwQdfgdwMppA8vQz",
+      "messages": {
+        "-NEMvyRua8g8CquBxRTI": {
+          "body": "I think I got us all",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:19:27.290734Z"
+        },
+        "-NEMw06bJlKrZl8QSOT3": {
+          "body": "We are willing to have you in our group November",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:19:38.216083Z"
+        },
+        "-NEMw2NfCYxzINTCelQ7": {
+          "body": "thanks!",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:19:47.500613Z"
+        },
+        "-NEMw66S7XzyxO2v3vOD": {
+          "body": "I think we are all giving you 3 this time, and will probably increase as we have consistency",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:20:02.782415Z"
+        },
+        "-NEMwAOKt3sfsj85pYEd": {
+          "body": "Same. We can discuss a better deal next round",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:20:20.310284Z"
+        },
+        "-NEMwB9x3RblCgqPpcez": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:20:23.486416Z"
+        },
+        "-NEMwN75asyNN4trQWs6": {
+          "body": "Do you want to do 3 again? or go up to 4",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:21:12.455516Z"
+        },
+        "-NEMwOtTtPnxvktM3WL1": {
+          "body": "November, just know, you can't be friends with everyone. You'll need to decide between this group or the other eventually.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:21:19.711006Z"
+        },
+        "-NEMwQMoAjOQNMp-bprj": {
+          "body": "Sending 5 to papa and bravo and 4 to November and ki;es",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:21:25.749187Z"
+        },
+        "-NEMwQufIGHY2w1ybVDq": {
+          "body": "yeah im choosing you guys",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:21:27.980061Z"
+        },
+        "-NEMwSvUrInCbwmSk_Kq": {
+          "body": "*jules",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:21:36.223917Z"
+        },
+        "-NEMwU4lOMOKe2517wiv": {
+          "body": "Does that sound good?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:21:40.978387Z"
+        },
+        "-NEMwWYYllWtWH16k2Rt": {
+          "body": "I'm going to 4 and 5 on the lower 2",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:21:51.076176Z"
+        },
+        "-NEMwXwl7XyDpgbvFJgV": {
+          "body": "Please don't build up the other group unless they are building us up.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:21:56.785964Z"
+        },
+        "-NEMwda7dqVdvMDEj3TL": {
+          "body": "Sending 5 to the lower to and 4 to the upper two",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:22:24.009337Z"
+        },
+        "-NEMwgqnNUQVbOnYlvZ0": {
+          "body": "I'm matching Hotel",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:22:37.364209Z"
+        },
+        "-NEMwhzbCZdQ-hHbdenJ": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:22:42.024165Z"
+        },
+        "-NEMwmF03MRddXfh4a_-": {
+          "body": "shoot",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:22:59.458286Z"
+        },
+        "-NEMwnicip_3I9vLVTrv": {
+          "body": "im literally not sending anything to them guys",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:23:05.513394Z"
+        },
+        "-NEMwriFuNrZsNlhwwKM": {
+          "body": "All good. They know you are with us now",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:23:21.873180Z"
+        },
+        "-NEMwrk1oFMfhXY4aK-7": {
+          "body": "We'll be keeping an eye on that for now, just stay consistent with us in giving.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:23:21.987374Z"
+        },
+        "-NEMwvZTJYwIrnnL4chI": {
+          "body": "I bet they attack us soon",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:23:37.631197Z"
+        },
+        "-NEMx0-PqLVE4GKzK92b": {
+          "body": "I'm giving 3 to November, and 5 to others.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:23:59.898866Z"
+        },
+        "-NEMx2Amrg1CwM_oBlVT": {
+          "body": "Same as bravo",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:24:08.818791Z"
+        },
+        "-NEMx3Cj5UlZ1IN3L9zh": {
+          "body": "Sounds good",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:24:13.039897Z"
+        },
+        "-NEMx7fH8YjVfSdoclcu": {
+          "body": "ok",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:24:31.315094Z"
+        },
+        "-NEMxAFT8pgA1pUVEupU": {
+          "body": "im giving 4 to papa & juliett 5 to bravo hotel",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:24:41.887210Z"
+        },
+        "-NEMxCm7u6U9IiEFuidV": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:24:52.232841Z"
+        },
+        "-NEMxJseyDIarFM39oFD": {
+          "body": "Still 4 to the highest and 5 to the lowest?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:25:21.323136Z"
+        },
+        "-NEMxLRtXBUjXInG7fE6": {
+          "body": "that sounds good to me",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:25:27.738673Z"
+        },
+        "-NEMxLgoqiGKTaBccpjg": {
+          "body": "4 to highest and 5 to lowest for me",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:25:28.756937Z"
+        },
+        "-NEMxMlu1XOP0hhhqTkU": {
+          "body": "kk",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:25:33.179222Z"
+        },
+        "-NEMxT3YAwlbdehtA_fx": {
+          "body": "Beautiful convergence there",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:25:58.947766Z"
+        },
+        "-NEMxfA-LNrdcfTWSkX8": {
+          "body": "If they attack first, we'll respond accordingly, but until then let's maintain our current strategy.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:26:52.609346Z"
+        },
+        "-NEMxg7jmMa5IbDfCgAT": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:26:56.560097Z"
+        },
+        "-NEMxgdj0UJbq0zJZxhv": {
+          "body": "Yep, I'm curious to see how much variation there will be between the two groups as we get more convergence as we go.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:26:58.671760Z"
+        },
+        "-NEMxkIcO-eEgbNwbvjL": {
+          "body": "Agreed",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:27:13.641148Z"
+        },
+        "-NEMxr_MC6w-c5nKTtDI": {
+          "body": "4s and 5s",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:27:43.448088Z"
+        },
+        "-NEMxx3495T7mMFEAFM2": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:28:05.894366Z"
+        },
+        "-NEMy-cez7cvq6ya6SBO": {
+          "body": "Its literally leapfrog",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:28:20.523415Z"
+        },
+        "-NEMy5N3gIVdGy7WPOz0": {
+          "body": "We could at one point agree to a circualar alternating strategy to avoid the leapfrog. I'd like to come to a consensus though so we know what is happening.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:28:44.037200Z"
+        },
+        "-NEMy90d3ctv4eT_3RiU": {
+          "body": "Starting next round I agree",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:28:58.986166Z"
+        },
+        "-NEMyBEMm-vdWoqOJuKW": {
+          "body": "circualar alternating strategy?",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:29:08.055901Z"
+        },
+        "-NEMyBdD0TYmfGb6qGDM": {
+          "body": "Yeah we don't have much time in this round",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:29:09.711265Z"
+        },
+        "-NEMyDNhIo9kHO6u-87D": {
+          "body": "how would that work?",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:29:16.846582Z"
+        },
+        "-NEMyDyyQOdux4VkZxEU": {
+          "body": "Whatever the line up is next round will decide",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:29:19.295330Z"
+        },
+        "-NEMyEfjWpsSCdJfELhU": {
+          "body": "I think the other group would take advantage of that strategy.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:29:22.160221Z"
+        },
+        "-NEMyH0dpzQ-i6eZvL0z": {
+          "body": "First gives to second down to fourth who loops to first",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:29:31.754398Z"
+        },
+        "-NEMyI23R7b51nEpzOxG": {
+          "body": "Thoughts?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:29:35.940871Z"
+        },
+        "-NEMyKROYcdiGh7tgWUv": {
+          "body": "5th I mean",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:29:45.753810Z"
+        },
+        "-NEMyP7KrPwGo_XHxZee": {
+          "body": "That might work. Haven't thought it through",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:30:04.949877Z"
+        },
+        "-NEMySc3mJ1cUUDYhILT": {
+          "body": "Make sure to submit",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:30:19.269145Z"
+        },
+        "-NEMySwo5rwf2r9ZVjrQ": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:30:20.597110Z"
+        },
+        "-NEMyTgGP0e8H1VPoUxi": {
+          "body": "So everyone would give 5 to three people and 3 to the 4th",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:30:23.633956Z"
+        },
+        "-NEMybWdmdS1Xem-YfQw": {
+          "body": "Yes? No?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:30:59.818715Z"
+        },
+        "-NEMycrNf7dD3BAfYD4y": {
+          "body": "Follow what we've been doing until this has been explained better.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:31:05.304823Z"
+        },
+        "-NEMygLEKaiDr6EheW7V": {
+          "body": "agreed",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:31:19.568194Z"
+        },
+        "-NEMygsRJGnTNJFBL_KG": {
+          "body": "I agree, this is hard to explain",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:31:21.757006Z"
+        },
+        "-NEMym_Y6M8QKjSXUIzU": {
+          "body": "1 ->2 -> 3 -> 4 -> 1",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:31:45.123998Z"
+        },
+        "-NEMyoMWnTFtSWZcazFM": {
+          "body": "5 5 5 3",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:31:52.418281Z"
+        },
+        "-NEMyq57zSJYgeJNy2Tx": {
+          "body": "So for example in this round I would have given 5 to everyone but November, November would give 5 to everyone except Bravo, and so on down the list?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:31:59.497659Z"
+        },
+        "-NEMyrCAs1VhUN5fdvZb": {
+          "body": "Thats the best I can describe the pattern",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:32:04.044145Z"
+        },
+        "-NEMyvQjlKXsQfsYlL68": {
+          "body": "Yes papa. Starting next round if we choose to",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:32:21.360504Z"
+        },
+        "-NEMyzY5H1Zdt7-qEzMi": {
+          "body": "Objections?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:32:38.215564Z"
+        },
+        "-NEMz0Nd1vtOLpt3Iuc4": {
+          "body": "SO the person directly below us gets 3",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:32:45.737976Z"
+        },
+        "-NEMz0U9gWtx12mdyJcF": {
+          "body": "How does the person in 3rd or 4th behave?",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:32:46.154865Z"
+        },
+        "-NEMz0zXastrZadNqubv": {
+          "body": "You skip the person directly below you, give 5 to everyone else, and 3 to that person",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:32:48.227094Z"
+        },
+        "-NEMz1HvXF8UvhyDzWt4": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:32:49.468213Z"
+        },
+        "-NEMz6ENQa54ZkBEr9n5": {
+          "body": "ok so i give everyone 5 except juliett (3)",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:33:09.721617Z"
+        },
+        "-NEMz6wAYXQW8bBu4H4u": {
+          "body": "Does everyone understand?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:33:12.588225Z"
+        },
+        "-NEMz7oz_nrkiSRIRcpy": {
+          "body": "I see now.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:33:16.224244Z"
+        },
+        "-NEMz8mXC3awW6wi5GLh": {
+          "body": "Yes. So I would give 3 to bravo and 5 to everyone else",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:33:20.162738Z"
+        },
+        "-NEMz9BfVtEIz-wVFK6v": {
+          "body": "Yes November",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:33:21.836002Z"
+        },
+        "-NEMzAhf9F6uuHQl0O5m": {
+          "body": "I give 5 to all except hotel",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:33:28.044182Z"
+        },
+        "-NEMzClSLifAqbFJEXZ7": {
+          "body": "Yes everyone. All in?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:33:36.477913Z"
+        },
+        "-NEMzEo3RmlnIvRnSX8r": {
+          "body": "Oui",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:33:44.837151Z"
+        },
+        "-NEMzF--jmb0R15MMmnE": {
+          "body": "Yes",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:33:45.601691Z"
+        },
+        "-NEMzF9BOTAycWnu1AiW": {
+          "body": "got it yep",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:33:46.253120Z"
+        },
+        "-NEMzI1Czpc5YWPR-zMZ": {
+          "body": "Yup I'm in. And we will keep these token exchanges per person not per rank",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:33:58.029976Z"
+        },
+        "-NEMzIzbIu75zzm3ypvh": {
+          "body": "This round then. Let's see how much we stabilize",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:34:01.960518Z"
+        },
+        "-NEMzNhbbqjoTU9mlYaW": {
+          "body": "We will call out each round so it is abundantly clear",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:34:21.288129Z"
+        },
+        "-NEMzOWYFdUiTjdumAtL": {
+          "body": "Yeah, keep it per person to stay stable I think.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:34:24.612251Z"
+        },
+        "-NEMzROc_20TfrTAD9xp": {
+          "body": "I always give 3 to November, etc.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:34:36.393489Z"
+        },
+        "-NEMzVd-Y7H97bbmQSYU": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:34:53.761696Z"
+        },
+        "-NEMzYYmszk01XvNrxxX": {
+          "body": "That seemed to do it!",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:35:05.714763Z"
+        },
+        "-NEMzYyyFqVh7UVYkezV": {
+          "body": "I always give 3 to Papa",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:35:07.454898Z"
+        },
+        "-NEMz_Gx0D7vbxk1OM4a": {
+          "body": "Yep",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:35:12.765857Z"
+        },
+        "-NEMzaNPgICLU2VoW6Np": {
+          "body": "Giving 3 to bravo",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:35:17.275187Z"
+        },
+        "-NEMzbplJXi2U29y2Qje": {
+          "body": "3 to hotel",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:35:23.250039Z"
+        },
+        "-NEMzclDVI8bMdBVDyxz": {
+          "body": "3 to Juliett",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:35:27.055297Z"
+        },
+        "-NEMzfN8ThC4ybbYVgXO": {
+          "body": "Just match your last token allocation, don't worry about the person giving 3 to you, since you will get 5 from the other people in the group",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:35:37.738569Z"
+        },
+        "-NEMzhr2kfoiYwq4k8EB": {
+          "body": "Yes that is true",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:35:47.908717Z"
+        },
+        "-NEMzi543HOszVKnTFvT": {
+          "body": "I'm giving 3 to November",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:35:48.869932Z"
+        },
+        "-NEMztDxboeRNFvIIgvK": {
+          "body": "Wow, that was more complex to explain and coordinate than I expected",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:36:34.494698Z"
+        },
+        "-NEMzvw9wRYBYuEnrfDp": {
+          "body": "Finally got there though",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:36:45.579012Z"
+        },
+        "-NEMzy2jL8J6viArOAfL": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:36:54.256492Z"
+        },
+        "-NEN--iGvuIU1hxKO7-J": {
+          "body": "wow",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:37:05.170563Z"
+        },
+        "-NEN-0Tq_diww0zl6LqF": {
+          "body": "they boosted uniform",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:37:08.278979Z"
+        },
+        "-NEN-1beeN4YyklGFiey": {
+          "body": "Ignore it",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:37:12.938987Z"
+        },
+        "-NEN-39wipmPWX9WuwDj": {
+          "body": "They are trying to provoke us.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:37:19.293467Z"
+        },
+        "-NEN-3yNN1YXpcEmso9E": {
+          "body": "Agreed. Stay with the current plan",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:37:22.585602Z"
+        },
+        "-NEN-69dpwSJvP48cztu": {
+          "body": "yeah it doesnt matter",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:37:31.562375Z"
+        },
+        "-NEN-CgaNnWlHaxEviTa": {
+          "body": "If they attack we will  respond ",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:37:58.311097Z"
+        },
+        "-NEN-D4Z4JV5N67mfwdD": {
+          "body": "If they attack, next we each keep the 3 that we normally give to the circular person.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:37:59.909001Z"
+        },
+        "-NEN-G6wRXgmjZyd_SPJ": {
+          "body": "Just let them fall naturally, we don't need to attack.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:38:12.349138Z"
+        },
+        "-NEN-I8sqXAb1_3vfNAa": {
+          "body": "I'd say drop to 4 tokens each and keep 3",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:38:20.664778Z"
+        },
+        "-NEN-K_OdplP5mB6iaTQ": {
+          "body": "That way the circle is maintained",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:38:30.618580Z"
+        },
+        "-NEN-OQhJHPSS-ouW2r6": {
+          "body": "If we are attacked",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:38:46.382018Z"
+        },
+        "-NEN-Og0I5CpZ8kGGwnl": {
+          "body": "Sure that would work too.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:38:47.425914Z"
+        },
+        "-NEN-QGNhGNn9Q9sJRb6": {
+          "body": "I like Hotel's suggestion.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:38:53.912893Z"
+        },
+        "-NEN-RVPNq4I8YljVPwO": {
+          "body": "How do we help the person who falls?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:38:58.970787Z"
+        },
+        "-NEN-UC577H6QNWBEuL9": {
+          "body": "if we do 4 each that only leaves 2",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:39:10.022818Z"
+        },
+        "-NEN-XQNq1hMK4HTwKyG": {
+          "body": "4 4 4 3",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:39:23.225039Z"
+        },
+        "-NEN-XkN0TAKlnx2nwkc": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.569545Z"
+        },
+        "-NEN-XkQeIewuj-GnMd9": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.571879Z"
+        },
+        "-NEN-XoKV0FglyIS1XoK": {
+          "body": "We can figure it out as needed.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:39:24.822426Z"
+        },
+        "-NEN-avuWHI9tIPkg844": {
+          "body": "I almost didn't submit scary",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:39:41.691562Z"
+        },
+        "-NEN-emlKx_sb4Vkp5uR": {
+          "body": "Fortunately we don't need to worry about it. Make sure to submit first thing, then we can coordinate",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:39:57.489784Z"
+        },
+        "-NEN-ipozdikIKZb9mOp": {
+          "body": "agreed",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:40:14.069188Z"
+        },
+        "-NEN-zKa1TYpnvswddP0": {
+          "body": "We might even converge to the same popularity by the end. That would be cool, we all win with the same popularity",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:41:21.638852Z"
+        },
+        "-NEN001SlY7NOv9rNZOK": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:41:28.606511Z"
+        },
+        "-NEN04yL1XdkTCqR6bz6": {
+          "body": "We're almost there",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:41:48.823325Z"
+        },
+        "-NEN080Ivhz5GOwtH186": {
+          "body": "keep it up!",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:42:01.300017Z"
+        },
+        "-NEN0HFhJ9nflBcg8g7K": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:42:39.150302Z"
+        },
+        "-NEN0O8dXSPIAwcfECsy": {
+          "body": "Did anyone get attacked?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:07.370495Z"
+        },
+        "-NEN0OH8ZavvqRzdSco4": {
+          "body": "huh?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:07.913778Z"
+        },
+        "-NEN0P5MtDZAcLrJGgZS": {
+          "body": "hotel what the heck",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:11.256371Z"
+        },
+        "-NEN0PttS28TkXLH-D1Q": {
+          "body": "what happened to our beautiful structure",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:14.554045Z"
+        },
+        "-NEN0QYEQQYO6wd8hNwl": {
+          "body": "I told the underlings of the other group that Uniform is trying join us.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:17.199820Z"
+        },
+        "-NEN0SAPHnkub3kTWuxp": {
+          "body": "What happened!",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:23.867205Z"
+        },
+        "-NEN0Tf2OkgZW2gXRYVZ": {
+          "body": "Oh",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:29.988664Z"
+        },
+        "-NEN0ToRWHtWO_fg1p3G": {
+          "body": "Bravo can you explain?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:30.589528Z"
+        },
+        "-NEN0Vc_30xcGNJu9RKV": {
+          "body": "I sent juliett 3",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:38.022204Z"
+        },
+        "-NEN0X4ukb-iTCweaofM": {
+          "body": "I lost my focus",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:43.994944Z"
+        },
+        "-NEN0Z1l2X8vgiUdRsap": {
+          "body": "and I sent bravo 5",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:51.985902Z"
+        },
+        "-NEN0ZKC_YyPQeRxe9BY": {
+          "body": "I don't know why I jumped up, I was just trying to spook them.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:53.166243Z"
+        },
+        "-NEN0ax49Mi41FCgXi92": {
+          "body": "Oh, so the circle broke because of Hotel misallocated.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:44:03.910102Z"
+        },
+        "-NEN0bOBRt1Et-yamfGC": {
+          "body": "I got 5 from everyone. I see that now.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:44:05.709602Z"
+        },
+        "-NEN0dyRnhSwchkY3ywC": {
+          "body": "I ruined it so sorry. We were so close",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:44:16.285399Z"
+        },
+        "-NEN0ejfnY9OoqOhzAg3": {
+          "body": "Hotel you send to Juliet right?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:44:19.435777Z"
+        },
+        "-NEN0i0bpI9e_s2aGARs": {
+          "body": "I sent jules 3 on accident",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:44:32.872172Z"
+        },
+        "-NEN0jBOzASEd9tXSZ2Y": {
+          "body": "Go back to how we had it",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:44:37.658156Z"
+        },
+        "-NEN0jmKFi8J0nLvVPYL": {
+          "body": "I should get 5 from hotel",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:44:40.085756Z"
+        },
+        "-NEN0jmV3IkKDWQg7AjK": {
+          "body": "we can adjust",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:44:40.097056Z"
+        },
+        "-NEN0mDuviCIu8VoQxyb": {
+          "body": "i give 3 to juliett still",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:44:50.107235Z"
+        },
+        "-NEN0nqrKhmkaGLSBsLY": {
+          "body": "Will we converge again?",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:44:56.759973Z"
+        },
+        "-NEN0o-hdCM21BF93n1U": {
+          "body": "Sending 3 to bravo and 5 to jules",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:44:57.390020Z"
+        },
+        "-NEN0pF83_BuRPjCMOMg": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:45:02.473932Z"
+        },
+        "-NEN0uTaqKrgXby319uk": {
+          "body": "Okay. Time to kill victor and foxtrot",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:45:23.879349Z"
+        },
+        "-NEN0us6Q_AiAOku3as3": {
+          "body": "I sent one extra to juliet as well last round to try to fix it.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:45:25.512278Z"
+        },
+        "-NEN0vDie038bf-MUGUQ": {
+          "body": "wait papa you gave 5 to me instead of 3",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:45:26.959362Z"
+        },
+        "-NEN0wqB-27-FQhX3TAH": {
+          "body": "Papa only gave 4?",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:45:33.581487Z"
+        },
+        "-NEN10iH7peHWQ-Er3jL": {
+          "body": "i oly got 4 from papa",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:45:53.555262Z"
+        },
+        "-NEN12mHCocnbr6GwVr3": {
+          "body": "ok wait what are we doing about uniform?",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:46:02.002804Z"
+        },
+        "-NEN12tyRwV2T16_lArc": {
+          "body": "Juliett didn't send me any",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:46:02.495024Z"
+        },
+        "-NEN165toWTghaSdMDm9": {
+          "body": "I think we kill victor and quebec",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:46:15.610004Z"
+        },
+        "-NEN16zcFEYMpNijGpiZ": {
+          "body": "Thoughts?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:46:19.241462Z"
+        },
+        "-NEN19ND-RDlXt-SZ1gi": {
+          "body": "No war yet",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:46:29.007291Z"
+        },
+        "-NEN19ZNMnG5XnmpJ_H4": {
+          "body": "Man, totally got confused. Should we just take out the bottom like Hotel suggested.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:46:29.785666Z"
+        },
+        "-NEN1BUDdH6ObvN4Nxzo": {
+          "body": "I'm fine with no war.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:46:37.647227Z"
+        },
+        "-NEN1GPGxHprYhP1cRvl": {
+          "body": "giving 3 to bravo, 5 to everyone else",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:46:57.810520Z"
+        },
+        "-NEN1Gzw86n0qFpEbFum": {
+          "body": "Okay. Same as usual. Jules send me 5",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:47:00.221435Z"
+        },
+        "-NEN1HhPDruyjkm7XqEJ": {
+          "body": "I'm back to giving 3 to November",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:47:03.131524Z"
+        },
+        "-NEN1JTwPg3YwfC_Mrd1": {
+          "body": "wait no",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:47:10.397291Z"
+        },
+        "-NEN1KY217tTkeCV4HFu": {
+          "body": "we do it based on who is beneath us",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:47:14.755993Z"
+        },
+        "-NEN1Le8JMm_7UdaoxNZ": {
+          "body": "I am staying with the previous strategy.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:47:19.305838Z"
+        },
+        "-NEN1M9MRFshoMp-P0Fb": {
+          "body": "No no",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:47:21.368646Z"
+        },
+        "-NEN1NOX2qfRnVAlH2VR": {
+          "body": "Same people",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:47:26.434995Z"
+        },
+        "-NEN1OVUCO0a5WLb4eWs": {
+          "body": "I'm lost",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:47:30.976214Z"
+        },
+        "-NEN1OYwZ2qjeXIMzjlw": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.197248Z"
+        },
+        "-NEN1OYxX5-LiBHgPmKY": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.197793Z"
+        },
+        "-NEN1VOSLpni-UigVASf": {
+          "body": "the only way its gonna converge is if we choose the person beneath us right?",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:47:59.198686Z"
+        },
+        "-NEN1ZoqtVwO5eB1ax5Y": {
+          "body": "Reset who our person who receives 3. I will give 3 to Juliett. ",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:17.334946Z"
+        },
+        "-NEN1aiQN0X0qc7NmNJ0": {
+          "body": "Agreed",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:25.116641Z"
+        },
+        "-NEN1bc7WKm2Niix-YkB": {
+          "body": "i give 3 to papa",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:28.809621Z"
+        },
+        "-NEN1bn6YbpyNGyPmZQS": {
+          "body": "No, we converge by doing the circular strategy, otherwise we would be leapfroging.",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:29.512497Z"
+        },
+        "-NEN1c6CfZyhi_YAvDza": {
+          "body": "3 to hotel",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:30.798102Z"
+        },
+        "-NEN1dRKWFqVZfboEX-O": {
+          "body": "Sending 3 to november",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:36.246034Z"
+        },
+        "-NEN1dWmAXudFH4h2u9B": {
+          "body": "3 to November",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:36.595346Z"
+        },
+        "-NEN1gKGVfoe2iLvDEip": {
+          "body": "Weight Hotel why are you sending 3 to november?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:48.081908Z"
+        },
+        "-NEN1gaugse72-gYms_Z": {
+          "body": "no papa you do 3 to bravo",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:49.211307Z"
+        },
+        "-NEN1i2Uvb-DdZ_zq-hn": {
+          "body": "cause we do the person beneath us",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:55.136475Z"
+        },
+        "-NEN1icGHrrDGuVJo9XX": {
+          "body": "^^",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:57.490172Z"
+        },
+        "-NEN1imYmqzAOdorUzcM": {
+          "body": "Papa you send 3 to bravo",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:48:58.148144Z"
+        },
+        "-NEN1kD8yeIZM6EqwBbQ": {
+          "body": "We are resetting this mess",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:49:04.010222Z"
+        },
+        "-NEN1mKcC8M-lYsYMyIt": {
+          "body": "Okay, 3 to Bravo",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:49:12.680790Z"
+        },
+        "-NEN1pZ6BqtvWe0B9KNM": {
+          "body": "Everyone certain who gets 3?",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:49:25.896346Z"
+        },
+        "-NEN1qu-O5piBw3b-5CR": {
+          "body": "Sorry about the confusion, I didn't realize we were resetting",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:49:31.392797Z"
+        },
+        "-NEN1r8XA5uq4c6urOEE": {
+          "body": "Also, thoughts on Uniform? Or are we more concerned with convergence?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:49:32.387363Z"
+        },
+        "-NEN1sYGyabgrqyeV7X2": {
+          "body": "Convergence",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:49:38.130083Z"
+        },
+        "-NEN1tUTUPCSrDQSF8fb": {
+          "body": "k",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:49:41.983711Z"
+        },
+        "-NEN1uhNnMQ8wAW_qla5": {
+          "body": "this might be last round tbh",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:49:46.968876Z"
+        },
+        "-NEN1w13bL8-8pk2I1hf": {
+          "body": "Uni is just trying to play us",
+          "from": "Juliett",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:49:52.389187Z"
+        },
+        "-NEN1xw1yHeungu20kGA": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:50:00.195325Z"
+        }
+      },
+      "name": "New BFFs",
+      "participants": [
+        "Papa",
+        "Hotel",
+        "November",
+        "Bravo",
+        "Juliett"
+      ]
+    },
+    "-NEMvyGUQWbLYt5egiMD": {
+      "conversationId": "-NEMvyGUQWbLYt5egiMD",
+      "messages": {
+        "-NEMw0P2SoVV8g7pI1eu": {
+          "body": "Thanks for the 5.  I'm giving you some this round",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:19:39.395907Z"
+        },
+        "-NEMwBA0JQhOLLonuAQB": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:20:23.489898Z"
+        },
+        "-NEMwUyIh60dJwxUCGuX": {
+          "body": "Sending you 6",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:21:44.596296Z"
+        },
+        "-NEMwhze6WMGv4X_pM6i": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:22:42.027336Z"
+        },
+        "-NEMxCmALNAruoNpuDqd": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:24:52.236325Z"
+        },
+        "-NEMxSP8pm0qWtIfOv5p": {
+          "body": "Happy to be a friend if you want to be a friend",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:25:56.234269Z"
+        },
+        "-NEMxbPH7ffkHFqWDZaJ": {
+          "body": "i can't give you anything right now, but we can be friends on the dl if you'd like",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:26:37.202912Z"
+        },
+        "-NEMxdOfMnnpsW_m99lV": {
+          "body": "and ill let you know if you're in any danger!",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:26:45.356119Z"
+        },
+        "-NEMxg7m6JtMdHU3sMBz": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:26:56.563206Z"
+        },
+        "-NEMxlVLUe2mDpwqwjuj": {
+          "body": "Sounds good  and thx",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:27:18.550959Z"
+        },
+        "-NEMxx3AkVJt0OITIP3H": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:28:05.900406Z"
+        },
+        "-NEMySwsaCr0mVYS0Iw1": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:30:20.600943Z"
+        },
+        "-NEMz1HyUGgGrLEyWjun": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:32:49.471698Z"
+        },
+        "-NEMzVd31u-ltspBPumm": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:34:53.765279Z"
+        },
+        "-NEMzy2nYtAGe5Efj1h7": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:36:54.259838Z"
+        },
+        "-NEN-XkREy4jIK6ormd8": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.573218Z"
+        },
+        "-NEN-XkTOv4RrKGspMgz": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.575138Z"
+        },
+        "-NEN001Xh9dfvFwN6zme": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:41:28.611078Z"
+        },
+        "-NEN0HFlRUSn4LBDjTXI": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:42:39.153887Z"
+        },
+        "-NEN0pFBk9yJwyO2m7HC": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:45:02.477559Z"
+        },
+        "-NEN1OYzmHsh36ka-03G": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.200671Z"
+        },
+        "-NEN1OZ0jIdGh9aNYN8L": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.201837Z"
+        },
+        "-NEN1xw5ikYmQ57tFuf_": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:50:00.199029Z"
+        }
+      },
+      "name": "thanks",
+      "participants": [
+        "Foxtrot",
+        "November"
+      ]
+    },
+    "-NEMwZQ3ryhmCclxIvci": {
+      "conversationId": "-NEMwZQ3ryhmCclxIvci",
+      "messages": {
+        "-NEMwbTkl-7-_oaS_7Hr": {
+          "body": "Here's the new group",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:22:15.344771Z"
+        },
+        "-NEMwcb1jzRWh7eQYDVQ": {
+          "body": "Thanks!",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:22:19.971100Z"
+        },
+        "-NEMwd4_7XuCaK4iHasC": {
+          "body": "4 each",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:22:21.926144Z"
+        },
+        "-NEMwdL5rtTlLq8kUVQF": {
+          "body": "?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:22:22.982793Z"
+        },
+        "-NEMwf0SqbGRKV4N-WHV": {
+          "body": "Sure",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:22:29.853798Z"
+        },
+        "-NEMwftM0CXClpGxvMtz": {
+          "body": "sure",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:22:33.432208Z"
+        },
+        "-NEMwfyrCGWVA3Rw0qax": {
+          "body": "sounds good",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:22:33.784087Z"
+        },
+        "-NEMwhzhfKBi3eFsenTv": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:22:42.030649Z"
+        },
+        "-NEMwnEQiDYK3ghobBEP": {
+          "body": "november? are you in our team?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:23:03.516364Z"
+        },
+        "-NEMwrbaUgrjF100SWCf": {
+          "body": "im sorry i think im not able to contribute to you at this point",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:23:21.447716Z"
+        },
+        "-NEMwrf45E8ApAGFrz09": {
+          "body": "Nov -- you can straddle the teams, but just let us know how much you are going to give us",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:23:21.670708Z"
+        },
+        "-NEMwwNLp5xQzyOLIYDu": {
+          "body": "Should we not give to nov this time",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:23:40.950929Z"
+        },
+        "-NEMx-NZpdygVrHDE2Vx": {
+          "body": "I'm giving the others 6",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:23:57.348949Z"
+        },
+        "-NEMx0MZ7zkrvNwUUXsK": {
+          "body": "6 to each then?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:24:01.381705Z"
+        },
+        "-NEMxAALzm-su-r17l3X": {
+          "body": "ok",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:24:41.559116Z"
+        },
+        "-NEMxCmGE9z-u6cvVXjl": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:24:52.242562Z"
+        },
+        "-NEMxg7qKvSBya1-g4hZ": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:26:56.567013Z"
+        },
+        "-NEMxwbyH4bUcIMG_X-o": {
+          "body": "How can we gain? do we need to befriend one of them at some point?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:28:04.094776Z"
+        },
+        "-NEMxx3EbHvaoWFQRE9y": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:28:05.904297Z"
+        },
+        "-NEMy2IWHt0K2KGHqG8y": {
+          "body": "I think so",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:28:31.458137Z"
+        },
+        "-NEMySwvaSKLsLiWt6jW": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:30:20.604604Z"
+        },
+        "-NEMz1I16bPIDYAikHOf": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:32:49.475013Z"
+        },
+        "-NEMzVd6pXASKh05qoBZ": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:34:53.768496Z"
+        },
+        "-NEMzy2ruKVS69v9bBW5": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:36:54.263975Z"
+        },
+        "-NEN-XkUI5T3S-OQxZK7": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.576730Z"
+        },
+        "-NEN-XkWnKUWmQZP--lT": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.578337Z"
+        },
+        "-NEN001adMF-prmlmxyS": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:41:28.615172Z"
+        },
+        "-NEN0HFo3cpHTJ_h77bL": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:42:39.157177Z"
+        },
+        "-NEN0pFFzLKKWO6S3K1F": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:45:02.481200Z"
+        },
+        "-NEN1OZ2h6DybXHrOMQC": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.203833Z"
+        },
+        "-NEN1OZ3JrK2lPcirumO": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.205345Z"
+        },
+        "-NEN1xw9_VL9PM3dotiz": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:50:00.202953Z"
+        }
+      },
+      "name": "New Group",
+      "participants": [
+        "Quebec",
+        "Victor",
+        "Uniform",
+        "Foxtrot",
+        "November"
+      ]
+    },
+    "-NEN02sju3YWbEb4mvoT": {
+      "conversationId": "-NEN02sju3YWbEb4mvoT",
+      "messages": {
+        "-NEN0AC5lxiAaBr0RuyM": {
+          "body": "Uniform is trying to negotiate joining our group. Watch out for betrayal.",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:42:10.247180Z"
+        },
+        "-NEN0FpBF32eH450gJwW": {
+          "body": "you sure?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:42:33.293165Z"
+        },
+        "-NEN0HFrKgvyd4kX5w9M": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:42:39.160520Z"
+        },
+        "-NEN0pFJtrbRiPs86G17": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:45:02.484866Z"
+        },
+        "-NEN1OZ5tTuuhtO0aYqf": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.207018Z"
+        },
+        "-NEN1OZCyHa-hkrVdAWD": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.213819Z"
+        },
+        "-NEN1xwDGXzhj6ZJQBll": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:50:00.207182Z"
+        }
+      },
+      "name": "Watch out",
+      "participants": [
+        "Bravo",
+        "Foxtrot",
+        "Victor",
+        "Quebec"
+      ]
+    },
+    "-NEN0MRQdFdssdRgXerg": {
+      "conversationId": "-NEN0MRQdFdssdRgXerg",
+      "messages": {
+        "-NEN0OLcwHvEuXkYgk9o": {
+          "body": "What do we believe?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:08.200861Z"
+        },
+        "-NEN0Sz883tEvixoPyLA": {
+          "body": "I don't believe Bravo",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:27.178001Z"
+        },
+        "-NEN0VbpJOBbHhX4-4XQ": {
+          "body": "neither",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:37.974322Z"
+        },
+        "-NEN0VvoaAcdUV48t7LC": {
+          "body": "I am",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:39.253319Z"
+        },
+        "-NEN0YXzRfHpt1otRBxp": {
+          "body": "uniform is trying not to do that",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:49.952688Z"
+        },
+        "-NEN0YhqyymKaDulhXh5": {
+          "body": "sounds good",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:50.647068Z"
+        },
+        "-NEN0_Ghm4GZvaVIIeCt": {
+          "body": "so I can believe",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:43:57.038617Z"
+        },
+        "-NEN0a6M789_qHC0PnYf": {
+          "body": "uniform",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:44:00.471778Z"
+        },
+        "-NEN0dZzj68D7xoaFnRF": {
+          "body": "yeah uniform is still giving, so i think it's okay",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:44:14.656289Z"
+        },
+        "-NEN0pFO38C7OeRtP0ZQ": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:45:02.490606Z"
+        },
+        "-NEN1OZCyHa-hkrVdAWE": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.214354Z"
+        },
+        "-NEN1OZGeUqHpY6TLDQW": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.217832Z"
+        },
+        "-NEN1xwHhtkTj6s9n3KJ": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:50:00.211652Z"
+        }
+      },
+      "name": "Small group",
+      "participants": [
+        "Quebec",
+        "Victor",
+        "Foxtrot"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-NEMvCGVCb5snKdLQL7c": {
+          "body": "Anyone want to be friends?",
+          "from": "November",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:16:05.857539Z"
+        },
+        "-NEMvcMSHN3yG02KBcrP": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:17:56.829833Z"
+        },
+        "-NEMwB9SM9UzRiGmvqHh": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:20:23.454750Z"
+        },
+        "-NEMwhzATMFTjpAl1gCJ": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:22:41.996619Z"
+        },
+        "-NEMwomtrg9UKQb3j_6S": {
+          "body": "Non-Aggression Pact. In a poverty line game it really isn't advantageous to fight. Let's just see how much popularity we can get. (Dr. Crandall will pay us in chocolate or something)",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:23:09.881905Z"
+        },
+        "-NEMxCl_QEsuRkSyRVo0": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:24:52.198685Z"
+        },
+        "-NEMxS9E6ejdCYznsuFZ": {
+          "body": "Sounds good 2 me",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2022-10-14T19:25:55.216347Z"
+        },
+        "-NEMxg7KtDy8CecZ0pD8": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:26:56.533934Z"
+        },
+        "-NEMxx2az_w_1-3stVs7": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:28:05.863156Z"
+        },
+        "-NEMySwKOJosROQAMbyT": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:30:20.565842Z"
+        },
+        "-NEMz1HGjMaSUt9q4Q2N": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:32:49.425791Z"
+        },
+        "-NEMzVcSO83-V4DEU58N": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:34:53.726509Z"
+        },
+        "-NEMzy20jMZfEn7zDWO_": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:36:54.209822Z"
+        },
+        "-NEN-XjuAzSgUM3UsSQW": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.539600Z"
+        },
+        "-NEN-XjuAzSgUM3UsSQX": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:39:24.539652Z"
+        },
+        "-NEN000x1MV8hXA9SBeH": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:41:28.574195Z"
+        },
+        "-NEN0HF5-UGRwtmER5zZ": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:42:39.110839Z"
+        },
+        "-NEN0pEfTYVyPgbz7bGI": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:45:02.444620Z"
+        },
+        "-NEN1OYReDqK6OafP2m0": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.165029Z"
+        },
+        "-NEN1OYReDqK6OafP2m1": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:47:31.165092Z"
+        },
+        "-NEN1xv_CtXG3TtlG3aU": {
+          "body": "Round 17",
+          "runtimeType": "gameNotification",
+          "time": "2022-10-14T19:50:00.165942Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

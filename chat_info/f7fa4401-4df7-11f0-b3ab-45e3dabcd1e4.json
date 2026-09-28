@@ -1,0 +1,3187 @@
+{
+  "conversations": {
+    "-OTDIv3J2SnbwdyX72BY": {
+      "conversationId": "-OTDIv3J2SnbwdyX72BY",
+      "messages": {
+        "-OTDIxKtSj-Lzh-2l3Me": {
+          "body": "Hello",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:08:06.139698Z"
+        },
+        "-OTDJMd7-JaJ6DOtKFMg": {
+          "body": "I Tango!",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:09:53.867356Z"
+        },
+        "-OTDJNCfs02rAoaHenrb": {
+          "body": "Comrade?]",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:09:56.206301Z"
+        },
+        "-OTDJSVbjuaZNpR3wu8d": {
+          "body": "Comrade",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:10:17.897904Z"
+        },
+        "-OTDJYEx6m_Xe4VLVaO3": {
+          "body": "We \"failed\" cleaning checks again but they won't recheck",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:10:41.408245Z"
+        },
+        "-OTDJd_KLHso25ZapdQk": {
+          "body": "Bro, what",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:11:07.352206Z"
+        },
+        "-OTDJefrKg8tuU5mbSqT": {
+          "body": "What did we fail?",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:11:11.865694Z"
+        },
+        "-OTDJiCElYbZmH3MW6FT": {
+          "body": "The shower",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:11:26.290025Z"
+        },
+        "-OTDJjdMvkcZ-powjEWi": {
+          "body": "Bruh",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:11:32.186476Z"
+        },
+        "-OTDJkuBN4Ogi_4zBbOm": {
+          "body": "I'm making david do it since Im playing jhg",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:11:37.359210Z"
+        },
+        "-OTDKN_HbpP5OXIiWBl5": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:14:19.860793Z"
+        },
+        "-OTDKq-twxh_hjYtr93p": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:16:20.412522Z"
+        },
+        "-OTDLIQ3EJ_tCZI9uFX-": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:18:20.871042Z"
+        },
+        "-OTDLhdmVJvSZjX21DUG": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:20:08.309491Z"
+        },
+        "-OTDM9P1V6EcjHxcA4Yd": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:22:06.085343Z"
+        },
+        "-OTDM_fDdahNHK4kpG1n": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:23:57.776749Z"
+        },
+        "-OTDN1CgdE8kfR3umIM3": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:25:54.670963Z"
+        },
+        "-OTDNUQmsbi2YhTLMCVi": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:27:54.356890Z"
+        },
+        "-OTDNvWOt4MYCISTGpBC": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:29:49.404242Z"
+        },
+        "-OTDOMW_aBjFHTrSFsnh": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:31:44.103941Z"
+        },
+        "-OTDOmiqZPnayFKF8YCj": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:33:35.544983Z"
+        },
+        "-OTDPCQoPYEN-EpyqSB0": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:35:24.919280Z"
+        },
+        "-OTDPesPpBfTByDq2nRO": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:37:25.532952Z"
+        },
+        "-OTDQ7MN9XulMqg079eS": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:39:26.298733Z"
+        },
+        "-OTDQ_ualxXwnG9b868Y": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:41:27.337275Z"
+        }
+      },
+      "name": "Hello Garrett",
+      "participants": [
+        "Tango",
+        "Sierra"
+      ]
+    },
+    "-OTDJzpugDlKihmoBl3P": {
+      "conversationId": "-OTDJzpugDlKihmoBl3P",
+      "messages": {
+        "-OTDK0yKsCvGS74fe4zk": {
+          "body": "This gov isn't good for us",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:12:47.255735Z"
+        },
+        "-OTDK1gXT4jASQ9pKg2u": {
+          "body": "No",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:12:50.213257Z"
+        },
+        "-OTDK27ajqwvp-u705s1": {
+          "body": "For sure",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:12:52.009468Z"
+        },
+        "-OTDK47dc_CWMRnTqsW7": {
+          "body": "I'm gonna give you 100 this round",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:13:00.204069Z"
+        },
+        "-OTDK5ocznBkDtHGVtVv": {
+          "body": "Same",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:13:07.115097Z"
+        },
+        "-OTDK7ICMX3qMUM48_E_": {
+          "body": "to you",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:13:13.168197Z"
+        },
+        "-OTDK8GNecNZwlmHLJR8": {
+          "body": "Perf",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:13:17.147482Z"
+        },
+        "-OTDKBtBxwHw691W09vI": {
+          "body": "We can throw some bones to the others, and incite a riot",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:13:31.983365Z"
+        },
+        "-OTDKKol1_QqPdNCA_g3": {
+          "body": "Yes, if we can insight a riot, that would be great",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:14:08.563973Z"
+        },
+        "-OTDKN_OK04kX-INyCqJ": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:14:19.868379Z"
+        },
+        "-OTDKNjb6yAeIfc4VG5L": {
+          "body": "Great for us! HAHAHAHAHAHAHA",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:14:20.522487Z"
+        },
+        "-OTDKlHr0fU8YsP34LVv": {
+          "body": "Sending you 100 again",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:16:01.082614Z"
+        },
+        "-OTDKpS1N2EvdWBiE2PS": {
+          "body": "Okay, maybe we try to get on the good side of the rabble so we can get them to rise up",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:16:18.116783Z"
+        },
+        "-OTDKq0-x5oZVmSsfH9j": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:16:20.419194Z"
+        },
+        "-OTDKtlhjQOEm-gyu7AL": {
+          "body": "?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:16:35.824011Z"
+        },
+        "-OTDKvB3LbukwJiXZg1v": {
+          "body": "Uh, timer",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:16:41.607345Z"
+        },
+        "-OTDKxwd2uDA4ZoqHhWN": {
+          "body": "Sending you 100 again",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:16:52.907911Z"
+        },
+        "-OTDKzpeo4AHxopxPg4m": {
+          "body": "I got you with 100, no need to give back if you don't want",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:17:00.653422Z"
+        },
+        "-OTDLIQAukOrL9BA7NmU": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:18:20.878119Z"
+        },
+        "-OTDLOKxRYIGUeu6B1rd": {
+          "body": "You get punished for not paying taxes?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:18:45.120481Z"
+        },
+        "-OTDLRM_H1sPHZhECtqr": {
+          "body": "Yeah....",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:18:57.512092Z"
+        },
+        "-OTDLSmWXXEeLG7U_fJU": {
+          "body": "Screw the government man",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:19:03.332082Z"
+        },
+        "-OTDLhdu7EQYhTWG2IkL": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:20:08.317173Z"
+        },
+        "-OTDM0OEsuQItxkRWkyt": {
+          "body": "Wanna just exchange 160 with each other?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:21:29.169716Z"
+        },
+        "-OTDM7bYYfW3R33dfY5H": {
+          "body": "Maybe, but I think we try a little more",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:21:58.757797Z"
+        },
+        "-OTDM9P9eUySTNV12veK": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:22:06.093118Z"
+        },
+        "-OTDM_fKPz9Jdx4d84C2": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:23:57.784601Z"
+        },
+        "-OTDMgaTuvryg6TAWa5P": {
+          "body": "Oh shoot, didn't realize you were going all in",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:24:26.145302Z"
+        },
+        "-OTDMhI2qCd5i7nGNL1k": {
+          "body": "That's my bad",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:24:28.998144Z"
+        },
+        "-OTDMj5RM_zjDTBAAhXU": {
+          "body": "I'm ready to drop them",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:24:36.383304Z"
+        },
+        "-OTDMnOBh5qwsUMx-_u5": {
+          "body": "I have 161 after paying taxes",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:24:53.967332Z"
+        },
+        "-OTDMnv0uWLvQQxhtvoA": {
+          "body": "I'm not gaining anything from them",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:24:56.132579Z"
+        },
+        "-OTDMop6KYu8r5wJ442X": {
+          "body": "Sounds good",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:24:59.849896Z"
+        },
+        "-OTDMrYQa-sId7M0JNRN": {
+          "body": "I don't think India actually wants to attack",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:25:11.005671Z"
+        },
+        "-OTDMtQLFPBs7ucSCShc": {
+          "body": "He wants us to attack, and then get screwed",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:25:18.680671Z"
+        },
+        "-OTDN0vke_nwV6o6FWnA": {
+          "body": "Sorry, I actually have 1255",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:25:53.523143Z"
+        },
+        "-OTDN1Cn6oQjBjKouRYi": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:25:54.678477Z"
+        },
+        "-OTDN1KENfIngCk0Geuh": {
+          "body": "155",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:25:55.153733Z"
+        },
+        "-OTDN2r5ZD_aijcW04KN": {
+          "body": "I misread my taxes",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:26:01.417438Z"
+        },
+        "-OTDN3nX6dMt4x9FJ83c": {
+          "body": "Yeah, I\"m not attacing",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:26:05.285470Z"
+        },
+        "-OTDN4UOzKHTI_osqdri": {
+          "body": "attacking",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:26:08.091820Z"
+        },
+        "-OTDN8glB2Zaf8sBfz64": {
+          "body": "Do we say yay, then screw them?>",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:26:25.332364Z"
+        },
+        "-OTDNDKomhgaITnn0wC2": {
+          "body": "Yes.  I don't think they'll attack",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:26:44.343241Z"
+        },
+        "-OTDNMY8j-PsnDAJuBGI": {
+          "body": "I have 163 after taxes",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:22.060168Z"
+        },
+        "-OTDNQGuM1wu9nRDOmZv": {
+          "body": "Sending 166",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:37.340655Z"
+        },
+        "-OTDNRJckRi1UB20bw9w": {
+          "body": "And we are NOT joining, right?",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:41.611368Z"
+        },
+        "-OTDNSlhlIpVY1Ryaa1q": {
+          "body": "right",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:47.568385Z"
+        },
+        "-OTDNUQthzB0bKKPAg7l": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:27:54.364465Z"
+        },
+        "-OTDNqoglj5fu5B2ETN9": {
+          "body": "Sending 166",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:29:30.159469Z"
+        },
+        "-OTDNuUy1EergOnHrkc_": {
+          "body": "167",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:29:45.217288Z"
+        },
+        "-OTDNvWcQeFu7ApLxB-f": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:29:49.419253Z"
+        },
+        "-OTDO25-cNv3Ywc92znp": {
+          "body": "Sending 169",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:30:20.418653Z"
+        },
+        "-OTDO9vDSbk3wqfdykdr": {
+          "body": "Do you want to bring in tango? He was trading with me before",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:30:52.497221Z"
+        },
+        "-OTDOKLZbKDIhQCjBtoL": {
+          "body": "Sending you 160 actually so I can give some to Yankee",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:31:35.207055Z"
+        },
+        "-OTDOKanIjK2NrG8oa22": {
+          "body": "He stopped trading with me",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:31:36.245914Z"
+        },
+        "-OTDOMWfHHbqVhreRtJh": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:31:44.110572Z"
+        },
+        "-OTDOT88ATpBaYQhPVsR": {
+          "body": "Okay, fetch him",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:32:11.212417Z"
+        },
+        "-OTDOYS0O5eVpc18lEST": {
+          "body": "I'm sending 160 again, 11 to yankee",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:32:32.963762Z"
+        },
+        "-OTDOhbszds_YYpMs6Pl": {
+          "body": "Do you want to try to bring Yankee in as a more full partner?",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:33:14.618993Z"
+        },
+        "-OTDOkyo0fMTu7amh_98": {
+          "body": "Slowly",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:33:28.375047Z"
+        },
+        "-OTDOmCkrF76hBL2xQp9": {
+          "body": "Sounds good",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:33:33.427374Z"
+        },
+        "-OTDOmiy8ikgVH2_ku5P": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:33:35.553384Z"
+        },
+        "-OTDOpFkzGckrfqFo6ah": {
+          "body": "Hmm...",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:33:45.906967Z"
+        },
+        "-OTDOucRnNzo7izOiNsc": {
+          "body": "I might just keep some. I believe in the rule of law to take them out",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:34:07.902975Z"
+        },
+        "-OTDOwOtGXqSyEZIh_Ev": {
+          "body": "What happened/",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:34:15.164100Z"
+        },
+        "-OTDP1dFwVrT9uy6gqNL": {
+          "body": "India, Mike, and X-ray attacked",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:34:40.723128Z"
+        },
+        "-OTDP1e7iuX8rkjnXSV2": {
+          "body": "the gov will bring you back.  Don't worry about it",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:34:40.779382Z"
+        },
+        "-OTDPCQvz7u2Wrdpl7RN": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:35:24.926457Z"
+        },
+        "-OTDPLj3vxTsmO4U2_d9": {
+          "body": "Hotel, did you get attacked?",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:36:03.015408Z"
+        },
+        "-OTDPQxyGT3lBwjaeUGk": {
+          "body": "No, they attacked me",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:36:24.449511Z"
+        },
+        "-OTDPSgBTSXTOboQg6EF": {
+          "body": "Was just they fact that I didn't give you any.",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:36:31.502968Z"
+        },
+        "-OTDPVB4HNsXftXGxXou": {
+          "body": "Don't give me any this round, I'm going to keep again",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:36:41.735762Z"
+        },
+        "-OTDPesZ1Cwng5M-ozp0": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:37:25.542936Z"
+        },
+        "-OTDQ7MWRM5Nx6Os9WXZ": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:39:26.307904Z"
+        },
+        "-OTDQ_uiQ-qP12TfE1L6": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:41:27.344836Z"
+        }
+      },
+      "name": "Aristrocracy",
+      "participants": [
+        "Hotel",
+        "Sierra"
+      ]
+    },
+    "-OTDK6UWEk4Eb4BPiebf": {
+      "conversationId": "-OTDK6UWEk4Eb4BPiebf",
+      "messages": {
+        "-OTDKJ-v3OYeJSXXr0M1": {
+          "body": "yall tryna do 15 for 15 this round?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:14:01.150521Z"
+        },
+        "-OTDKN_WwDDputxeeySw": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:14:19.875863Z"
+        },
+        "-OTDKO87trW1VYcw_6to": {
+          "body": "I have not that much",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:14:22.155089Z"
+        },
+        "-OTDKWBkLRV88g9Yg_Rl": {
+          "body": "I now have that much",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:14:55.155424Z"
+        },
+        "-OTDKeYGWDx9atzD2J22": {
+          "body": "I'm not going to attack the giv",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:15:33.459761Z"
+        },
+        "-OTDKfim0SXD3UtAH1wk": {
+          "body": "gov*",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:15:38.293534Z"
+        },
+        "-OTDKnoyVOrlhqeAc4CZ": {
+          "body": "im not sure either",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:16:11.457326Z"
+        },
+        "-OTDKoa-Z8NPDCORDGab": {
+          "body": "10 for 10?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:16:14.595562Z"
+        },
+        "-OTDKq06o1PeEcIUlU31": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:16:20.426468Z"
+        },
+        "-OTDKtvhlFEyKzdqnXPr": {
+          "body": "the rounds are so fast i forgot to submit",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:16:36.464387Z"
+        },
+        "-OTDKv7jMUxGw_uSZu9Z": {
+          "body": "lol the gov is going to attack me",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:16:41.394153Z"
+        },
+        "-OTDL4y2PRzatVqt-mfn": {
+          "body": "Just keep paying your taxes",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:17:25.766354Z"
+        },
+        "-OTDLHNfWlBFRM1mbTVz": {
+          "body": "yeah i submitted lol",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:18:16.622158Z"
+        },
+        "-OTDLI6QLDDarN8oM7Qa": {
+          "body": "this time",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:18:19.613762Z"
+        },
+        "-OTDLIQHoOrHWhYXUlvn": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:18:20.885207Z"
+        },
+        "-OTDLhe0DP2SeHpN2qvy": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:20:08.324014Z"
+        },
+        "-OTDLlSn4o5kvOQh_idr": {
+          "body": "Uh oh",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:20:23.925816Z"
+        },
+        "-OTDLmmGkuI5WBeeLs4w": {
+          "body": "I forgot to pay taxes",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:20:29.332288Z"
+        },
+        "-OTDM81_i-ZHXznLL4aY": {
+          "body": "as long as you pay this time it should be okay",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:22:00.487637Z"
+        },
+        "-OTDM9PLeuwNh0F5MVFs": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:22:06.105149Z"
+        },
+        "-OTDM9te8eMEOfCc0C_9": {
+          "body": "i forgot to pay and they attacked me one round",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:22:08.109235Z"
+        },
+        "-OTDM_fS9rQYjdZL4Ggo": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:23:57.791800Z"
+        },
+        "-OTDN1CvuBk2DbJ6GIQ8": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:25:54.686411Z"
+        },
+        "-OTDNUR-guVV2yDkO3GX": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:27:54.371336Z"
+        },
+        "-OTDNvWjn_THJg74DgIb": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:29:49.426394Z"
+        },
+        "-OTDOMWmrKGiUNbjW0ie": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:31:44.117590Z"
+        },
+        "-OTDOmj4qJXQ_eSWMkkt": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:33:35.560289Z"
+        },
+        "-OTDPCR1I2rLCrMdAsHm": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:35:24.933386Z"
+        },
+        "-OTDPesfC-jO9zwOcet2": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:37:25.549807Z"
+        },
+        "-OTDQ7Md7CFrKFFqLRez": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:39:26.316129Z"
+        },
+        "-OTDQ_uywRwABJ64Phvo": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:41:27.361053Z"
+        }
+      },
+      "name": "Little-ish guys",
+      "participants": [
+        "Kilo",
+        "Mike",
+        "Yankee"
+      ]
+    },
+    "-OTDK7Fq1BOEaaB61jz2": {
+      "conversationId": "-OTDK7Fq1BOEaaB61jz2",
+      "messages": {
+        "-OTDKB_YBfG8ENcEdbNO": {
+          "body": "yall wanna trade?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:13:30.725699Z"
+        },
+        "-OTDKN_coLr6Twei_Y-e": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:14:19.883239Z"
+        },
+        "-OTDKUgREDODJnafAoMW": {
+          "body": "oops, didn't see this",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:14:48.991333Z"
+        },
+        "-OTDKV901VJDTCuQOfLR": {
+          "body": "yeah, sure",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:14:50.884516Z"
+        },
+        "-OTDKldxPwT6CY0PqXVm": {
+          "body": "like 10 for 10?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:16:02.560339Z"
+        },
+        "-OTDKq0Ddu-wskKiCXzT": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:16:20.433116Z"
+        },
+        "-OTDKzYxTPEYFyOfgpU5": {
+          "body": "lol the rounds are so fast i forgot to submit",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:16:59.520257Z"
+        },
+        "-OTDL-fz1H7defIQEdOq": {
+          "body": "the gov is going to attack me lol",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:17:04.129858Z"
+        },
+        "-OTDLIQOFsuj9yBOckob": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:18:20.892288Z"
+        },
+        "-OTDLhe7J4Ri8_GiLVf8": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:20:08.330928Z"
+        },
+        "-OTDM9PUVZ_E5gi-ZZcM": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:22:06.114114Z"
+        },
+        "-OTDM_f_w4AQeuWzaJNc": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:23:57.799682Z"
+        },
+        "-OTDN1D2xbHyTBqdBWv1": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:25:54.694126Z"
+        },
+        "-OTDNKOr6WokfhYmlEpR": {
+          "body": "yuh I give u some",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:13.274009Z"
+        },
+        "-OTDNUR7w1RPncjl5GI7": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:27:54.379332Z"
+        },
+        "-OTDNvWqEmZaiTJJzVcw": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:29:49.433176Z"
+        },
+        "-OTDOMWtJqXtIJTLg63y": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:31:44.124412Z"
+        },
+        "-OTDOmjBc2u8wAi9HXrL": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:33:35.567246Z"
+        },
+        "-OTDPCR8edx-y4xtMGKm": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:35:24.940368Z"
+        },
+        "-OTDPesnUrJm-zbm1L7S": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:37:25.557896Z"
+        },
+        "-OTDQ7MkQAyYPGmkWqeE": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:39:26.323455Z"
+        },
+        "-OTDQ_v4xDTnbIOencNb": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:41:27.367951Z"
+        }
+      },
+      "name": "YIM",
+      "participants": [
+        "Yankee",
+        "Mike",
+        "India"
+      ]
+    },
+    "-OTDLjhmQAbOEn5qUNdV": {
+      "conversationId": "-OTDLjhmQAbOEn5qUNdV",
+      "messages": {
+        "-OTDLkfD27hpm9rxTNY4": {
+          "body": "UHHHH",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:20:20.689285Z"
+        },
+        "-OTDLn7_uRdS73eguV6s": {
+          "body": "So we aren't actually attacking the gov right?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:20:30.760296Z"
+        },
+        "-OTDM2Y2oKyDqpwA5KRN": {
+          "body": "the government is helping me more than the rich people could, so i don't think it makes sense",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:21:37.990158Z"
+        },
+        "-OTDM5gMUpY6gfANWlRA": {
+          "body": "Yeah",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:21:50.874570Z"
+        },
+        "-OTDM7Tk0Y-ELqvfS3vN": {
+          "body": "let's attack the rich",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:21:58.195527Z"
+        },
+        "-OTDM8UeGbt0pBQDptoj": {
+          "body": "also, sierra and hotel are buffing each other",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:22:02.349345Z"
+        },
+        "-OTDM9Pp7cvEJoZ71mNj": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:22:06.135810Z"
+        },
+        "-OTDMABqH3-oLYVpxHCF": {
+          "body": "they are oppressive",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:22:09.337247Z"
+        },
+        "-OTDMAF85Qk9CdFRdfBw": {
+          "body": "I don't know that we could take them",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:22:09.548364Z"
+        },
+        "-OTDMCtWhe_4F97fz8eS": {
+          "body": "we could target one of them",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:22:20.388054Z"
+        },
+        "-OTDMEx99BRICO0iQCeJ": {
+          "body": "sierra first? or hotel?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:22:28.813086Z"
+        },
+        "-OTDMIJu8lsViL7mAl8F": {
+          "body": "If we go either, I will fall",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:22:42.621608Z"
+        },
+        "-OTDMJgQdtyRNxw-4qvO": {
+          "body": "attacking will incite the gov to attack you",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:22:48.222066Z"
+        },
+        "-OTDMJheor4PWwbRPBSU": {
+          "body": "let's make a stand",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:22:48.301100Z"
+        },
+        "-OTDMKgWHeCEV4_G4kz9": {
+          "body": "for gynocology",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:22:52.324331Z"
+        },
+        "-OTDMM3OJJIpMQnjQOTS": {
+          "body": "Ah",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:22:57.948030Z"
+        },
+        "-OTDMMOiCzmLcX8t4v4f": {
+          "body": "yes",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:22:59.313008Z"
+        },
+        "-OTDMMtJRVv1j9fuhBNS": {
+          "body": "for that",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:23:01.334796Z"
+        },
+        "-OTDMRRQgS7rdf-4YqtU": {
+          "body": "down with the capitalist-roaders",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:23:19.965931Z"
+        },
+        "-OTDMZqjtq7Lh17QeVkq": {
+          "body": "I don't think we should attack",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:23:54.418162Z"
+        },
+        "-OTDM_fhRGMmj7EmWba2": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:23:57.808143Z"
+        },
+        "-OTDMb38kQZn82j3gUfF": {
+          "body": "Agreed",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:24:03.468232Z"
+        },
+        "-OTDMcxQwCGh3WCZTCeU": {
+          "body": "Should we attack soon, though?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:24:11.230414Z"
+        },
+        "-OTDMcxQwCGh3WCZTCeV": {
+          "body": "I think we should get the rich to attack the gov and take themselves out",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:24:11.230489Z"
+        },
+        "-OTDMe5jAUusoUSdg27l": {
+          "body": "Great idea",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:24:15.922024Z"
+        },
+        "-OTDMfJyoI1O_WdsVj9h": {
+          "body": "let's do it",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:24:20.929389Z"
+        },
+        "-OTDMyFDviJpnVKcYTS9": {
+          "body": "Charlie, what are your thoughts?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:25:38.449581Z"
+        },
+        "-OTDN1DA4oCuGcFUzOoR": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:25:54.701958Z"
+        },
+        "-OTDN8vfLscU8pCjhvB3": {
+          "body": "I'm just kinda observing at this point",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:26:26.286303Z"
+        },
+        "-OTDNEnl1N8ebvmOZrdQ": {
+          "body": "im same with charlie",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:26:50.356110Z"
+        },
+        "-OTDNIFyW_18jDHfj4fG": {
+          "body": "sierra and hotel are giving me, i don't want to screw them over",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:04.513206Z"
+        },
+        "-OTDNIU7JgUVvJ9UdJIY": {
+          "body": "no more trading with sierra and hotel",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:05.418665Z"
+        },
+        "-OTDNJcy8ZaFwKSY62hJ": {
+          "body": "booooo",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:10.145036Z"
+        },
+        "-OTDNPKr4HN8Nq96MqmI": {
+          "body": "why don't we attack hotel and sierra",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:33.498280Z"
+        },
+        "-OTDNQOMtINucvX3ugAI": {
+          "body": "while they attack the govt",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:37.818521Z"
+        },
+        "-OTDNT-etSY4QIwx-xK-": {
+          "body": "Sierra stopped giving to me and took 20 tokens without reciprocation for 2 rounds",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:48.525164Z"
+        },
+        "-OTDNUREs8h8n8mYbv9U": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:27:54.386453Z"
+        },
+        "-OTDNUe22xk70vT8yvaU": {
+          "body": "hotel isn't giving much",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:55.269821Z"
+        },
+        "-OTDNh1WJbbXu6aTPzS6": {
+          "body": "ya im about to get cooked by the feds",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:28:50.084597Z"
+        },
+        "-OTDNhXh4Xw6tXIYY-cA": {
+          "body": "okay im in for whatever",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:28:52.144130Z"
+        },
+        "-OTDNkrGDqifxwOtOG8Q": {
+          "body": "if we wanna atttack the gov ",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:29:05.748595Z"
+        },
+        "-OTDNmjdruKv-fioDKF8": {
+          "body": "or them ",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:29:13.451637Z"
+        },
+        "-OTDNmv5Or1VWbYlPJhU": {
+          "body": "Sierra hasn't been responding to me and stopped trade ",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:29:14.185143Z"
+        },
+        "-OTDNoS3EcnJ8R27bn6G": {
+          "body": "I don't want to attack",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:29:20.455292Z"
+        },
+        "-OTDNrAp-TEsoiOyy1aa": {
+          "body": "I lowkey want to settle and have a farm",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:29:31.639700Z"
+        },
+        "-OTDNtEGUsVfTECTIdgb": {
+          "body": "attack sierra",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:29:40.051631Z"
+        },
+        "-OTDNvWxRsYpcarOUfG0": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:29:49.439960Z"
+        },
+        "-OTDO0ZTtB1c9cC6-0hd": {
+          "body": "that would be funny",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:30:14.176938Z"
+        },
+        "-OTDO0rR6BG-LXn9f4sC": {
+          "body": "im down",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:30:15.390950Z"
+        },
+        "-OTDO2W2xB7FZo1HFtas": {
+          "body": "everyone just take like 1",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:30:22.150509Z"
+        },
+        "-OTDO2yrn3r4FweJTkGm": {
+          "body": "or 2",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:30:24.058601Z"
+        },
+        "-OTDO3mtjMTQ3-sc27uE": {
+          "body": "so were not punished",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:30:27.388275Z"
+        },
+        "-OTDOJEmRiTsUq7ajXXw": {
+          "body": "India, are you giong to reciprocate ever?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:31:30.677308Z"
+        },
+        "-OTDOMX-ssiWODxs_wRp": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:31:44.131277Z"
+        },
+        "-OTDONWM4I4ea_bEgR9v": {
+          "body": "I've been giving every round",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:31:48.186227Z"
+        },
+        "-OTDONbbRbqS-l8uSu7C": {
+          "body": "yeah india goes back and forth with me too",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:31:48.586067Z"
+        },
+        "-OTDOR8M3fPUxpzcuiiD": {
+          "body": "i aint no coward",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:32:03.033677Z"
+        },
+        "-OTDORZOtQZlzYSBOZbQ": {
+          "body": "no, this round was the first they traded with me",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:32:04.764334Z"
+        },
+        "-OTDOX6hDOhEmKZYYt-n": {
+          "body": "I am going all-in on sierra this time",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:32:27.503788Z"
+        },
+        "-OTDOZM9PN9Anl9QSSAs": {
+          "body": "im gonna join",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:32:36.685264Z"
+        },
+        "-OTDObl92rAyzIrsW-xD": {
+          "body": "Honestly, I am paying more attention to the chat than how many tokens I am submitting...",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:32:50.637196Z"
+        },
+        "-OTDOcaxuqf8VQ7Hars_": {
+          "body": "sorry",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:32:54.080195Z"
+        },
+        "-OTDOeHaa4VYBoGDVK-u": {
+          "body": "Thanks",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:33:00.968868Z"
+        },
+        "-OTDOemfHRDIvB1QcQxo": {
+          "body": "the gov will just reimburse what you take and punish you",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:33:03.022056Z"
+        },
+        "-OTDOiwbEq3a83DAO3li": {
+          "body": "guys attack sierra",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:33:20.041908Z"
+        },
+        "-OTDOjVZKckK0bk4WyQs": {
+          "body": "for the memes",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:33:22.343317Z"
+        },
+        "-OTDOm7DKZpgYSBcnRuN": {
+          "body": "Done",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:33:33.072880Z"
+        },
+        "-OTDOmjIAthRtUYj3sNR": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:33:35.574592Z"
+        },
+        "-OTDOp2YSw6ze82JEq35": {
+          "body": "lets goooooooooooooo",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:33:45.061801Z"
+        },
+        "-OTDOse1MJ0CEa6k7SDF": {
+          "body": "Oh well...",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:33:59.813558Z"
+        },
+        "-OTDOuwzVzDrUpY4v9DC": {
+          "body": "Let's punish him further",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:34:09.218004Z"
+        },
+        "-OTDOvjmqhd9Ik_6APhM": {
+          "body": "why not",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:34:12.468994Z"
+        },
+        "-OTDPCRFZqRfZbrFK9_6": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:35:24.946981Z"
+        },
+        "-OTDPJ3bu331P_7Moco7": {
+          "body": "what now",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:35:52.106168Z"
+        },
+        "-OTDP_GPblQ8TtwuPtQn": {
+          "body": "idk",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:37:02.556692Z"
+        },
+        "-OTDPdiy0pCrUeM4TsOM": {
+          "body": "now you die cause the gov is mad at you",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:37:20.833422Z"
+        },
+        "-OTDPesudZZwMH3wyGto": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:37:25.564748Z"
+        },
+        "-OTDQ7MrRaRf48yjjBC2": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:39:26.330461Z"
+        },
+        "-OTDQ_vDCuumycy6T0f-": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:41:27.376968Z"
+        }
+      },
+      "name": "The poor",
+      "participants": [
+        "Tango",
+        "Charlie",
+        "India",
+        "Yankee",
+        "X-ray"
+      ]
+    },
+    "-OTDNTCm9djU1cKe20PA": {
+      "conversationId": "-OTDNTCm9djU1cKe20PA",
+      "messages": {
+        "-OTDNURL1cmIQWNGOxaC": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:27:54.393304Z"
+        },
+        "-OTDN_m9dDueihu3rsTj": {
+          "body": "wanna give me tokens :)",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:28:20.365302Z"
+        },
+        "-OTDNvX2EDLfwxDGYcA8": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:29:49.446436Z"
+        },
+        "-OTDO1XqK71EOJNtQtNm": {
+          "body": "Do you want to exchange more?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:30:18.169292Z"
+        },
+        "-OTDO8CvRpT6IZt9PY4w": {
+          "body": "sure!",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:30:45.502142Z"
+        },
+        "-OTDOBf5IOBWuBmPcOKR": {
+          "body": "Sending you 17 this time",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:30:59.657217Z"
+        },
+        "-OTDODj5beYJDlvZXZ-y": {
+          "body": "cool, sending you 20",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:31:08.105570Z"
+        },
+        "-OTDOMRwp_hfrnrsQsIL": {
+          "body": "Sending 9",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:31:43.806962Z"
+        },
+        "-OTDOMX6VZ3bHUx_hrhE": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:31:44.137663Z"
+        },
+        "-OTDO_GiKPM9C7O_jdQS": {
+          "body": "Sending you 11 Yankee",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:32:40.433442Z"
+        },
+        "-OTDOcu624PorC1B4oQ_": {
+          "body": "ill send you 15!",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:32:55.305924Z"
+        },
+        "-OTDOdsdUDFmC6Hf0RXe": {
+          "body": "Sending you 23, Yankee",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:32:59.308535Z"
+        },
+        "-OTDOdx1Y6mCWdXbXWiA": {
+          "body": "and 20 to hotel",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:32:59.589220Z"
+        },
+        "-OTDOg2kRNYwoNy1FPML": {
+          "body": "oh i can do more then hotel",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:33:08.211493Z"
+        },
+        "-OTDOmjQcXZwQ7OSWDdc": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:33:35.581894Z"
+        },
+        "-OTDP6FH7u2m5JLyK8uB": {
+          "body": "you should keep sierra, the poor people are going to steal from you",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:34:59.605059Z"
+        },
+        "-OTDP9O8tTCE6__NVvuK": {
+          "body": "Sounds good, thanks",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:35:12.460569Z"
+        },
+        "-OTDPCRMePQYpG6di62p": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:35:24.953969Z"
+        },
+        "-OTDPCs0s7vjcg8e-fPJ": {
+          "body": "The gov will bring em back",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:35:26.723838Z"
+        },
+        "-OTDPet13yl0DQPV5O7z": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:37:25.572815Z"
+        },
+        "-OTDPiVaizUQStMhkS2B": {
+          "body": "oh sierra are you out for good?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:37:40.393448Z"
+        },
+        "-OTDPk8DTKAlKI_lI4Fk": {
+          "body": "i was still giving",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:37:47.089342Z"
+        },
+        "-OTDQ2IgkCo0TIwebGgm": {
+          "body": "im still down to keep trading",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:39:05.583465Z"
+        },
+        "-OTDQ7My4AqLxWPinQ75": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:39:26.337046Z"
+        },
+        "-OTDQFGEjfhSkEF22jFi": {
+          "body": "yo what?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:39:58.674380Z"
+        },
+        "-OTDQFstAmL0YiqqFf7Z": {
+          "body": "hotel fr?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:40:01.212211Z"
+        },
+        "-OTDQ_vMooJ74fDPw7xk": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:41:27.385915Z"
+        }
+      },
+      "name": "poor",
+      "participants": [
+        "Yankee",
+        "Hotel",
+        "Sierra"
+      ]
+    },
+    "-OTDOhuo_PbJ8ZaEgyrd": {
+      "conversationId": "-OTDOhuo_PbJ8ZaEgyrd",
+      "messages": {
+        "-OTDOmjXdlERxzZQNRAy": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:33:35.589629Z"
+        },
+        "-OTDOnwTXGhC5FqCiFa4": {
+          "body": "So uh.... I don't like where the small group is headed, and hotel and sierra are being scummy",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:33:40.513258Z"
+        },
+        "-OTDP1ADplEsZxsbhyzz": {
+          "body": "wanna just trade between the two of us?",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:34:38.801579Z"
+        },
+        "-OTDP5fFmcj8Wwtpx6yi": {
+          "body": "yeah Im down",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:34:57.234988Z"
+        },
+        "-OTDPB27rZYQzJW0Zmdh": {
+          "body": "I have 40 tokens left, how many in total do you want?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:35:19.243032Z"
+        },
+        "-OTDPCRTzajBBIb14oii": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:35:24.960826Z"
+        },
+        "-OTDPCkT_WhULEv2Fnxp": {
+          "body": "okay sending you everything cause you cool",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:35:26.241243Z"
+        },
+        "-OTDPHymr_vrMxZYqzf9": {
+          "body": "OH SHOOT",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:35:47.637282Z"
+        },
+        "-OTDPI_ThfzwtyUtqlCC": {
+          "body": "im so sorry",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:35:50.113591Z"
+        },
+        "-OTDPJo0QCo9gAPPiZDk": {
+          "body": "ill send 60?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:35:55.140437Z"
+        },
+        "-OTDPMP05Km7db15M91-": {
+          "body": "send whatever",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:36:05.764218Z"
+        },
+        "-OTDPScLF-VzRnzPiLgk": {
+          "body": "Im sending 70 since I had some left over after the few other trades",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:36:31.256982Z"
+        },
+        "-OTDPXOz84jDV0FDfy7y": {
+          "body": "I only have 63 avaliable so sending that",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:36:50.818590Z"
+        },
+        "-OTDPdSVyDO8cueCIhsE": {
+          "body": "thats chill",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:37:19.715098Z"
+        },
+        "-OTDPetErVq_lYVpGHR3": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:37:25.586313Z"
+        },
+        "-OTDPlO6fYLJ_Enn5Iua": {
+          "body": "Sending 90",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:37:52.201966Z"
+        },
+        "-OTDPpDwcjNkA1lSSbdw": {
+          "body": "71, everythign else is going to gov",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:38:07.934910Z"
+        },
+        "-OTDPyeDxBKcQEdEbmF5": {
+          "body": "ok. Also, are we not done?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:38:46.544937Z"
+        },
+        "-OTDQ7N4S3T2LuDaV0or": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:39:26.344620Z"
+        },
+        "-OTDQ_vT9pNOS_abVMc3": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:41:27.393620Z"
+        }
+      },
+      "name": "What is happening?",
+      "participants": [
+        "Tango",
+        "Charlie"
+      ]
+    },
+    "-OTDP-zwK94rU0jJsLTR": {
+      "conversationId": "-OTDP-zwK94rU0jJsLTR",
+      "messages": {
+        "-OTDP3OS2rIsuBwv-_ie": {
+          "body": "The poor keep trying to get me to attack you and I don't want to",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:34:47.904179Z"
+        },
+        "-OTDP5O6DSZhtie8urf1": {
+          "body": "They already did....",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:34:56.074231Z"
+        },
+        "-OTDP6YiPEqoajNcwyzC": {
+          "body": "But appreciate it",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:35:00.848849Z"
+        },
+        "-OTDPCRZ0nCJwTHWLMC5": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:35:24.967552Z"
+        },
+        "-OTDPER78F7_aiTqhosj": {
+          "body": "Ah dang",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:35:33.131233Z"
+        },
+        "-OTDPFCPBpGz3CwUV2Kx": {
+          "body": "really?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:35:36.284764Z"
+        },
+        "-OTDPHI4stisBKSxfJD-": {
+          "body": "Yeah, that's why I dropped",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:35:44.840364Z"
+        },
+        "-OTDPXPCmctH8_ye08NR": {
+          "body": "OH I thought it was cause of the govt",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:36:50.831634Z"
+        },
+        "-OTDPZ5Ly2ggfzM0mjYn": {
+          "body": "cause the govt took 44 from me",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:36:57.752671Z"
+        },
+        "-OTDPZQf_PUYcamQvf9Z": {
+          "body": "Nope",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:36:59.117726Z"
+        },
+        "-OTDPaChKK1jHTP3VZto": {
+          "body": "I've been paying my taxes",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:37:06.416358Z"
+        },
+        "-OTDPetMy8P7KV1cYTOo": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:37:25.594474Z"
+        },
+        "-OTDQ7NDifiK1ycw0XVK": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:39:26.353301Z"
+        },
+        "-OTDQ_v_Zlzk6aFSKW9u": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:41:27.400372Z"
+        }
+      },
+      "name": "the attack",
+      "participants": [
+        "Tango",
+        "Sierra",
+        "Hotel"
+      ]
+    },
+    "-OTDPLXik-f1pcX3A5xs": {
+      "conversationId": "-OTDPLXik-f1pcX3A5xs",
+      "messages": {
+        "-OTDP_E3q3KDtEuF90_c": {
+          "body": "yo",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:37:02.407051Z"
+        },
+        "-OTDPbl7lJZWvUc7wI_Z": {
+          "body": "im giving you 34 this round",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:37:12.779587Z"
+        },
+        "-OTDPetUVT_2E4Pz_lI8": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:37:25.601922Z"
+        },
+        "-OTDPtV1rx-Kn6n0CL4e": {
+          "body": "how do you feel about the poor group chat?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:38:25.413253Z"
+        },
+        "-OTDPvu6E-b_AEiB19dJ": {
+          "body": "hotel is super chill",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:38:35.273847Z"
+        },
+        "-OTDQ7NKorNI1NijnJ7o": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:39:26.360252Z"
+        },
+        "-OTDQBaugHLm2xrR3dB1": {
+          "body": "bro what",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:39:43.677253Z"
+        },
+        "-OTDQDExOOnig-MpqrH8": {
+          "body": "why did you keep",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:39:50.400134Z"
+        },
+        "-OTDQMB08BjUgB_8MLMD": {
+          "body": "bruh why would you make this chat and then never chat with me in it",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:40:27.012225Z"
+        },
+        "-OTDQNUTceINN-DnUw7_": {
+          "body": "lol",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:40:32.353457Z"
+        },
+        "-OTDQRTkbmTuTD-XSYhV": {
+          "body": "The game is over srry",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:40:48.691127Z"
+        },
+        "-OTDQSUCGfW5QOqzTzgr": {
+          "body": "ppl had to leave",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:40:52.816170Z"
+        },
+        "-OTDQVzOuNaVgys7l6D6": {
+          "body": "lol",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:41:07.164096Z"
+        },
+        "-OTDQ_vglFa6lgJLvBwN": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:41:27.407544Z"
+        }
+      },
+      "name": "Me and you",
+      "participants": [
+        "Kilo",
+        "Yankee"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-OTDHoG5FeM1AJyXlSmY": {
+          "body": "VIVA LA REVELUCION!",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:03:06.825407Z"
+        },
+        "-OTDHqyX4JgZUk9VOvip": {
+          "body": "wi wi",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:03:17.925012Z"
+        },
+        "-OTDHwq2jyABncGHZDhr": {
+          "body": "A flat tax is fair in this one",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:03:41.958034Z"
+        },
+        "-OTDHwyBUEDvkU4ocill": {
+          "body": "HUHHUUH BAGGUETTE",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:03:42.479486Z"
+        },
+        "-OTDI0jpzbWTm50hHIkF": {
+          "body": "guys today we can find out once and for all if socialism works",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:04:02.039975Z"
+        },
+        "-OTDI15MIOoSfWcyTZyg": {
+          "body": "Victor is the worst president I've ever seen",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:04:03.482320Z"
+        },
+        "-OTDI2VLRYO69QhUj0et": {
+          "body": "WE are the strongest group",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:04:09.241257Z"
+        },
+        "-OTDI5epFicsuxyFcW4N": {
+          "body": "-_-",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:04:22.200611Z"
+        },
+        "-OTDI9B_EXRKADOmAn5J": {
+          "body": "I mean, uh, Victor, you're great....",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:04:36.648345Z"
+        },
+        "-OTDI9m4rwxeXy0Qsb_k": {
+          "body": "Is victor a player? or a Bot?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:04:39.047641Z"
+        },
+        "-OTDI9zfPLqWivRe-XPK": {
+          "body": "Victor...",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:04:39.918450Z"
+        },
+        "-OTDIA0Xqz9N7RYqcJGt": {
+          "body": "rise up against the borgoise",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:04:40.037173Z"
+        },
+        "-OTDIAHZnKnW6bn7edoc": {
+          "body": "yo xray lowkey onto something",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:04:41.127042Z"
+        },
+        "-OTDICYZ0tdwMzF9iubh": {
+          "body": "Victor is a bot",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:04:50.407177Z"
+        },
+        "-OTDIE7rplpnAoChGo_P": {
+          "body": "But Melissa can chat for it",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:04:56.890391Z"
+        },
+        "-OTDIGQJ_ZbpPzOF3BZC": {
+          "body": "-3- <3",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:05:06.263178Z"
+        },
+        "-OTDIIPdr989noHK9XqR": {
+          "body": "What?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:05:14.412573Z"
+        },
+        "-OTDIJzFBk2SBVkNPsoQ": {
+          "body": "its a wonky kissy face",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:05:20.851382Z"
+        },
+        "-OTDIMVbbNCxXhvNcf-X": {
+          "body": "Hmm",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:05:31.178328Z"
+        },
+        "-OTDIMsq7n_7-crahAQE": {
+          "body": "flat tax is not fair when some people start at 307 and others at 6",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:05:32.729266Z"
+        },
+        "-OTDIMwtjBBjmYlLqPqz": {
+          "body": "Its funny",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:05:32.988163Z"
+        },
+        "-OTDINJsE_9M4K3tf-ZX": {
+          "body": "I was going more American/French revolution, but we could go Russian",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:05:34.523311Z"
+        },
+        "-OTDINfFMNc20EZwkp_E": {
+          "body": "2x+4=6",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:05:35.955515Z"
+        },
+        "-OTDIQWJ-xqvMOkp7QNw": {
+          "body": "sorry i thought we were just throwing out equations",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:05:47.607520Z"
+        },
+        "-OTDIQyukDPXM9HKH2Le": {
+          "body": "Flat tax means everyone contributes an equal percentage.  It's equality",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:05:49.500713Z"
+        },
+        "-OTDISGZ1_ZdVa60k2ex": {
+          "body": "x =1!",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:05:54.790963Z"
+        },
+        "-OTDIUh0tGWidP8KxM9S": {
+          "body": "3/141 = ??",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:06:04.739798Z"
+        },
+        "-OTDIY1OfpCkQ5P6Pijx": {
+          "body": "I should go join the math camp down stairs with these impressive algebra skills",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:06:18.395621Z"
+        },
+        "-OTDIYgjHG250QMG8S1t": {
+          "body": "I guess yeah?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:06:21.106445Z"
+        },
+        "-OTDI_RZnKPOmuEPjJLB": {
+          "body": "please focus on voting eli does have a gynecologist appointment",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:06:28.263256Z"
+        },
+        "-OTDIblP1YtuwqLtinRx": {
+          "body": "True",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:06:37.788893Z"
+        },
+        "-OTDIc74NGg5YvewCtip": {
+          "body": "Thank you",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:06:39.240380Z"
+        },
+        "-OTDIciKLEbT8azjWlKs": {
+          "body": "Oh wait",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:06:41.688125Z"
+        },
+        "-OTDIdxORz2qUSjKijbS": {
+          "body": "Uhh",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:06:46.748473Z"
+        },
+        "-OTDIeIBJvpT869h9Vto": {
+          "body": "...",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:06:48.143117Z"
+        },
+        "-OTDIeXCtbGYwwybJdDj": {
+          "body": "Socialism!!!",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:06:49.104204Z"
+        },
+        "-OTDIg1skc9w_GcretcG": {
+          "body": "You marxists",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:06:55.290828Z"
+        },
+        "-OTDIiZNPneNJS2HXwvP": {
+          "body": "Socialism never works",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:07:05.626852Z"
+        },
+        "-OTDIix-Ulf_vcihKRf3": {
+          "body": "remember what karl said",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:07:07.202618Z"
+        },
+        "-OTDIjnSTOaARwFcZmR7": {
+          "body": "WRONG!",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:07:10.688147Z"
+        },
+        "-OTDIk-gDUypLJR2lYbM": {
+          "body": "money=bad",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:07:11.534650Z"
+        },
+        "-OTDIl2pqVA-ypGAYvNF": {
+          "body": "SOCIALISM IS BESTISM",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:07:15.832159Z"
+        },
+        "-OTDIoFCzkD6pxSArnbb": {
+          "body": "law of consecration??",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:07:28.912070Z"
+        },
+        "-OTDIqat7OFLL7p6vbLZ": {
+          "body": "The hexagon is the bestagon...",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:07:38.556539Z"
+        },
+        "-OTDIsfR0-aC5xS9Z9hq": {
+          "body": "Should we all just attack the government round one?",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:07:47.039484Z"
+        },
+        "-OTDJ-HIErgZW4y_PvS-": {
+          "body": "Im down tbh",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:08:18.198118Z"
+        },
+        "-OTDJ0b3IPIZHzQEaqrn": {
+          "body": "with socialism we could overwthrow the gov",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:08:23.622701Z"
+        },
+        "-OTDJ0zSIeNoUSrS6ZOw": {
+          "body": "ez",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:08:25.183698Z"
+        },
+        "-OTDJ1sK1roUoHdOkzLB": {
+          "body": "We must",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:08:28.824085Z"
+        },
+        "-OTDJ2kQXOnJltX1RMSX": {
+          "body": "rise against capitalism",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:08:32.413799Z"
+        },
+        "-OTDJ3DoF2VR9J85Lh7w": {
+          "body": "i got literally nothing to lose",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:08:34.359075Z"
+        },
+        "-OTDJ3s3HPVbX97gMtBl": {
+          "body": "maybe not round 1 though",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:08:36.998975Z"
+        },
+        "-OTDJ4TqiLAoaCKB5qf8": {
+          "body": "Seize the means of production!",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:08:39.481202Z"
+        },
+        "-OTDJ7vhNFlOZtqhfzQl": {
+          "body": "Round 2 once it starts redistribution?",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:08:53.616075Z"
+        },
+        "-OTDJBdyTGJWmTYXcLuI": {
+          "body": "Sure? I guess...",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:09:08.865575Z"
+        },
+        "-OTDJD6ckaSx1AH0Gldn": {
+          "body": "naw round 5",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:09:14.859094Z"
+        },
+        "-OTDJEBV3nEBY2QGBOk9": {
+          "body": "we build up our assets",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:09:19.267364Z"
+        },
+        "-OTDJEZs5MiG9aIn55Ih": {
+          "body": "and boom",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:09:20.827258Z"
+        },
+        "-OTDJFV08ep4P9QC-saQ": {
+          "body": "victor is no more",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:09:24.612226Z"
+        },
+        "-OTDJGKNSf3EVoH-2ycq": {
+          "body": "The government also grows",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:09:28.027130Z"
+        },
+        "-OTDJGrrCpHEwEkCGXGc": {
+          "body": "what if we submitted?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:09:30.234209Z"
+        },
+        "-OTDJHm0gckBkUOUt8zS": {
+          "body": "naw",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:09:33.955839Z"
+        },
+        "-OTDJHu1Td_SSmYmn68E": {
+          "body": "Guys",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:09:34.468855Z"
+        },
+        "-OTDJJFLmeDCbBalpCcD": {
+          "body": "Dr. apt",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:09:39.993355Z"
+        },
+        "-OTDJK_Ar5_gNDfu_6g0": {
+          "body": "There is discussion about what is happening",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:09:45.422370Z"
+        },
+        "-OTDJN1KmnEvZ1n-zadE": {
+          "body": "unless we have hotel, we dont have the same popularity as it combining all our popularities",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:09:55.479725Z"
+        },
+        "-OTDJP-BJeqw71PsH7fa": {
+          "body": "so I dont think we could do that",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:10:03.535352Z"
+        },
+        "-OTDJTMStSwsbwKpXZaA": {
+          "body": "HOTEL!!!!!!!!",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:10:21.408260Z"
+        },
+        "-OTDJT_EjVFPfZ7ZtzVJ": {
+          "body": "naw hotels gonna lose power thru socialsm",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:10:22.290328Z"
+        },
+        "-OTDJVUPebnkmUKxpWlw": {
+          "body": "charlies gonna be one top soon",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:10:30.108840Z"
+        },
+        "-OTDJYz9AQkk-t5TN3ie": {
+          "body": "yeah doubtful",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:10:44.429123Z"
+        },
+        "-OTDJYzZEPkyfx-m9DQZ": {
+          "body": "But then he isn't beholden to the oppresive government",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:10:44.454893Z"
+        },
+        "-OTDJaoqkoe6m9SXKSrR": {
+          "body": "we will ALL be on top",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:10:56.056794Z"
+        },
+        "-OTDJbTNwa73u5Wq29NL": {
+          "body": "And he can let his capitalism reign free if he wants. It's in his best interest",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:10:58.715047Z"
+        },
+        "-OTDJc4x57on-te5E9HH": {
+          "body": "after we take out the gov",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:11:01.248443Z"
+        },
+        "-OTDJgpWb6zAqPBzEaoO": {
+          "body": "lets gooooooooooooooooooooooooooooo",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:11:20.676598Z"
+        },
+        "-OTDJi_pVx5VsvK4D_vy": {
+          "body": "YUUUUUUUUUUUUUUUUS",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:11:27.864148Z"
+        },
+        "-OTDJlvf6QclXraJqo-E": {
+          "body": "Should we take out the gov?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:11:41.550223Z"
+        },
+        "-OTDJmdcRIIAWLVl-kVM": {
+          "body": "the rise of the proletariat",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:11:44.490745Z"
+        },
+        "-OTDJo90VnO2ti9LRfQv": {
+          "body": "round 2",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:11:50.659900Z"
+        },
+        "-OTDJrKtcNyr909AkxE8": {
+          "body": "yeah def not first round because it'll keep",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:12:03.708380Z"
+        },
+        "-OTDJtcFt6V2pxxZzcee": {
+          "body": "Hotel, think about the hospitality industry power you could become without the government to tell you what to do",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:12:13.075280Z"
+        },
+        "-OTDJvIUgScgIhF3M7rJ": {
+          "body": "Round 2",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:12:19.938368Z"
+        },
+        "-OTDJw5p0_ZDUTu_7Dxc": {
+          "body": "no no, not only is the gov socialist, we too must give to the poor",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:12:23.223835Z"
+        },
+        "-OTDJyPe4WNkY32go3Pe": {
+          "body": "everyone give me handouts",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:12:32.684665Z"
+        },
+        "-OTDK1xDTKxCR9quf40z": {
+          "body": "no",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:12:51.281331Z"
+        },
+        "-OTDK3aa8B7Ox08AOlss": {
+          "body": "X-ray, you're creeping me out",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:12:58.024718Z"
+        },
+        "-OTDK5Dqohkl42C_hCBc": {
+          "body": "i am functionally useless so have fun",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:13:04.697234Z"
+        },
+        "-OTDK7ivJFrBtWfa16Z8": {
+          "body": "not for long chuck",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:13:14.942125Z"
+        },
+        "-OTDKN_8LNcEuovf0dpQ": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:14:19.852349Z"
+        },
+        "-OTDKTVyPMhQHyDfniZG": {
+          "body": "Soooooooooooooo",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:14:44.161076Z"
+        },
+        "-OTDKUgREDODJnafAoMV": {
+          "body": "Down with the government?",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:14:48.991258Z"
+        },
+        "-OTDKZAEiVZgy6ytBNvX": {
+          "body": "Are we ready yet?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:15:07.346587Z"
+        },
+        "-OTDKZl_-XqML7s_P-y2": {
+          "body": "Are we? I don't know if we're big enough",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:15:09.800614Z"
+        },
+        "-OTDK_Za5Q9cWhLL4nTz": {
+          "body": "What happens when it goes down?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:15:13.065583Z"
+        },
+        "-OTDK_jiHXm7vG_ryDGn": {
+          "body": "one more round",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:15:13.777570Z"
+        },
+        "-OTDKaHEECVvTrB6DIwE": {
+          "body": "wait",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:15:15.985944Z"
+        },
+        "-OTDKakCxiBdyCLm1Sq7": {
+          "body": "lowkey gov brought me up a ton, unless we have a plan for after, idk",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:15:17.904083Z"
+        },
+        "-OTDKchHm3u-haGBE6DP": {
+          "body": "It has no power to tax after that",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:15:25.909524Z"
+        },
+        "-OTDKdFEtP_D6oW0oXsU": {
+          "body": "We won't even have a plan for redistriution after",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:15:28.145915Z"
+        },
+        "-OTDKdritLXWF5nF-C6q": {
+          "body": "we are always big enough its just if everyone coordinates to do so",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:15:30.672938Z"
+        },
+        "-OTDKfyJyb-sYszmGJxV": {
+          "body": "It's helping us poorer folk",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:15:39.287515Z"
+        },
+        "-OTDKp6Z8u7OxG8689Ak": {
+          "body": "i cant tell if we are socialism or the gov is anymore lol",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:16:16.743284Z"
+        },
+        "-OTDKq-mIrplwGC95JBp": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:16:20.405287Z"
+        },
+        "-OTDKvXa3PK-pUsAxQy-": {
+          "body": "send it?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:16:43.049286Z"
+        },
+        "-OTDKygzHXe-s3atfSqj": {
+          "body": "I don't see the point",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:16:56.002114Z"
+        },
+        "-OTDL0U3EvKsekcwrB22": {
+          "body": "It's brought you up 40 points already",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:17:07.399457Z"
+        },
+        "-OTDL1u6TtHhWB8G9yvd": {
+          "body": "Why would you want to tae it out",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:17:13.225781Z"
+        },
+        "-OTDL38rf6erIFOML5-3": {
+          "body": "indias afraid",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:17:18.330383Z"
+        },
+        "-OTDL4Jj0fFh_NxUT8hA": {
+          "body": "cuz it would be hype",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:17:23.122361Z"
+        },
+        "-OTDL7Gdb3VQ8FCGsrFW": {
+          "body": "India, it has not just been the government",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:17:35.212241Z"
+        },
+        "-OTDL7KFul_vht-oAqsA": {
+          "body": "Its also going down... So we can take it down when it starts to go up again",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:17:35.442860Z"
+        },
+        "-OTDL9GTaT1RTMrYgw8N": {
+          "body": "No, you just want to take power for yourself",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:17:43.393375Z"
+        },
+        "-OTDLDrk8pefChbPh8Xm": {
+          "body": "If we really want equality, we should have people like sierra and hotel giving all their money to the poor",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:18:02.227448Z"
+        },
+        "-OTDLFygRgpvCDH-5cwY": {
+          "body": "True true",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:18:10.862762Z"
+        },
+        "-OTDLGUaM88q9TM2R1DB": {
+          "body": "The government is a drain.  Look at how much it is keeping",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:18:12.969379Z"
+        },
+        "-OTDLHZb5tHjkIIMDiKK": {
+          "body": "this guys sounding like a capitalist...",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:18:17.386199Z"
+        },
+        "-OTDLHycMo3ttW0QP2AA": {
+          "body": "That makes us all worse off",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:18:19.051533Z"
+        },
+        "-OTDLIPq25GnDm7Ef1DW": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:18:20.857250Z"
+        },
+        "-OTDLKxI-AarsqundLL7": {
+          "body": "Yeah, says the rich guy",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:18:31.253940Z"
+        },
+        "-OTDLMfVzg_NUJ724176": {
+          "body": "I'm literally the opposite of a capitalist",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:18:38.307512Z"
+        },
+        "-OTDLOPnLaM69veNWJpT": {
+          "body": "prove it",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:18:45.430546Z"
+        },
+        "-OTDLQci5sQO4mm2VzVO": {
+          "body": "Do you know what capitalism is? Come on",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:18:54.512684Z"
+        },
+        "-OTDLSefd0lTjnrNb-PP": {
+          "body": "evil",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:19:02.829736Z"
+        },
+        "-OTDLTnpQ_NbKBZzJT8_": {
+          "body": "I've been giving you 30 tokens every round",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:19:07.511826Z"
+        },
+        "-OTDLUS1EMRq6zqH9dgl": {
+          "body": "come on buster",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:19:10.149425Z"
+        },
+        "-OTDLYgxsZV04Y7Zktyl": {
+          "body": "BUSTER!!???",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:19:27.552056Z"
+        },
+        "-OTDLZ6EHLb4Qsd5ulAu": {
+          "body": "The government has a ton of waste in it -- just keeps and then society can't prosper",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:19:29.233902Z"
+        },
+        "-OTDL_gIwqChHWeUy8NN": {
+          "body": "Facts",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:19:35.702403Z"
+        },
+        "-OTDLdWFG-demUiU0Uzb": {
+          "body": "guys the gov is regrouping, we cant let them get away with this",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:19:51.379153Z"
+        },
+        "-OTDLeK_dm4hsnQHdMPN": {
+          "body": "It's been helping us poor folk",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:19:54.728283Z"
+        },
+        "-OTDLgnnwES8j6ReqwbC": {
+          "body": "India, you're literally number 3",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:20:04.854340Z"
+        },
+        "-OTDLgwOjDwWYL0-n6yB": {
+          "body": "Actually, I've gotten pretty rich because of it",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:20:05.403649Z"
+        },
+        "-OTDLhTnfz-CvfWsCHkB": {
+          "body": "You're a sham",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:20:07.606529Z"
+        },
+        "-OTDLhdcrFEyF5sSoxWY": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:20:08.298839Z"
+        },
+        "-OTDLl07wds9eG7szOFx": {
+          "body": "I openly acknowledge what the govt has done for me",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:20:22.091507Z"
+        },
+        "-OTDLo3oYDM8Po6P54_R": {
+          "body": "The government is oppressive and over regulatory",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:20:34.615117Z"
+        },
+        "-OTDLppcL-aG8IDCZIAQ": {
+          "body": "why don't you use some of your inherited wealth to help the little guys out?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:20:41.835561Z"
+        },
+        "-OTDLrTD2f35hrQjuzk0": {
+          "body": "i forgot to pay taxes and got cooked",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:20:48.529252Z"
+        },
+        "-OTDLre5S7gxYlw__l46": {
+          "body": "I litterally am",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:20:49.289394Z"
+        },
+        "-OTDLrgEz5dkzvdWOyvI": {
+          "body": "rip",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:20:49.425774Z"
+        },
+        "-OTDLvEozHXV9uPJE-Bw": {
+          "body": "Uh-huh",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:21:03.991020Z"
+        },
+        "-OTDLzCWfWKWqwCxGyH8": {
+          "body": "I don't see you on the tornado charts",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:21:20.227703Z"
+        },
+        "-OTDLzIXkT5xWyihZhFA": {
+          "body": "I've been helping everyone. Last round, because the government attacked me, I couldn't do as much as I wanted to, but I have been",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:21:20.612909Z"
+        },
+        "-OTDM-H_CN6JTNk-0Hl1": {
+          "body": ">:(",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:21:24.647972Z"
+        },
+        "-OTDM1L7Ta1ERKEmuoZZ": {
+          "body": "Interesting, because I do",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:21:33.066767Z"
+        },
+        "-OTDM2lhjwDmeGnBZAqW": {
+          "body": "You hear these capitalists, X-ray?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:21:38.927912Z"
+        },
+        "-OTDM37ostprCmAOJxzx": {
+          "body": "come on",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:21:40.407409Z"
+        },
+        "-OTDM9OsE_jNlfXoo25B": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:22:06.075108Z"
+        },
+        "-OTDMCiosU17LNEMKsWo": {
+          "body": "\"let them eat cake\" - hotel",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:22:19.703591Z"
+        },
+        "-OTDMDQRV886QtxOhuGb": {
+          "body": "You're literally the only one defending this government, loyalist pig",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:22:22.559113Z"
+        },
+        "-OTDMLpT3mY0kXhC5NMM": {
+          "body": "X-ray, you seem to have a complex with some other story in history",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:22:56.993275Z"
+        },
+        "-OTDMPc9ruKqLGm-0AKo": {
+          "body": "I've been giving to the poor.  They haven't been giving much back",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:23:12.524752Z"
+        },
+        "-OTDMSDJ0qn2IsL1NGua": {
+          "body": "The gov is even worse",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:23:23.158912Z"
+        },
+        "-OTDMT2CySm-hXTE6_jz": {
+          "body": "bruh we got nothing to give",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:23:26.544497Z"
+        },
+        "-OTDMTHsXcFbutKbllx_": {
+          "body": "Dragging us down",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:23:27.547509Z"
+        },
+        "-OTDMU6zLZcB69mdwA1C": {
+          "body": "also gov is giving me nothing",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:23:30.946468Z"
+        },
+        "-OTDMUkngW5b1yQyQ1Nv": {
+          "body": "HeY! i've been trading with you",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:23:33.557853Z"
+        },
+        "-OTDMVae6tWK5RpRLjtE": {
+          "body": "We should all be going up a lot, but we aren't because of this thing",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:23:37.005043Z"
+        },
+        "-OTDMWPVNiO-swNJ9puJ": {
+          "body": "but you haven't given much",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:23:40.323395Z"
+        },
+        "-OTDMYYQ5jfhc_BRvv6r": {
+          "body": "We are trading equally",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:23:49.086195Z"
+        },
+        "-OTDMZS9gEjHVJ5o6JsJ": {
+          "body": "Thanks, Tango",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:23:52.781199Z"
+        },
+        "-OTDM_f4L3cG_sP5hvSi": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:23:57.768513Z"
+        },
+        "-OTDMc3IWd2TE5i5aB4r": {
+          "body": "indias a real one thats all im saying",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:24:07.573845Z"
+        },
+        "-OTDMjZwOYBD4Cwo8ARh": {
+          "body": "Ok, let's take the givernment out",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:24:38.335069Z"
+        },
+        "-OTDMksRJMfZk4FqVfeo": {
+          "body": "Let's see what happens",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:24:43.679449Z"
+        },
+        "-OTDMrPnySCGrWIMhPT4": {
+          "body": "next round whos in",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:25:10.453922Z"
+        },
+        "-OTDMryTXItJ6zk6nyL5": {
+          "body": "The govmt has stayed the same ish. We can maybe take it?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:25:12.736947Z"
+        },
+        "-OTDMs0q2wemKl6nbGrJ": {
+          "body": "say aye",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:25:12.953408Z"
+        },
+        "-OTDMuihQVbVIPgO2OsP": {
+          "body": "round 8?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:25:24.016061Z"
+        },
+        "-OTDMvcKsLT-l2VJyAUL": {
+          "body": "yes",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:25:27.703627Z"
+        },
+        "-OTDMysmCa4oBCPcZ2h9": {
+          "body": "Hotel? Sierra?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:25:41.045481Z"
+        },
+        "-OTDMz88CzqiqAnMHR0P": {
+          "body": "Aye",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:25:42.092035Z"
+        },
+        "-OTDMzOu0UtKYt8yIFR1": {
+          "body": "What say ye?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:25:43.165512Z"
+        },
+        "-OTDMzRbKPAEdbRIf9pJ": {
+          "body": "all in favor?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:25:43.338232Z"
+        },
+        "-OTDN0fu3khWpEZvxVAb": {
+          "body": "For gynocology",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:25:52.509012Z"
+        },
+        "-OTDN1CYZRetZPx1-SMh": {
+          "body": "Round 8",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:25:54.662007Z"
+        },
+        "-OTDN5IYIVECHHrXEH9F": {
+          "body": "we can't do it unless we have a significant portion",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:26:11.430124Z"
+        },
+        "-OTDN9gkxgpCLyvGTrQd": {
+          "body": "Also, Sierra, whats up with that?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:26:29.427232Z"
+        },
+        "-OTDNBQrQvz4jGl4O96i": {
+          "body": "You didn't trade back",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:26:36.538311Z"
+        },
+        "-OTDNGH7E0Guj1RqrPgE": {
+          "body": "Big boys, are we attacking?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:26:56.395202Z"
+        },
+        "-OTDNH9IsTzzwzeAciTG": {
+          "body": "What are we doing?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:26:59.989733Z"
+        },
+        "-OTDNHKJSQ0VZG1ywfn3": {
+          "body": "I'm in",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:00.694634Z"
+        },
+        "-OTDNIWt3Da_gDLRtsdO": {
+          "body": "I'm in",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:05.596271Z"
+        },
+        "-OTDNJghqeIUg8k7Kvzk": {
+          "body": "This round?",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:10.384347Z"
+        },
+        "-OTDNKLbCoirY-a5vWTw": {
+          "body": "Yes",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:13.066263Z"
+        },
+        "-OTDNKfK9mIWP6qu5aNv": {
+          "body": "We have to go all in",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:14.391983Z"
+        },
+        "-OTDNKlMRHhIYw_f-q42": {
+          "body": "all in",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:14.777722Z"
+        },
+        "-OTDNLxE3OZEhhX-2hiE": {
+          "body": "yes",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:19.634561Z"
+        },
+        "-OTDNMNbJ_swuPdRa1ku": {
+          "body": "Let's do it!",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:27:21.385925Z"
+        },
+        "-OTDNUQcuE5nHVirQeyW": {
+          "body": "Round 9",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:27:54.347266Z"
+        },
+        "-OTDNWwpHT4xF0tC1Vt1": {
+          "body": "Wow",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:28:04.664002Z"
+        },
+        "-OTDNYWSUVytf-HZl37X": {
+          "body": "bunch of cowards",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:28:11.103681Z"
+        },
+        "-OTDNZQow3ushHADtcOe": {
+          "body": "Disappointing, but not unexpected",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:28:14.839387Z"
+        },
+        "-OTDN_DN3-QEFE2HuxOC": {
+          "body": "That was a test",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:28:18.075113Z"
+        },
+        "-OTDNaDdXYMTPM-XpHzd": {
+          "body": "We knew that",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:28:22.188058Z"
+        },
+        "-OTDNbXAfcbVGkMGX2j0": {
+          "body": "We're not idiots, y'all hate us",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:28:27.534192Z"
+        },
+        "-OTDNcMQ-RkM3dH3Ppgx": {
+          "body": "The government blocked it I think.  They are keeping a lot",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:28:30.941828Z"
+        },
+        "-OTDNcWc9dEa5mbDFjl0": {
+          "body": "You failed",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:28:31.595516Z"
+        },
+        "-OTDNdQpXL23rq3FU-HB": {
+          "body": "wait who actually did it?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:28:35.319892Z"
+        },
+        "-OTDNeTF8fC532_-J2d-": {
+          "body": "No one",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:28:39.571409Z"
+        },
+        "-OTDNiF7rlpVryRs6VhA": {
+          "body": "It would have been suicide without the whole group, and y'all clearly weren't planning on doing it",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:28:55.051454Z"
+        },
+        "-OTDNicKoLwmqdx2srqo": {
+          "body": "No way, X-ray, tango and i attacked",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:28:56.600095Z"
+        },
+        "-OTDNkPdIQ2d6iFiT9OF": {
+          "body": "ya it did nothing",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:29:03.916401Z"
+        },
+        "-OTDNlf8k4QfBFRQwK4u": {
+          "body": "Like hotel said, it blocked",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:29:09.068435Z"
+        },
+        "-OTDNnFI_4z2-_NLvwjz": {
+          "body": "hotel, can you believe this guy?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:29:15.541658Z"
+        },
+        "-OTDNoOgM5WT53RdxqLh": {
+          "body": "Left us out to rot",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:29:20.238954Z"
+        },
+        "-OTDNp6h5ViTXZeZ1p-p": {
+          "body": "You would've gone down WAY more",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:29:23.184294Z"
+        },
+        "-OTDNuL-2MJIhCZSZON3": {
+          "body": "We didn't get here by being dumb",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:29:44.578695Z"
+        },
+        "-OTDNvWGK-G537UEXFbI": {
+          "body": "Round 10",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:29:49.396593Z"
+        },
+        "-OTDNwG5OYYrkP3_ELXM": {
+          "body": "You have to pull yourself up by the bootstraps",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:29:52.456875Z"
+        },
+        "-OTDNxjpHLfZLNEvIuVv": {
+          "body": "Use some inteligence",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:29:58.520439Z"
+        },
+        "-OTDO0e0tO0b95Ef0Gdf": {
+          "body": "Sierra, are we going to start trading again?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:30:14.531881Z"
+        },
+        "-OTDO1pSNCsvTXV3qh3H": {
+          "body": "you kind of left me out there",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:30:19.360611Z"
+        },
+        "-OTDO85n1F3F20oGl91c": {
+          "body": "No?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:30:45.046186Z"
+        },
+        "-OTDOMWT7L0eroL0AXdY": {
+          "body": "Round 11",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:31:44.096880Z"
+        },
+        "-OTDO_HQITq-M8RnGlsp": {
+          "body": "I forgot to pay taxes, crap",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:32:40.478461Z"
+        },
+        "-OTDOmidIutJXaOFjEaq": {
+          "body": "Round 12",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:33:35.532371Z"
+        },
+        "-OTDOzExm5QvVjBiCgbW": {
+          "body": "One legitimate function of government is to take down those who do crime....",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:34:26.816540Z"
+        },
+        "-OTDP5r0VYBTlY7Wydz9": {
+          "body": "\"One legitimate function of government is to take down those who do crime....\"",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2025-06-20T17:34:57.988068Z"
+        },
+        "-OTDPCQgSB_q0oDlW9TM": {
+          "body": "Round 13",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:35:24.910724Z"
+        },
+        "-OTDPesHatCvLNbNu_nt": {
+          "body": "Round 14",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:37:25.525261Z"
+        },
+        "-OTDQ7MDzCjzxqzs4_8A": {
+          "body": "Round 15",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:39:26.288964Z"
+        },
+        "-OTDQ_uTKvkc9fmxfCJU": {
+          "body": "Round 16",
+          "runtimeType": "gameNotification",
+          "time": "2025-06-20T17:41:27.329097Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

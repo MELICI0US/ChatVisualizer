@@ -1,0 +1,109 @@
+{
+  "conversations": {
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-OzDc9fvcqvgbDoHGWxi": {
+          "body": "Morning, friends",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:14:23.870374Z"
+        },
+        "-OzDcAtTResn3ibxNidj": {
+          "body": "hello",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:14:28.833821Z"
+        },
+        "-OzDcAvz5HmiarQ1Utsz": {
+          "body": "imma go to medschool",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:14:28.994240Z"
+        },
+        "-OzDcB0ym5RbO0PTM8EY": {
+          "body": "I'm going to be a doctor. I will give discount to people who help me.",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:14:29.377699Z"
+        },
+        "-OzDcBXHJ_gcyYMRT8mg": {
+          "body": "or should I say, afternoon",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:14:31.445049Z"
+        },
+        "-OzDcBgnaeoURtW909pq": {
+          "body": "aight where my doctors at",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:14:32.118829Z"
+        },
+        "-OzDcBsybhVLDSmJufWm": {
+          "body": "pls gimme money",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:14:32.897618Z"
+        },
+        "-OzDcByEn1k3P3UMw6Lu": {
+          "body": "no one get cancer please",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:14:33.234019Z"
+        },
+        "-OzDcCvnYGcrX_Lpa4ty": {
+          "body": "charlie you bot get out of here",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:14:37.174016Z"
+        },
+        "-OzDcDkzMvp5HeH0bT-T": {
+          "body": "yankee you my doctor now",
+          "from": "Echo",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:14:40.578822Z"
+        },
+        "-OzDcFMWDwqPR3Xtcx-P": {
+          "body": "alright charlie will u help me with that discount??",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:14:47.140858Z"
+        },
+        "-OzDcGNTPJkmq2EthPI-": {
+          "body": "Yes.",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:14:51.297276Z"
+        },
+        "-OzDcKSYQXEQJooAvDa1": {
+          "body": "aight bettttt",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:15:08.006315Z"
+        },
+        "-OzDcM7Fww1v8BYvAhY_": {
+          "body": "Voy a matar mi mismo",
+          "from": "Bravo",
+          "runtimeType": "identified",
+          "time": "2026-08-04T21:15:14.835874Z"
+        },
+        "-OzDcgHE2PnFrtfXZnEA": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:16:41.490061Z"
+        },
+        "-OzDdG5Hc8rnP6TiDj3y": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:19:12.277306Z"
+        },
+        "-OzDdpvGwSBmClc1X3wd": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-04T21:21:43.123941Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

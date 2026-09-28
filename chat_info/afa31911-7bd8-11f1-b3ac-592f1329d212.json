@@ -1,0 +1,932 @@
+{
+  "conversations": {
+    "-Ox7f2dHroIPxktEMzM_": {
+      "conversationId": "-Ox7f2dHroIPxktEMzM_",
+      "messages": {
+        "-Ox7f7GIslgmLUskoAhA": {
+          "body": "what if we just trade to each other an say screw the med school",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:58:13.459762Z"
+        },
+        "-Ox7fAQt9uLdBtuX-a2K": {
+          "body": "Worth a shot",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:58:26.425634Z"
+        },
+        "-Ox7fGO8oQI3WriLwupg": {
+          "body": "let's try it",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:58:50.825656Z"
+        },
+        "-Ox7fJV5hQcLiq9561B-": {
+          "body": "Ok",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:59:03.558555Z"
+        },
+        "-Ox7fTQ8KpG1eLq2lWa4": {
+          "body": "I gave 7 tokens to you",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:59:44.201489Z"
+        },
+        "-Ox7fXJt2b5e3QVvqiet": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:00:00.185748Z"
+        },
+        "-Ox7fc-OMAek4r3ffx-A": {
+          "body": "I'll give you 7 this time",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:00:23.449886Z"
+        },
+        "-Ox7fgOtR9U0x4jtBpl_": {
+          "body": "got it",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:00:41.465553Z"
+        },
+        "-Ox7fhU3F3qI405Llvml": {
+          "body": "7 coming to you ",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:00:45.893378Z"
+        },
+        "-Ox7foNBbgHkWh5Zioqb": {
+          "body": "thx",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:01:14.124923Z"
+        },
+        "-Ox7g4xta-2qGU29OXEi": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:02:26.170511Z"
+        },
+        "-Ox7gE_0Qn6YMizz3FH0": {
+          "body": "Working so far",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:03:05.537758Z"
+        },
+        "-Ox7gLyDZcuo5XVbiKrW": {
+          "body": "up it to 8 tokens?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:03:35.823014Z"
+        },
+        "-Ox7gOWILss4lHtU8mbH": {
+          "body": "Sure",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:03:46.259789Z"
+        },
+        "-Ox7gcIUuLyoGSI74OmP": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:04:46.816150Z"
+        },
+        "-Ox7ghbcTqSFgm6dtn_a": {
+          "body": "let's do it ",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:05:08.584816Z"
+        },
+        "-Ox7gkS__xMEabJr5-Wx": {
+          "body": "Still working lol",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:05:20.229653Z"
+        },
+        "-Ox7gnQX7D0ohTMr0Ezw": {
+          "body": "9 tokens?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:05:32.386812Z"
+        },
+        "-Ox7guHn3qxgThs8GhHE": {
+          "body": "Sure why not",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:06:00.499524Z"
+        },
+        "-Ox7gvBu7linyLGCXtN6": {
+          "body": "u dying a little tho",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:06:04.219444Z"
+        },
+        "-Ox7h7DkC8t7_9eLa8HU": {
+          "body": "It won't hurt you ",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:06:57.584983Z"
+        },
+        "-Ox7h8K0LlcdLmLmNCrN": {
+          "body": "Just will be worth less",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:07:02.081683Z"
+        },
+        "-Ox7h9YmL17HEpWS4nY8": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:07:07.122992Z"
+        },
+        "-Ox7hBsK59J7YxU7pDBk": {
+          "body": "k",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:07:16.630134Z"
+        },
+        "-Ox7hCSNoRwozfPsbDaq": {
+          "body": "Sounds good",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:07:19.000524Z"
+        },
+        "-Ox7hanClsQQGqrZDzFh": {
+          "body": "I healed up ",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:09:02.797527Z"
+        },
+        "-Ox7hcJfaAAsP481lN-N": {
+          "body": "Nice",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:09:09.035686Z"
+        },
+        "-Ox7he_2CLEHpWYijSc1": {
+          "body": "Only have 5 tokens to give ",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:09:18.275649Z"
+        },
+        "-Ox7hgZ1lxT_BsiMUZL8": {
+          "body": "but i will send them",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:09:26.403120Z"
+        },
+        "-Ox7hhX9i4ybS_F_DeDI": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:09:30.379255Z"
+        },
+        "-Ox7hhYzhaDhIegc9YGk": {
+          "body": "Ok, sounds good",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:09:30.495807Z"
+        },
+        "-Ox7htGYW_pleXh3l1W-": {
+          "body": "let's goback to 8 tokens?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:10:18.468371Z"
+        },
+        "-Ox7hx4HfYVyyZkb7vuQ": {
+          "body": "Yeah, if you need that, that's good",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:10:34.066896Z"
+        },
+        "-Ox7i5p9lAI30otbQ-gl": {
+          "body": "Zulu treated me ",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:11:13.994979Z"
+        },
+        "-Ox7i77WQYOgXsFYCZ4r": {
+          "body": "I bargained and got a deal ",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:11:19.329615Z"
+        },
+        "-Ox7iAM4Lo-GzvqH0vXK": {
+          "body": "Nice. I've been slowly feeding Papa, just in case",
+          "from": "Lima",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:11:32.550283Z"
+        },
+        "-Ox7iE2Vl_ypvKCInFtX": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:11:47.680951Z"
+        }
+      },
+      "name": "not doctors",
+      "participants": [
+        "Tango",
+        "Lima"
+      ]
+    },
+    "-Ox7fOt3PizPxmuxTY2O": {
+      "conversationId": "-Ox7fOt3PizPxmuxTY2O",
+      "messages": {
+        "-Ox7fRs05RqJK0JDRLMm": {
+          "body": "who should be our other friend?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:59:37.857685Z"
+        },
+        "-Ox7fTf1R9FaXXEPdQgn": {
+          "body": "im giving 6 to you btw",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:59:45.218814Z"
+        },
+        "-Ox7fUFiKY9NIKRgpKjw": {
+          "body": "zulu I think",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:59:47.630583Z"
+        },
+        "-Ox7fXK-_clqlpMSW7-4": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:00:00.192964Z"
+        },
+        "-Ox7fhvK25LwaLYqPY_5": {
+          "body": "i dont trust him for some reason",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:00:47.702302Z"
+        },
+        "-Ox7fkeILIupZCPPSUiT": {
+          "body": "but we can nevertheless try",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:00:58.899779Z"
+        },
+        "-Ox7g4y-421ZD--UzVT6": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:02:26.176729Z"
+        },
+        "-Ox7gEMikbq9QLI8M9NX": {
+          "body": "victor i dont think zulu is our friend",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:03:04.686925Z"
+        },
+        "-Ox7gMXyp4gPVpwEUJ8t": {
+          "body": "he gives to me at least",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:03:38.174722Z"
+        },
+        "-Ox7gaGb9wU9AzxlulLV": {
+          "body": "fair enough",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:04:38.504256Z"
+        },
+        "-Ox7gbGuIZhXkq-CmkkD": {
+          "body": "hopefully he heals too",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:04:42.619333Z"
+        },
+        "-Ox7gcIdXN9Tn3wfa2d9": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:04:46.825715Z"
+        },
+        "-Ox7h9YskLmpXFLSo4NK": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:07:07.129065Z"
+        },
+        "-Ox7hhXGqI3HmlNRQc2e": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:09:30.386020Z"
+        },
+        "-Ox7iE2aVMWX_1QoDKbz": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:11:47.687100Z"
+        }
+      },
+      "name": "yo",
+      "participants": [
+        "Golf",
+        "Victor"
+      ]
+    },
+    "-Ox7fcs1tVyPgwqBEQl5": {
+      "conversationId": "-Ox7fcs1tVyPgwqBEQl5",
+      "messages": {
+        "-Ox7fnbY7BCqPhdoxzwY": {
+          "body": "hello friends",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:01:11.012375Z"
+        },
+        "-Ox7fqv4SRHSloImxmnQ": {
+          "body": "zulu would you like to be our friend",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:01:24.549913Z"
+        },
+        "-Ox7g4y5gJEvW-32gyFP": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:02:26.183522Z"
+        },
+        "-Ox7gcIxQgc-3L3OsLx7": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:04:46.845628Z"
+        },
+        "-Ox7h9YzxttwBbjFm13Q": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:07:07.135777Z"
+        },
+        "-Ox7hhXMc7oD4UkVypz4": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:09:30.392049Z"
+        },
+        "-Ox7iE2g91_AEHmtgtD4": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:11:47.693070Z"
+        }
+      },
+      "name": "yos",
+      "participants": [
+        "Golf",
+        "Victor",
+        "Zulu"
+      ]
+    },
+    "-Ox7feWNlllAVQJXSyCY": {
+      "conversationId": "-Ox7feWNlllAVQJXSyCY",
+      "messages": {
+        "-Ox7fgYzTeVfw2rlgOp5": {
+          "body": "Howdy y'all",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:00:42.112433Z"
+        },
+        "-Ox7filI-grVY7iRInD7": {
+          "body": "we can all be friends and be the stongest group :eyes:",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:00:51.155626Z"
+        },
+        "-Ox7fw3TgO19rdGloiVu": {
+          "body": "*blushes* okay",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:01:45.630689Z"
+        },
+        "-Ox7g4yCQ2YwgPx9X3Jj": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:02:26.189975Z"
+        },
+        "-Ox7gcJ500Hxg7IQ1uYU": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:04:46.854569Z"
+        },
+        "-Ox7h9Z5ydzAUA4nvti0": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:07:07.143309Z"
+        },
+        "-Ox7hhXSt0fjzbVb_c92": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:09:30.397886Z"
+        },
+        "-Ox7iE2mw1bHt8IVzKGm": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:11:47.699405Z"
+        }
+      },
+      "name": "Strongest Group",
+      "participants": [
+        "Papa",
+        "Lima",
+        "Zulu",
+        "Victor"
+      ]
+    },
+    "-Ox7gB2RJHTY7sp3E8nE": {
+      "conversationId": "-Ox7gB2RJHTY7sp3E8nE",
+      "messages": {
+        "-Ox7gF9t4-MBD5wA_cMC": {
+          "body": "Zulu, I'm donw to do a little 2 for 2 or 3 for 3 action if you are so inclinded",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:03:07.962170Z"
+        },
+        "-Ox7gZ8uGKkRlVgqxpfp": {
+          "body": "Ill take a wendy's 4 for 4 if youve got it.",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:04:29.819170Z"
+        },
+        "-Ox7gcJBg9iHrEAToqun": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:04:46.860940Z"
+        },
+        "-Ox7gj8wD5AmZ8aGsBGP": {
+          "body": "yeah I can do a lil 4 for 4 action",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:05:14.877112Z"
+        },
+        "-Ox7gm9M4jNt56fQBX1O": {
+          "body": "Youre a poor person, actually. Im gonna need 3 for 2.",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:05:27.192070Z"
+        },
+        "-Ox7h2f1_jV7pCU-_Fc1": {
+          "body": "o wait, are you in med school?",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:06:38.915236Z"
+        },
+        "-Ox7h33_Xn5fsbnZYY9N": {
+          "body": "sure",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:06:40.550348Z"
+        },
+        "-Ox7h4o7Yo9GVNeePF88": {
+          "body": "yes I am in med school",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:06:47.689179Z"
+        },
+        "-Ox7h5OeWaZF8QiCDqBv": {
+          "body": "for that reason I am poor",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:06:50.090581Z"
+        },
+        "-Ox7h7XV95oeSQzWgzlD": {
+          "body": "okay. I can do 2 for 2",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:06:58.849373Z"
+        },
+        "-Ox7h9ZCmqABGMQ4ecv9": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:07:07.150271Z"
+        },
+        "-Ox7hSxwxOoJS3xzFd7b": {
+          "body": "i pay you 4 extra so 6 total if you heal me",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:08:26.620811Z"
+        },
+        "-Ox7hcyo6flkw4yB0wR0": {
+          "body": "sure",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:09:11.733153Z"
+        },
+        "-Ox7hgFcEgwFEkpvexse": {
+          "body": "I think I already accpeted, just pay mne back wahterver",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:09:25.161385Z"
+        },
+        "-Ox7hhXZCNadLWIVKcUh": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:09:30.404726Z"
+        },
+        "-Ox7hmCJ7ycvE179ubfN": {
+          "body": "wait, did you heal me",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:09:49.524842Z"
+        },
+        "-Ox7hnGfog5wW8MaUf_d": {
+          "body": "i am still ill",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:09:53.899906Z"
+        },
+        "-Ox7hpzSS9z9eSnd4685": {
+          "body": "it just says \"awaitng paitent\" on my end",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:10:05.021733Z"
+        },
+        "-Ox7hr1HFPefj0uObC_f": {
+          "body": "proposed or whatever, not sure how to make that work",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:10:09.299119Z"
+        },
+        "-Ox7hyt_Phfq6iRfILqY": {
+          "body": "hmm",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:10:41.510334Z"
+        },
+        "-Ox7hzYe5WQjDZsa-pj8": {
+          "body": "what",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:10:44.202890Z"
+        },
+        "-Ox7i-WknX_xRTSkR07H": {
+          "body": "I feel scammed",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:10:48.177432Z"
+        },
+        "-Ox7i1qxQ9u1KbVW4fu8": {
+          "body": "would sent screenshots in chat if I could",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:10:57.725735Z"
+        },
+        "-Ox7i4buBvt-hnIVkvno": {
+          "body": "suuuuure",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:11:09.051494Z"
+        },
+        "-Ox7i5S-Po4tZ6nNHQHh": {
+          "body": "a likely story",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:11:12.448654Z"
+        },
+        "-Ox7i7W1WkG-IA6wFno_": {
+          "body": "you are still here as a request, I said \"yeah sure\" I think I chantge the price or whatever, just to see how it worked, looks like it might have crashed?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:11:20.899228Z"
+        },
+        "-Ox7iE2tiz06p9nnBvnr": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:11:47.706503Z"
+        }
+      },
+      "name": "My friend",
+      "participants": [
+        "Papa",
+        "Zulu"
+      ]
+    },
+    "-Ox7gp9Dvs_6wet-Pcdo": {
+      "conversationId": "-Ox7gp9Dvs_6wet-Pcdo",
+      "messages": {
+        "-Ox7gshF_yHzu5BldZfp": {
+          "body": "hi i will give you 3 tokens",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:05:54.001210Z"
+        },
+        "-Ox7h9ZI36PW49F3fui0": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:07:07.156139Z"
+        },
+        "-Ox7hOljdqKmO7lu0m8t": {
+          "body": "sorry golf ",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:08:09.455921Z"
+        },
+        "-Ox7hPvoQt-59YCYzgJ-": {
+          "body": "just seeing this ",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:08:14.197049Z"
+        },
+        "-Ox7hXH07W41jWkrUx2Z": {
+          "body": "I can give you 3 tokens",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:08:44.290028Z"
+        },
+        "-Ox7hhXeNvBXYerGzU3w": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:09:30.410837Z"
+        },
+        "-Ox7iE2z5z4U6zb0wRYH": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:11:47.711971Z"
+        }
+      },
+      "name": "howdy",
+      "participants": [
+        "Golf",
+        "Tango"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-Ox7f2ALTtsot751xggz": {
+          "body": "Alright, this time I will be everyone's doctor for real",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:57:52.599052Z"
+        },
+        "-Ox7f2H41gy6Uflq1Gbi": {
+          "body": "already in med school",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:57:53.029640Z"
+        },
+        "-Ox7f2rCBASw7fMUtpR6": {
+          "body": "already allocated",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:57:55.406245Z"
+        },
+        "-Ox7f33NzYvTIorcn5TF": {
+          "body": "Anyone want to be my friend? I hace cookies",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:57:56.249362Z"
+        },
+        "-Ox7f3IQ-ac4lLWv4KG7": {
+          "body": "frick",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:57:57.212056Z"
+        },
+        "-Ox7f5JRj95tA9dZvcW_": {
+          "body": "dont listen to that guy",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:58:05.468743Z"
+        },
+        "-Ox7f6KY-HLbEt1Gu5Ey": {
+          "body": "cuRXIRE UKK bve yiur friend",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:58:09.635878Z"
+        },
+        "-Ox7f7udQSPlVxv5bxBG": {
+          "body": "victor ill be your friend*",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:58:16.106123Z"
+        },
+        "-Ox7fAtgj8Qu38YkcNYd": {
+          "body": "Wow you spelled that very wrong but I accept your friendship",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:58:28.332998Z"
+        },
+        "-Ox7fB0_0w5_kwqod82K": {
+          "body": "dang had a stroke on the keyboard",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:58:28.837602Z"
+        },
+        "-Ox7fDWDdZK3nQdlLvbs": {
+          "body": "Hey Victor! How many tokens should I give to Zulu!",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:58:39.054729Z"
+        },
+        "-Ox7fEYo2I-9fuI4Xnem": {
+          "body": "thanks victor i always knew you were forgiving",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:58:43.317126Z"
+        },
+        "-Ox7fFCkvH4nJ1sLZ9AK": {
+          "body": "Zulu I like your judegment",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:58:46.000664Z"
+        },
+        "-Ox7fHzDfv1UpwkQHAlG": {
+          "body": "Im asking for a small loan of 12 tokens",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:58:57.358524Z"
+        },
+        "-Ox7fIrRdYkTxqt44z97": {
+          "body": "from each of you",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:59:00.957334Z"
+        },
+        "-Ox7fMLNOFsma-YecrVh": {
+          "body": "I cant give that much right now but I can support you",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T20:59:15.224668Z"
+        },
+        "-Ox7fXJmzPes_CS-1k2V": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:00:00.178875Z"
+        },
+        "-Ox7ftM2O_q9jTmY2uE5": {
+          "body": "haaland is my favorite",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:01:34.532112Z"
+        },
+        "-Ox7fxUhUTbmK_aEHwRW": {
+          "body": "He's pretty fun gotta agree with you there",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:01:51.470284Z"
+        },
+        "-Ox7fzhE_yRsaHoWMB8L": {
+          "body": "alright everyone attack this guy",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:02:00.527795Z"
+        },
+        "-Ox7g0Dueg-7PfB7zX-U": {
+          "body": "Halaand and Mbappe are probably the best",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:02:06.779034Z"
+        },
+        "-Ox7g2gSANQ4XS0RLAHP": {
+          "body": "did yall know haaland has a kid?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:02:16.862039Z"
+        },
+        "-Ox7g3Qn2V8yJzmx3BCQ": {
+          "body": "born in december 2024",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:02:19.891780Z"
+        },
+        "-Ox7g4-6sJ9EjhvAPvZp": {
+          "body": "anyone down for a hydration break?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:02:22.215773Z"
+        },
+        "-Ox7g4xlBVEM7jkLLQwU": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:02:26.161818Z"
+        },
+        "-Ox7g6ZWirZgHJPsPO-u": {
+          "body": "he says that having a kid helps him disconnect from the pressures of professional football",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:02:32.737936Z"
+        },
+        "-Ox7gAtEq2kgfNjYPkBG": {
+          "body": "thus putting him in the best form of his career leading into this world cup",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:02:50.447786Z"
+        },
+        "-Ox7gBKyWWiMdi_ygs8k": {
+          "body": "quite impressive",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:02:52.286894Z"
+        },
+        "-Ox7gBVgGxU-gMWMeR80": {
+          "body": "Guys I got a little sick",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:02:52.972870Z"
+        },
+        "-Ox7gDrPdcldCLk-Vpzd": {
+          "body": "I don't think its too severe yet",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:03:02.619257Z"
+        },
+        "-Ox7gJ_JmyeyfxYqF7vs": {
+          "body": "Victor, my child",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:03:26.036971Z"
+        },
+        "-Ox7gKdSpBk4NvGr9W6u": {
+          "body": "worry not",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:03:30.398131Z"
+        },
+        "-Ox7gONyDntbZoLWgPX7": {
+          "body": "I will heal you when I complete school.",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:03:45.727310Z"
+        },
+        "-Ox7gPyFN4RPKHfFHqdS": {
+          "body": "Thanks zulu",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:03:52.208956Z"
+        },
+        "-Ox7gQ5GfYDCig-b7BvC": {
+          "body": "Just keep loading me up with cash",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:03:52.721634Z"
+        },
+        "-Ox7gUEkKWWa9uH1Vaid": {
+          "body": "I'll give what I can, I'm managing a lot of friends right now",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:04:09.713365Z"
+        },
+        "-Ox7gY5NLdNZRyJxK4zM": {
+          "body": "victor is haaland",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:04:25.497427Z"
+        },
+        "-Ox7gcI0-AM8f0GLMoDL": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:04:46.786364Z"
+        },
+        "-Ox7gi1MdvNrPRCC00gZ": {
+          "body": "*cough* guys",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:05:10.295541Z"
+        },
+        "-Ox7glVZY2ofsORaVRiG": {
+          "body": "I'm feeling a little under the weather",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:05:24.517457Z"
+        },
+        "-Ox7goXfFkjbNr3WOZur": {
+          "body": "*cough*",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:05:36.939689Z"
+        },
+        "-Ox7h8mSS6wGumgrqn5x": {
+          "body": "No doctors yet sire, give me one more round",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:07:03.965928Z"
+        },
+        "-Ox7h9YfGMTg_be1mDDn": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:07:07.116268Z"
+        },
+        "-Ox7hGtEkyF196M2xkNX": {
+          "body": "zulu how much for treatment?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:07:37.168367Z"
+        },
+        "-Ox7h_bRCu3OxaClJ1k4": {
+          "body": "varies based on loyalty",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:08:57.949458Z"
+        },
+        "-Ox7hhNnoPOdjNBrno0S": {
+          "body": "Zulu is the goat at being a doctor",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2026-07-09T21:09:29.780054Z"
+        },
+        "-Ox7hhX3Zf8tpEeksAj8": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:09:30.373358Z"
+        },
+        "-Ox7iE2P84Xuy4KrpTVD": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-07-09T21:11:47.675038Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

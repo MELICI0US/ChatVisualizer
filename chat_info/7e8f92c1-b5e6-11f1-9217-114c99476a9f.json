@@ -1,0 +1,278 @@
+{
+  "conversations": {
+    "-P248pf_GOnCOO2XNhFg": {
+      "conversationId": "-P248pf_GOnCOO2XNhFg",
+      "messages": {
+        "-P248qk9SMvUwUifgVT7": {
+          "body": "Group?",
+          "from": "David",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:08:10.252871Z"
+        },
+        "-P248rQAOfcLXm4udlzw": {
+          "body": "yeeeee",
+          "from": "Sharon",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:08:13.006177Z"
+        },
+        "-P248roqWnX-vtEvbVRY": {
+          "body": "sounds good to me",
+          "from": "Sharon",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:08:14.648666Z"
+        },
+        "-P248tD39iYHUHtfnCPS": {
+          "body": "Abe?",
+          "from": "David",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:08:20.358978Z"
+        },
+        "-P248z3Oqw_IxsDDpy_3": {
+          "body": "abe??",
+          "from": "Sharon",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:08:44.315676Z"
+        },
+        "-P2496EeIF1yy9YYRiad": {
+          "body": "Its broken",
+          "from": "Abraham",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:09:17.804912Z"
+        },
+        "-P2497t_lIXr_kDUVlhL": {
+          "body": "what's broken",
+          "from": "Sharon",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:09:24.583832Z"
+        },
+        "-P249I9LlzrOE3E7JeHB": {
+          "body": "help",
+          "from": "Abraham",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:10:06.616583Z"
+        },
+        "-P249LrXg0DG7YyUUggD": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:10:21.796917Z"
+        },
+        "-P249vbdPDXTLJgBRp9O": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:12:52.332368Z"
+        },
+        "-P24AVOd5BqbzgufZz5v": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:15:22.988416Z"
+        },
+        "-P24B4BWUn_1XrTlUwht": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:17:53.700386Z"
+        }
+      },
+      "name": "???",
+      "participants": [
+        "David",
+        "Abraham",
+        "Sharon"
+      ]
+    },
+    "-P2493OHN1mzQxOTdEv2": {
+      "conversationId": "-P2493OHN1mzQxOTdEv2",
+      "messages": {
+        "-P2495odzmybjhrtKTYm": {
+          "body": "oh?",
+          "from": "David",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:09:16.075507Z"
+        },
+        "-P2497UGRwSf8a2DqrOg": {
+          "body": "What if we were all in charge?",
+          "from": "Jeremiah",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:09:22.900404Z"
+        },
+        "-P249A43Si_xV8iojpYq": {
+          "body": "How so?",
+          "from": "David",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:09:33.511312Z"
+        },
+        "-P249ED14Kg_dHazBShk": {
+          "body": "We win",
+          "from": "Jeremiah",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:09:50.468691Z"
+        },
+        "-P249HZOlU5o5FPAzgn0": {
+          "body": "Wanna take down rebecca this turn?",
+          "from": "David",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:10:04.187817Z"
+        },
+        "-P249IMt3oQ-Sxhlf8_s": {
+          "body": "I'll give you each 7",
+          "from": "Jeremiah",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:10:07.483860Z"
+        },
+        "-P249LrcbG2k586W2kmY": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:10:21.802700Z"
+        },
+        "-P249P6Gk4DT70pQUKs7": {
+          "body": "I think we should take charge",
+          "from": "David",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:10:35.092390Z"
+        },
+        "-P249vbjU8YPRweyGevc": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:12:52.337536Z"
+        },
+        "-P24AVOkWtyUxxeErqs5": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:15:22.995092Z"
+        },
+        "-P24B4BcR7XXUmERp_Dh": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:17:53.706725Z"
+        }
+      },
+      "name": "Leaders",
+      "participants": [
+        "Jeremiah",
+        "Adam",
+        "David"
+      ]
+    },
+    "-P2493WNuXX5i078h17U": {
+      "conversationId": "-P2493WNuXX5i078h17U",
+      "messages": {
+        "-P249Lrh2IWo_MFelWHP": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:10:21.807943Z"
+        },
+        "-P249vboK89AmQH5F5oA": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:12:52.343236Z"
+        },
+        "-P24AVOrS33TZNOVhH_X": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:15:23.001772Z"
+        },
+        "-P24B4Bi0qBicNnzlOWI": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:17:53.712656Z"
+        }
+      },
+      "name": "Join my group?",
+      "participants": [
+        "David",
+        "Adam"
+      ]
+    },
+    "-P2493l-gEX_nVapzHRy": {
+      "conversationId": "-P2493l-gEX_nVapzHRy",
+      "messages": {
+        "-P2495lh7i7ofuRgSFFF": {
+          "body": "hmmm abraham isn't responding",
+          "from": "Sharon",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:09:15.887633Z"
+        },
+        "-P249LrmkI9GIviZOjdP": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:10:21.813108Z"
+        },
+        "-P249vbtBgVpam6Hg5Om": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:12:52.348412Z"
+        },
+        "-P24AVOyCHCBsPTZlvqz": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:15:23.008701Z"
+        },
+        "-P24B4Bnmv8HOii_6rqg": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:17:53.718332Z"
+        }
+      },
+      "name": "what up",
+      "participants": [
+        "Sharon",
+        "David"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-P248uug-gjqxYaaSDuQ": {
+          "body": "So is Adam incharge as the patriarch, or is it David since he's king? Or Jeremiah because he's a prophet?",
+          "from": "Michael",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:08:27.310596Z"
+        },
+        "-P248xvN6DlLvCUE-6q9": {
+          "body": "I think I'm in charge",
+          "from": "Sharon",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:08:39.642842Z"
+        },
+        "-P249-JHcDpPDu3w8UJA": {
+          "body": "I think its David :)",
+          "from": "Adam",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:08:49.429211Z"
+        },
+        "-P249-ktL1XAdHwtAtLT": {
+          "body": "Can't argue with that.",
+          "from": "Michael",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:08:51.260346Z"
+        },
+        "-P249LrSjAo58PGUk5LR": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:10:21.791496Z"
+        },
+        "-P249Pe8IsDTA2bacSGH": {
+          "body": "Does anyone want to form some secret combinations?",
+          "from": "Michael",
+          "runtimeType": "identified",
+          "time": "2026-09-21T18:10:37.323900Z"
+        },
+        "-P249vbZa8dJpdAQrxXK": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:12:52.326563Z"
+        },
+        "-P24AVOZ0F99uLXReJjI": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:15:22.982776Z"
+        },
+        "-P24B4BQKWOEaULjPD2m": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-09-21T18:17:53.693844Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

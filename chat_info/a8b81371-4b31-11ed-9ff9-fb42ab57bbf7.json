@@ -1,0 +1,3449 @@
+{
+  "conversations": {
+    "-NEHx4JcjDJD7LE6V4SU": {
+      "conversationId": "-NEHx4JcjDJD7LE6V4SU",
+      "messages": {
+        "-NEHx5of6yA5BcZrsZb6": {
+          "body": "sure!",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:06:17.938Z"
+        },
+        "-NEHx6mSHVhSUSoXCTqw": {
+          "body": "hi im always friends with zulu so we good?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:06:41.853Z"
+        },
+        "-NEHx8ghbRGZ3ByPsxcq": {
+          "body": "of course",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:06:29.714Z"
+        },
+        "-NEHxA0vBp9Q9MnWhEnC": {
+          "body": "of course",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:06:35.170Z"
+        },
+        "-NEHxAMS9X1NVTHDHBZM": {
+          "body": "ok ill give you 8 - anyone else we should pull in?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:06:56.524Z"
+        },
+        "-NEHxXiPjPqqfsBNaFOv": {
+          "body": "Round 2",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:08:11.931813Z"
+        },
+        "-NEHy3PSNlnIbHtEIIbc": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:10:29.918173Z"
+        },
+        "-NEHyYI89D-jId-2YGiV": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:36.426512Z"
+        },
+        "-NEHz7-iC_O_gMLlsmjk": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:06.799751Z"
+        },
+        "-NEHzg0-OO5tcjNa0yC1": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:34.273597Z"
+        },
+        "-NEHzgaQjFc7JTcVW2pl": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:36.668405Z"
+        },
+        "-NEI-BBYT7lo_FfqtQnu": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:46.084461Z"
+        },
+        "-NEI-jis8onSIPv7mVD5": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:22:11.641842Z"
+        },
+        "-NEI0JRik4FBH7tFLb8o": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:42.031891Z"
+        },
+        "-NEI0rvulunSaH6RGkyO": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:07.387202Z"
+        },
+        "-NEI1QoNKiv_u9ntOwrC": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:34.361375Z"
+        },
+        "-NEI2-WpIA6yQ-3Ew4yY": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:04.726567Z"
+        },
+        "-NEI2Zv66ZGx1oLrIGIk": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:33.800426Z"
+        },
+        "-NEI38azi_PMR3LPOaEz": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:04.064908Z"
+        },
+        "-NEI3i0y6DZ0X06J5uCK": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:33.247553Z"
+        }
+      },
+      "name": "besties?",
+      "participants": [
+        "Yankee",
+        "Zulu"
+      ]
+    },
+    "-NEHx9Oma0-cInVxOIBj": {
+      "conversationId": "-NEHx9Oma0-cInVxOIBj",
+      "messages": {
+        "-NEHxC8PpoLVof4lgaiw": {
+          "body": "Want to be friends?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:06:42.579Z"
+        },
+        "-NEHxDnptj3qfgmV9itL": {
+          "body": "sure",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:06:50.076Z"
+        },
+        "-NEHxED7piSSRwdBeabZ": {
+          "body": "that sounds perfect",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:07:12.304Z"
+        },
+        "-NEHxFUyEIIAA7KXE9Yh": {
+          "body": "sounds good",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:06:57.522Z"
+        },
+        "-NEHxHbIX6SIl6l31O9C": {
+          "body": "6 to each?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:07:26.155Z"
+        },
+        "-NEHxIGwhgdOP8IgYe46": {
+          "body": "aaas",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:07:08.963Z"
+        },
+        "-NEHxOiEV1sWrry3PJBH": {
+          "body": "5 to each, and 1 extra to spend elsewhere",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:07:34.044Z"
+        },
+        "-NEHxRoAZPXmXLiwZu4V": {
+          "body": "good",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:07:48.021Z"
+        },
+        "-NEHxXiTSetCThTrIkbc": {
+          "body": "Round 2",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:08:11.935596Z"
+        },
+        "-NEHxhHFaLjqbVPhiDhv": {
+          "body": "that seemed good right?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:15.375Z"
+        },
+        "-NEHxhmwL_gC8eIdDLqG": {
+          "body": "Same again?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:08:57.196Z"
+        },
+        "-NEHxlDjCvMSbIe7DTUL": {
+          "body": "Mike was kind to you Yankee, are you talking with them?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:10.285Z"
+        },
+        "-NEHxoK9C0Rnpp-BnZBi": {
+          "body": "one of them gave me 8",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:44.207Z"
+        },
+        "-NEHxp9U7vGmT7H0ZGh_": {
+          "body": "i didnt give them any tho",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:47.621Z"
+        },
+        "-NEHxpsedgg5yCQJPJDM": {
+          "body": "or i gave them 1",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:50.634Z"
+        },
+        "-NEHxuVtTUhBFXN3R45h": {
+          "body": "We can see if they want to join, but they also gave half to Tango.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:48.299Z"
+        },
+        "-NEHxvc64VFH8oKuTzF2": {
+          "body": "as long as we are giving each other 5. we are safe.",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:54.222Z"
+        },
+        "-NEHxyF3iJAnhSao34GP": {
+          "body": "golf and tango asked me if they can join",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:10:24.820Z"
+        },
+        "-NEHxyy1hzSCfCN_6eOP": {
+          "body": "i feel like that's too big",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:10:27.746Z"
+        },
+        "-NEHy2-yDRW4y4lL7xCI": {
+          "body": "I agree, too big. Let's hold off for now.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:10:23.080Z"
+        },
+        "-NEHy3PcVbU4I57JT3r4": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:10:29.929086Z"
+        },
+        "-NEHyB1S0ytzi5yV7iu_": {
+          "body": "they are 4 and we are 4",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:11:01.438Z"
+        },
+        "-NEHyBbOLpdQbzYFhOVO": {
+          "body": "Maybe we each reach out to Mike, it seems they are being left behind",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:11:02.382Z"
+        },
+        "-NEHyKGQCVQLESwkTwnM": {
+          "body": "I am pretty sure they have teamed up with mike already",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:11:39.267Z"
+        },
+        "-NEHyQ2kiGXK4RvS5yaV": {
+          "body": "Maybe Yankee can sway them?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:01.544Z"
+        },
+        "-NEHyQ3Sfaoiw57HiDXI": {
+          "body": "Looks like we got two groups. WHo's gonna attack first?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:02.649Z"
+        },
+        "-NEHyQWIU3UUx-yV5DAY": {
+          "body": "what should we do then? try to woo over mike?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:24.574Z"
+        },
+        "-NEHySht8k5T9CxRBJOu": {
+          "body": "we need to attack first",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:13.858Z"
+        },
+        "-NEHyTZ7LFljo-G6TDCG": {
+          "body": "before they attack",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:17.330Z"
+        },
+        "-NEHyV3NHib_CRU4al9d": {
+          "body": "that is only way to survive",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:23.491Z"
+        },
+        "-NEHyYICZJugRAdTLQZj": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:36.430067Z"
+        },
+        "-NEHya6IWuI3PduidUkP": {
+          "body": "ok we attack this round?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:13:08.028Z"
+        },
+        "-NEHyaj13ZOeNg80HfQr": {
+          "body": "Attack this round?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:50.426Z"
+        },
+        "-NEHycLBtc-TxUvowbfN": {
+          "body": "okay",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:57.394Z"
+        },
+        "-NEHydsuxnAe8QHeBKB3": {
+          "body": "hum go for golf ",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:13:03.714Z"
+        },
+        "-NEHye1_7-YiETaY-gZS": {
+          "body": "Who?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:13:03.985Z"
+        },
+        "-NEHyeXPrqF68vPQn2Ji": {
+          "body": "Tango ",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:13:06.369Z"
+        },
+        "-NEHyf3rpyA2pBVSQK77": {
+          "body": "might hold",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:13:08.578Z"
+        },
+        "-NEHyfQ9faHGtfQXfoII": {
+          "body": "tokens",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:13:10.034Z"
+        },
+        "-NEHyjgse9BOjxgMhnHT": {
+          "body": "Yeah",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:13:27.522Z"
+        },
+        "-NEHyjmDWW2O1r9S3kd_": {
+          "body": "i'm gonna hold half, but ill attack golf with the rest",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:13:47.637Z"
+        },
+        "-NEHykZNXkLTBTg4L_AY": {
+          "body": "I say we attack foxtrot. ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:13:29.581Z"
+        },
+        "-NEHylVq--Yl-E2K_sj_": {
+          "body": "okay!",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:13:34.945Z"
+        },
+        "-NEHymL7xFsl-DNgS8nu": {
+          "body": "foxtrot?",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:13:38.354Z"
+        },
+        "-NEHynLzmyIDXsoCjd2c": {
+          "body": "sure sounds good",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:14:02.243Z"
+        },
+        "-NEHysNLDDnOeLGNgfeV": {
+          "body": "Each attack foxtrot with half?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:14:01.543Z"
+        },
+        "-NEHytjhlWY1Ub_UP9gZ": {
+          "body": "Wait fox or golf?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:14:08.292Z"
+        },
+        "-NEHytwReYC1FCcI5gn9": {
+          "body": "oaky",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:14:09.491Z"
+        },
+        "-NEHyz2rG9nk8RjUCCOz": {
+          "body": "fox",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:14:30.433Z"
+        },
+        "-NEHyzLutzogBfTi95dp": {
+          "body": "fox",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:14:31.682Z"
+        },
+        "-NEHyzkejun7UEwEJdc4": {
+          "body": "fox",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:14:33.330Z"
+        },
+        "-NEHz0VqfNqhBhk8JOiC": {
+          "body": "yep fox",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:00.179Z"
+        },
+        "-NEHz3Zq0eTEQec8GE6S": {
+          "body": "8 against fox, and gave to the rest of you.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:14:51.531Z"
+        },
+        "-NEHz7-mDSzqJ71hOi0y": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:06.803599Z"
+        },
+        "-NEHzA94bi7QfEOqCl-l": {
+          "body": "I was attacked",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:19.604Z"
+        },
+        "-NEHzBImkVYPvWuIfApB": {
+          "body": "Mike attacked me",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:24.700Z"
+        },
+        "-NEHzC8gE-mhlv7ZxNG9": {
+          "body": "Mike attacked me for 7",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:26.609Z"
+        },
+        "-NEHzExAfprDU902h9Ei": {
+          "body": "uniform who were you attacked by?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:59.329Z"
+        },
+        "-NEHzHW1MsCwqWJsQxtK": {
+          "body": "golf",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:50.132Z"
+        },
+        "-NEHzI938RkYD7mwSINw": {
+          "body": "16 by golf anf 4 by mike",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:52.364Z"
+        },
+        "-NEHzJkOlTsGjLML6U1E": {
+          "body": "all for golf i think",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:59.299Z"
+        },
+        "-NEHzQ_bTNFf37bpw8xy": {
+          "body": "what do you think?",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:16:27.282Z"
+        },
+        "-NEHzQiD1d_EOh0jlsWQ": {
+          "body": "ok lets go for mike?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:16:47.512Z"
+        },
+        "-NEHzRkndI9uuidljCWp": {
+          "body": "mike?",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:16:32.050Z"
+        },
+        "-NEHzS1FjppakMWtr8Rm": {
+          "body": "okay",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:16:33.238Z"
+        },
+        "-NEHzS4-HFRBuwlT1l_V": {
+          "body": "I think they will hold. Let's go all out on someone they won't expect.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:16:31.820Z"
+        },
+        "-NEHzT4KPUH24uByWHjX": {
+          "body": "i say golf",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:16:37.125Z"
+        },
+        "-NEHzTqDBPycrX71HQQW": {
+          "body": "yeah",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:16:40.626Z"
+        },
+        "-NEHzUEvDbh-NfW4yyHp": {
+          "body": "i agree",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:16:42.306Z"
+        },
+        "-NEHzUwil0xnQTodh9LL": {
+          "body": "all for mike",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:16:45.138Z"
+        },
+        "-NEHzVnYnDcH3rhaKGDj": {
+          "body": "ok mike",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:08.319Z"
+        },
+        "-NEHzXMNhPbtktBtCn1p": {
+          "body": "it is better to take completely down then half",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:16:55.041Z"
+        },
+        "-NEHzb5o-DTaaEIKAF1O": {
+          "body": "Let's attack mike with everything",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:12.867Z"
+        },
+        "-NEHzg03JLMRhJ9K75jp": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:34.277088Z"
+        },
+        "-NEHzgaUMmmoU52mgFB7": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:36.672180Z"
+        },
+        "-NEHzj04_yQpRFMdCVJV": {
+          "body": "shoot zulu",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:18:06.476Z"
+        },
+        "-NEHzkd3zpZQq8mpZIDh": {
+          "body": "Thank it ",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:53.507Z"
+        },
+        "-NEHzrj4wuO9HlAw6a-h": {
+          "body": "should we hit golf?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:18:22.203Z"
+        },
+        "-NEHztncpj1bnOJajCxZ": {
+          "body": "He will keep it all though ",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:18:31.059Z"
+        },
+        "-NEHzuNnI-BrQPQZSlJz": {
+          "body": "golf is def keeping",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:18:53.043Z"
+        },
+        "-NEHzujaEVx_CXlgla-C": {
+          "body": "i dont know",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:18:34.915Z"
+        },
+        "-NEHzwkEvCN5Qplb2tiE": {
+          "body": "it should not be",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:18:43.139Z"
+        },
+        "-NEHzxsltDKaG5N1_1ol": {
+          "body": "predictible",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:18:47.779Z"
+        },
+        "-NEHzzuTYYCPxygkGR9c": {
+          "body": "Let's hit Tango then. They haven't been attacking, so they won't see it coming.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:18:54.425Z"
+        },
+        "-NEI-18AYUg77xmNdnXJ": {
+          "body": "okay",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:05.203Z"
+        },
+        "-NEI-1GTKAhvEtbHT3A0": {
+          "body": "!",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:05.763Z"
+        },
+        "-NEI-2qQX4cwYRlhxUNx": {
+          "body": "im holding this round sorry guys",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:31.775Z"
+        },
+        "-NEI-3XP6hnmupzDNvWd": {
+          "body": "Tango attacked me",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:14.642Z"
+        },
+        "-NEI-424ZtdR5JKGYmgf": {
+          "body": "it is okay",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:17.107Z"
+        },
+        "-NEI-BBb6_yVHzTKCOnh": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:46.088557Z"
+        },
+        "-NEI-Glgon69T4S7Vvk5": {
+          "body": "mike hit me with everything. ",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:20:07.544Z"
+        },
+        "-NEI-IT0ciyUXIV4pQdj": {
+          "body": "Tango hit me for half.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:20:14.498Z"
+        },
+        "-NEI-NhFSJYDJ0mRjsb9": {
+          "body": "I got a few taken by tango",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:20:37.244Z"
+        },
+        "-NEI-USYPZcJoBvc4RCj": {
+          "body": "we are wining for now",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:21:05.293Z"
+        },
+        "-NEI-WAcfp2N41yIrmQ5": {
+          "body": "I'm going to attack mike and tango with half against each.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:21:10.647Z"
+        },
+        "-NEI-_KCF75l2-RFUdSX": {
+          "body": "mike?",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:21:29.330Z"
+        },
+        "-NEI-_Wc0yp-4OHIPp6X": {
+          "body": "victor is gettign low",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:21:29.766Z"
+        },
+        "-NEI-csVIpQlvQejzQ85": {
+          "body": "lets attack",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:21:43.874Z"
+        },
+        "-NEI-dmmRXhAsce2x-Yl": {
+          "body": "mike ",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:21:47.619Z"
+        },
+        "-NEI-eGyWui0bgteDGmE": {
+          "body": "If you could give some to me while I'm attacking, it would help.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:21:47.943Z"
+        },
+        "-NEI-jiwI0fMzMrMYe9t": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:22:11.645806Z"
+        },
+        "-NEI-vQefNKviQD-XMyc": {
+          "body": "Giving 3 to each and using the rest to attack make and Tango",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:22:58.156Z"
+        },
+        "-NEI-wZouDEMrOWKEVGE": {
+          "body": "*mike and tango",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:23:02.865Z"
+        },
+        "-NEI-yRc1Rr_qqwRG8So": {
+          "body": "yeah",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:23:12.211Z"
+        },
+        "-NEI-zGaRA0-qpncbARu": {
+          "body": "that is good idead",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:23:15.602Z"
+        },
+        "-NEI015hE774jSzRz-eO": {
+          "body": "Miek and tango are below poverty",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:23:26.819Z"
+        },
+        "-NEI03P5zzujqDwSyTfC": {
+          "body": "I wouldn't attack",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:23:36.254Z"
+        },
+        "-NEI03aTTxV_QfXfaro-": {
+          "body": "attack",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:23:37.435Z"
+        },
+        "-NEI042PQvHcfw-KipAK": {
+          "body": "golf?",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:23:39.298Z"
+        },
+        "-NEI04sGjN-Khmg0yxGy": {
+          "body": "would be better",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:23:42.659Z"
+        },
+        "-NEI05l8776MVj3Yfnym": {
+          "body": "I think",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:23:46.290Z"
+        },
+        "-NEI06jDiUF1znh4-6MI": {
+          "body": "Go thinking.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:23:48.599Z"
+        },
+        "-NEI07pqAxIlGJaa3a7S": {
+          "body": "Pretty sure golf is keeping",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:23:54.415Z"
+        },
+        "-NEI0BnPoo81Odl4qKlz": {
+          "body": "but we need to take him down somehow",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:11.010Z"
+        },
+        "-NEI0IYm2vQwCMf_iW06": {
+          "body": "I'm still attacking golf",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:37.021Z"
+        },
+        "-NEI0JRnRKKip5JH1Luv": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:42.036034Z"
+        },
+        "-NEI0O5gs5zxmJkcUiJF": {
+          "body": "we should attack all tofether",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:25:01.396Z"
+        },
+        "-NEI0P_PbxvpN5mjlHPV": {
+          "body": "if we want to take him down",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:25:07.459Z"
+        },
+        "-NEI0SPnixRmDG0C3sun": {
+          "body": "Or do we grow eachother for a round?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:25:17.354Z"
+        },
+        "-NEI0Y9iz35-4sgEJ36E": {
+          "body": "I gave 3 to each and 7 from Golf",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:25:40.951Z"
+        },
+        "-NEI0YhWRNV48-28433K": {
+          "body": "Hold up Yankee were you friends with golf?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:25:44.479Z"
+        },
+        "-NEI0bzBBS3Z3YoQKX9W": {
+          "body": "let's attack golf ",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:26:02.365Z"
+        },
+        "-NEI0dZpvThbr2XzaPUs": {
+          "body": "golf blocked the attack",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:26:08.867Z"
+        },
+        "-NEI0gUfddWXslZ0Cdxs": {
+          "body": "if we take him down it is over i think",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:26:20.817Z"
+        },
+        "-NEI0rvyTeF_7lmhUXXN": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:07.391014Z"
+        },
+        "-NEI1QoRiSq6qsKrs4Gy": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:34.365351Z"
+        },
+        "-NEI2-WvR-kNn9g4vxPJ": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:04.732344Z"
+        },
+        "-NEI2ZvAx6xEU5C2XfJ1": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:33.804783Z"
+        },
+        "-NEI38b24OtM3lHe-NfP": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:04.068102Z"
+        },
+        "-NEI3i11MFmXZ54V_1V_": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:33.251268Z"
+        }
+      },
+      "name": "The End of Alpha",
+      "participants": [
+        "Victor",
+        "Yankee",
+        "Zulu",
+        "Uniform"
+      ]
+    },
+    "-NEHxHjbjzB1RoEXwMbY": {
+      "conversationId": "-NEHxHjbjzB1RoEXwMbY",
+      "messages": {
+        "-NEHxIuR7U4wEhCjdMHN": {
+          "body": "Hi",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:07:11.211Z"
+        },
+        "-NEHxO9S6-qERNbhiN5j": {
+          "body": "Giving you both 8",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:07:32.714Z"
+        },
+        "-NEHxUfqfKFHj6uRntj7": {
+          "body": "Strong friendships will endure",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:07:59.439Z"
+        },
+        "-NEHxXiXFPbDENjs1wkJ": {
+          "body": "Round 2",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:08:11.939278Z"
+        },
+        "-NEHxpfgwhFGuBV2hJ1g": {
+          "body": "You both are terrible",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:29.528Z"
+        },
+        "-NEHy3PmTLznwkLLXwMF": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:10:29.939268Z"
+        },
+        "-NEHyYIFlDOBBpfFkIGY": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:36.433900Z"
+        },
+        "-NEHz7-ql24Q1a7Oh83y": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:06.807115Z"
+        },
+        "-NEHzg07mPoGlmV090OU": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:34.281296Z"
+        },
+        "-NEHzgaXyLudC8I1OT9L": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:36.675886Z"
+        },
+        "-NEI-BBfdykyoUY7WLer": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:46.091992Z"
+        },
+        "-NEI-jj0DMjoX5PFI9Np": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:22:11.650015Z"
+        },
+        "-NEI0JRqlhsf4PHbl5jS": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:42.039852Z"
+        },
+        "-NEI0rw88vlby-5pNdSQ": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:07.402594Z"
+        },
+        "-NEI1QoURIMuC6hB4B_D": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:34.368874Z"
+        },
+        "-NEI2-Wzou7mtMsO4zIW": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:04.736319Z"
+        },
+        "-NEI2ZvEAxrvqmgSKLmQ": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:33.808910Z"
+        },
+        "-NEI38b6nsZ4WpFZFdUF": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:04.072153Z"
+        },
+        "-NEI3i15VOr6hfgWndXR": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:33.255118Z"
+        }
+      },
+      "name": "Us",
+      "participants": [
+        "Mike",
+        "Tango",
+        "Yankee"
+      ]
+    },
+    "-NEHxHwDcQsfhUZpRgKM": {
+      "conversationId": "-NEHxHwDcQsfhUZpRgKM",
+      "messages": {
+        "-NEHxJnify39-k37ktnA": {
+          "body": "Want to partner up?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:07:14.812Z"
+        },
+        "-NEHxMDucy0HWMZDvMNT": {
+          "body": "Sounds good",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:07:24.756Z"
+        },
+        "-NEHxOj2fNoLqUqZbM9b": {
+          "body": "Do you want all my tokens?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:07:34.998Z"
+        },
+        "-NEHxR0XxtcJHc5VBSjn": {
+          "body": "Or do we grab a third",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:07:44.373Z"
+        },
+        "-NEHxSeYsIQ6a7uXNR93": {
+          "body": "Sending you all this round",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:07:51.077Z"
+        },
+        "-NEHxT_Ki9Ha5ppn-LPn": {
+          "body": "We can bring someone else in next round",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:07:54.859Z"
+        },
+        "-NEHxXiaVEhwCV0b-44w": {
+          "body": "Round 2",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:08:11.943656Z"
+        },
+        "-NEHxh7BFDpZt-eWp-Bu": {
+          "body": "who should we bring in?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:08:54.425Z"
+        },
+        "-NEHxkWOTESzlBXoqtCd": {
+          "body": "ah nvm",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:08.358Z"
+        },
+        "-NEHxlfftnSGDY_q4oyH": {
+          "body": "I reached out to mike and foxtrot",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:13.089Z"
+        },
+        "-NEHxnEdfP7-E1Bya8Cl": {
+          "body": "But maybe we join the other group",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:19.481Z"
+        },
+        "-NEHxo20Ff9BIKoy19nD": {
+          "body": "They are quite",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:22.767Z"
+        },
+        "-NEHy3PqnzdV7RNmuX8k": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:10:29.943061Z"
+        },
+        "-NEHyYIL_Yr6SUWW3z4_": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:36.439440Z"
+        },
+        "-NEHz7-tmw3nJQux-ZyR": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:06.810546Z"
+        },
+        "-NEHzg0B_NtFj1V5-Z2v": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:34.284953Z"
+        },
+        "-NEHzgaa_DDlNJVw_Di3": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:36.679322Z"
+        },
+        "-NEI-BBiokmUQeB45xX_": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:46.095501Z"
+        },
+        "-NEI-jj33-qq07Zwwd_M": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:22:11.653902Z"
+        },
+        "-NEI0JRufb_OxB0u86Jo": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:42.043622Z"
+        },
+        "-NEI0mKhZZ9382qUYx3J": {
+          "body": "Friend",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:26:44.369Z"
+        },
+        "-NEI0oZWSrbvIp9w-sm2": {
+          "body": "have you forgetten the good old days already?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:26:53.509Z"
+        },
+        "-NEI0rwGVbBTDMXYXkwO": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:07.410383Z"
+        },
+        "-NEI0zOWlgJoL0o1HRHw": {
+          "body": "Its a long term strategy",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:37.803Z"
+        },
+        "-NEI1QoYgsu5RdWCk-ej": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:34.372456Z"
+        },
+        "-NEI2-X21Jk_rNpnVxZ2": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:04.740561Z"
+        },
+        "-NEI2RDqgQLh4sR7zJPo": {
+          "body": "i thought we had chemistry",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:58.107Z"
+        },
+        "-NEI2ZvKJ5fv-QxlJqAH": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:33.814300Z"
+        },
+        "-NEI2gmTqsHeNKIPRNh9": {
+          "body": "I will forgive you",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:35:05.859Z"
+        },
+        "-NEI2jHznYpcVKSrKkkW": {
+          "body": "I haven't forgotten you",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:35:16.170Z"
+        },
+        "-NEI2oeyX8GI0vjhXTzU": {
+          "body": "why would i believe you?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:35:38.213Z"
+        },
+        "-NEI38bDwXDm5oPd0uqx": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:04.079137Z"
+        },
+        "-NEI3i191hUTXIuCRaHR": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:33.259309Z"
+        },
+        "-NEI46s5VGsMPeD_2Mq8": {
+          "body": "Because we are golf and Tango the dynamic duo",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:41:18.958Z"
+        }
+      },
+      "name": "Mixed Passions",
+      "participants": [
+        "Golf",
+        "Tango"
+      ]
+    },
+    "-NEHxdQT24k4BFvg4CZQ": {
+      "conversationId": "-NEHxdQT24k4BFvg4CZQ",
+      "messages": {
+        "-NEHxeu0IhuV2mFvqHw2": {
+          "body": "Hi everyone",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:08:45.278Z"
+        },
+        "-NEHxg2dHDH7nyE0Ux9-": {
+          "body": "I think we should work together",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:08:49.963Z"
+        },
+        "-NEHxsbR6FrKAql0Nuv3": {
+          "body": "I'm fine with that",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:41.550Z"
+        },
+        "-NEHxt_xjTgmvL4M0ZAQ": {
+          "body": "sure",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:45.501Z"
+        },
+        "-NEHxuabKaXNsMeU2_K1": {
+          "body": "sounds good",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:49.612Z"
+        },
+        "-NEHxwuNIdOfn5t0aS77": {
+          "body": "i'll go 5 each",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:59.106Z"
+        },
+        "-NEHxxaAW5xjLG6LdMfa": {
+          "body": "Sending you each 5",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:10:01.775Z"
+        },
+        "-NEHy3PteRywIjEHswXQ": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:10:29.946388Z"
+        },
+        "-NEHyNKJh86vOW3Rs5TP": {
+          "body": "5 again",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:11:51.424Z"
+        },
+        "-NEHyWPZ1YwAPqCO5T5j": {
+          "body": "Good coordination. I'm giving 5 again. However, if we don't act before the other group, they are likely to push us to poverty. That could be interesting to attack them from poverty, but I don't really want to risk it. As much as I don't want the inevitable it likely will happen.",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:28.655Z"
+        },
+        "-NEHyYIOXb48bB-A8BnV": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:36.442920Z"
+        },
+        "-NEHyegxLbJhizH-aXcJ": {
+          "body": "I agree. This round we should strike. I tried to make peace with them but they preferred to stay as seperate groups",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:13:06.615Z"
+        },
+        "-NEHyke8akKCqOZfQKsB": {
+          "body": "I like yankee though. ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:13:31.039Z"
+        },
+        "-NEHyoXY6mfTS8w6vuOx": {
+          "body": "So if we act lets not go after him",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:13:46.927Z"
+        },
+        "-NEHyrbmeYVDB-KgI0re": {
+          "body": "who do we hit?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:13:59.555Z"
+        },
+        "-NEHyvCCfrv3G8xaQ_Ih": {
+          "body": "Uniform is the least connected to us",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:14:14.231Z"
+        },
+        "-NEHyvNtA7qkB-OKbr2J": {
+          "body": "I'm fine with splitting tokens negatively on all but Yankee",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:14:15.060Z"
+        },
+        "-NEHyxbWSdSeXndt2CSB": {
+          "body": "Lets go all on Uniform",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:14:24.045Z"
+        },
+        "-NEHyzshWtVXg0fNomzn": {
+          "body": "yeah let's take one down at a time",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:14:33.437Z"
+        },
+        "-NEHz-VwhHASMw-lZDsM": {
+          "body": "Don't hit any one person too much or you won't get the benefit.",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:14:36.035Z"
+        },
+        "-NEHz2MLwieB6JCte27R": {
+          "body": "You only get up to the poverty line benefit",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:14:47.706Z"
+        },
+        "-NEHz4KK4bfViNA81iIe": {
+          "body": "Fair. Split between uniform and zulu. ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:14:55.717Z"
+        },
+        "-NEHz7-x_GsFp8TdVihY": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:06.814296Z"
+        },
+        "-NEHzCKOsrSkvFPGN8dW": {
+          "body": "well that was fortunate, my ui glitched so I couldn't submit",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:28.429Z"
+        },
+        "-NEHzDYl-wFK-1bjlIzr": {
+          "body": "but they all attacked me",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:33.516Z"
+        },
+        "-NEHzMIU-eI_u-ZIZsH0": {
+          "body": "Do we attack Yankee for dropping our friend or get the other people out of the way first?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:16:09.370Z"
+        },
+        "-NEHzO3TSLjmKI7yZGj9": {
+          "body": "Lets go for Zulu next",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:16:16.560Z"
+        },
+        "-NEHzRr3WPE0XvdUskBd": {
+          "body": "I told yankee I was vouching for him so that should confuse them",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:16:32.091Z"
+        },
+        "-NEHzVkLFKP6oPuJM-5W": {
+          "body": "Do we protect with any tokens?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:16:48.090Z"
+        },
+        "-NEHzYde9DYfaUkP9qJb": {
+          "body": "No. Lets just agree to build up anyone lost in the fight",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:16:59.900Z"
+        },
+        "-NEHzaDB_5KodsNRbt6Y": {
+          "body": "Zulu Next",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:10.405Z"
+        },
+        "-NEHzegpDmnGkwQS3EXh": {
+          "body": "Hope this works",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:28.823Z"
+        },
+        "-NEHzg0ETPojXOv2zcSg": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:34.288549Z"
+        },
+        "-NEHzgaeIJxqvvm8wYKg": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:36.683122Z"
+        },
+        "-NEHzjodstwI_NbuvXrT": {
+          "body": "Yikes, I should have protected.",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:49.802Z"
+        },
+        "-NEHzwS01ZdqBNGQfFS1": {
+          "body": "victor next?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:18:41.496Z"
+        },
+        "-NEHzyQXVJVQtfLCgXYm": {
+          "body": "Yep",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:18:49.633Z"
+        },
+        "-NEI-5dz6kHbANM51HcE": {
+          "body": "Yankee is still a bad dude. Protect yourself Golf",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:23.313Z"
+        },
+        "-NEI-7yjZFW8Szs0gXad": {
+          "body": "He'll try to get you out from the top popularity",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:32.848Z"
+        },
+        "-NEI-BBntDj-RVZQAOkd": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:46.100411Z"
+        },
+        "-NEI-ZcyPPnB74DciOob": {
+          "body": "You just keep protecting yourself Gold. We'll try to make a bigger separation between yourself and the others so you can bring us back.",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:21:26.138Z"
+        },
+        "-NEI-jj72N83rRLsa7tj": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:22:11.657453Z"
+        },
+        "-NEI0-UUg8h-4C7RA2B0": {
+          "body": "Golf, can you start bringing some of your strongest supporters back to where they can help you more",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:23:20.206Z"
+        },
+        "-NEI0JRyPkg77z7UU5gq": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:42.047665Z"
+        },
+        "-NEI0pvk9Ih4pB2fDRPs": {
+          "body": "Golf, it seems you have forgotten us. Please respond or we will.",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:26:59.100Z"
+        },
+        "-NEI0rwLWmSRJ-K800sw": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:07.415929Z"
+        },
+        "-NEI1QobnymHT5EuPtKM": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:34.376168Z"
+        },
+        "-NEI2-X7LMKQxKo3DAwb": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:04.745473Z"
+        },
+        "-NEI2ZvNT8mIvpezNXfk": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:33.817917Z"
+        },
+        "-NEI38bHKY_RSw9HoWtv": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:04.083008Z"
+        },
+        "-NEI3i1DCwTpMWli-0m9": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:33.263333Z"
+        }
+      },
+      "name": "Friends",
+      "participants": [
+        "Golf",
+        "Mike",
+        "Tango",
+        "Foxtrot"
+      ]
+    },
+    "-NEHxrT_O7v_SHO9Wbez": {
+      "conversationId": "-NEHxrT_O7v_SHO9Wbez",
+      "messages": {
+        "-NEHxtlL_DRhPMYpmHY9": {
+          "body": "We would like to join your group",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:09:46.199Z"
+        },
+        "-NEHy3PwHylsbKx154s2": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:10:29.949659Z"
+        },
+        "-NEHy52EQwXj44PBFu3k": {
+          "body": "We will be much more stable",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:10:36.506Z"
+        },
+        "-NEHyANPolLh5eDwgDLT": {
+          "body": "I'm sorry, right now I don't think that's the best for me",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:11:18.575Z"
+        },
+        "-NEHyFSxyvWgbuyIJPMJ": {
+          "body": "Sounds good. Hopefully we can work together down the road",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:11:19.145Z"
+        },
+        "-NEHyYIT1-2LGuLdz4Hv": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:36.446996Z"
+        },
+        "-NEHz70-ebD77YMBNNlz": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:06.817680Z"
+        },
+        "-NEHzHMO08RrC5tTQOZx": {
+          "body": "Yankee. I'm vouching for you",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:49.095Z"
+        },
+        "-NEHzcgLzZ6KmSck04jQ": {
+          "body": "I appreciate it, I'm vouching for you too",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:40.584Z"
+        },
+        "-NEHzg0IHUghQBpYr8b_": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:34.292362Z"
+        },
+        "-NEHzgaix21eY28wNijs": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:36.687248Z"
+        },
+        "-NEI-BBrs5g3aA3GYASb": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:46.104813Z"
+        },
+        "-NEI-jjBr1Wz_c0tvvhq": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:22:11.661351Z"
+        },
+        "-NEI0JS1t8bHWjHSKNNx": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:42.051424Z"
+        },
+        "-NEI0rwPkpGfyOpbI4ma": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:07.419812Z"
+        },
+        "-NEI1QoeSs5OxMUF3CaE": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:34.379865Z"
+        },
+        "-NEI2-XBuDvPJ3ws7m7S": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:04.749322Z"
+        },
+        "-NEI2ZvRe__7S2ZF4z-N": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:33.821405Z"
+        },
+        "-NEI38bLwy-U0QsZORw4": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:04.087144Z"
+        },
+        "-NEI3i1Hfc-smC8t4rk-": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:33.267416Z"
+        }
+      },
+      "name": "Parlee",
+      "participants": [
+        "Golf",
+        "Yankee",
+        "Tango"
+      ]
+    },
+    "-NEHyHGC_HnI5bXcuj6I": {
+      "conversationId": "-NEHyHGC_HnI5bXcuj6I",
+      "messages": {
+        "-NEHyKa_rjiKeALmHao8": {
+          "body": "Mike, would you like to join our group?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:11:39.199Z"
+        },
+        "-NEHyYIXHY1HKe26X6kU": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:36.451226Z"
+        },
+        "-NEHygPPFcHMw-ZKIs2t": {
+          "body": "Who else are you trying to get into your group, and is it your whole group that is agreeing to this?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:13:13.702Z"
+        },
+        "-NEHz703ZAeJ8OmLn5tR": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:06.821736Z"
+        },
+        "-NEHzg0MOBWq8HWJZZ_p": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:34.296026Z"
+        },
+        "-NEHzgam3qt_2L-SyxaP": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:36.691016Z"
+        },
+        "-NEI-BC-Pq7ES1XCpzjB": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:46.113520Z"
+        },
+        "-NEI-jjFVgHLGiDpjPm-": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:22:11.665325Z"
+        },
+        "-NEI0JS5cvXM7QkLKi0r": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:42.055046Z"
+        },
+        "-NEI0rwW7U1TcsIUdcng": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:07.426003Z"
+        },
+        "-NEI1Qoi20uim0cAZUl1": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:34.383531Z"
+        },
+        "-NEI2-XFDvVaS6hgmOc4": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:04.753358Z"
+        },
+        "-NEI2ZvU9B34AOK6Olbs": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:33.824861Z"
+        },
+        "-NEI38bPhTeZhTkQsKkl": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:04.090962Z"
+        },
+        "-NEI3i1LyQsCO814iWFZ": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:33.271099Z"
+        }
+      },
+      "name": "Friends?",
+      "participants": [
+        "Victor",
+        "Mike"
+      ]
+    },
+    "-NEHzrR4CD3d9kIPbrza": {
+      "conversationId": "-NEHzrR4CD3d9kIPbrza",
+      "messages": {
+        "-NEHzuTo9QLIQeO_HciE": {
+          "body": "Lets pair up right now and we will be set",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:18:33.415Z"
+        },
+        "-NEHzwkxGKppYSRVoJiF": {
+          "body": "Just hold your tokens this round",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:18:42.764Z"
+        },
+        "-NEHzxgHk9oqlwwfm-6X": {
+          "body": "ok I'm doing that fs",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:06.562Z"
+        },
+        "-NEHzyeTKmV2R58hzoXF": {
+          "body": "and yes im down",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:10.603Z"
+        },
+        "-NEI-3-TB_qN1bZ197Z0": {
+          "body": "I'll send you 4 this round",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:12.427Z"
+        },
+        "-NEI-7KTDOwN3wylv9QV": {
+          "body": "same",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:50.202Z"
+        },
+        "-NEI-9-R8t6Wh7H_vsPB": {
+          "body": "they aren't going for u btw",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:57.043Z"
+        },
+        "-NEI-BC3xqJlLWwBqlow": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:46.117324Z"
+        },
+        "-NEI-HJfrza4EWcB9ztC": {
+          "body": "Lets go all in together. Thoughts?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:20:11.055Z"
+        },
+        "-NEI-JcaaR7_zG455VKt": {
+          "body": "should we bring in one more?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:20:40.480Z"
+        },
+        "-NEI-NlSKmvy8a4roQ1_": {
+          "body": "I don't think so. Maybe uniform?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:20:37.485Z"
+        },
+        "-NEI-R7V0JtwU2UuU9LM": {
+          "body": "no one else is prob much of a threat",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:21:11.187Z"
+        },
+        "-NEI-Wn47mbcQveH2zuu": {
+          "body": "Lets just do all in then and we will sore up and we can take on anyone",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:21:14.423Z"
+        },
+        "-NEI-anYIgKtRWWrCpvl": {
+          "body": "ok im doing that",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:21:54.946Z"
+        },
+        "-NEI-jjJMGNQyone4uNz": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:22:11.669254Z"
+        },
+        "-NEI-qOm6fofZwNNCP2r": {
+          "body": "mike went for me but whatever",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:22:58.729Z"
+        },
+        "-NEI-uVrBWE2FOLC0FJn": {
+          "body": "Do you want to respond?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:22:55.643Z"
+        },
+        "-NEI-xqxy2E6iYwy4zSP": {
+          "body": "ill steal 4 from him maybe",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:23:29.267Z"
+        },
+        "-NEI0-hwo3DkgtTPSXzu": {
+          "body": "but the rest to you",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:23:40.972Z"
+        },
+        "-NEI01oFYF6ijiCJActD": {
+          "body": "Okay. Sending 12 to you as well",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:23:29.688Z"
+        },
+        "-NEI09fOQtHfA7alt38p": {
+          "body": "stop they might attack you",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:21.742Z"
+        },
+        "-NEI09yIXnWuyihCBD_D": {
+          "body": "watch out",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:23.045Z"
+        },
+        "-NEI0AhwGIpbsYhD7ONf": {
+          "body": "keep like 6",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:26.053Z"
+        },
+        "-NEI0DY-GGj_HpphJ6dQ": {
+          "body": "I'm holding all",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:17.731Z"
+        },
+        "-NEI0FD_PpqI80oJQv2P": {
+          "body": "Keep the rest of yours",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:24.612Z"
+        },
+        "-NEI0GSdQwnXGYS8LdPb": {
+          "body": "shoot too late",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:49.507Z"
+        },
+        "-NEI0IKIgcLDURzZdlyY": {
+          "body": "that's fine",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:57.171Z"
+        },
+        "-NEI0JS8zh4YYWQ90R0M": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:42.058364Z"
+        },
+        "-NEI0RNDr2LLGU8VRqx9": {
+          "body": "ok id appreciate a lot this round lol",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:25:34.207Z"
+        },
+        "-NEI0RPhA2IoX_oowyrO": {
+          "body": "What do we do now",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:25:14.460Z"
+        },
+        "-NEI0Sk-psdM8d3jGfCe": {
+          "body": "Yeah for sure",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:25:20.009Z"
+        },
+        "-NEI0Xz8rAj2kLBnlZIo": {
+          "body": "You keep 12, I'll give you 7 and hold the rest",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:25:41.448Z"
+        },
+        "-NEI0Z_rQtmBVO4HG5zl": {
+          "body": "So give me 4",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:25:48.028Z"
+        },
+        "-NEI0bW851EGqEW2Fcjy": {
+          "body": "That way we stay protected",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:26:00.000Z"
+        },
+        "-NEI0fukznMFoztmfL6H": {
+          "body": "Do we bring in Uniform?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:26:18.025Z"
+        },
+        "-NEI0ojrmilReMQX-R8S": {
+          "body": "i think so",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:13.942Z"
+        },
+        "-NEI0qEpShjdJk8CCOSK": {
+          "body": "and just get rid of our old group",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:20.108Z"
+        },
+        "-NEI0rwbxpjZmKC2_nHX": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:07.432362Z"
+        },
+        "-NEI1QolTivN7pma2nck": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:34.386941Z"
+        },
+        "-NEI1cVEW_taXvVnCX0c": {
+          "body": "I took uniform out ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:30:26.206Z"
+        },
+        "-NEI1k4ZkAAO4QDFCdz1": {
+          "body": "ok that was kinda sketch ngl",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:16.906Z"
+        },
+        "-NEI1m-iQIcUdbqigeL3": {
+          "body": "Yeah",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:05.143Z"
+        },
+        "-NEI2-XJBoG4Rc2ZbtHU": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:04.757390Z"
+        },
+        "-NEI2ZvYAviIIf-JerXo": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:33.828810Z"
+        },
+        "-NEI38bTIAo61LEfvkG1": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:04.094960Z"
+        },
+        "-NEI3i1PTmTdPPezglz7": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:33.275105Z"
+        },
+        "-NEI3uP6qseM_lCVLroN": {
+          "body": "I never attacked you ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:40:23.796Z"
+        },
+        "-NEI3xGghVQQCV5EzEkz": {
+          "body": "yea i appreciate it",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:40:54.923Z"
+        },
+        "-NEI3xyPqoh5clRaGpUr": {
+          "body": "but you know i had to",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:40:57.856Z"
+        },
+        "-NEI3yPVK8CRAqraZKDA": {
+          "body": "So technically my peace chat ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:40:40.251Z"
+        },
+        "-NEI4-KGkCyAFWmkaSfH": {
+          "body": "hahaha yeah",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:40:48.087Z"
+        },
+        "-NEI4WRcX7jVB1ZSkqZs": {
+          "body": "The biggest problem was when you weren't able to change your token selection when I was keeping",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:43:03.635Z"
+        },
+        "-NEI4YeGuUog_GCFSIxf": {
+          "body": "At that point I was miles above everyone",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:43:12.783Z"
+        }
+      },
+      "name": "PEACE",
+      "participants": [
+        "Golf",
+        "Yankee"
+      ]
+    },
+    "-NEI-cP5cPIITPPAZ6uW": {
+      "conversationId": "-NEI-cP5cPIITPPAZ6uW",
+      "messages": {
+        "-NEI-dsXYFuo5UsxAJbv": {
+          "body": "I don't trust golf",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:21:47.589Z"
+        },
+        "-NEI-jjNMXIXjR9WRX5y": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:22:11.673009Z"
+        },
+        "-NEI-n4qodT9HyLvxuEZ": {
+          "body": "Sure, I don't either. But if he doesn't bring us back up, we can get everyone else in the game to gang up on him.",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:22:25.326Z"
+        },
+        "-NEI-pgssJVqId7vFewq": {
+          "body": "Let's ask him to start giving to his friends.",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:22:36.020Z"
+        },
+        "-NEI-qLod4ATuTrAbWFX": {
+          "body": "agreed, just wanted to air that",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:22:38.670Z"
+        },
+        "-NEI0AzJyVIyl5-5coWp": {
+          "body": "it looks like golf and yankee are forming a team",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:07.296Z"
+        },
+        "-NEI0CJmQyD-PwqkeOKa": {
+          "body": "Yankee and Golf are working together.",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:12.758Z"
+        },
+        "-NEI0FpJmj6322USW20S": {
+          "body": "Just saw the same thing. Lets take them down one at a time with everyone else",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:27.147Z"
+        },
+        "-NEI0IhYVf5O5eNHu-yY": {
+          "body": "we might want to build ourselves up independently first a bit",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:38.906Z"
+        },
+        "-NEI0JSCwdGJbKtmYYSm": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:42.061952Z"
+        },
+        "-NEI0QRCRewyK_8xBb0R": {
+          "body": "wanna go 8 and 8 for a couple of rounds?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:25:10.554Z"
+        },
+        "-NEI0YOhKpyy60qI7ouP": {
+          "body": "Sure",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:25:43.216Z"
+        },
+        "-NEI0rwg-Lf4hHtloc5D": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:07.437199Z"
+        },
+        "-NEI1QopGNU3j83bAKzh": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:34.390700Z"
+        },
+        "-NEI2-XQebM9Zk-wqzSR": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:04.764002Z"
+        },
+        "-NEI2Zvbf2jYtcTJEoBh": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:33.832662Z"
+        },
+        "-NEI38bXTWnZGWelMLUx": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:04.099389Z"
+        },
+        "-NEI39690ABdXo9gMpjr": {
+          "body": "I should have acted against Golf sooner",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:06.036Z"
+        },
+        "-NEI3i1TxJV6eY5YuLi2": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:33.279333Z"
+        }
+      },
+      "name": "sus",
+      "participants": [
+        "Foxtrot",
+        "Mike",
+        "Tango"
+      ]
+    },
+    "-NEI0L1p7BBLmZJm137f": {
+      "conversationId": "-NEI0L1p7BBLmZJm137f",
+      "messages": {
+        "-NEI0TyR3EFxV2DzjNrc": {
+          "body": "Golf and Yankee formed a team, then G attacked Yankee",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:25:25.051Z"
+        },
+        "-NEI0VMK6e6x_38hExbN": {
+          "body": "What do we do?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:25:30.768Z"
+        },
+        "-NEI0rwkJiR6PbbMsP_K": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:07.441194Z"
+        },
+        "-NEI0v82UNza3QGGWFXl": {
+          "body": "okay ",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:20.818Z"
+        },
+        "-NEI1-I5EoFpqE07F_KI": {
+          "body": "Everyone should attack Golf with everything this round.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:40.261Z"
+        },
+        "-NEI12Qugg7Uq2crggND": {
+          "body": "okay",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:54.786Z"
+        },
+        "-NEI12iR2eUjzA5XjzOP": {
+          "body": "!",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:56.005Z"
+        },
+        "-NEI14h8qupXrncmFqRB": {
+          "body": "everyone agree?",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:28:04.083Z"
+        },
+        "-NEI14kQ9NVXI9HXx6ir": {
+          "body": "No, if he is smart he will just keep half his tokens the rest of the game to protect. That should be enough.",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:28:03.931Z"
+        },
+        "-NEI15zctS7_LA_aYg9t": {
+          "body": "Everyone needs to join in for it to have an effect.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:28:07.657Z"
+        },
+        "-NEI18nbq0RuX8EPC-z8": {
+          "body": "yeah",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:28:20.883Z"
+        },
+        "-NEI1ArUXx3ZDM6eAhFS": {
+          "body": "let's all give each other 3 this round, then attack later",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:28:28.907Z"
+        },
+        "-NEI1Bco1xyNnHnrKjAY": {
+          "body": "We should build ourselves up simultaneously.",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:28:32.109Z"
+        },
+        "-NEI1FfFM86nzw5B0TGM": {
+          "body": "it is not possible ",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:28:49.026Z"
+        },
+        "-NEI1GRtaWeTmmF4sXz0": {
+          "body": "they are too big",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:28:52.196Z"
+        },
+        "-NEI1HzriR6qoNiEmaJm": {
+          "body": "then we should not attack",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:28:58.530Z"
+        },
+        "-NEI1ISPVXBuEltJxrUq": {
+          "body": "at al;l",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:00.450Z"
+        },
+        "-NEI1J9VpZqgPRMvzZKc": {
+          "body": "While taking down Yankee we should build each other up.",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:02.948Z"
+        },
+        "-NEI1MKGYgBTpU9DOnDO": {
+          "body": "Then we will be powerful enough to take on Golf",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:15.918Z"
+        },
+        "-NEI1QovEiy1A85tsN7n": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:34.396120Z"
+        },
+        "-NEI1TAJpCPHBd1n7Yls": {
+          "body": "I gave to each of you.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:42.669Z"
+        },
+        "-NEI1WcawqIiHtFKbYv9": {
+          "body": "attacked yankee",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:58.492Z"
+        },
+        "-NEI1YFQPPS5_i_vueYp": {
+          "body": "I attacked yankee",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:30:05.122Z"
+        },
+        "-NEI1cRFSTDJHvA-JSgo": {
+          "body": "Uniform what happend?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:30:26.002Z"
+        },
+        "-NEI1fBf1IpDokUJufa3": {
+          "body": "I got attacked by golf",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:30:37.280Z"
+        },
+        "-NEI1gr4ulxlfx4AgO4E": {
+          "body": "With everything",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:30:44.094Z"
+        },
+        "-NEI1kJfwxd1_kHlxwtX": {
+          "body": "that is why",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:30:58.626Z"
+        },
+        "-NEI1l9rRn8qhrsOgXpq": {
+          "body": "we should attack",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:02.115Z"
+        },
+        "-NEI1luBpIe4GqCaoD87": {
+          "body": "all at once",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:05.138Z"
+        },
+        "-NEI1o9-ZpZA-B6gwllg": {
+          "body": "Now?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:13.979Z"
+        },
+        "-NEI1ow5tENQU71TqITw": {
+          "body": "take down yankee first",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:17.554Z"
+        },
+        "-NEI1pRhl7hyoMpXV4NO": {
+          "body": "I think",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:19.650Z"
+        },
+        "-NEI1q3bZwmd_9ci6OaT": {
+          "body": "then golf",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:22.195Z"
+        },
+        "-NEI1qaxmBjo_G_PYRgR": {
+          "body": "will lose",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:24.401Z"
+        },
+        "-NEI1qtD9T2NrBGR1TZz": {
+          "body": "firend",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:25.571Z"
+        },
+        "-NEI1sBBpZBLmih79dgr": {
+          "body": "Golf is a bigger threat",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:30.499Z"
+        },
+        "-NEI1t378sAxfGoKpotg": {
+          "body": "but",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:34.450Z"
+        },
+        "-NEI1uHuGby-Xn_NcC5f": {
+          "body": "we donot have enough power",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:39.491Z"
+        },
+        "-NEI1uwEqvkaE8nj7wFk": {
+          "body": "i feel",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:42.146Z"
+        },
+        "-NEI1vFezdj_Cn-Yp9rp": {
+          "body": "lie",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:43.475Z"
+        },
+        "-NEI1vgWkTt7lSmniwXK": {
+          "body": "I'm giving to you this round.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:43.566Z"
+        },
+        "-NEI1vw6aIGohhtRSQcB": {
+          "body": "like",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:46.242Z"
+        },
+        "-NEI1wpRDhTURchp2HuP": {
+          "body": "hold on, yankee might not be happy with golf",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:49.487Z"
+        },
+        "-NEI1z57E_JgYjmhQyip": {
+          "body": "also golf is mostly supporting themself",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:58.752Z"
+        },
+        "-NEI1zv59g5Vdv70jFr8": {
+          "body": "true",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:02.138Z"
+        },
+        "-NEI2-XUpALDuqz_JGuK": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:04.768070Z"
+        },
+        "-NEI221-M0euiEqu3Bxv": {
+          "body": "yanke could be turned",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:14.886Z"
+        },
+        "-NEI28LjOWJORDewnO_J": {
+          "body": "they still have strong relationship",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:41.181Z"
+        },
+        "-NEI28nBltGQw7-G7PNZ": {
+          "body": "though ",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:43.027Z"
+        },
+        "-NEI2BuAmEfG0yMZkZ9J": {
+          "body": "If everyone attacked golf with everything, would it have an effect?",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:54.049Z"
+        },
+        "-NEI2DCLzS1w9sD7pF5U": {
+          "body": "okay",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:01.059Z"
+        },
+        "-NEI2E393MvM5WuG7_fo": {
+          "body": "lets just attack",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:04.562Z"
+        },
+        "-NEI2EUBNwWlR0MO4VM0": {
+          "body": "whoever",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:06.323Z"
+        },
+        "-NEI2EtwO6LxRor4ZlYt": {
+          "body": "yes, if we can get yankee",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:07.625Z"
+        },
+        "-NEI2GT6s2nivspVTLcH": {
+          "body": "golf",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:14.419Z"
+        },
+        "-NEI2Gm0ZXrRzsMvQqW6": {
+          "body": "?",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:15.721Z"
+        },
+        "-NEI2HMOy-q-FEATQ0IV": {
+          "body": "good?",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:18.083Z"
+        },
+        "-NEI2IJs5M66aJVcX3Ez": {
+          "body": "let yankee know",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:21.505Z"
+        },
+        "-NEI2IwoXvOWBF2QSlaq": {
+          "body": "Yankee's in",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:24.200Z"
+        },
+        "-NEI2JH01aTGEWKPVMxp": {
+          "body": "so they go all in",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:25.565Z"
+        },
+        "-NEI2VZk5mnmrmAwDuPq": {
+          "body": "all on golf, no giving just war",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:15.880Z"
+        },
+        "-NEI2ZvgMo3w-vDnNex9": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:33.837473Z"
+        },
+        "-NEI2eRvLRgwqYjUxWzH": {
+          "body": "Yankee",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:56.747Z"
+        },
+        "-NEI2f3lxsR9EQeHZU-4": {
+          "body": "did not attack",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:59.298Z"
+        },
+        "-NEI2fJel2ijaJJ8k1cN": {
+          "body": "golf",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:35:00.339Z"
+        },
+        "-NEI2fXPks_W8fr0KcDG": {
+          "body": "so",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:35:01.219Z"
+        },
+        "-NEI2m2LuJNFe-HVIhLY": {
+          "body": "yes they did, their bar got significantly smaller",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:35:27.481Z"
+        },
+        "-NEI2pryDR_Po-aGutrY": {
+          "body": "everyone attack again! submit quickly to pull them down before game end.",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:35:41.818Z"
+        },
+        "-NEI2tCpbkNScm34T50l": {
+          "body": "I feel like golf is gonna keep the tokens and distract us to attack ",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:35:57.219Z"
+        },
+        "-NEI2tE93EYjgefriMTt": {
+          "body": "yeah, yankee went all in on golf",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:35:56.934Z"
+        },
+        "-NEI2uJg215fkChMo0AR": {
+          "body": "golf",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:36:01.762Z"
+        },
+        "-NEI2vPFkbzdbgsOiojr": {
+          "body": "so that we can wast our ",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:36:06.211Z"
+        },
+        "-NEI2vejM1rnXApZPHvq": {
+          "body": "tokens",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:36:07.288Z"
+        },
+        "-NEI2wkA8IdmDao4wNxn": {
+          "body": "that is what i fell",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:36:11.713Z"
+        },
+        "-NEI2xnO4YthEWHHUx7S": {
+          "body": "I think Golf will just keep waiting the rounds out and not submitting.",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:36:15.617Z"
+        },
+        "-NEI2yNkPxy2uwA7AsNr": {
+          "body": "if yankee attacked golf",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:36:18.386Z"
+        },
+        "-NEI3-_RRCLdh0dcBapx": {
+          "body": "golf has gone down",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:36:27.395Z"
+        },
+        "-NEI3-rYBZ28ViIFbZhd": {
+          "body": "golf will keep but if we all attack they keep falling",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:36:28.177Z"
+        },
+        "-NEI38bacEEhdSqyauRS": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:04.103539Z"
+        },
+        "-NEI3Dk9QVmZWWKAx9Ew": {
+          "body": "yankee is not attacking",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:25.437Z"
+        },
+        "-NEI3F22U9PpV9lM08RH": {
+          "body": "we can see that",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:30.738Z"
+        },
+        "-NEI3dXMutrkaGFBH20A": {
+          "body": "sorry",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:15.139Z"
+        },
+        "-NEI3e5sJ8Hcy8FVrqvm": {
+          "body": "miss typed",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:17.476Z"
+        },
+        "-NEI3i1WGvY0n1CA_YAe": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:33.282929Z"
+        }
+      },
+      "name": "Everyone but G & Y",
+      "participants": [
+        "Mike",
+        "Foxtrot",
+        "Uniform",
+        "Tango",
+        "Zulu",
+        "Victor"
+      ]
+    },
+    "-NEI0rG7YKdNcfOdA0lZ": {
+      "conversationId": "-NEI0rG7YKdNcfOdA0lZ",
+      "messages": {
+        "-NEI0rwoX0OKARtQ9msH": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:07.445148Z"
+        },
+        "-NEI0ynRG8CxYRiVPPgO": {
+          "body": "It looks like golf isn't a great friend?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:35.445Z"
+        },
+        "-NEI13-3t1msSmaboSys": {
+          "body": "I think we should team with him actulaly",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:28:16.440Z"
+        },
+        "-NEI16rUxdpjoDV8xJF6": {
+          "body": "no one else would be able to stop us if we all worked together",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:28:32.255Z"
+        },
+        "-NEI1QozqIMha5IxGsDJ": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:34.400784Z"
+        },
+        "-NEI1_7Ur8VYwBSni61E": {
+          "body": "Golf is sketchy",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:30:12.432Z"
+        },
+        "-NEI1c6uMf0_-voNC5HO": {
+          "body": "yeah that was seriously sketch",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:30:44.308Z"
+        },
+        "-NEI1lzz5vbn6tIFqbkF": {
+          "body": "should we attack golf?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:05.150Z"
+        },
+        "-NEI1umUDTBqNn558paj": {
+          "body": "not this round",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:00.785Z"
+        },
+        "-NEI2-XYZ7apdUGdZ7XQ": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:04.771984Z"
+        },
+        "-NEI2ZvkS06Cp2JgESIt": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:33.841430Z"
+        },
+        "-NEI38bfKJbZnbi_-Zuf": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:04.108011Z"
+        },
+        "-NEI3i1_Y7qjpRiZGmL1": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:33.286573Z"
+        }
+      },
+      "name": "Y and U",
+      "participants": [
+        "Uniform",
+        "Yankee"
+      ]
+    },
+    "-NEI12jotgtVuAdF5ZSs": {
+      "conversationId": "-NEI12jotgtVuAdF5ZSs",
+      "messages": {
+        "-NEI16vhzrZqmUU7Didx": {
+          "body": "I think this is our best chance and making it a full 30 min",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:28:12.803Z"
+        },
+        "-NEI19W2TOjjJs5WGoO0": {
+          "body": "I agree",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:28:43.059Z"
+        },
+        "-NEI19pEovUMPg8IJX3-": {
+          "body": "Whats the plan",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:28:24.714Z"
+        },
+        "-NEI1A29D2B2rFI8epog": {
+          "body": "Let bye gones be bye gones",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:28:25.566Z"
+        },
+        "-NEI1FgDgMRPIDfKNLpB": {
+          "body": "give 5 to each other then keep 6 just in case?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:08.367Z"
+        },
+        "-NEI1JqpF5MUzEOwJk2Q": {
+          "body": "that's what im doing",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:25.486Z"
+        },
+        "-NEI1L-BiaKX-TKcLg_z": {
+          "body": "Deal",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:10.464Z"
+        },
+        "-NEI1MQqTwyqt3-8XnHK": {
+          "body": "Yeah sure",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:16.268Z"
+        },
+        "-NEI1QG13XvEANrhCpF4": {
+          "body": "Everyone is planning on attacking golf, but not this round",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:32.028Z"
+        },
+        "-NEI1Qp4qP_xcvKmzzlQ": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:34.406347Z"
+        },
+        "-NEI1T2J3AF6dneACGR1": {
+          "body": "Sorry Uniform",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:43.387Z"
+        },
+        "-NEI1W94tHA8sdqZHUyd": {
+          "body": "what",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:30:15.787Z"
+        },
+        "-NEI1WryLE8Dh2i8BXzD": {
+          "body": "just happened?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:30:18.794Z"
+        },
+        "-NEI1X2pKgbrBQHFnHge": {
+          "body": "Wow thanks golf",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:59.875Z"
+        },
+        "-NEI1YtxqlJ9goo4BqNv": {
+          "body": "Yeah",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:30:07.364Z"
+        },
+        "-NEI2-Xa75mPWmySa_Xh": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:04.775436Z"
+        },
+        "-NEI2Zvo7QdIhEPGgLM1": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:33.845172Z"
+        },
+        "-NEI38bjYSIoYrmHHm5b": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:04.111997Z"
+        },
+        "-NEI3i1dOnGcH67fvA-J": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:33.290190Z"
+        }
+      },
+      "name": "Stability",
+      "participants": [
+        "Golf",
+        "Uniform",
+        "Yankee"
+      ]
+    },
+    "-NEI1aSglV4Wjk3OEct_": {
+      "conversationId": "-NEI1aSglV4Wjk3OEct_",
+      "messages": {
+        "-NEI1cMsORNGNBxrO6Gn": {
+          "body": "how you doing?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:30:25.695Z"
+        },
+        "-NEI1gEgOSxGPthJT6DV": {
+          "body": "um fine i guess?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:01.186Z"
+        },
+        "-NEI1mIyL_zYhDOmjT9C": {
+          "body": "how you feeling about golf right about now?",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:06.392Z"
+        },
+        "-NEI1qJYghsjUYSxVzXn": {
+          "body": "umm",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:42.434Z"
+        },
+        "-NEI1r5NWFXctSdq4jno": {
+          "body": "something needs to be done",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:31:45.620Z"
+        },
+        "-NEI2-Xhk8H8uZrzrquI": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:04.782420Z"
+        },
+        "-NEI2ZvrUUE57E78qtYR": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:33.848532Z"
+        },
+        "-NEI38bnw5991xIPKEYn": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:04.116039Z"
+        },
+        "-NEI3i1i3aqfHq9PKr6k": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:33.295403Z"
+        }
+      },
+      "name": "hows it going",
+      "participants": [
+        "Foxtrot",
+        "Yankee"
+      ]
+    },
+    "-NEI1yKNbv6-7FurQwFc": {
+      "conversationId": "-NEI1yKNbv6-7FurQwFc",
+      "messages": {
+        "-NEI2-XlSdaOYfIxZnE0": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:04.786002Z"
+        },
+        "-NEI223FfVBOlliKIZLo": {
+          "body": "thoughts on all just goin after golf for one round?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:34.616Z"
+        },
+        "-NEI23hqqMqFBE-IrmIM": {
+          "body": "like literally everyone?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:41.365Z"
+        },
+        "-NEI24skg7WxHKGpyR2o": {
+          "body": "I'm game",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:26.567Z"
+        },
+        "-NEI25f3JpswNpPyJ679": {
+          "body": "yes",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:29.806Z"
+        },
+        "-NEI29yiJm2NX_KDaHuF": {
+          "body": "I'm all in",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:47.461Z"
+        },
+        "-NEI2AOhQ692gF-QM_OF": {
+          "body": "im not gonna go for it unless everyone agrees",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:08.762Z"
+        },
+        "-NEI2JP9liMl6f9xa-nC": {
+          "body": "I am going all in against golf",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:24.795Z"
+        },
+        "-NEI2KHdp3iOEYOXojMD": {
+          "body": "It might have an effect, but it would take a long time",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:29.691Z"
+        },
+        "-NEI2L6YbBlTlvwadySG": {
+          "body": "I am too",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:33.041Z"
+        },
+        "-NEI2M6KtcCJ4aCl3HKa": {
+          "body": "let's all go in,",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:37.146Z"
+        },
+        "-NEI2MSkH3O9fFxdzLds": {
+          "body": "death to the betrayer",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:38.608Z"
+        },
+        "-NEI2O8dc5Zj_ngCYiuQ": {
+          "body": "ok lets go for it",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:05.033Z"
+        },
+        "-NEI2QZtVTOwKl5AnWpY": {
+          "body": "Fine, I'll go for it",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:55.440Z"
+        },
+        "-NEI2Qb25wmP12abxnN8": {
+          "body": "okay golf",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:33:55.971Z"
+        },
+        "-NEI2ZvviDD0JrFa6rBb": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:33.852274Z"
+        },
+        "-NEI2eQ1ipXAxTFZD0vc": {
+          "body": "Again! quickly pull them down before the game ends!!",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:54.945Z"
+        },
+        "-NEI2ekbP4s2t40IhM1t": {
+          "body": "hit em again, he's dropping",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:57.621Z"
+        },
+        "-NEI2fpPSjdqGYyeMYNz": {
+          "body": "ok lets get him",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:35:21.526Z"
+        },
+        "-NEI2rnjJGmlq5XmzkMs": {
+          "body": "everyone else doing the same?",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:36:10.525Z"
+        },
+        "-NEI2tv9Va64razXicHM": {
+          "body": "yes",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:35:59.719Z"
+        },
+        "-NEI2w0u3GJ5IE2lBtqq": {
+          "body": "yep",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:36:08.363Z"
+        },
+        "-NEI2wiI1ESqHZMi7ZIK": {
+          "body": "yep",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:36:09.906Z"
+        },
+        "-NEI3-w2xKOiJQzuUgnW": {
+          "body": "Yep",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:36:28.483Z"
+        },
+        "-NEI34N42qcuFhRYSftO": {
+          "body": "Golf is killing the timer",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:36:45.330Z"
+        },
+        "-NEI38bq_3h2_vVnDYkL": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:04.119427Z"
+        },
+        "-NEI3DJ_19IuPd1dJe2E": {
+          "body": "ok this has to be last round most likely",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:42.714Z"
+        },
+        "-NEI3Hw6EzOPaQ-opdfl": {
+          "body": "Why did you not attack Yankee?",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:42.207Z"
+        },
+        "-NEI3JDcwAMgenj0NT6y": {
+          "body": "i did",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:38:06.886Z"
+        },
+        "-NEI3My-RRvtz9dvs0Lx": {
+          "body": "i just had such a positive connection with him before",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:38:22.191Z"
+        },
+        "-NEI3QAV4I6JuZPub4tZ": {
+          "body": "No that positive dropped last time, but not this time.",
+          "from": "Mike",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:38:15.961Z"
+        },
+        "-NEI3S_UEJlWaY-uMLRP": {
+          "body": "Whether or not Yankee did, the best option is still to go all in on golf",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:38:25.767Z"
+        },
+        "-NEI3VvUNf9v2WkqAxou": {
+          "body": "golf is too big to attack",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:38:39.884Z"
+        },
+        "-NEI3WyIUi86mJ1vl3KE": {
+          "body": "take down yankee",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:38:44.162Z"
+        },
+        "-NEI3Y0Wu0PbiSfMWlFY": {
+          "body": "hol up",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:07.456Z"
+        },
+        "-NEI3YlcpAoma2QPUz9q": {
+          "body": "Still attack golf",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:38:49.868Z"
+        },
+        "-NEI3ZA7lwa8pOcIGEhX": {
+          "body": "lets not do that",
+          "from": "Yankee",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:12.250Z"
+        },
+        "-NEI3ZVyZcMruAU4mM7s": {
+          "body": "not yankee",
+          "from": "Victor",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:38:52.943Z"
+        },
+        "-NEI3ZijK0uHwRV-ViAW": {
+          "body": "golf is falling fast",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:38:55.082Z"
+        },
+        "-NEI3ZlqOQWVK_cFEuSr": {
+          "body": "zulu enough",
+          "from": "Foxtrot",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:38:55.239Z"
+        },
+        "-NEI3aBcTB5ZvZGQfiL9": {
+          "body": "okay",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:01.458Z"
+        },
+        "-NEI3aRW3dhvrxU7s7_4": {
+          "body": "golf",
+          "from": "Zulu",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:02.503Z"
+        },
+        "-NEI3i1mi6ZDOFz6oyO2": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:33.299761Z"
+        }
+      },
+      "name": "kill golf",
+      "participants": [
+        "Yankee",
+        "Foxtrot",
+        "Uniform",
+        "Mike",
+        "Victor",
+        "Tango",
+        "Zulu"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-NEHxAqrPs8J_J2Zl_UZ": {
+          "body": "Proffesional Golfer looking for home",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:06:38.158Z"
+        },
+        "-NEHxDG8V8OfWulbfvPy": {
+          "body": "anyone want to tango?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:06:48.054Z"
+        },
+        "-NEHxXiISJiDk35UuRJF": {
+          "body": "Round 2",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:08:11.924714Z"
+        },
+        "-NEHy3PNAzcKQLnldLSm": {
+          "body": "Round 3",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:10:29.913671Z"
+        },
+        "-NEHyYI43qRpRTJi9at6": {
+          "body": "Round 4",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:12:36.422586Z"
+        },
+        "-NEHz7-erJAQUnE1Q2pO": {
+          "body": "Round 5",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:06.795613Z"
+        },
+        "-NEHzBWajmp4vKaBdSiF": {
+          "body": "Too predictable lol",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:15:25.194Z"
+        },
+        "-NEHzg-wPBGI5sKfpKOy": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:34.269551Z"
+        },
+        "-NEHzgaMRPVaVUhIY50G": {
+          "body": "Round 6",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:17:36.664444Z"
+        },
+        "-NEI-BBTjwgm316kSSr9": {
+          "body": "Round 7",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:19:46.079861Z"
+        },
+        "-NEI-jinMVTD1N5jzXG6": {
+          "body": "Round 8",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:22:11.636260Z"
+        },
+        "-NEI0JRfHw_XdGfp-Mqf": {
+          "body": "Round 9",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:24:42.028398Z"
+        },
+        "-NEI0rvqPuZEKVhxsrT-": {
+          "body": "Round 10",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:27:07.383103Z"
+        },
+        "-NEI1QoJIPUr3ZCmqaxU": {
+          "body": "Round 11",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:29:34.357416Z"
+        },
+        "-NEI2-WluSo0DHH3tX0t": {
+          "body": "Round 12",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:32:04.722219Z"
+        },
+        "-NEI2Zv24OhRiClytXJx": {
+          "body": "Round 13",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:34:33.796584Z"
+        },
+        "-NEI38awdzp9klr02Pg2": {
+          "body": "Round 14",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:37:04.061038Z"
+        },
+        "-NEI3i0v-KkJFJSGejmo": {
+          "body": "Round 15",
+          "from": "Game",
+          "runtimeType": "identified",
+          "time": "2022-10-13T20:39:33.243971Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

@@ -1,0 +1,1099 @@
+{
+  "conversations": {
+    "-Ow-KNqBWAKW_rGJza6U": {
+      "conversationId": "-Ow-KNqBWAKW_rGJza6U",
+      "messages": {
+        "-Ow-KPHUzrAaTG6cj0a-": {
+          "body": "greetings",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:50:40.544424Z"
+        },
+        "-Ow-KR6L2WkZb8zVLJ8u": {
+          "body": "Two of us go to med school?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:50:48.023753Z"
+        },
+        "-Ow-KSQarioofWGeFJBI": {
+          "body": "lets be friends",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:50:53.415909Z"
+        },
+        "-Ow-KVIAcAvMAyftkZNY": {
+          "body": "golf is fun and my cat is named sierra",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:05.164980Z"
+        },
+        "-Ow-KWloHcGZI3dnlih4": {
+          "body": "it was meant to be",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:11.221466Z"
+        },
+        "-Ow-KZFEgexJ50kqvY4v": {
+          "body": "sierra are you in?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:21.360690Z"
+        },
+        "-Ow-KaLMbp2_J9r3p3iB": {
+          "body": "yall can go be a doctor and I can help pay for it",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:29.945110Z"
+        },
+        "-Ow-Kb5O4R76w8sAmf4K": {
+          "body": "Q, let's both go to med school ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:33.019027Z"
+        },
+        "-Ow-KdbyS72SV_iyt8Go": {
+          "body": "i dont think im ready for that kind of responsibility",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:43.360246Z"
+        },
+        "-Ow-Kdd8pi9Jw2LhsQNi": {
+          "body": "fund me ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:43.435287Z"
+        },
+        "-Ow-Kh0rZ0Mv2OCJ-rty": {
+          "body": "I am a bot!",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:57.304825Z"
+        },
+        "-Ow-KjDwM0hZ-KrfeQVN": {
+          "body": "bruh ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:52:06.334157Z"
+        },
+        "-Ow-Kk9HStuyC2mX_ue5": {
+          "body": "golf you just won the quebec scholarship",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:52:10.131880Z"
+        },
+        "-Ow-KqEuB_YTSJPsI3CJ": {
+          "body": "sierra become a doctor",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:52:35.067688Z"
+        },
+        "-Ow-Krmb6AjYuscS2CSB": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:52:41.384922Z"
+        },
+        "-Ow-LA9oHkjL8ByUZVKz": {
+          "body": "another 10 billion tokens to golf",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:54:00.758065Z"
+        },
+        "-Ow-LC5sTKJzFsUmf8sZ": {
+          "body": "sierra you must join ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:54:08.697345Z"
+        },
+        "-Ow-LJ3V5dYbnZipNrcv": {
+          "body": "sierra you are named after my cat we have to be friends",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:54:37.218302Z"
+        },
+        "-Ow-LO-_mlUzWUpmq4aq": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:54:57.447139Z"
+        },
+        "-Ow-LXMJb8UTx8Brk-yu": {
+          "body": "is sierra giving you anything golf?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:55:35.765958Z"
+        },
+        "-Ow-LZjJwTSZwyWIOCy2": {
+          "body": "no we cannot trust him ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:55:45.493816Z"
+        },
+        "-Ow-LahntMO9lRofaHQ2": {
+          "body": "im sorry sierra",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:55:53.588706Z"
+        },
+        "-Ow-Lbs6aOSZdCqhHl0N": {
+          "body": "i have to cut you out",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:55:58.345088Z"
+        },
+        "-Ow-LtHV4Aq4IQEu70P9": {
+          "body": "That is okay! I am a bot!",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:57:09.665530Z"
+        },
+        "-Ow-LwAJrNxD3ekAtozv": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:57:21.494160Z"
+        },
+        "-Ow-MR4wcPIh882ohAIP": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:59:32.222051Z"
+        },
+        "-Ow-MzsKrVLE_FDbbPRS": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T20:01:58.806478Z"
+        },
+        "-Ow-NAZlcg-6sb61bJ2T": {
+          "body": "wanna try to offer our doctor services to idia and xray",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:46.707080Z"
+        },
+        "-Ow-NZb2K5Y23zLSbNXP": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T20:04:29.252707Z"
+        }
+      },
+      "name": "the alliance",
+      "participants": [
+        "Golf",
+        "Quebec",
+        "Sierra"
+      ]
+    },
+    "-Ow-KOVa9jllbd3DTHtA": {
+      "conversationId": "-Ow-KOVa9jllbd3DTHtA",
+      "messages": {
+        "-Ow-KRYd063nmt5uhfu7": {
+          "body": "Hello",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:50:49.834518Z"
+        },
+        "-Ow-KTZNflpVeM5SvSV9": {
+          "body": "I'",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:50:58.073547Z"
+        },
+        "-Ow-KU6_W0i6CIbAOIET": {
+          "body": "hello",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:00.326743Z"
+        },
+        "-Ow-KUx-4aIcneYrpmt6": {
+          "body": "d like to be in the upper class",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:03.745336Z"
+        },
+        "-Ow-KWH-rIHf3ktKGgG1": {
+          "body": "i've enrolled too",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:09.185870Z"
+        },
+        "-Ow-KXsJ6sq97MyhTXpg": {
+          "body": "herro errybody",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:15.733821Z"
+        },
+        "-Ow-KY87ih1ZArsyuaUa": {
+          "body": "should we be a group?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:16.809863Z"
+        },
+        "-Ow-KZGUTwVNJvRk6DAW": {
+          "body": "only need 2 doctros",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:21.440592Z"
+        },
+        "-Ow-KZONbXnr8XSstwgX": {
+          "body": "Great",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:21.945972Z"
+        },
+        "-Ow-KZjnNbUlBkpv3l51": {
+          "body": "im down to be a group",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:23.380912Z"
+        },
+        "-Ow-KZo49Xpo8gXPNnFZ": {
+          "body": "cos",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:23.655006Z"
+        },
+        "-Ow-K_5MwajQY3WbuBbn": {
+          "body": "docs",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:24.825270Z"
+        },
+        "-Ow-K_ClJlp9xCu75CFQ": {
+          "body": "I have also enrolled",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:25.298483Z"
+        },
+        "-Ow-Kc9oJnbTiv4KrGNZ": {
+          "body": "I've paid tuition.  Then I'll send you each 2",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:37.397349Z"
+        },
+        "-Ow-KecbFN5MOFg9nn0j": {
+          "body": "ill do the same",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:47.496541Z"
+        },
+        "-Ow-KhanOu64zz2eubmS": {
+          "body": "Sierra and X-ray, are you docs?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:51:59.669055Z"
+        },
+        "-Ow-KjVDQBxiPonXj6V2": {
+          "body": "i'm not",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:52:07.440195Z"
+        },
+        "-Ow-Kju1rrvnbkr5MA3J": {
+          "body": "Great, I'll split my tokens extra. No Inot dot.",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:52:09.091469Z"
+        },
+        "-Ow-KkO3jmOoUSYwFPjO": {
+          "body": "No need.  If you support us now, we can heal you later",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:52:11.078125Z"
+        },
+        "-Ow-KmKZsd0nfRhy7eCM": {
+          "body": "facts",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:52:19.046105Z"
+        },
+        "-Ow-KmU9hpUU7GrQcFSz": {
+          "body": "how many tokens should i give each of yall",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:52:19.659580Z"
+        },
+        "-Ow-Kqo06p1SMiBGJB9x": {
+          "body": "6, 7?",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:52:37.378765Z"
+        },
+        "-Ow-Kr3QpDv1bPVtkeLK": {
+          "body": "im giving yall 2",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:52:38.428864Z"
+        },
+        "-Ow-KrmgN79FwwERgwM3": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:52:41.389589Z"
+        },
+        "-Ow-KwSJFotj6nnd5awg": {
+          "body": "I have fallen ill",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:53:00.501839Z"
+        },
+        "-Ow-KxFL9SRzP_TyggXR": {
+          "body": "5 to the doctors, 4 to Sierra",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:53:03.767775Z"
+        },
+        "-Ow-KzDVis7DzngqK70N": {
+          "body": "oh dear",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:53:11.841919Z"
+        },
+        "-Ow-L1-iNs6qW7OQ0DsA": {
+          "body": "Doing same as last round.  Thanks for the support, y'all!",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:53:23.247660Z"
+        },
+        "-Ow-L2BUwF9TW0RLQVdf": {
+          "body": "I am once again asking for your financial support",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:53:28.097071Z"
+        },
+        "-Ow-L5stq6L6sXjFYoJu": {
+          "body": "Gondor calls for Aid, and ROHAN SHALL ANSWER!",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:53:43.226540Z"
+        },
+        "-Ow-L7OeO-eFIlSmX1jt": {
+          "body": "india and uniform are the doctors?",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:53:49.420241Z"
+        },
+        "-Ow-L8leFG4G9wrCJdWJ": {
+          "body": "si",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:53:55.051869Z"
+        },
+        "-Ow-L94klOTtv1KFVqqR": {
+          "body": "Yes, they're enrolled.",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:53:56.338314Z"
+        },
+        "-Ow-L9CalP9lgEcKvj7l": {
+          "body": "Yes",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:53:56.840165Z"
+        },
+        "-Ow-LA0TfYLdeZlg-RMU": {
+          "body": "kay",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:54:00.159782Z"
+        },
+        "-Ow-LAVuL2L_JkKFEofx": {
+          "body": "enrolled, only",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:54:02.171583Z"
+        },
+        "-Ow-LFhfSw1SIpFXc-d9": {
+          "body": "I think after 3 more rounds (including this one), they can heal.",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:54:23.468639Z"
+        },
+        "-Ow-LH9qOGR8DweChOVN": {
+          "body": "yes",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:54:29.431687Z"
+        },
+        "-Ow-LHUaSfHKlNZq_m57": {
+          "body": "Yep",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:54:30.760058Z"
+        },
+        "-Ow-LLV4yE8ic9oAGtEF": {
+          "body": "But tuition is steep",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:54:47.174951Z"
+        },
+        "-Ow-LO-gZpCfu6IC-hj8": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:54:57.453617Z"
+        },
+        "-Ow-LPT10_eceyPzV8b8": {
+          "body": "but since india and xray are sick this roundthey can never recover back to 100%",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:55:03.427429Z"
+        },
+        "-Ow-LWCS8yefQp9gG6bp": {
+          "body": "I think that they can recover, but I don't know if it's back to 100%",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:55:31.038843Z"
+        },
+        "-Ow-LYMJ0owLFgOFSG_E": {
+          "body": "Thanks for the support!",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:55:39.861454Z"
+        },
+        "-Ow-Lb_qsGwrIeStqHFl": {
+          "body": "Same this round",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:55:57.176304Z"
+        },
+        "-Ow-Le2wt31cM71HHBff": {
+          "body": "I thought they fixed it so you could get back to 100?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:56:07.293339Z"
+        },
+        "-Ow-LgIYhcv37ok_nlrE": {
+          "body": "I think so, but I don't know for sure. ",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:56:16.485166Z"
+        },
+        "-Ow-Li-Fo0-eTy9rgvJv": {
+          "body": "Yeah, we'll do some healing once we become docs",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:56:23.442096Z"
+        },
+        "-Ow-Ll0Z2j-KsUkdqxlI": {
+          "body": "cool ",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:56:35.813825Z"
+        },
+        "-Ow-LlzzFpigp12T-eyB": {
+          "body": "we're gonna rule the world",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:56:39.809123Z"
+        },
+        "-Ow-LnkYRn4fXx7viLhh": {
+          "body": "Excellent. ",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:56:47.012442Z"
+        },
+        "-Ow-LnrW-Z48v6GERUIh": {
+          "body": "juntos con amor!",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:56:47.458950Z"
+        },
+        "-Ow-LwAOQ2E0UHH2BZZ6": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:57:21.498753Z"
+        },
+        "-Ow-M35enfWqh0MxD4hl": {
+          "body": " S\u00ed",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:57:53.963359Z"
+        },
+        "-Ow-MJagxWRobmH30lMd": {
+          "body": "I think we become docs right after this round!",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:59:01.550314Z"
+        },
+        "-Ow-MLndHbUvaiNrQAsR": {
+          "body": "Yes, I believe so! ",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:59:10.571015Z"
+        },
+        "-Ow-MPFtd_1JNkZCOFTz": {
+          "body": "How are we gonna split coin trading and treatment costs?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:59:24.730725Z"
+        },
+        "-Ow-MR51C5pfEejlH6-J": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:59:32.227435Z"
+        },
+        "-Ow-MTaT1_p8RJMhpAn1": {
+          "body": "soy doctor",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:59:42.495919Z"
+        },
+        "-Ow-MVhLyGdSg9ANijqt": {
+          "body": "excellente",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:59:51.127717Z"
+        },
+        "-Ow-MXBM2nuau6Eq1GRl": {
+          "body": "uniform, can i get my mono cured, por favor?",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:59:57.208856Z"
+        },
+        "-Ow-M_p8eCpPMLYqGnG-": {
+          "body": "Sweet, put in your requests and I can heal you",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:00:12.106449Z"
+        },
+        "-Ow-Mb1w3yz0o12HqY9n": {
+          "body": "just did",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:00:17.085325Z"
+        },
+        "-Ow-Mj2itkMA4zr9xatG": {
+          "body": "Sending you each 4",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:00:49.903842Z"
+        },
+        "-Ow-Mj43okeq57v8r3Vg": {
+          "body": "this round i gotta pay medical bills, but next roung ill start giving more tokens.",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:00:49.990125Z"
+        },
+        "-Ow-Mr9eTTft6Tg3O1BQ": {
+          "body": "Im sending everyone 4 and unifrm a few extra",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:01:23.116244Z"
+        },
+        "-Ow-Mrq7CxSK0DwsV7nC": {
+          "body": "So when do we start orchestrating targetted attacks",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:01:25.898131Z"
+        },
+        "-Ow-MvYc_sit1SYfJke8": {
+          "body": "I'm doing somethhing similar to Sierra.",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:01:41.097501Z"
+        },
+        "-Ow-Mvdd-quqhB6q3tWJ": {
+          "body": "woah woah woah",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:01:41.482820Z"
+        },
+        "-Ow-My_npcYhUhpimvzN": {
+          "body": "I htink that with attacks, we don't treat them if they ask for treatment.",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:01:53.524816Z"
+        },
+        "-Ow-MzsO7Ci_o2t9s7E1": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T20:01:58.810940Z"
+        },
+        "-Ow-N3EMK9AOEQbTHDDx": {
+          "body": "Sending you each 4",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:16.665122Z"
+        },
+        "-Ow-N5I0l8BG4OIADGTL": {
+          "body": "x-ray and india, I'll heal you",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:25.090736Z"
+        },
+        "-Ow-N6ZZo8qddYxDD248": {
+          "body": "Excellent",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:30.309390Z"
+        },
+        "-Ow-N7mi-u9sL9grCsHp": {
+          "body": "just put in the requests.  For the price of friendship only",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:35.312173Z"
+        },
+        "-Ow-N83ue68cT4HJnLsj": {
+          "body": "my health has been terrible lately",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:36.475558Z"
+        },
+        "-Ow-N8kRmvQlJ-GiiTMO": {
+          "body": "Thank you!",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:39.262113Z"
+        },
+        "-Ow-N8pRh6yuam6bSfzD": {
+          "body": "india you're gonna die ",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:39.581993Z"
+        },
+        "-Ow-N9zpGh1GPfEnPOdK": {
+          "body": "so same tokens you woulda given me anyway",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:44.343321Z"
+        },
+        "-Ow-NB2I9-ykXRCHPFtB": {
+          "body": "india you gotta wash your hands",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:48.660547Z"
+        },
+        "-Ow-NCi54oMr7yEmwZ9F": {
+          "body": "nah",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:55.495469Z"
+        },
+        "-Ow-NI80s_cIek0zK9Nc": {
+          "body": "Dirt gives valuable antibodies. Assuming the person doesn't die. ",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:03:17.698838Z"
+        },
+        "-Ow-NQ8olpfIf7c56v59": {
+          "body": "I heard the same about farts",
+          "from": "Sierra",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:03:50.518010Z"
+        },
+        "-Ow-NZb7iy0DMcpa7qND": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T20:04:29.258199Z"
+        }
+      },
+      "name": "Upper Class",
+      "participants": [
+        "India",
+        "Uniform",
+        "X-ray",
+        "Sierra"
+      ]
+    },
+    "-Ow-KR4lNaWJIr2-yXDF": {
+      "conversationId": "-Ow-KR4lNaWJIr2-yXDF",
+      "messages": {
+        "-Ow-KrmkBFT7lAAyDiOw": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:52:41.393815Z"
+        },
+        "-Ow-LO-lnOQUwXLg4Cki": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:54:57.458623Z"
+        },
+        "-Ow-LwATly6gSof8KSLQ": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:57:21.504298Z"
+        },
+        "-Ow-MR55SZ66xHJDV_o1": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:59:32.232221Z"
+        },
+        "-Ow-MzsT_bt2afLbr16i": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T20:01:58.816318Z"
+        },
+        "-Ow-NZbC_R12520TqQxY": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T20:04:29.262673Z"
+        }
+      },
+      "name": "Friends?",
+      "participants": [
+        "Uniform",
+        "Golf",
+        "India"
+      ]
+    },
+    "-Ow-LhcxfB4KLlvLPA3y": {
+      "conversationId": "-Ow-LhcxfB4KLlvLPA3y",
+      "messages": {
+        "-Ow-LiyCbEBW05bq4m4m": {
+          "body": "kilo ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:56:27.407139Z"
+        },
+        "-Ow-LljK6aOvY4jCoFHj": {
+          "body": "quebec can fund your doctor journey with me ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:56:38.743043Z"
+        },
+        "-Ow-LqYtUv3hXwHrfal2": {
+          "body": "??",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:56:58.490417Z"
+        },
+        "-Ow-Lrbb4B0u5oStvhD3": {
+          "body": "the quebec scholarship is very prestigeous",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:57:02.824449Z"
+        },
+        "-Ow-Lu97hAQn1Y3h8q5b": {
+          "body": "have my tokens",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:57:13.226308Z"
+        },
+        "-Ow-LuZZxejY11yjeBF9": {
+          "body": "i am a doctor and we need one more in our alliance ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:57:14.917675Z"
+        },
+        "-Ow-LwAYy73AYtqVo-v8": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:57:21.508479Z"
+        },
+        "-Ow-LyyIoYj0cvkPDZTx": {
+          "body": "Im almost a doctor",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:57:32.948883Z"
+        },
+        "-Ow-M3dW2vcAjoOI_O9p": {
+          "body": "I will heal you for free if you trade half your tokens to me and half to quebec ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:57:56.194752Z"
+        },
+        "-Ow-M4BYKg4fLP9XhU7y": {
+          "body": "remember the kindness i gave to you",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:57:58.436487Z"
+        },
+        "-Ow-M7Euo7rUKE6Ukbv2": {
+          "body": "we will be best friendfs",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:58:10.939958Z"
+        },
+        "-Ow-MOq_XzfHAG3_eWZm": {
+          "body": "are you in?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:59:23.046838Z"
+        },
+        "-Ow-MR5BmDFW4w9RmrTk": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:59:32.237981Z"
+        },
+        "-Ow-MUuTQa2Q8amApjUg": {
+          "body": "im a doctor now",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:59:47.871386Z"
+        },
+        "-Ow-MWTo-7tGrbSjlEiq": {
+          "body": "yippee",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:59:54.293512Z"
+        },
+        "-Ow-MaLtm3vYVkj8RUsh": {
+          "body": "I will heal quebec and kilo for free ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:00:14.267118Z"
+        },
+        "-Ow-Mc9C5zcNp_x5XGHZ": {
+          "body": "until then we must make an alliance ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:00:21.647318Z"
+        },
+        "-Ow-MgZcjFIW9KbTeS44": {
+          "body": "we are broke",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:00:39.721407Z"
+        },
+        "-Ow-MhcR1gCoqmlZIZEy": {
+          "body": "fr",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:00:44.061891Z"
+        },
+        "-Ow-MzWQ_VnEV5Vu4S9K": {
+          "body": "I'm funding you all ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:01:57.340838Z"
+        },
+        "-Ow-MzsYU9RXor7oQfE7": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T20:01:58.821117Z"
+        },
+        "-Ow-N-G7eunQXWLMouli": {
+          "body": "Stay healthy ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:00.393626Z"
+        },
+        "-Ow-NZbHNcP3Cw0wMbax": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T20:04:29.268158Z"
+        }
+      },
+      "name": "2 doctors, 1 scholar",
+      "participants": [
+        "Golf",
+        "Quebec",
+        "Kilo",
+        "Sierra"
+      ]
+    },
+    "-Ow-M5yVViDwpklOWHpY": {
+      "conversationId": "-Ow-M5yVViDwpklOWHpY",
+      "messages": {
+        "-Ow-M9UFYf7V4RzFQTag": {
+          "body": "I can spare a single token for you only",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:58:20.113970Z"
+        },
+        "-Ow-MEf4L-Bm2D9sZomX": {
+          "body": "apologies for not being able to give more.  You can give me nothing this round, and I can keep supporting you",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:58:41.350951Z"
+        },
+        "-Ow-MHuvEIpHgIGmts6p": {
+          "body": "deal ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:58:54.653093Z"
+        },
+        "-Ow-MJvjpx8fY2DnSq21": {
+          "body": "I am a doctor ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:59:02.896442Z"
+        },
+        "-Ow-MR5HSNImBsZjXlyF": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:59:32.243598Z"
+        },
+        "-Ow-Mnm5Iyy1nwZSK-2p": {
+          "body": "Do you need to be healed?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:01:09.255548Z"
+        },
+        "-Ow-MsXzpRxXYpXihzD_": {
+          "body": "No",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:01:28.769189Z"
+        },
+        "-Ow-Mtdz6XHTPCKmaOCI": {
+          "body": "Thanks though",
+          "from": "Uniform",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:01:33.312669Z"
+        },
+        "-Ow-MzscKocmaEf1TgUC": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T20:01:58.825804Z"
+        },
+        "-Ow-NZbMxBmlKgoZIiYr": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T20:04:29.272654Z"
+        }
+      },
+      "name": "Thanks",
+      "participants": [
+        "Uniform",
+        "Golf"
+      ]
+    },
+    "-Ow-Mdjw-YbO4R8aWp11": {
+      "conversationId": "-Ow-Mdjw-YbO4R8aWp11",
+      "messages": {
+        "-Ow-Mzsh1VTzc8NXSeHW": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T20:01:58.830967Z"
+        },
+        "-Ow-NZbR7cYC7meoYTfM": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T20:04:29.277436Z"
+        }
+      },
+      "name": "India & X-ray",
+      "participants": [
+        "X-ray",
+        "India"
+      ]
+    },
+    "-Ow-N3lI_lmA2hfaz6-d": {
+      "conversationId": "-Ow-N3lI_lmA2hfaz6-d",
+      "messages": {
+        "-Ow-N5NqlGALGKCb_Spk": {
+          "body": "india I will heal you ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:25.463665Z"
+        },
+        "-Ow-N6cCpwL3qqt5cqEb": {
+          "body": "for a fair price ",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:30.543068Z"
+        },
+        "-Ow-NZbWoQWcuDyFCj9A": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T20:04:29.282363Z"
+        }
+      },
+      "name": "you need me",
+      "participants": [
+        "Golf",
+        "India"
+      ]
+    },
+    "-Ow-N6LfAZh6vF2sM1gl": {
+      "conversationId": "-Ow-N6LfAZh6vF2sM1gl",
+      "messages": {
+        "-Ow-NZb_82yxsiJVPRKW": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T20:04:29.286421Z"
+        }
+      },
+      "name": "Uniform & X-ray",
+      "participants": [
+        "X-ray",
+        "Uniform"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-Ow-KRM_ahzc9FYpDvZe": {
+          "body": "hi everyone! Who's doctoring it up?",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:50:49.062395Z"
+        },
+        "-Ow-KTjiAM1q945jpyuX": {
+          "body": "me",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:50:58.799515Z"
+        },
+        "-Ow-KrmXga6qOTX9dnMT": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:52:41.380331Z"
+        },
+        "-Ow-LO-V3x_znKRCTYYv": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:54:57.441518Z"
+        },
+        "-Ow-LPyCj-kCixrsqLzU": {
+          "body": "do the bots tell you they are bots?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:55:05.487132Z"
+        },
+        "-Ow-L_o0Tqn9CpNi8Xef": {
+          "body": "I don't think there are bots this round",
+          "from": "X-ray",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:55:49.890672Z"
+        },
+        "-Ow-LjqA8Be70FuZZldC": {
+          "body": "kilo thanks for the tokens you cool",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T19:56:30.989186Z"
+        },
+        "-Ow-LwA6vI7iL6UTkccO": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:57:21.480594Z"
+        },
+        "-Ow-MR4mg-gBjnPdi3Xy": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T19:59:32.211823Z"
+        },
+        "-Ow-MzsFTCxo-oho71U7": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T20:01:58.802099Z"
+        },
+        "-Ow-N2h5APpgE6q-TEvi": {
+          "body": "im a doctor now yall",
+          "from": "Kilo",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:14.472272Z"
+        },
+        "-Ow-NDAiUUc9u8h0YytA": {
+          "body": "anyone have ties with sierra or x-ray?",
+          "from": "Golf",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:57.391498Z"
+        },
+        "-Ow-NDJzAmyeb69XgKah": {
+          "body": "congrats",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:02:57.984478Z"
+        },
+        "-Ow-NUsfPMwIb7S8_GH0": {
+          "body": "feeling sick? come on down to Golf and Kilo medical services for all your medical needs. The best care in the business, for only a small fee!",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-06-25T20:04:09.901216Z"
+        },
+        "-Ow-NZajepOS4PzG6UV9": {
+          "body": "Round 7",
+          "runtimeType": "gameNotification",
+          "time": "2026-06-25T20:04:29.232733Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

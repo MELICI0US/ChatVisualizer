@@ -1,0 +1,154 @@
+{
+  "conversations": {
+    "-OryFfKUrFPuMaDdyYxC": {
+      "conversationId": "-OryFfKUrFPuMaDdyYxC",
+      "messages": {
+        "-OryFhLwm4A2j0XuQztm": {
+          "body": "hey",
+          "from": "Meng Po",
+          "runtimeType": "identified",
+          "time": "2026-05-06T17:08:06.206509Z"
+        },
+        "-OryFlIgbRc2D55PsHI5": {
+          "body": "lets win",
+          "from": "Batara Kala",
+          "runtimeType": "identified",
+          "time": "2026-05-06T17:08:22.382913Z"
+        },
+        "-OryFm9u5XSUelsDzo90": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-05-06T17:08:25.916242Z"
+        },
+        "-OryFt0noO4ucEKSheIV": {
+          "body": "ok lets do this",
+          "from": "Meng Po",
+          "runtimeType": "identified",
+          "time": "2026-05-06T17:08:54.005799Z"
+        },
+        "-OryFvNpfyEtVgKWYZmt": {
+          "body": "you steal from others and I will give you all of mine",
+          "from": "Meng Po",
+          "runtimeType": "identified",
+          "time": "2026-05-06T17:09:03.671818Z"
+        },
+        "-OryFzCNt4O_d0G1VGMH": {
+          "body": "sounds good",
+          "from": "Batara Kala",
+          "runtimeType": "identified",
+          "time": "2026-05-06T17:09:19.322363Z"
+        },
+        "-OryG9nWoOoP8oEGm60L": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-05-06T17:10:06.819568Z"
+        },
+        "-OryGGJoOVem-KwoPt2C": {
+          "body": "why did you lose points?",
+          "from": "Meng Po",
+          "runtimeType": "identified",
+          "time": "2026-05-06T17:10:33.526766Z"
+        },
+        "-OryGMju7lWyLbR7ZgWj": {
+          "body": "hahaha idk",
+          "from": "Batara Kala",
+          "runtimeType": "identified",
+          "time": "2026-05-06T17:10:59.836760Z"
+        },
+        "-OryGPhoGc9Zy9_k87vl": {
+          "body": "for stealing?",
+          "from": "Batara Kala",
+          "runtimeType": "identified",
+          "time": "2026-05-06T17:11:11.990373Z"
+        },
+        "-OryGe9836d-C3gw_u8u": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-05-06T17:12:15.243618Z"
+        },
+        "-OryHDuA6uExrORMH3P-": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-05-06T17:14:45.773195Z"
+        },
+        "-OryHlw_3pjfWkxzE34s": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-05-06T17:17:09.287153Z"
+        }
+      },
+      "name": "Group",
+      "participants": [
+        "Meng Po",
+        "Batara Kala"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-OryFm9lCdRjTyTmcAd9": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-05-06T17:08:25.908010Z"
+        },
+        "-OryG87ZsFVugQ6j9iM8": {
+          "body": "no stealing",
+          "from": "Meng Po",
+          "runtimeType": "identified",
+          "time": "2026-05-06T17:09:59.974494Z"
+        },
+        "-OryG99-HCCT8UdJVr4T": {
+          "body": "cmon guys",
+          "from": "Meng Po",
+          "runtimeType": "identified",
+          "time": "2026-05-06T17:10:04.162307Z"
+        },
+        "-OryG9nOJtQ4dXrWu3mI": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-05-06T17:10:06.811257Z"
+        },
+        "-OryGNcfVruOiMyLsPPH": {
+          "body": "Let's attack meng po",
+          "from": "Coatlicue",
+          "runtimeType": "identified",
+          "time": "2026-05-06T17:11:03.469438Z"
+        },
+        "-OryGe93avwKyoxh9X4o": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-05-06T17:12:15.238291Z"
+        },
+        "-OryHAvCaDsz0ZcpcWrw": {
+          "body": ":(",
+          "from": "Meng Po",
+          "runtimeType": "identified",
+          "time": "2026-05-06T17:14:33.551705Z"
+        },
+        "-OryHDu49R5DfzxkDP_n": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-05-06T17:14:45.767475Z"
+        },
+        "-OryHiMfG6Aa_r3uMqOu": {
+          "body": "help the poor",
+          "from": "Batara Kala",
+          "runtimeType": "identified",
+          "time": "2026-05-06T17:16:54.637836Z"
+        },
+        "-OryHlwTnCXNwE_4yjod": {
+          "body": "Round 6",
+          "runtimeType": "gameNotification",
+          "time": "2026-05-06T17:17:09.280153Z"
+        },
+        "-OryHmghIVYayei_nkpv": {
+          "body": "Not very *god of destruction*-like of you",
+          "from": "Hades",
+          "runtimeType": "identified",
+          "time": "2026-05-06T17:17:12.368019Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}

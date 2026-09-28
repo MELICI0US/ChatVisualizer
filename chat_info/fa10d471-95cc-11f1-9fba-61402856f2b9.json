@@ -1,0 +1,390 @@
+{
+  "conversations": {
+    "-Ozml8LsMQDY34afQ-fb": {
+      "conversationId": "-Ozml8LsMQDY34afQ-fb",
+      "messages": {
+        "-OzmlBRM6p8FB-3AjGnB": {
+          "body": "let's win",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:10.138573Z"
+        },
+        "-OzmlLM8rg0Q-BTHFbRd": {
+          "body": "charlie, you will be our team doctor",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:50.764345Z"
+        },
+        "-OzmlZk16_j7YB3pALrB": {
+          "body": "okay!",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:41:49.701640Z"
+        },
+        "-Ozmla7gjrFZkTK3-aWU": {
+          "body": "4 each",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:41:55.375654Z"
+        },
+        "-OzmlaiYPPEez7gcbMnU": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-11T21:41:57.797959Z"
+        },
+        "-OzmlrO5vlxsHfr44e5K": {
+          "body": "i'm giving you 4 again ",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:43:06.057389Z"
+        },
+        "-OzmlrtKFyVDMqSerOvL": {
+          "body": "whiskey ",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:43:08.119873Z"
+        },
+        "-Ozmm6zzuUU4oGMQVuOT": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-11T21:44:14.082151Z"
+        },
+        "-OzmmgnZ7NSH_K8fPkC6": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-11T21:46:44.843140Z"
+        },
+        "-OzmnGcOyllxz_BnyCr0": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-11T21:49:15.677052Z"
+        }
+      },
+      "name": "STRONGEST GROUP",
+      "participants": [
+        "India",
+        "Charlie",
+        "Whiskey"
+      ]
+    },
+    "-OzmlYQMK3wOBa6UhfQw": {
+      "conversationId": "-OzmlYQMK3wOBa6UhfQw",
+      "messages": {
+        "-Ozml_YqFG9cw-htIOOT": {
+          "body": "i donate to yall",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:41:53.017544Z"
+        },
+        "-Ozmlaic9oLZxCjQldDs": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-11T21:41:57.803336Z"
+        },
+        "-OzmldwaiIAOfmjA2fXr": {
+          "body": "I will be your friend. Sorry I missed the message. ",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:42:10.984929Z"
+        },
+        "-OzmlhDrsRB9LSWdBFw4": {
+          "body": "no worries",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:42:24.442326Z"
+        },
+        "-OzmliXF4mEZY5f3AwQy": {
+          "body": "how much should we donate to each other?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:42:29.779013Z"
+        },
+        "-Ozmln1-2mEnp18CZ6KN": {
+          "body": "I was going to give 4 to each of you, and then give some to Whiskey",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:42:48.195693Z"
+        },
+        "-OzmlpUAaFSTJqBjAhGj": {
+          "body": "is whiskey our boy?",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:42:58.254255Z"
+        },
+        "-OzmluTLEWMNeKEgKj7T": {
+          "body": "I think so. He seems more reticent than Charlie, so I think that's a good quality for someone in power. ",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:43:18.681029Z"
+        },
+        "-Ozmm4vdlJzReCisVnyo": {
+          "body": "should i become a doctor",
+          "from": "India",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:44:05.612554Z"
+        },
+        "-Ozmm7-5C70r_ghWcFhU": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-11T21:44:14.088802Z"
+        },
+        "-Ozmmgneu1ZEB2WfiOm5": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-11T21:46:44.848761Z"
+        },
+        "-OzmnGcT66dmBIqVXvPN": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-11T21:49:15.682480Z"
+        }
+      },
+      "name": "friends",
+      "participants": [
+        "Quebec",
+        "India",
+        "Hotel"
+      ]
+    },
+    "-Ozmlnc9bblHHubikvCR": {
+      "conversationId": "-Ozmlnc9bblHHubikvCR",
+      "messages": {
+        "-Ozmlphn1KkNoocwSlWX": {
+          "body": "Hi wanna be friends",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:42:59.189881Z"
+        },
+        "-OzmluO_mtZbMxsG1CXb": {
+          "body": "sure i like it ",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:43:18.376536Z"
+        },
+        "-OzmluwJUv2UqUpyf4Yl": {
+          "body": "ill donate to you",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:43:20.599311Z"
+        },
+        "-Ozmlz3F7wYteJtLKqDo": {
+          "body": "we're doing 4 to each",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:43:37.491298Z"
+        },
+        "-Ozmm7-Cciz6ibkiflnM": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-11T21:44:14.096637Z"
+        },
+        "-OzmmgnjHlImWp9ivWRv": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-11T21:46:44.853714Z"
+        },
+        "-OzmnGcZ1ok6J9CEbVuz": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-11T21:49:15.688031Z"
+        }
+      },
+      "name": "nate's dad's chat",
+      "participants": [
+        "Papa",
+        "Charlie",
+        "Hotel",
+        "Quebec",
+        "India"
+      ]
+    },
+    "global": {
+      "conversationId": "global",
+      "messages": {
+        "-Ozml5sMrISBmNrs_OKS": {
+          "body": "I will be a respectable doctor who will support me",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:39:47.354202Z"
+        },
+        "-Ozml60vPj9gWginmmCd": {
+          "body": "hey",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:39:47.966182Z"
+        },
+        "-Ozml7J1T2CTqgIBhdjk": {
+          "body": "Charlie",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:39:53.221Z"
+        },
+        "-OzmlAFf87ccPTyGuVaJ": {
+          "body": "I am open to friendship",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:05.294153Z"
+        },
+        "-OzmlAhZDCC3im6I8pxp": {
+          "body": "Yeah ok",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:07.143547Z"
+        },
+        "-OzmlBLP1P-uTN82IZ8v": {
+          "body": "I am the insurance agent.  I will be negotiating prices with the doctors for you",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:09.757342Z"
+        },
+        "-OzmlCGYecjeMMRm1ne3": {
+          "body": "I can be a second opinion if needed",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:13.542361Z"
+        },
+        "-OzmlCme9hCoyu-79HZQ": {
+          "body": "I assumed you'd be a respectable doctor until you said that. Now I'm a little nervous that you will not be. ",
+          "from": "Hotel",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:15.661367Z"
+        },
+        "-OzmlDvAQ_HAQ7fxZXZV": {
+          "body": "I will get you a good deal",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:20.302579Z"
+        },
+        "-OzmlEd6znn55GDZ4cC_": {
+          "body": "papa i will heal u up good",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:23.241865Z"
+        },
+        "-OzmlI3LH4k8NzR7qmdL": {
+          "body": "Whiskey is the best medicine",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:37.273464Z"
+        },
+        "-OzmlI3LH4k8NzR7qmdM": {
+          "body": "romeo i will cooperate with u",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:37.273538Z"
+        },
+        "-OzmlI3Ms-OMk9raLS65": {
+          "body": "I would like to be aligned with a doctor as well",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:37.274455Z"
+        },
+        "-OzmlItj9iL4CQQ6Q4r9": {
+          "body": "Charlie?",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:40.690136Z"
+        },
+        "-OzmlKH6-1co9bHeb0vs": {
+          "body": "lets make JHG great again",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:46.346508Z"
+        },
+        "-OzmlLJ84LFOJwiHdmXr": {
+          "body": "Hotel you can trust charlie I just met the guy he hasnt done anyuthoing evil yet",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:50.572073Z"
+        },
+        "-OzmlLOe7WJ4nIYMVcQL": {
+          "body": "Is Charlie taking a sponsorship?",
+          "from": "Tango",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:50.925474Z"
+        },
+        "-OzmlLxcE_f8-tjdq8NI": {
+          "body": "I can heal your physical and emotional damage",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:40:53.226789Z"
+        },
+        "-OzmlSsBOsfElido43q4": {
+          "body": "doctor charlie, well help to keep u happy",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:41:21.551224Z"
+        },
+        "-OzmlUD-MXt7zAFMBer1": {
+          "body": "look ive even got a slogan",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:41:27.043568Z"
+        },
+        "-OzmlUXscwFtjpDSzAZU": {
+          "body": "CHARLIE I WILL DONATE TO YOU",
+          "from": "Quebec",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:41:28.379478Z"
+        },
+        "-OzmlaiSDesLJmAg-5Ab": {
+          "body": "Round 2",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-11T21:41:57.792036Z"
+        },
+        "-OzmlbC5j_rVZ32Kz4dN": {
+          "body": "loyal patrons get rewarded",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:41:59.753567Z"
+        },
+        "-OzmlxHNN7zWDykXE-D9": {
+          "body": "We need another doctor",
+          "from": "Romeo",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:43:30.202862Z"
+        },
+        "-OzmlysmgIcael8KL1Fh": {
+          "body": "I am giving many to all, thank you for your support",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:43:36.757717Z"
+        },
+        "-Ozmm-les4QjOsKsqsn2": {
+          "body": "we will be the strongest group",
+          "from": "Whiskey",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:43:44.493723Z"
+        },
+        "-Ozmm6jdNiz-FMyu_zKW": {
+          "body": "Gang is charlie the only doctor?",
+          "from": "Papa",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:44:13.035759Z"
+        },
+        "-Ozmm6nnXYfg-chKhGJy": {
+          "body": "loyal and highest contributing patrons receive support and care first",
+          "from": "Charlie",
+          "runtimeType": "identified",
+          "time": "2026-08-11T21:44:13.302388Z"
+        },
+        "-Ozmm6zs5Xlj2FWQLRB4": {
+          "body": "Round 3",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-11T21:44:14.075158Z"
+        },
+        "-OzmmgnV3TyyimCeWmEH": {
+          "body": "Round 4",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-11T21:46:44.838295Z"
+        },
+        "-OzmnGcI2V8_2T0d3dg3": {
+          "body": "Round 5",
+          "runtimeType": "gameNotification",
+          "time": "2026-08-11T21:49:15.671021Z"
+        }
+      },
+      "name": "Global Chat"
+    }
+  }
+}
