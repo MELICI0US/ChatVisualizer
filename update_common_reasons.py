@@ -19,9 +19,7 @@ def collect_reasons(annotation_paths: list[Path]) -> list[str]:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(
-        description="Add reasons from chat annotation files to the common reasons file."
-    )
+    parser = argparse.ArgumentParser(description="Update common creation and stopped-use reasons.")
     parser.add_argument(
         "directory",
         nargs="?",
@@ -35,12 +33,26 @@ def main() -> None:
         default=Path(__file__).with_name("common_reasons.json"),
         help="Common reasons JSON file to update",
     )
+    parser.add_argument(
+        "--common-stopped-reasons",
+        type=Path,
+        default=Path(__file__).with_name("common_stopped_reasons.json"),
+        help="Common stopped-use reasons JSON file to update",
+    )
     args = parser.parse_args()
 
     annotation_paths = sorted(
         path
         for path in args.directory.rglob("*.reasons.json")
+        if not path.name.endswith(".stopped_reasons.json")
+        and path.resolve() != args.common_reasons.resolve()
+        and path.resolve() != args.common_stopped_reasons.resolve()
+    )
+    stopped_annotation_paths = sorted(
+        path
+        for path in args.directory.rglob("*.stopped_reasons.json")
         if path.resolve() != args.common_reasons.resolve()
+        and path.resolve() != args.common_stopped_reasons.resolve()
     )
     existing = load_common_reasons(args.common_reasons)
     merged = existing + [
@@ -49,7 +61,18 @@ def main() -> None:
         if reason not in existing
     ]
     save_common_reasons(args.common_reasons, merged)
-    print(f"Scanned {len(annotation_paths)} annotation file(s); common reasons: {len(merged)}")
+    existing_stopped = load_common_reasons(args.common_stopped_reasons)
+    merged_stopped = existing_stopped + [
+        reason
+        for reason in collect_reasons(stopped_annotation_paths)
+        if reason not in existing_stopped
+    ]
+    save_common_reasons(args.common_stopped_reasons, merged_stopped)
+    print(
+        f"Scanned {len(annotation_paths)} creation and "
+        f"{len(stopped_annotation_paths)} stopped-use annotation file(s); "
+        f"common reasons: {len(merged)}, stopped-use reasons: {len(merged_stopped)}"
+    )
 
 
 if __name__ == "__main__":

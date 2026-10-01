@@ -7,9 +7,12 @@ from chat_parser import (
     load_common_reasons,
     load_conversations,
     load_reasons,
+    load_stopped_reasons,
     reasons_path_for,
     save_common_reasons,
     save_reasons,
+    save_stopped_reasons,
+    stopped_reasons_path_for,
 )
 
 
@@ -82,6 +85,24 @@ class LoadConversationsTests(unittest.TestCase):
         self.assertEqual(conversations[0].reason, "random initial group")
         self.assertEqual(saved_reasons, {"group-a": "random initial group"})
 
+    def test_loads_stopped_reasons_from_separate_file(self):
+        payload = {"conversations": {"group-a": {"name": "group", "participants": []}}}
+
+        with tempfile.TemporaryDirectory() as tmp:
+            export_path = Path(tmp) / "sample.json"
+            export_path.write_text(json.dumps(payload), encoding="utf-8")
+            reason_path = reasons_path_for(export_path)
+            stopped_reason_path = stopped_reasons_path_for(export_path)
+            save_reasons(reason_path, {"group-a": "random initial group"})
+            save_stopped_reasons(stopped_reason_path, {"group-a": "teammate left"})
+
+            conversations = load_conversations(export_path)
+            saved_stopped_reasons = load_stopped_reasons(stopped_reason_path)
+
+        self.assertEqual(conversations[0].reason, "random initial group")
+        self.assertEqual(conversations[0].stopped_reason, "teammate left")
+        self.assertEqual(saved_stopped_reasons, {"group-a": "teammate left"})
+
     def test_loads_and_saves_common_reasons(self):
         with tempfile.TemporaryDirectory() as tmp:
             path = Path(tmp) / "common_reasons.json"
@@ -90,6 +111,14 @@ class LoadConversationsTests(unittest.TestCase):
             reasons = load_common_reasons(path)
 
         self.assertEqual(reasons, ["random initial group", "combining groups"])
+
+    def test_common_reason_lists_are_separate(self):
+        self.assertEqual(load_common_reasons("common_reasons.json"), [
+            "random initial group",
+            "combining groups",
+        ])
+        self.assertIn("teammate left", load_common_reasons("common_stopped_reasons.json"))
+        self.assertNotIn("teammate left", load_common_reasons("common_reasons.json"))
 
 
 if __name__ == "__main__":
