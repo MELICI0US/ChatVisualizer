@@ -33,6 +33,7 @@ class Conversation:
     last_active_round: Optional[int]
     creator: Optional[str] = None
     reason: str = ""
+    stopped_reason: str = ""
 
 
 def _parse_time(value: Optional[str]) -> Optional[datetime]:
@@ -73,6 +74,11 @@ def reasons_path_for(json_path: str | Path) -> Path:
     return path.with_name(f"{path.stem}.reasons.json")
 
 
+def stopped_reasons_path_for(json_path: str | Path) -> Path:
+    path = Path(json_path)
+    return path.with_name(f"{path.stem}.stopped_reasons.json")
+
+
 def load_reasons(reasons_path: str | Path) -> dict[str, str]:
     path = Path(reasons_path)
     if not path.exists():
@@ -92,6 +98,14 @@ def save_reasons(reasons_path: str | Path, reasons: dict[str, str]) -> None:
     with path.open("w", encoding="utf-8") as f:
         json.dump({"reasons": reasons}, f, indent=2, ensure_ascii=False)
         f.write("\n")
+
+
+def load_stopped_reasons(stopped_reasons_path: str | Path) -> dict[str, str]:
+    return load_reasons(stopped_reasons_path)
+
+
+def save_stopped_reasons(stopped_reasons_path: str | Path, reasons: dict[str, str]) -> None:
+    save_reasons(stopped_reasons_path, reasons)
 
 
 def load_common_reasons(common_reasons_path: str | Path) -> list[str]:
@@ -118,11 +132,15 @@ def save_common_reasons(common_reasons_path: str | Path, reasons: list[str]) -> 
 def load_conversations(
     json_path: str | Path,
     reasons_path: str | Path | None = None,
+    stopped_reasons_path: str | Path | None = None,
 ) -> list[Conversation]:
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     reasons = load_reasons(reasons_path or reasons_path_for(json_path))
+    stopped_reasons = load_stopped_reasons(
+        stopped_reasons_path or stopped_reasons_path_for(json_path)
+    )
     raw_conversations = data.get("conversations") or data.get("chatGroups") or {}
     conversations: list[Conversation] = []
 
@@ -161,6 +179,7 @@ def load_conversations(
                 created_round=None,
                 last_active_round=None,
                 reason=reasons.get(conversation_id, ""),
+                stopped_reason=stopped_reasons.get(conversation_id, ""),
             )
         )
 

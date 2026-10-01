@@ -12,10 +12,13 @@ from chat_parser import (
     load_conversations,
     reasons_path_for,
     save_reasons,
+    save_stopped_reasons,
+    stopped_reasons_path_for,
 )
 
 
 COMMON_REASONS_PATH = Path(__file__).with_name("common_reasons.json")
+COMMON_STOPPED_REASONS_PATH = Path(__file__).with_name("common_stopped_reasons.json")
 DEFAULT_COMMON_REASONS = (
     "random initial group",
     "combining groups",
@@ -29,7 +32,7 @@ class ChatVisualizerApp(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("Chat Visualizer")
-        self.geometry("1600x720")
+        self.geometry("1800x720")
 
         self.conversations: list[Conversation] = []
         try:
@@ -37,8 +40,18 @@ class ChatVisualizerApp(tk.Tk):
         except (OSError, ValueError) as exc:
             messagebox.showerror("Invalid common reasons file", f"Could not load common reasons:\n{exc}")
             common_reasons = list(DEFAULT_COMMON_REASONS)
+        try:
+            common_stopped_reasons = load_common_reasons(COMMON_STOPPED_REASONS_PATH)
+        except (OSError, ValueError) as exc:
+            messagebox.showerror(
+                "Invalid common stopped reasons file",
+                f"Could not load common stopped reasons:\n{exc}",
+            )
+            common_stopped_reasons = []
         self.common_reasons = tuple(common_reasons)
+        self.common_stopped_reasons = tuple(common_stopped_reasons)
         self.reasons_path: Path | None = None
+        self.stopped_reasons_path: Path | None = None
         self.player_colors: dict[str, str] = {}
         self.player_tags: dict[str, str] = {}
         self.table_player_tags: dict[str, str] = {}
@@ -68,7 +81,16 @@ class ChatVisualizerApp(tk.Tk):
 
         self.conversation_table = ttk.Treeview(
             left_panel,
-            columns=("name", "creator", "participants", "message_count", "created_round", "last_round", "reason"),
+            columns=(
+                "name",
+                "creator",
+                "participants",
+                "message_count",
+                "created_round",
+                "last_round",
+                "reason",
+                "stopped_reason",
+            ),
             show="headings",
             selectmode="browse",
         )
@@ -78,7 +100,8 @@ class ChatVisualizerApp(tk.Tk):
         self.conversation_table.heading("message_count", text="# Messages")
         self.conversation_table.heading("created_round", text="Created Round")
         self.conversation_table.heading("last_round", text="Last Used Round")
-        self.conversation_table.heading("reason", text="Reason")
+        self.conversation_table.heading("reason", text="Why Created")
+        self.conversation_table.heading("stopped_reason", text="Why Stopped")
         self.conversation_table.column("name", width=220)
         self.conversation_table.column("creator", width=140)
         self.conversation_table.column("participants", width=140)
@@ -86,28 +109,26 @@ class ChatVisualizerApp(tk.Tk):
         self.conversation_table.column("created_round", width=120, anchor=tk.CENTER)
         self.conversation_table.column("last_round", width=120, anchor=tk.CENTER)
         self.conversation_table.column("reason", width=220)
+        self.conversation_table.column("stopped_reason", width=220)
         self.conversation_table.tag_configure("conversation-separator", foreground="#9ca3af")
         self.conversation_table.bind("<<TreeviewSelect>>", self._render_conversation)
         self.conversation_table.pack(fill=tk.BOTH, expand=True)
 
         reason_frame = ttk.Frame(right_panel)
         reason_frame.pack(fill=tk.X, pady=(0, 8))
-        ttk.Label(reason_frame, text="Why was this chat created?").pack(side=tk.LEFT)
-        self.reason_choice_var = tk.StringVar()
-        self.reason_choice = ttk.Combobox(
+        self._create_reason_controls(
             reason_frame,
-            textvariable=self.reason_choice_var,
-            values=(*self.common_reasons, OTHER_REASON),
-            state="readonly",
-            width=28,
+            "Why was this chat created?",
+            "reason",
         )
-        self.reason_choice.pack(side=tk.LEFT, padx=(8, 0))
-        self.reason_choice.bind("<<ComboboxSelected>>", self._reason_choice_selected)
-        self.reason_entry_var = tk.StringVar()
-        self.reason_entry = ttk.Entry(reason_frame, textvariable=self.reason_entry_var, state=tk.DISABLED)
-        self.reason_entry.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(8, 0))
-        self.reason_entry.bind("<KeyRelease>", self._update_current_reason)
-        self.reason_entry.bind("<Return>", self._save_current_reason)
+        stopped_reason_frame = ttk.Frame(right_panel)
+        stopped_reason_frame.pack(fill=tk.X, pady=(0, 8))
+        self._create_reason_controls(
+            stopped_reason_frame,
+            "Why did this chat stop getting used?",
+            "stopped_reason",
+            self.common_stopped_reasons,
+        )
 
         self.message_view = tk.Text(right_panel, wrap=tk.WORD, state=tk.DISABLED)
         self.message_view.pack(fill=tk.BOTH, expand=True)
@@ -125,7 +146,12 @@ class ChatVisualizerApp(tk.Tk):
 
         try:
             self.reasons_path = reasons_path_for(file_path)
-            self.conversations = load_conversations(file_path, self.reasons_path)
+            self.stopped_reasons_path = stopped_reasons_path_for(file_path)
+            self.conversations = load_conversations(
+                file_path,
+                self.reasons_path,
+                self.stopped_reasons_path,
+            )
         except Exception as exc:  # pragma: no cover - tkinter path
             messagebox.showerror("Invalid file", f"Could not load file:\n{exc}")
             return
@@ -155,6 +181,7 @@ class ChatVisualizerApp(tk.Tk):
                         created_round if index == 0 else "",
                         last_round if index == 0 else "",
                         conversation.reason if index == 0 else "",
+                        conversation.stopped_reason if index == 0 else "",
                     ),
                     tags=(player_tag,) if player_tag else (),
                 )
@@ -163,7 +190,16 @@ class ChatVisualizerApp(tk.Tk):
                     "",
                     tk.END,
                     iid=f"__separator__{conversation_index}",
-                    values=("-" * 18, "-" * 12, "-" * 20, "-" * 8, "-" * 10, "-" * 10, "-" * 18),
+                    values=(
+                        "-" * 18,
+                        "-" * 12,
+                        "-" * 20,
+                        "-" * 8,
+                        "-" * 10,
+                        "-" * 10,
+                        "-" * 18,
+                        "-" * 18,
+                    ),
                     tags=("conversation-separator",),
                 )
 
@@ -187,14 +223,8 @@ class ChatVisualizerApp(tk.Tk):
         if conversation is None:
             return
 
-        if conversation.reason in self.common_reasons:
-            self.reason_choice_var.set(conversation.reason)
-            self.reason_entry_var.set("")
-            self.reason_entry.configure(state=tk.DISABLED)
-        else:
-            self.reason_choice_var.set(OTHER_REASON)
-            self.reason_entry.configure(state=tk.NORMAL)
-            self.reason_entry_var.set(conversation.reason)
+        self._set_reason_controls("reason", conversation.reason)
+        self._set_reason_controls("stopped_reason", conversation.stopped_reason)
         self.message_view.config(state=tk.NORMAL)
         self.message_view.delete("1.0", tk.END)
 
@@ -250,40 +280,91 @@ class ChatVisualizerApp(tk.Tk):
         conversation_id = selected[0].rsplit(":", 1)[0]
         return next((item for item in self.conversations if item.conversation_id == conversation_id), None)
 
+    def _create_reason_controls(self, frame, label: str, field: str, reasons=None):
+        ttk.Label(frame, text=label).pack(side=tk.LEFT)
+        choice_var = tk.StringVar()
+        choice = ttk.Combobox(
+            frame,
+            textvariable=choice_var,
+            values=(*(self.common_reasons if reasons is None else reasons), OTHER_REASON),
+            state="readonly",
+            width=28,
+        )
+        choice.pack(side=tk.LEFT, padx=(8, 0))
+        choice.bind("<<ComboboxSelected>>", lambda _event: self._reason_choice_selected(field))
+        entry_var = tk.StringVar()
+        entry = ttk.Entry(frame, textvariable=entry_var, state=tk.DISABLED)
+        entry.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(8, 0))
+        entry.bind("<KeyRelease>", lambda _event: self._update_current_reason(field))
+        entry.bind("<Return>", self._save_current_reason)
+        setattr(self, f"{field}_choice_var", choice_var)
+        setattr(self, f"{field}_choice", choice)
+        setattr(self, f"{field}_entry_var", entry_var)
+        setattr(self, f"{field}_entry", entry)
+
+    def _set_reason_controls(self, field: str, reason: str):
+        choice_var = getattr(self, f"{field}_choice_var")
+        entry_var = getattr(self, f"{field}_entry_var")
+        entry = getattr(self, f"{field}_entry")
+        common_reasons = (
+            self.common_reasons
+            if field == "reason"
+            else self.common_stopped_reasons
+        )
+        if reason in common_reasons:
+            choice_var.set(reason)
+            entry_var.set("")
+            entry.configure(state=tk.DISABLED)
+        else:
+            choice_var.set(OTHER_REASON)
+            entry.configure(state=tk.NORMAL)
+            entry_var.set(reason)
+
     def _save_current_reason(self, _event=None):
-        self._update_current_reason()
+        self._update_current_reason("reason")
+        self._update_current_reason("stopped_reason")
         self._save_reasons()
 
-    def _reason_choice_selected(self, _event=None):
-        if self.reason_choice_var.get() == OTHER_REASON:
-            self.reason_entry.configure(state=tk.NORMAL)
-            self.reason_entry.focus_set()
+    def _reason_choice_selected(self, field: str):
+        choice_var = getattr(self, f"{field}_choice_var")
+        entry_var = getattr(self, f"{field}_entry_var")
+        entry = getattr(self, f"{field}_entry")
+        if choice_var.get() == OTHER_REASON:
+            entry.configure(state=tk.NORMAL)
+            entry.focus_set()
         else:
-            self.reason_entry_var.set("")
-            self.reason_entry.configure(state=tk.DISABLED)
-        self._update_current_reason()
+            entry_var.set("")
+            entry.configure(state=tk.DISABLED)
+        self._update_current_reason(field)
 
-    def _current_reason(self) -> str:
-        if self.reason_choice_var.get() == OTHER_REASON:
-            return self.reason_entry_var.get().strip()
-        return self.reason_choice_var.get().strip()
+    def _current_reason(self, field: str) -> str:
+        choice_var = getattr(self, f"{field}_choice_var")
+        entry_var = getattr(self, f"{field}_entry_var")
+        if choice_var.get() == OTHER_REASON:
+            return entry_var.get().strip()
+        return choice_var.get().strip()
 
-    def _update_current_reason(self, _event=None):
+    def _update_current_reason(self, field: str):
         conversation = self._selected_conversation()
         if conversation is None:
             return
-        conversation.reason = self._current_reason()
-        self.conversation_table.set(self.conversation_table.selection()[0], "reason", conversation.reason)
+        reason = self._current_reason(field)
+        setattr(conversation, field, reason)
+        self.conversation_table.set(self.conversation_table.selection()[0], field, reason)
 
     def _save_reasons(self):
         conversation = self._selected_conversation()
         if conversation is not None:
-            conversation.reason = self._current_reason()
-            self.conversation_table.set(self.conversation_table.selection()[0], "reason", conversation.reason)
-        if self.reasons_path is None:
+            self._update_current_reason("reason")
+            self._update_current_reason("stopped_reason")
+        if self.reasons_path is None or self.stopped_reasons_path is None:
             return
         try:
             save_reasons(self.reasons_path, {item.conversation_id: item.reason for item in self.conversations})
+            save_stopped_reasons(
+                self.stopped_reasons_path,
+                {item.conversation_id: item.stopped_reason for item in self.conversations},
+            )
         except OSError as exc:  # pragma: no cover - tkinter path
             messagebox.showerror("Could not save reasons", f"Could not save reasons file:\n{exc}")
             return
